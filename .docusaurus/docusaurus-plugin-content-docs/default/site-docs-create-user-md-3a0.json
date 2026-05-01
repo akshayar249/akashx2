@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_USER",
+  "title": "CREATE USER",
+  "description": "功能",
+  "source": "@site/docs/CREATE_USER.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_USER",
+  "permalink": "/docs/CREATE_USER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE TABLE LIKE",
+    "permalink": "/docs/CREATE_TABLE_LIKE"
+  },
+  "next": {
+    "title": "CREATE VIEW",
+    "permalink": "/docs/CREATE_VIEW"
+  }
+}

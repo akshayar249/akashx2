@@ -1,0 +1,23 @@
+{
+  "id": "ngram_search",
+  "title": "ngram_search",
+  "description": "计算两个字符串的 ngram 相似度。",
+  "source": "@site/docs/ngram_search.md",
+  "sourceDirName": ".",
+  "slug": "/ngram_search",
+  "permalink": "/docs/ngram_search",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "next_day",
+    "permalink": "/docs/next_day"
+  },
+  "next": {
+    "title": "now, current_timestamp, localtime, localtimestamp",
+    "permalink": "/docs/now"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "RoutineLoad",
+  "title": "使用 Routine Load 导入数据",
+  "description": "本文介绍 Routine Load 的基本原理、以及如何通过 Routine Load 持续消费 Apache Kafka® 的消息并导入至 AkashX 中。",
+  "source": "@site/docs/RoutineLoad.md",
+  "sourceDirName": ".",
+  "slug": "/RoutineLoad",
+  "permalink": "/docs/RoutineLoad",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "Routine Load"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "管理副本",
+    "permalink": "/docs/Replica"
+  },
+  "next": {
+    "title": "Routine Load 导入常见问题",
+    "permalink": "/docs/Routine_load_faq"
+  }
+}

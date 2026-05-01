@@ -1,0 +1,23 @@
+{
+  "id": "rpad",
+  "title": "rpad",
+  "description": "根据指定的长度在字符串后面（右侧）追加字符。",
+  "source": "@site/docs/rpad.md",
+  "sourceDirName": ".",
+  "slug": "/rpad",
+  "permalink": "/docs/rpad",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "row",
+    "permalink": "/docs/row"
+  },
+  "next": {
+    "title": "rtrim",
+    "permalink": "/docs/rtrim"
+  }
+}

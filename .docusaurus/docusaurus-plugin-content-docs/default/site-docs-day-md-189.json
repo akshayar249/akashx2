@@ -1,0 +1,23 @@
+{
+  "id": "day",
+  "title": "day",
+  "description": "返回指定日期中的天信息。",
+  "source": "@site/docs/day.md",
+  "sourceDirName": ".",
+  "slug": "/day",
+  "permalink": "/docs/day",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "datediff",
+    "permalink": "/docs/datediff"
+  },
+  "next": {
+    "title": "dayofweek_iso",
+    "permalink": "/docs/day_of_week_iso"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "patchFs",
+  "title": "patchFs(vol[, fs])",
+  "description": "Rewrites Node's filesystem module fs with fs-like object.",
+  "source": "@site/docs/patchFs.md",
+  "sourceDirName": ".",
+  "slug": "/patchFs",
+  "permalink": "/docs/patchFs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "partitions_meta",
+    "permalink": "/docs/partitions_meta"
+  },
+  "next": {
+    "title": "patchRequire(vol[, unixifyPaths[, Module]])",
+    "permalink": "/docs/patchRequire"
+  }
+}

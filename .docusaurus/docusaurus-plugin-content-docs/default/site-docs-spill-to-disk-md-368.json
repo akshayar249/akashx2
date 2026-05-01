@@ -1,0 +1,26 @@
+{
+  "id": "spill_to_disk",
+  "title": "中间结果落盘",
+  "description": "本文介绍如何将大型运算符的中间计算结果落盘到本地磁盘和对象存储中。",
+  "source": "@site/docs/spill_to_disk.md",
+  "sourceDirName": ".",
+  "slug": "/spill_to_disk",
+  "permalink": "/docs/spill_to_disk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Schema Tuning Recipes",
+    "permalink": "/docs/schema_tuning"
+  },
+  "next": {
+    "title": "更新表",
+    "permalink": "/docs/unique_key_table"
+  }
+}

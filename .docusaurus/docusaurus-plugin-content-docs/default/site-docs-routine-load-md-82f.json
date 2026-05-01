@@ -1,0 +1,17 @@
+{
+  "id": "routine-load",
+  "title": "routine-load",
+  "description": "",
+  "source": "@site/docs/routine-load.md",
+  "sourceDirName": ".",
+  "slug": "/routine-load",
+  "permalink": "/docs/routine-load",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

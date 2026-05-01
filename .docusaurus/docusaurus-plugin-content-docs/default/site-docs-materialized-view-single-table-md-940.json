@@ -1,0 +1,26 @@
+{
+  "id": "Materialized_view-single_table",
+  "title": "同步物化视图",
+  "description": "本文介绍如何在 AkashX 中创建、使用以及管理同步物化视图（Rollup）。",
+  "source": "@site/docs/Materialized_view-single_table.md",
+  "sourceDirName": ".",
+  "slug": "/Materialized_view-single_table",
+  "permalink": "/docs/Materialized_view-single_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bitmap 索引",
+    "permalink": "/docs/Bitmap_index"
+  },
+  "next": {
+    "title": "使用 HyperLogLog 实现近似去重",
+    "permalink": "/docs/Using_HLL"
+  }
+}

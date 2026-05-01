@@ -1,0 +1,23 @@
+{
+  "id": "atan2",
+  "title": "atan2",
+  "description": "通过使用两个参数的符号确定象限，计算 x/y 的反正切的主值，返回值在 [-π, π] 范围内。",
+  "source": "@site/docs/atan2.md",
+  "sourceDirName": ".",
+  "slug": "/atan2",
+  "permalink": "/docs/atan2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "atan",
+    "permalink": "/docs/atan"
+  },
+  "next": {
+    "title": "通过 AuditLoader 管理 AkashX 中的审计日志",
+    "permalink": "/docs/audit_loader"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cluster_snapshot",
+  "title": "cluster_snapshot",
+  "description": "本文介绍如何在存算分离集群上使用集群快照进行灾难恢复。",
+  "source": "@site/docs/cluster_snapshot.md",
+  "sourceDirName": ".",
+  "slug": "/cluster_snapshot",
+  "permalink": "/docs/cluster_snapshot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "集群快照",
+    "keywords": [
+      "备份",
+      "恢复",
+      "存算分离",
+      "快照"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "character_sets",
+    "permalink": "/docs/character_sets"
+  },
+  "next": {
+    "title": "coalesce",
+    "permalink": "/docs/coalesce"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_join",
+  "title": "array_join",
+  "description": "将数组中的所有元素连接生成一个字符串。",
+  "source": "@site/docs/array_join.md",
+  "sourceDirName": ".",
+  "slug": "/array_join",
+  "permalink": "/docs/array_join",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_intersect",
+    "permalink": "/docs/array_intersect"
+  },
+  "next": {
+    "title": "array_length",
+    "permalink": "/docs/array_length"
+  }
+}

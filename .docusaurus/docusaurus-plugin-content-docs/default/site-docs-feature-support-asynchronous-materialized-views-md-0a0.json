@@ -1,0 +1,27 @@
+{
+  "id": "feature-support-asynchronous-materialized-views",
+  "title": "异步物化视图能力边界",
+  "description": "自  起，AkashX 支持异步物化视图。异步物化视图旨在加速在 AkashX 内部或数据湖中基于多个大表执行复杂查询，通常涉及多表之间数十亿行数据的关联和聚合。查询的频率越高或查询语句越复杂，性能增益就会越很明显。此外，您还可以通过异步物化视图对数据仓库进行建模。",
+  "source": "@site/docs/feature-support-asynchronous-materialized-views.md",
+  "sourceDirName": ".",
+  "slug": "/feature-support-asynchronous-materialized-views",
+  "permalink": "/docs/feature-support-asynchronous-materialized-views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50,
+    "sidebar_label": "能力边界"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据压缩",
+    "permalink": "/docs/data_compression"
+  },
+  "next": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-data-distribution"
+  }
+}

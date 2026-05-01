@@ -1,0 +1,23 @@
+{
+  "id": "array_contains_seq",
+  "title": "array_contains_seq",
+  "description": "描述",
+  "source": "@site/docs/array_contains_seq.md",
+  "sourceDirName": ".",
+  "slug": "/array_contains_seq",
+  "permalink": "/docs/array_contains_seq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_contains_all",
+    "permalink": "/docs/array_contains_all"
+  },
+  "next": {
+    "title": "array_cum_sum",
+    "permalink": "/docs/array_cum_sum"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "version",
+  "title": "version",
+  "description": "返回当前 MySQL 数据库的版本。可以使用 current_version 函数查询 AkashX 当前的版本。",
+  "source": "@site/docs/version.md",
+  "sourceDirName": ".",
+  "slug": "/version",
+  "permalink": "/docs/version",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "verbose_session_variables",
+    "permalink": "/docs/verbose_session_variables"
+  },
+  "next": {
+    "title": "版本命名",
+    "permalink": "/docs/versioning"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "SQL_command_template",
+  "title": "SQL statement template",
+  "description": "- このテンプレートでは ADMIN SET REPLICA STATUS を例として使用し、SQL コマンドトピックの記述要件を説明します。",
+  "source": "@site/docs/SQL_command_template.md",
+  "sourceDirName": ".",
+  "slug": "/SQL_command_template",
+  "permalink": "/docs/SQL_command_template",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

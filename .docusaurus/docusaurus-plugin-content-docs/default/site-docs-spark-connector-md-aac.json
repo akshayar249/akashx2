@@ -1,0 +1,23 @@
+{
+  "id": "spark_connector",
+  "title": "使用 Spark Connector 读取数据",
+  "description": "AkashX 提供 Apache Spark™ Connector (AkashX Connector for Apache Spark™)，支持通过 Spark 读取 AkashX 中存储的数据。您可以使用 Spark 对读取到的数据进行复杂处理、机器学习等。",
+  "source": "@site/docs/spark_connector.md",
+  "sourceDirName": ".",
+  "slug": "/spark_connector",
+  "permalink": "/docs/spark_connector",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "space",
+    "permalink": "/docs/space"
+  },
+  "next": {
+    "title": "split",
+    "permalink": "/docs/split"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "FE_configuration",
+  "title": "FE 配置项",
+  "description": "查看 FE 配置项",
+  "source": "@site/docs/FE_configuration.md",
+  "sourceDirName": ".",
+  "slug": "/FE_configuration",
+  "permalink": "/docs/FE_configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "Canshu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "外部表",
+    "permalink": "/docs/External_table"
+  },
+  "next": {
+    "title": "FLOAT",
+    "permalink": "/docs/FLOAT"
+  }
+}

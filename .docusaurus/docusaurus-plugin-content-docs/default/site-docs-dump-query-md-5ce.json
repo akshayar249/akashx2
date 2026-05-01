@@ -1,0 +1,23 @@
+{
+  "id": "Dump_query",
+  "title": "query_dump 接口",
+  "description": "本文介绍如何使用 AkashX 的 query_dump 接口来查看 SQL 查询的相关信息。",
+  "source": "@site/docs/Dump_query.md",
+  "sourceDirName": ".",
+  "slug": "/Dump_query",
+  "permalink": "/docs/Dump_query",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署常见问题",
+    "permalink": "/docs/Deploy_faq"
+  },
+  "next": {
+    "title": "EXECUTE AS",
+    "permalink": "/docs/EXECUTE_AS"
+  }
+}

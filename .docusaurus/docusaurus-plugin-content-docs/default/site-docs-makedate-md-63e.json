@@ -1,0 +1,23 @@
+{
+  "id": "makedate",
+  "title": "makedate",
+  "description": "根据给定的年份和天数值，构造一个日期值。",
+  "source": "@site/docs/makedate.md",
+  "sourceDirName": ".",
+  "slug": "/makedate",
+  "permalink": "/docs/makedate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ltrim",
+    "permalink": "/docs/ltrim"
+  },
+  "next": {
+    "title": "mann_whitney_u_test",
+    "permalink": "/docs/mann_whitney_u_test"
+  }
+}

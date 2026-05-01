@@ -1,0 +1,23 @@
+{
+  "id": "Hex",
+  "title": "hex",
+  "description": "若参数 x 是数字，则返回十六进制值的字符串表示形式；若参数 x 是字符串，则将每个字符转化为两个十六进制的字符，将转化后的所有字符拼接为字符串输出。",
+  "source": "@site/docs/Hex.md",
+  "sourceDirName": ".",
+  "slug": "/Hex",
+  "permalink": "/docs/Hex",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HLL (HyperLogLog)",
+    "permalink": "/docs/HLL"
+  },
+  "next": {
+    "title": "1.2.1 / 2019-05-10",
+    "permalink": "/docs/History"
+  }
+}

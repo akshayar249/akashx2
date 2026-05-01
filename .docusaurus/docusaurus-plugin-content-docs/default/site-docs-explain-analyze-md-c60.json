@@ -1,0 +1,23 @@
+{
+  "id": "EXPLAIN_ANALYZE",
+  "title": "EXPLAIN ANALYZE",
+  "description": "功能",
+  "source": "@site/docs/EXPLAIN_ANALYZE.md",
+  "sourceDirName": ".",
+  "slug": "/EXPLAIN_ANALYZE",
+  "permalink": "/docs/EXPLAIN_ANALYZE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EXPLAIN",
+    "permalink": "/docs/EXPLAIN"
+  },
+  "next": {
+    "title": "使用 EXPORT 导出数据",
+    "permalink": "/docs/EXPORT"
+  }
+}

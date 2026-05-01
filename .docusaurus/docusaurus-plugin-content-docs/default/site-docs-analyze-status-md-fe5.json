@@ -1,0 +1,23 @@
+{
+  "id": "analyze_status",
+  "title": "analyze_status",
+  "description": "analyze_status 提供有关统计信息收集任务状态的信息。",
+  "source": "@site/docs/analyze_status.md",
+  "sourceDirName": ".",
+  "slug": "/analyze_status",
+  "permalink": "/docs/analyze_status",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "all_match",
+    "permalink": "/docs/all_match"
+  },
+  "next": {
+    "title": "any_match",
+    "permalink": "/docs/any_match"
+  }
+}

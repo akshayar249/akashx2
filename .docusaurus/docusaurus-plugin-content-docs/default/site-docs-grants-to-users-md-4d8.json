@@ -1,0 +1,23 @@
+{
+  "id": "grants_to_users",
+  "title": "grants_to_users",
+  "description": "您可以通过查询 grantstousers 视图查看授予用户的权限。",
+  "source": "@site/docs/grants_to_users.md",
+  "sourceDirName": ".",
+  "slug": "/grants_to_users",
+  "permalink": "/docs/grants_to_users",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grants_to_roles",
+    "permalink": "/docs/grants_to_roles"
+  },
+  "next": {
+    "title": "greatest",
+    "permalink": "/docs/greatest"
+  }
+}

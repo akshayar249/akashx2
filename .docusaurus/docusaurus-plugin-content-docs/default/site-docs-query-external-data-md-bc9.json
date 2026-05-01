@@ -1,0 +1,23 @@
+{
+  "id": "query_external_data",
+  "title": "查询外部数据",
+  "description": "本文介绍如何通过 External Catalog 查询外部数据。External Catalog 方便您轻松访问并查询存储在各类外部源的数据，无需创建外部表。",
+  "source": "@site/docs/query_external_data.md",
+  "sourceDirName": ".",
+  "slug": "/query_external_data",
+  "permalink": "/docs/query_external_data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quarter",
+    "permalink": "/docs/quarter"
+  },
+  "next": {
+    "title": "查询队列",
+    "permalink": "/docs/query_queues"
+  }
+}

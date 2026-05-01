@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_FUNCTIONS",
+  "title": "SHOW FUNCTIONS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_FUNCTIONS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_FUNCTIONS",
+  "permalink": "/docs/SHOW_FUNCTIONS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW FULL COLUMNS",
+    "permalink": "/docs/SHOW_FULL_COLUMNS"
+  },
+  "next": {
+    "title": "SHOW GRANTS",
+    "permalink": "/docs/SHOW_GRANTS"
+  }
+}

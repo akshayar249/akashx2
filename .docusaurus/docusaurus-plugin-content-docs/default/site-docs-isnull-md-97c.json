@@ -1,0 +1,23 @@
+{
+  "id": "isnull",
+  "title": "isnull",
+  "description": "判断输入值是否为 NULL。如果是 NULL，返回 1。如果不是 NULL，返回 0。",
+  "source": "@site/docs/isnull.md",
+  "sourceDirName": ".",
+  "slug": "/isnull",
+  "permalink": "/docs/isnull",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "isnotnull",
+    "permalink": "/docs/isnotnull"
+  },
+  "next": {
+    "title": "JDBC catalog",
+    "permalink": "/docs/jdbc_catalog"
+  }
+}

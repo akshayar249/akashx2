@@ -1,0 +1,26 @@
+{
+  "id": "security_integration",
+  "title": "通过安全集成认证用户",
+  "description": "使用安全集成将 AkashX 与外部身份验证系统集成。",
+  "source": "@site/docs/security_integration.md",
+  "sourceDirName": ".",
+  "slug": "/security_integration",
+  "permalink": "/docs/security_integration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "物化视图查询改写",
+    "permalink": "/docs/query_rewrite_with_materialized_views"
+  },
+  "next": {
+    "title": "表聚类",
+    "permalink": "/docs/table_clustering"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ALTER_LOAD",
+  "title": "ALTER LOAD",
+  "description": "功能",
+  "source": "@site/docs/ALTER_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_LOAD",
+  "permalink": "/docs/ALTER_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER DATABASE",
+    "permalink": "/docs/ALTER_DATABASE"
+  },
+  "next": {
+    "title": "ALTER MATERIALIZED VIEW",
+    "permalink": "/docs/ALTER_MATERIALIZED_VIEW"
+  }
+}

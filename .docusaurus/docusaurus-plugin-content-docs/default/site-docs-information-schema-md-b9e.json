@@ -1,0 +1,27 @@
+{
+  "id": "information_schema",
+  "title": "Information Schema",
+  "description": "Information Schema 是 AkashX 实例中的一个数据库。该数据库包含数张由系统定义的视图，这些视图中存储了关于 AkashX 实例中所有对象的大量元数据信息。",
+  "source": "@site/docs/information_schema.md",
+  "sourceDirName": ".",
+  "slug": "/information_schema",
+  "permalink": "/docs/information_schema",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "Yuanshuju"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inet_aton",
+    "permalink": "/docs/inet_aton"
+  },
+  "next": {
+    "title": "inspect_all_pipes",
+    "permalink": "/docs/inspect_all_pipes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "to_tera_timestamp",
+  "title": "to_tera_timestamp",
+  "description": "根据指定的格式解析输入的时间日期字符串，并转换为 DATETIME 类型的值。",
+  "source": "@site/docs/to_tera_timestamp.md",
+  "sourceDirName": ".",
+  "slug": "/to_tera_timestamp",
+  "permalink": "/docs/to_tera_timestamp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "to_tera_date",
+    "permalink": "/docs/to_tera_date"
+  },
+  "next": {
+    "title": "tokenize",
+    "permalink": "/docs/tokenize"
+  }
+}

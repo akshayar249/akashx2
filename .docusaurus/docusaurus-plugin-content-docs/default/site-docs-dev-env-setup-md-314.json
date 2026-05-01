@@ -1,0 +1,23 @@
+{
+  "id": "dev-env-setup",
+  "title": "Setup development environment with Docker",
+  "description": "This directory provides Docker-based build tools for AkashX that use the official akashx/dev-env-ubuntu:latest development environment image. This ensures consistent builds across different host systems by using a standardized Ubuntu environment with all required toolchains and dependencies pre-installed.",
+  "source": "@site/docs/dev-env-setup.md",
+  "sourceDirName": ".",
+  "slug": "/dev-env-setup",
+  "permalink": "/docs/dev-env-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署前提条件",
+    "permalink": "/docs/deployment_prerequisites"
+  },
+  "next": {
+    "title": "dict_mapping",
+    "permalink": "/docs/dict_mapping"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "s3",
+  "title": "从 AWS S3 导入",
+  "description": "AkashX 支持通过以下方式从 AWS S3 导入数据：",
+  "source": "@site/docs/s3.md",
+  "sourceDirName": ".",
+  "slug": "/s3",
+  "permalink": "/docs/s3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4,
+    "keywords": [
+      "Broker Load"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rtrim",
+    "permalink": "/docs/rtrim"
+  },
+  "next": {
+    "title": "从其他兼容 S3 协议的对象存储导入",
+    "permalink": "/docs/s3_compatible"
+  }
+}

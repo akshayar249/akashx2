@@ -1,0 +1,23 @@
+{
+  "id": "block_cache_warmup",
+  "title": "Block Cache 预热",
+  "description": "本文介绍如何通过 Block Cache 预热 (Warmup) 来提前将远端数据载入 Block Cache。",
+  "source": "@site/docs/block_cache_warmup.md",
+  "sourceDirName": ".",
+  "slug": "/block_cache_warmup",
+  "permalink": "/docs/block_cache_warmup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitxor",
+    "permalink": "/docs/bitxor"
+  },
+  "next": {
+    "title": "bool_or",
+    "permalink": "/docs/bool_or"
+  }
+}

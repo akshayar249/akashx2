@@ -1,0 +1,23 @@
+{
+  "id": "MIGRATION_GUIDE",
+  "title": "Migration Guide",
+  "description": "0.x.x -> 1.1.0",
+  "source": "@site/docs/MIGRATION_GUIDE.md",
+  "sourceDirName": ".",
+  "slug": "/MIGRATION_GUIDE",
+  "permalink": "/docs/MIGRATION_GUIDE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "导入方案",
+    "permalink": "/docs/Loading_intro"
+  },
+  "next": {
+    "title": "MAP",
+    "permalink": "/docs/Map"
+  }
+}

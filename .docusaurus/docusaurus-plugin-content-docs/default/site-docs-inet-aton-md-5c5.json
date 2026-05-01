@@ -1,0 +1,23 @@
+{
+  "id": "inet_aton",
+  "title": "inet_aton",
+  "description": "获取包含 IPv4 地址的字符串，格式为 A.B.C.D。返回一个 BIGINT 数字，表示相应的大端 IPv4 地址。",
+  "source": "@site/docs/inet_aton.md",
+  "sourceDirName": ".",
+  "slug": "/inet_aton",
+  "permalink": "/docs/inet_aton",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "索引",
+    "permalink": "/docs/indexes"
+  },
+  "next": {
+    "title": "Information Schema",
+    "permalink": "/docs/information_schema"
+  }
+}

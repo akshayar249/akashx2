@@ -1,0 +1,23 @@
+{
+  "id": "array_remove",
+  "title": "array_remove",
+  "description": "从数组中移除指定元素。",
+  "source": "@site/docs/array_remove.md",
+  "sourceDirName": ".",
+  "slug": "/array_remove",
+  "permalink": "/docs/array_remove",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_position",
+    "permalink": "/docs/array_position"
+  },
+  "next": {
+    "title": "array_repeat",
+    "permalink": "/docs/array_repeat"
+  }
+}

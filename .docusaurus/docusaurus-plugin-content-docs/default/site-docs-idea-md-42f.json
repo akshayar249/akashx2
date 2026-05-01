@@ -1,0 +1,17 @@
+{
+  "id": "IDEA",
+  "title": "IDEA",
+  "description": "此文档仅支持英文。",
+  "source": "@site/docs/IDEA.md",
+  "sourceDirName": ".",
+  "slug": "/IDEA",
+  "permalink": "/docs/IDEA",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

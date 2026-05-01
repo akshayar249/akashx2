@@ -1,0 +1,23 @@
+{
+  "id": "pipes",
+  "title": "pipes",
+  "description": "pipes 提供当前数据库或指定数据库下所有 Pipe 的详细信息。此视图自 AkashX  版本起支持。",
+  "source": "@site/docs/pipes.md",
+  "sourceDirName": ".",
+  "slug": "/pipes",
+  "permalink": "/docs/pipes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pipe_files",
+    "permalink": "/docs/pipe_files"
+  },
+  "next": {
+    "title": "规划 AkashX 集群",
+    "permalink": "/docs/plan_cluster"
+  }
+}

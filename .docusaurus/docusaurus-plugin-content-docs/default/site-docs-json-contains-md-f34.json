@@ -1,0 +1,23 @@
+{
+  "id": "json_contains",
+  "title": "json_contains",
+  "description": "检查一个 JSON 文档是否包含特定的值或子文档。如果目标 JSON 文档包含候选 JSON 值，JSONCONTAINS 函数返回 1。否则，JSONCONTAINS 函数返回 0。",
+  "source": "@site/docs/json_contains.md",
+  "sourceDirName": ".",
+  "slug": "/json_contains",
+  "permalink": "/docs/json_contains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_array",
+    "permalink": "/docs/json_array"
+  },
+  "next": {
+    "title": "json_each",
+    "permalink": "/docs/json_each"
+  }
+}

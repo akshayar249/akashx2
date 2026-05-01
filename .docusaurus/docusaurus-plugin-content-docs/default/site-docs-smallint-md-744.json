@@ -1,0 +1,23 @@
+{
+  "id": "SMALLINT",
+  "title": "SMALLINT",
+  "description": "描述",
+  "source": "@site/docs/SMALLINT.md",
+  "sourceDirName": ".",
+  "slug": "/SMALLINT",
+  "permalink": "/docs/SMALLINT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW VARIABLES",
+    "permalink": "/docs/SHOW_VARIABLES"
+  },
+  "next": {
+    "title": "AkashX migration tool（SMT）",
+    "permalink": "/docs/SMT"
+  }
+}

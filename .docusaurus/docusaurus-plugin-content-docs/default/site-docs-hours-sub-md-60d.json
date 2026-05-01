@@ -1,0 +1,23 @@
+{
+  "id": "hours_sub",
+  "title": "hours_sub",
+  "description": "从指定的日期时间中减少指定的小时数。",
+  "source": "@site/docs/hours_sub.md",
+  "sourceDirName": ".",
+  "slug": "/hours_sub",
+  "permalink": "/docs/hours_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hours_diff",
+    "permalink": "/docs/hours_diff"
+  },
+  "next": {
+    "title": "HTTP 接口",
+    "permalink": "/docs/http_interface"
+  }
+}

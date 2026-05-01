@@ -1,0 +1,23 @@
+{
+  "id": "microseconds_sub",
+  "title": "microseconds_sub",
+  "description": "从 expr1 中减去指定的时间间隔，单位为微秒。",
+  "source": "@site/docs/microseconds_sub.md",
+  "sourceDirName": ".",
+  "slug": "/microseconds_sub",
+  "permalink": "/docs/microseconds_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microseconds_add",
+    "permalink": "/docs/microseconds_add"
+  },
+  "next": {
+    "title": "milliseconds_diff",
+    "permalink": "/docs/milliseconds_diff"
+  }
+}

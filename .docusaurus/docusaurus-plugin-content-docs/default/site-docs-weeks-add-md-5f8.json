@@ -1,0 +1,23 @@
+{
+  "id": "weeks_add",
+  "title": "weeks_add",
+  "description": "返回原始的日期加上指定周数后的日期。",
+  "source": "@site/docs/weeks_add.md",
+  "sourceDirName": ".",
+  "slug": "/weeks_add",
+  "permalink": "/docs/weeks_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weekofyear",
+    "permalink": "/docs/weekofyear"
+  },
+  "next": {
+    "title": "weeks_diff",
+    "permalink": "/docs/weeks_diff"
+  }
+}

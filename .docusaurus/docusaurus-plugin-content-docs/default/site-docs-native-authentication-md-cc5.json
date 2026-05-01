@@ -1,0 +1,26 @@
+{
+  "id": "native_authentication",
+  "title": "本地身份验证",
+  "description": "通过 SQL 命令在 AkashX 中使用本地身份验证创建和管理用户。",
+  "source": "@site/docs/native_authentication.md",
+  "sourceDirName": ".",
+  "slug": "/native_authentication",
+  "permalink": "/docs/native_authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表达式分区（推荐）",
+    "permalink": "/docs/expression_partitioning"
+  },
+  "next": {
+    "title": "分区",
+    "permalink": "/docs/partitioning"
+  }
+}

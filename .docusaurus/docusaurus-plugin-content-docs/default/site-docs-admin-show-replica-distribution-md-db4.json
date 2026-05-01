@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_SHOW_REPLICA_DISTRIBUTION",
+  "title": "ADMIN SHOW REPLICA DISTRIBUTION",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_SHOW_REPLICA_DISTRIBUTION.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_SHOW_REPLICA_DISTRIBUTION",
+  "permalink": "/docs/ADMIN_SHOW_REPLICA_DISTRIBUTION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SHOW CONFIG",
+    "permalink": "/docs/ADMIN_SHOW_CONFIG"
+  },
+  "next": {
+    "title": "ADMIN SHOW REPLICA STATUS",
+    "permalink": "/docs/ADMIN_SHOW_REPLICA_STATUS"
+  }
+}

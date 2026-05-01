@@ -1,0 +1,23 @@
+{
+  "id": "unhex",
+  "title": "unhex",
+  "description": "将输入的参数 str 中的两个字符为一组转化为16进制后的字符，然后拼接成字符串输出。",
+  "source": "@site/docs/unhex.md",
+  "sourceDirName": ".",
+  "slug": "/unhex",
+  "permalink": "/docs/unhex",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ucase",
+    "permalink": "/docs/ucase"
+  },
+  "next": {
+    "title": "Unified catalog",
+    "permalink": "/docs/unified_catalog"
+  }
+}

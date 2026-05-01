@@ -1,0 +1,23 @@
+{
+  "id": "bit_shift_left",
+  "title": "bit_shift_left",
+  "description": "将一个数值或数值表达式的二进制表示向左移动指定的位数。该函数执行算术左移。",
+  "source": "@site/docs/bit_shift_left.md",
+  "sourceDirName": ".",
+  "slug": "/bit_shift_left",
+  "permalink": "/docs/bit_shift_left",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bin",
+    "permalink": "/docs/bin"
+  },
+  "next": {
+    "title": "bit_shift_right",
+    "permalink": "/docs/bit_shift_right"
+  }
+}

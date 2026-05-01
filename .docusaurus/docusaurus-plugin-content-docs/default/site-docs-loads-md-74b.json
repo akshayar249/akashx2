@@ -1,0 +1,23 @@
+{
+  "id": "loads",
+  "title": "loads",
+  "description": "提供导入作业的结果信息。此视图自 AkashX  版本起支持。",
+  "source": "@site/docs/loads.md",
+  "sourceDirName": ".",
+  "slug": "/loads",
+  "permalink": "/docs/loads",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用工具导入",
+    "permalink": "/docs/loading_tools"
+  },
+  "next": {
+    "title": "locate",
+    "permalink": "/docs/locate"
+  }
+}

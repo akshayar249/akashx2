@@ -1,0 +1,23 @@
+{
+  "id": "inspect_mv_plan",
+  "title": "inspect_mv_plan",
+  "description": "inspectmvplan(mv_name)",
+  "source": "@site/docs/inspect_mv_plan.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_mv_plan",
+  "permalink": "/docs/inspect_mv_plan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_mv_meta",
+    "permalink": "/docs/inspect_mv_meta"
+  },
+  "next": {
+    "title": "inspect_mv_refresh_info",
+    "permalink": "/docs/inspect_mv_refresh_info"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lower",
+  "title": "lower",
+  "description": "将参数中所有的字符串转换成小写。",
+  "source": "@site/docs/lower.md",
+  "sourceDirName": ".",
+  "slug": "/lower",
+  "permalink": "/docs/lower",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lookup_string",
+    "permalink": "/docs/lookup_string"
+  },
+  "next": {
+    "title": "lpad",
+    "permalink": "/docs/lpad"
+  }
+}

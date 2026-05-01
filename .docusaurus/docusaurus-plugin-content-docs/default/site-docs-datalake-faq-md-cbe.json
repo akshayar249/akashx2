@@ -1,0 +1,23 @@
+{
+  "id": "datalake_faq",
+  "title": "数据湖相关 FAQ",
+  "description": "本文介绍数据湖相关的常见问题，并给出解决方案。文中介绍的很多指标，需要您通过 set enable_profile=true 设置来采集 SQL 查询的 Profile 并进行分析。",
+  "source": "@site/docs/datalake_faq.md",
+  "sourceDirName": ".",
+  "slug": "/datalake_faq",
+  "permalink": "/docs/datalake_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Datadog",
+    "permalink": "/docs/datadog_support"
+  },
+  "next": {
+    "title": "date_add,adddate",
+    "permalink": "/docs/date_add"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_PLUGINS",
+  "title": "SHOW PLUGINS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PLUGINS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PLUGINS",
+  "permalink": "/docs/SHOW_PLUGINS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW PIPES",
+    "permalink": "/docs/SHOW_PIPES"
+  },
+  "next": {
+    "title": "SHOW PROC",
+    "permalink": "/docs/SHOW_PROC"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_VARIABLES",
+  "title": "SHOW VARIABLES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_VARIABLES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_VARIABLES",
+  "permalink": "/docs/SHOW_VARIABLES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW USERS",
+    "permalink": "/docs/SHOW_USERS"
+  },
+  "next": {
+    "title": "SMALLINT",
+    "permalink": "/docs/SMALLINT"
+  }
+}

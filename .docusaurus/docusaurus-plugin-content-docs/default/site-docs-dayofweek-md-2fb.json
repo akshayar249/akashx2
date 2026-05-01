@@ -1,0 +1,23 @@
+{
+  "id": "dayofweek",
+  "title": "dayofweek",
+  "description": "返回指定日期的工作日索引值，即星期日为 1，星期一为 2，星期六为 7。",
+  "source": "@site/docs/dayofweek.md",
+  "sourceDirName": ".",
+  "slug": "/dayofweek",
+  "permalink": "/docs/dayofweek",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dayofmonth",
+    "permalink": "/docs/dayofmonth"
+  },
+  "next": {
+    "title": "dayofyear",
+    "permalink": "/docs/dayofyear"
+  }
+}

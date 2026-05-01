@@ -1,0 +1,23 @@
+{
+  "id": "sha2",
+  "title": "sha2",
+  "description": "计算 SHA-2 系列哈希函数 (SHA-224/SHA-256/SHA-384/SHA-512)。",
+  "source": "@site/docs/sha2.md",
+  "sourceDirName": ".",
+  "slug": "/sha2",
+  "permalink": "/docs/sha2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "session_variables",
+    "permalink": "/docs/session_variables"
+  },
+  "next": {
+    "title": "sign",
+    "permalink": "/docs/sign"
+  }
+}

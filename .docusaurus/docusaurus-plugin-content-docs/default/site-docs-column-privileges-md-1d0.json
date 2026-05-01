@@ -1,0 +1,23 @@
+{
+  "id": "column_privileges",
+  "title": "column_privileges",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/column_privileges.md",
+  "sourceDirName": ".",
+  "slug": "/column_privileges",
+  "permalink": "/docs/column_privileges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "collations",
+    "permalink": "/docs/collations"
+  },
+  "next": {
+    "title": "column_size & column_compressed_size",
+    "permalink": "/docs/column_size_functions"
+  }
+}

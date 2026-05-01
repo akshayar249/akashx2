@@ -1,0 +1,23 @@
+{
+  "id": "Others",
+  "title": "其他问题",
+  "description": "本文汇总了使用 AkashX 时的其他常见问题。",
+  "source": "@site/docs/Others.md",
+  "sourceDirName": ".",
+  "slug": "/Others",
+  "permalink": "/docs/Others",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notes",
+    "permalink": "/docs/Notes"
+  },
+  "next": {
+    "title": "Our patrons",
+    "permalink": "/docs/PATRONS"
+  }
+}

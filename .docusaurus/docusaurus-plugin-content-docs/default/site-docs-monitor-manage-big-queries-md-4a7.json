@@ -1,0 +1,23 @@
+{
+  "id": "monitor_manage_big_queries",
+  "title": "监控管理大查询",
+  "description": "本文介绍如何监控和管理 AkashX 集群中的大查询。",
+  "source": "@site/docs/monitor_manage_big_queries.md",
+  "sourceDirName": ".",
+  "slug": "/monitor_manage_big_queries",
+  "permalink": "/docs/monitor_manage_big_queries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "money_format",
+    "permalink": "/docs/money_format"
+  },
+  "next": {
+    "title": "month",
+    "permalink": "/docs/month"
+  }
+}

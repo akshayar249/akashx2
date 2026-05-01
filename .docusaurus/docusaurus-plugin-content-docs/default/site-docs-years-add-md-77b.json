@@ -1,0 +1,23 @@
+{
+  "id": "years_add",
+  "title": "years_add",
+  "description": "向 expr1 添加指定的时间间隔，单位为年。",
+  "source": "@site/docs/years_add.md",
+  "sourceDirName": ".",
+  "slug": "/years_add",
+  "permalink": "/docs/years_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "year",
+    "permalink": "/docs/year"
+  },
+  "next": {
+    "title": "years_diff",
+    "permalink": "/docs/years_diff"
+  }
+}

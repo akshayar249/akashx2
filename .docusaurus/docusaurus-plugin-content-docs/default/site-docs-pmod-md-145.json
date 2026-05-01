@@ -1,0 +1,23 @@
+{
+  "id": "pmod",
+  "title": "pmod",
+  "description": "取模函数，返回两个数相除之后的正余数。",
+  "source": "@site/docs/pmod.md",
+  "sourceDirName": ".",
+  "slug": "/pmod",
+  "permalink": "/docs/pmod",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "规划 AkashX 集群",
+    "permalink": "/docs/plan_cluster"
+  },
+  "next": {
+    "title": "policy_references",
+    "permalink": "/docs/policy_references"
+  }
+}

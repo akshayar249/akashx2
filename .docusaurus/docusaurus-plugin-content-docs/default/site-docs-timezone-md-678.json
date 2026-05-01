@@ -1,0 +1,23 @@
+{
+  "id": "timezone",
+  "title": "设置时区",
+  "description": "本文介绍了如何设置时区以及时区设置的影响。",
+  "source": "@site/docs/timezone.md",
+  "sourceDirName": ".",
+  "slug": "/timezone",
+  "permalink": "/docs/timezone",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "timestampdiff",
+    "permalink": "/docs/timestampdiff"
+  },
+  "next": {
+    "title": "to_base64",
+    "permalink": "/docs/to_base64"
+  }
+}

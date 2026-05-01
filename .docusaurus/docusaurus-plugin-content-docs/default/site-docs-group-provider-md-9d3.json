@@ -1,0 +1,26 @@
+{
+  "id": "group_provider",
+  "title": "认证用户组",
+  "description": "在 AkashX 中启用 Group Provider 以认证和授权来自外部认证系统的用户组。",
+  "source": "@site/docs/group_provider.md",
+  "sourceDirName": ".",
+  "slug": "/group_provider",
+  "permalink": "/docs/group_provider",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Range 分区（不推荐）",
+    "permalink": "/docs/dynamic_partitioning"
+  },
+  "next": {
+    "title": "LDAP 认证",
+    "permalink": "/docs/ldap_authentication"
+  }
+}

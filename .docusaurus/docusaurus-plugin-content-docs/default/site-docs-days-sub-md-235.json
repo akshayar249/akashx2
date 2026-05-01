@@ -1,0 +1,23 @@
+{
+  "id": "days_sub",
+  "title": "days_sub",
+  "description": "从给定日期或者日期时间中减去指定的天数，获得新的 DATETIME 结果。",
+  "source": "@site/docs/days_sub.md",
+  "sourceDirName": ".",
+  "slug": "/days_sub",
+  "permalink": "/docs/days_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "days_diff",
+    "permalink": "/docs/days_diff"
+  },
+  "next": {
+    "title": "dbt",
+    "permalink": "/docs/dbt"
+  }
+}

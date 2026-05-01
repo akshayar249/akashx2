@@ -1,0 +1,23 @@
+{
+  "id": "sign",
+  "title": "sign",
+  "description": "返回参数 x 的符号。",
+  "source": "@site/docs/sign.md",
+  "sourceDirName": ".",
+  "slug": "/sign",
+  "permalink": "/docs/sign",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sha2",
+    "permalink": "/docs/sha2"
+  },
+  "next": {
+    "title": "sin",
+    "permalink": "/docs/sin"
+  }
+}

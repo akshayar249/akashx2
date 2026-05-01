@@ -1,0 +1,23 @@
+{
+  "id": "get_json_double",
+  "title": "get_json_double",
+  "description": "此函数用于分析并从 JSON 字符串中指定路径获取浮点值。json_path 必须以 $ 开头，并使用 . 作为路径分隔符。",
+  "source": "@site/docs/get_json_double.md",
+  "sourceDirName": ".",
+  "slug": "/get_json_double",
+  "permalink": "/docs/get_json_double",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "get_json_bool",
+    "permalink": "/docs/get_json_bool"
+  },
+  "next": {
+    "title": "get_json_int",
+    "permalink": "/docs/get_json_int"
+  }
+}

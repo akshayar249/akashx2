@@ -1,0 +1,23 @@
+{
+  "id": "get_json_bool",
+  "title": "get_json_bool",
+  "description": "从 JSON 字符串中指定的 JSON 路径解析并获取布尔值。",
+  "source": "@site/docs/get_json_bool.md",
+  "sourceDirName": ".",
+  "slug": "/get_json_bool",
+  "permalink": "/docs/get_json_bool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "生成列",
+    "permalink": "/docs/generated_columns"
+  },
+  "next": {
+    "title": "get_json_double",
+    "permalink": "/docs/get_json_double"
+  }
+}

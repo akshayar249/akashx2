@@ -1,0 +1,23 @@
+{
+  "id": "http_sql_api",
+  "title": "HTTP SQL API",
+  "description": "功能",
+  "source": "@site/docs/http_sql_api.md",
+  "sourceDirName": ".",
+  "slug": "/http_sql_api",
+  "permalink": "/docs/http_sql_api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTP 接口",
+    "permalink": "/docs/http_interface"
+  },
+  "next": {
+    "title": "从华为云 OBS 导入",
+    "permalink": "/docs/huawei"
+  }
+}

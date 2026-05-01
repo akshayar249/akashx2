@@ -1,0 +1,25 @@
+{
+  "id": "loading_concepts",
+  "title": "概念介绍",
+  "description": "本文介绍数据导入相关的一些概念和信息。",
+  "source": "@site/docs/loading_concepts.md",
+  "sourceDirName": ".",
+  "slug": "/loading_concepts",
+  "permalink": "/docs/loading_concepts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "load_tracking_logs",
+    "permalink": "/docs/load_tracking_logs"
+  },
+  "next": {
+    "title": "相关配置",
+    "permalink": "/docs/loading_considerations"
+  }
+}

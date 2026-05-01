@@ -1,0 +1,23 @@
+{
+  "id": "format_bytes",
+  "title": "format_bytes",
+  "description": "将字节数转换为带有适当单位（B、KB、MB、GB、TB、PB、EB）的易读字符串。",
+  "source": "@site/docs/format_bytes.md",
+  "sourceDirName": ".",
+  "slug": "/format_bytes",
+  "permalink": "/docs/format_bytes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fmod",
+    "permalink": "/docs/fmod"
+  },
+  "next": {
+    "title": "from_base64",
+    "permalink": "/docs/from_base64"
+  }
+}

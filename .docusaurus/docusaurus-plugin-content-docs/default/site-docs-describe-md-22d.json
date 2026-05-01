@@ -1,0 +1,23 @@
+{
+  "id": "DESCRIBE",
+  "title": "DESC",
+  "description": "功能",
+  "source": "@site/docs/DESCRIBE.md",
+  "sourceDirName": ".",
+  "slug": "/DESCRIBE",
+  "permalink": "/docs/DESCRIBE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DELETE SQLBLACKLIST",
+    "permalink": "/docs/DELETE_SQLBLACKLIST"
+  },
+  "next": {
+    "title": "DESC STORAGE VOLUME",
+    "permalink": "/docs/DESC_STORAGE_VOLUME"
+  }
+}

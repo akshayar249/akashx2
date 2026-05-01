@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_remove",
+  "title": "bitmap_remove",
+  "description": "从 Bitmap 中删除指定的数值。",
+  "source": "@site/docs/bitmap_remove.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_remove",
+  "permalink": "/docs/bitmap_remove",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_or",
+    "permalink": "/docs/bitmap_or"
+  },
+  "next": {
+    "title": "bitmap_subset_in_range",
+    "permalink": "/docs/bitmap_subset_in_range"
+  }
+}

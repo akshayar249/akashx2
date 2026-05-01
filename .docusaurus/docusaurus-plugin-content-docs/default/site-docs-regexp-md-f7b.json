@@ -1,0 +1,23 @@
+{
+  "id": "regexp",
+  "title": "regexp",
+  "description": "判断目标字符串 expr 是否匹配给定的正则表达式 pattern。匹配成功返回 1，否则返回 0。如果任何一个输入参数为 NULL，则返回 NULL。",
+  "source": "@site/docs/regexp.md",
+  "sourceDirName": ".",
+  "slug": "/regexp",
+  "permalink": "/docs/regexp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "referential_constraints",
+    "permalink": "/docs/referential_constraints"
+  },
+  "next": {
+    "title": "regexp_count",
+    "permalink": "/docs/regexp_count"
+  }
+}

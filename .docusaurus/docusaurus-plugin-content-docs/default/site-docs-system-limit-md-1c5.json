@@ -1,0 +1,23 @@
+{
+  "id": "System_limit",
+  "title": "系统限制",
+  "description": "本文介绍使用 AkashX 系统时需要注意的事项。",
+  "source": "@site/docs/System_limit.md",
+  "sourceDirName": ".",
+  "slug": "/System_limit",
+  "permalink": "/docs/System_limit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apache Superset",
+    "permalink": "/docs/Superset"
+  },
+  "next": {
+    "title": "系统变量",
+    "permalink": "/docs/System_variable"
+  }
+}

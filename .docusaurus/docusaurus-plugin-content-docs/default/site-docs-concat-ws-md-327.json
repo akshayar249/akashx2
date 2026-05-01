@@ -1,0 +1,23 @@
+{
+  "id": "concat_ws",
+  "title": "concat_ws",
+  "description": "使用分隔符将两个或以上的字符串拼接成一个新的字符串。新字符串使用分隔符进行连接。",
+  "source": "@site/docs/concat_ws.md",
+  "sourceDirName": ".",
+  "slug": "/concat_ws",
+  "permalink": "/docs/concat_ws",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concat",
+    "permalink": "/docs/concat"
+  },
+  "next": {
+    "title": "conv",
+    "permalink": "/docs/conv"
+  }
+}

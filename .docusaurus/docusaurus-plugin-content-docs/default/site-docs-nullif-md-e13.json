@@ -1,0 +1,23 @@
+{
+  "id": "nullif",
+  "title": "nullif",
+  "description": "若参数 expr1 与 expr2 相等，则返回 NULL，否则返回 expr1 的值。",
+  "source": "@site/docs/nullif.md",
+  "sourceDirName": ".",
+  "slug": "/nullif",
+  "permalink": "/docs/nullif",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "null_or_empty",
+    "permalink": "/docs/null_or_empty"
+  },
+  "next": {
+    "title": "object_dependencies",
+    "permalink": "/docs/object_dependencies"
+  }
+}

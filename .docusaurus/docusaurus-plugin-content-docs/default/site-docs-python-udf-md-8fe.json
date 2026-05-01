@@ -1,0 +1,26 @@
+{
+  "id": "Python_UDF",
+  "title": "Python UDF",
+  "description": "本文介绍如何使用 Python 开发用户自定义函数（UDF）。",
+  "source": "@site/docs/Python_UDF.md",
+  "sourceDirName": ".",
+  "slug": "/Python_UDF",
+  "permalink": "/docs/Python_UDF",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.91,
+  "frontMatter": {
+    "sidebar_position": 0.91
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hive Bitmap UDF",
+    "permalink": "/docs/hive_bitmap_udf"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/create-a-page"
+  }
+}

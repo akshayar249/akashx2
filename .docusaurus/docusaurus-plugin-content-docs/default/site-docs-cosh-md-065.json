@@ -1,0 +1,23 @@
+{
+  "id": "cosh",
+  "title": "cosh",
+  "description": "计算输入数值的双曲余弦值。",
+  "source": "@site/docs/cosh.md",
+  "sourceDirName": ".",
+  "slug": "/cosh",
+  "permalink": "/docs/cosh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cosine_similarity_norm",
+    "permalink": "/docs/cos_similarity_norm"
+  },
+  "next": {
+    "title": "cot",
+    "permalink": "/docs/cot"
+  }
+}

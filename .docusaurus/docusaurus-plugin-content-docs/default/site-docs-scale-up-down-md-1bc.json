@@ -1,0 +1,23 @@
+{
+  "id": "Scale_up_down",
+  "title": "扩容缩容 AkashX",
+  "description": "本文介绍如何扩容以及缩容 AkashX 集群。",
+  "source": "@site/docs/Scale_up_down.md",
+  "sourceDirName": ".",
+  "slug": "/Scale_up_down",
+  "permalink": "/docs/Scale_up_down",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SYNC",
+    "permalink": "/docs/SYNC"
+  },
+  "next": {
+    "title": "使用 Spark connector 导入数据（推荐）",
+    "permalink": "/docs/Spark-connector-akashx"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "st_astext",
+  "title": "ST_AsText, ST_AsWKT",
+  "description": "将一个几何图形转化为 WKT（Well Known Text）的表示形式。",
+  "source": "@site/docs/st_astext.md",
+  "sourceDirName": ".",
+  "slug": "/st_astext",
+  "permalink": "/docs/st_astext",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Operator 部署 AkashX 集群",
+    "permalink": "/docs/sr_operator"
+  },
+  "next": {
+    "title": "ST_Circle",
+    "permalink": "/docs/st_circle"
+  }
+}

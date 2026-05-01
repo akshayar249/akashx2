@@ -1,0 +1,23 @@
+{
+  "id": "ds_theta_count_distinct",
+  "title": "ds_theta_count_distinct",
+  "description": "返回类似于 COUNT(DISTINCT col) 结果的聚合函数的近似值。dsthetacount_distinct 比 COUNT(DISTINCT col) 更快，并且在处理高基数列时使用更少的内存。",
+  "source": "@site/docs/ds_theta_count_distinct.md",
+  "sourceDirName": ".",
+  "slug": "/ds_theta_count_distinct",
+  "permalink": "/docs/ds_theta_count_distinct",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ds_hll_estimate",
+    "permalink": "/docs/ds_hll_estimate"
+  },
+  "next": {
+    "title": "e",
+    "permalink": "/docs/e"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "maturity",
+  "title": "Beta 和实验性功能",
+  "description": "AkashX 功能有五个潜在的成熟度级别：",
+  "source": "@site/docs/maturity.md",
+  "sourceDirName": ".",
+  "slug": "/maturity",
+  "permalink": "/docs/maturity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "materialized_views",
+    "permalink": "/docs/materialized_views"
+  },
+  "next": {
+    "title": "max",
+    "permalink": "/docs/max"
+  }
+}

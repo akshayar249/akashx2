@@ -1,0 +1,23 @@
+{
+  "id": "session_variables",
+  "title": "session_variables",
+  "description": "session_variables 提供有关 Session 变量的信息。",
+  "source": "@site/docs/session_variables.md",
+  "sourceDirName": ".",
+  "slug": "/session_variables",
+  "permalink": "/docs/session_variables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seconds_sub",
+    "permalink": "/docs/seconds_sub"
+  },
+  "next": {
+    "title": "sha2",
+    "permalink": "/docs/sha2"
+  }
+}

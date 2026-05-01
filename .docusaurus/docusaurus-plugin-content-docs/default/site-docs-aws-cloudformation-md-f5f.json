@@ -1,0 +1,23 @@
+{
+  "id": "AWS_cloudformation",
+  "title": "在 AWS 上使用 AWS CloudFormation 部署 AkashX 集群",
+  "description": "AkashX 支持与 AWS CloudFormation 集成，您可以在 AWS 上使用 AWS CloudFormation 快速部署并使用 AkashX 集群。",
+  "source": "@site/docs/AWS_cloudformation.md",
+  "sourceDirName": ".",
+  "slug": "/AWS_cloudformation",
+  "permalink": "/docs/AWS_cloudformation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AUTHORS",
+    "permalink": "/docs/AUTHORS"
+  },
+  "next": {
+    "title": "架构",
+    "permalink": "/docs/Architecture"
+  }
+}

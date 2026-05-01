@@ -1,0 +1,23 @@
+{
+  "id": "multi_distinct_count",
+  "title": "multi_distinct_count",
+  "description": "返回 expr 中去除重复值后的行数，功能等同于 COUNT(DISTINCT expr)。",
+  "source": "@site/docs/multi_distinct_count.md",
+  "sourceDirName": ".",
+  "slug": "/multi_distinct_count",
+  "permalink": "/docs/multi_distinct_count",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "months_sub",
+    "permalink": "/docs/months_sub"
+  },
+  "next": {
+    "title": "multi_distinct_sum",
+    "permalink": "/docs/multi_distinct_sum"
+  }
+}

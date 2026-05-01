@@ -1,0 +1,23 @@
+{
+  "id": "ceil",
+  "title": "ceil, dceil",
+  "description": "返回大于或等于 x 的最小整数。",
+  "source": "@site/docs/ceil.md",
+  "sourceDirName": ".",
+  "slug": "/ceil",
+  "permalink": "/docs/ceil",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cbrt",
+    "permalink": "/docs/cbrt"
+  },
+  "next": {
+    "title": "ceiling",
+    "permalink": "/docs/ceiling"
+  }
+}

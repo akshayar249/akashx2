@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_or",
+  "title": "bitmap_or",
+  "description": "计算两个输入的 bitmap 的并集，并返回新的 bitmap。并集指将两个集合中的所有元素合并在一起后组成的集合。重复元素只计入一次。",
+  "source": "@site/docs/bitmap_or.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_or",
+  "permalink": "/docs/bitmap_or",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_min",
+    "permalink": "/docs/bitmap_min"
+  },
+  "next": {
+    "title": "bitmap_remove",
+    "permalink": "/docs/bitmap_remove"
+  }
+}

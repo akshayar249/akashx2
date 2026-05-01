@@ -1,0 +1,23 @@
+{
+  "id": "jupysql",
+  "title": "Jupyter",
+  "description": "该文档暂无中文版本。",
+  "source": "@site/docs/jupysql.md",
+  "sourceDirName": ".",
+  "slug": "/jupysql",
+  "permalink": "/docs/jupysql",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_string",
+    "permalink": "/docs/json_string"
+  },
+  "next": {
+    "title": "Kafka connector 版本发布",
+    "permalink": "/docs/kafka_connector"
+  }
+}

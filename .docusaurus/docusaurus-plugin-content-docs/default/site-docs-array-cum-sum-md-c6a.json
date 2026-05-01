@@ -1,0 +1,23 @@
+{
+  "id": "array_cum_sum",
+  "title": "array_cum_sum",
+  "description": "对数组中的元素进行向前累加。",
+  "source": "@site/docs/array_cum_sum.md",
+  "sourceDirName": ".",
+  "slug": "/array_cum_sum",
+  "permalink": "/docs/array_cum_sum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_contains_seq",
+    "permalink": "/docs/array_contains_seq"
+  },
+  "next": {
+    "title": "array_difference",
+    "permalink": "/docs/array_difference"
+  }
+}

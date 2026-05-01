@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_contains",
+  "title": "bitmap_contains",
+  "description": "计算输入值是否在 Bitmap 列中。",
+  "source": "@site/docs/bitmap_contains.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_contains",
+  "permalink": "/docs/bitmap_contains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_andnot",
+    "permalink": "/docs/bitmap_andnot"
+  },
+  "next": {
+    "title": "bitmap_count",
+    "permalink": "/docs/bitmap_count"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_distinct",
+  "title": "array_distinct",
+  "description": "数组元素去重。",
+  "source": "@site/docs/array_distinct.md",
+  "sourceDirName": ".",
+  "slug": "/array_distinct",
+  "permalink": "/docs/array_distinct",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_difference",
+    "permalink": "/docs/array_difference"
+  },
+  "next": {
+    "title": "array_filter",
+    "permalink": "/docs/array_filter"
+  }
+}

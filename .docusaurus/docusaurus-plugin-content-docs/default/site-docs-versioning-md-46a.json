@@ -1,0 +1,23 @@
+{
+  "id": "versioning",
+  "title": "版本命名",
+  "description": "目的：提供对akashx软件包当前命名约定的统一和清晰的解释。",
+  "source": "@site/docs/versioning.md",
+  "sourceDirName": ".",
+  "slug": "/versioning",
+  "permalink": "/docs/versioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "version",
+    "permalink": "/docs/version"
+  },
+  "next": {
+    "title": "views",
+    "permalink": "/docs/views"
+  }
+}

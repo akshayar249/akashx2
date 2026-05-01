@@ -1,0 +1,23 @@
+{
+  "id": "user_privileges",
+  "title": "user_privileges",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/user_privileges.md",
+  "sourceDirName": ".",
+  "slug": "/user_privileges",
+  "permalink": "/docs/user_privileges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "用户自定义变量",
+    "permalink": "/docs/user_defined_variables"
+  },
+  "next": {
+    "title": "utc_time",
+    "permalink": "/docs/utc_time"
+  }
+}

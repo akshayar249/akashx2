@@ -1,0 +1,27 @@
+{
+  "id": "CREATE_TABLE",
+  "title": "CREATE TABLE",
+  "description": "在 AkashX 中创建一个新表。",
+  "source": "@site/docs/CREATE_TABLE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_TABLE",
+  "permalink": "/docs/CREATE_TABLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "chuang jian"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE STORAGE VOLUME",
+    "permalink": "/docs/CREATE_STORAGE_VOLUME"
+  },
+  "next": {
+    "title": "CREATE TABLE AS SELECT",
+    "permalink": "/docs/CREATE_TABLE_AS_SELECT"
+  }
+}

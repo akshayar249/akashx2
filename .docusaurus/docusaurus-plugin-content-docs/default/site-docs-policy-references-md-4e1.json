@@ -1,0 +1,23 @@
+{
+  "id": "policy_references",
+  "title": "policy_references",
+  "description": "您可以通过查询视图 policy_references 来查看对象行访问策略和列掩码策略的参考。",
+  "source": "@site/docs/policy_references.md",
+  "sourceDirName": ".",
+  "slug": "/policy_references",
+  "permalink": "/docs/policy_references",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pmod",
+    "permalink": "/docs/pmod"
+  },
+  "next": {
+    "title": "positive",
+    "permalink": "/docs/positive"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "query_trace_profile",
+  "title": "Query Trace Profile",
+  "description": "本文介绍如何获取和分析 Query Trace Profile。Query Trace Profile 记录了指定查询语句的 Debug 信息，包括耗时、变量值以及日志。Query Trace Profile 中的信息分为多个模块，您可以从不同的模块角度调试并识别查询性能瓶颈。该功能自  起支持。",
+  "source": "@site/docs/query_trace_profile.md",
+  "sourceDirName": ".",
+  "slug": "/query_trace_profile",
+  "permalink": "/docs/query_trace_profile",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询队列",
+    "permalink": "/docs/query_queues"
+  },
+  "next": {
+    "title": "radians",
+    "permalink": "/docs/radians"
+  }
+}

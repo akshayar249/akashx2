@@ -1,0 +1,23 @@
+{
+  "id": "Meta_recovery",
+  "title": "恢复元数据",
+  "description": "本文介绍在 FE 节点遇到不同异常时如何恢复 AkashX 集群中的元数据。",
+  "source": "@site/docs/Meta_recovery.md",
+  "sourceDirName": ".",
+  "slug": "/Meta_recovery",
+  "permalink": "/docs/Meta_recovery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "管理内存",
+    "permalink": "/docs/Memory_management"
+  },
+  "next": {
+    "title": "Metabase",
+    "permalink": "/docs/Metabase"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "feature-request",
+  "title": "feature-request",
+  "description": "Feature request",
+  "source": "@site/docs/feature-request.md",
+  "sourceDirName": ".",
+  "slug": "/feature-request",
+  "permalink": "/docs/feature-request",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "Feature Request",
+    "about": "Suggest an idea for this project",
+    "labels": "type/feature-request"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fe_tablet_schedules",
+    "permalink": "/docs/fe_tablet_schedules"
+  },
+  "next": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-data-lake-analytics"
+  }
+}

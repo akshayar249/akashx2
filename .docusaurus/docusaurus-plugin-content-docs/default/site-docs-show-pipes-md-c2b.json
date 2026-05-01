@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_PIPES",
+  "title": "SHOW PIPES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PIPES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PIPES",
+  "permalink": "/docs/SHOW_PIPES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW PARTITIONS",
+    "permalink": "/docs/SHOW_PARTITIONS"
+  },
+  "next": {
+    "title": "SHOW PLUGINS",
+    "permalink": "/docs/SHOW_PLUGINS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "st_distance_sphere",
+  "title": "ST_Distance_Sphere",
+  "description": "计算地球两点之间的球面距离，单位是「米」。",
+  "source": "@site/docs/st_distance_sphere.md",
+  "sourceDirName": ".",
+  "slug": "/st_distance_sphere",
+  "permalink": "/docs/st_distance_sphere",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_Contains",
+    "permalink": "/docs/st_contains"
+  },
+  "next": {
+    "title": "ST_GeometryFromText, ST_GeomFromText",
+    "permalink": "/docs/st_geometryfromtext"
+  }
+}

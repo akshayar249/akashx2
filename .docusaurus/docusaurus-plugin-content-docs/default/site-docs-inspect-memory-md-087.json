@@ -1,0 +1,23 @@
+{
+  "id": "inspect_memory",
+  "title": "inspect_memory",
+  "description": "inspectmemory(modulename)",
+  "source": "@site/docs/inspect_memory.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_memory",
+  "permalink": "/docs/inspect_memory",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_hive_part_info",
+    "permalink": "/docs/inspect_hive_part_info"
+  },
+  "next": {
+    "title": "inspect_memory_detail",
+    "permalink": "/docs/inspect_memory_detail"
+  }
+}

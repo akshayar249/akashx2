@@ -1,0 +1,45 @@
+{
+  "id": "2019-05-28-first-blog-post",
+  "title": "First Blog Post",
+  "description": "Lorem ipsum dolor sit amet...",
+  "source": "@site/docs/2019-05-28-first-blog-post.md",
+  "sourceDirName": ".",
+  "slug": "/first-blog-post",
+  "permalink": "/docs/first-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "hola",
+      "permalink": "/docs/tags/hola"
+    },
+    {
+      "inline": true,
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": [
+      "slorber",
+      "yangshun"
+    ],
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "streams WG Meeting 2015-01-30",
+    "permalink": "/docs/2015-01-30"
+  },
+  "next": {
+    "title": "Long Blog Post",
+    "permalink": "/docs/long-blog-post"
+  }
+}

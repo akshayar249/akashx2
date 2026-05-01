@@ -1,0 +1,35 @@
+{
+  "id": "overview",
+  "title": "最佳实践",
+  "description": "这些最佳实践由经验丰富的数据库工程师撰写。高效设计不仅能提高查询速度，还能通过减少存储、CPU 和对象存储（如 S3）API 成本来降低费用。",
+  "source": "@site/docs/overview.md",
+  "sourceDirName": ".",
+  "slug": "/overview",
+  "permalink": "/docs/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "概述",
+    "keywords": [
+      "nei cun",
+      "S3 API",
+      "reduce cost",
+      "efficiency",
+      "efficient",
+      "performance"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/manage-docs-versions"
+  },
+  "next": {
+    "title": "存算一体",
+    "permalink": "/docs/shared-nothing"
+  }
+}

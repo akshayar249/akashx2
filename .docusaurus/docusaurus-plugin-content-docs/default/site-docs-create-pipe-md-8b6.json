@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_PIPE",
+  "title": "CREATE PIPE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_PIPE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_PIPE",
+  "permalink": "/docs/CREATE_PIPE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE MATERIALIZED VIEW",
+    "permalink": "/docs/CREATE_MATERIALIZED_VIEW"
+  },
+  "next": {
+    "title": "CREATE REPOSITORY",
+    "permalink": "/docs/CREATE_REPOSITORY"
+  }
+}

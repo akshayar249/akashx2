@@ -1,0 +1,26 @@
+{
+  "id": "Ngram_Bloom_Filter_Index",
+  "title": "N-gram bloom filter 索引",
+  "description": "N-gram bloom filter 索引是一种特殊的 Bloom filter 索引，通常用于加速 LIKE 查询以及 ngramsearch 和 ngramsearchcase_insensitive 函数的计算速度。",
+  "source": "@site/docs/Ngram_Bloom_Filter_Index.md",
+  "sourceDirName": ".",
+  "slug": "/Ngram_Bloom_Filter_Index",
+  "permalink": "/docs/Ngram_Bloom_Filter_Index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connector",
+    "permalink": "/docs/Connector"
+  },
+  "next": {
+    "title": "临时分区",
+    "permalink": "/docs/Temporary_partition"
+  }
+}

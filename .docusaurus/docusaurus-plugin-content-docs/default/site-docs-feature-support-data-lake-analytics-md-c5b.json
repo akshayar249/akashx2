@@ -1,0 +1,25 @@
+{
+  "id": "feature-support-data-lake-analytics",
+  "title": "数据湖分析能力边界",
+  "description": "从  版本开始，AkashX 支持通过 External Catalog 管理外部数据源和分析数据湖中的数据。",
+  "source": "@site/docs/feature-support-data-lake-analytics.md",
+  "sourceDirName": ".",
+  "slug": "/feature-support-data-lake-analytics",
+  "permalink": "/docs/feature-support-data-lake-analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "能力边界"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "feature-request",
+    "permalink": "/docs/feature-request"
+  },
+  "next": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-loading-and-unloading"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mann_whitney_u_test",
+  "title": "mann_whitney_u_test",
+  "description": "功能",
+  "source": "@site/docs/mann_whitney_u_test.md",
+  "sourceDirName": ".",
+  "slug": "/mann_whitney_u_test",
+  "permalink": "/docs/mann_whitney_u_test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "makedate",
+    "permalink": "/docs/makedate"
+  },
+  "next": {
+    "title": "map_apply",
+    "permalink": "/docs/map_apply"
+  }
+}

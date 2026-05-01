@@ -1,0 +1,23 @@
+{
+  "id": "Features",
+  "title": "产品特性",
+  "description": "MPP 分布式执行框架",
+  "source": "@site/docs/Features.md",
+  "sourceDirName": ".",
+  "slug": "/Features",
+  "permalink": "/docs/Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FLOAT",
+    "permalink": "/docs/FLOAT"
+  },
+  "next": {
+    "title": "FineBI",
+    "permalink": "/docs/FineBI"
+  }
+}

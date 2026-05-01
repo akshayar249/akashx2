@@ -1,0 +1,23 @@
+{
+  "id": "hll_empty",
+  "title": "hll_empty",
+  "description": "生成空 HLL 列，用于 INSERT 或导入数据时补充默认值。",
+  "source": "@site/docs/hll_empty.md",
+  "sourceDirName": ".",
+  "slug": "/hll_empty",
+  "permalink": "/docs/hll_empty",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hll_cardinality",
+    "permalink": "/docs/hll_cardinality"
+  },
+  "next": {
+    "title": "hll_hash",
+    "permalink": "/docs/hll_hash"
+  }
+}

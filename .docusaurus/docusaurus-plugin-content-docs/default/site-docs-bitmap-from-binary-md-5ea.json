@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_from_binary",
+  "title": "bitmap_from_binary",
+  "description": "将特定格式的 Varbinary 类型的字符串转换为 Bitmap。可用于导入 Bitmap 数据到 AkashX。",
+  "source": "@site/docs/bitmap_from_binary.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_from_binary",
+  "permalink": "/docs/bitmap_from_binary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_empty",
+    "permalink": "/docs/bitmap_empty"
+  },
+  "next": {
+    "title": "bitmap_from_string",
+    "permalink": "/docs/bitmap_from_string"
+  }
+}

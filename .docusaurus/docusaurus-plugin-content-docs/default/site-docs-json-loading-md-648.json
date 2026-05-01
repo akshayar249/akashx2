@@ -1,0 +1,23 @@
+{
+  "id": "Json_loading",
+  "title": "はじめに",
+  "description": "半構造化データ（例えば、JSON）を stream load または routine load を使用してインポートできます。",
+  "source": "@site/docs/Json_loading.md",
+  "sourceDirName": ".",
+  "slug": "/Json_loading",
+  "permalink": "/docs/Json_loading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON",
+    "permalink": "/docs/JSON"
+  },
+  "next": {
+    "title": "KILL",
+    "permalink": "/docs/KILL"
+  }
+}

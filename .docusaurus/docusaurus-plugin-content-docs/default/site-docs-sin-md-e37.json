@@ -1,0 +1,23 @@
+{
+  "id": "sin",
+  "title": "sin",
+  "description": "计算参数 x 的正弦，x 为弧度值。",
+  "source": "@site/docs/sin.md",
+  "sourceDirName": ".",
+  "slug": "/sin",
+  "permalink": "/docs/sin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sign",
+    "permalink": "/docs/sign"
+  },
+  "next": {
+    "title": "sinh",
+    "permalink": "/docs/sinh"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_ROLE",
+  "title": "CREATE ROLE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_ROLE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_ROLE",
+  "permalink": "/docs/CREATE_ROLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE RESOURCE GROUP",
+    "permalink": "/docs/CREATE_RESOURCE_GROUP"
+  },
+  "next": {
+    "title": "CREATE ROUTINE LOAD",
+    "permalink": "/docs/CREATE_ROUTINE_LOAD"
+  }
+}

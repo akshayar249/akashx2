@@ -1,0 +1,26 @@
+{
+  "id": "query_planning",
+  "title": "查询计划",
+  "description": "优化查询性能是分析系统中的一个常见挑战。慢查询会影响用户体验和整个集群的性能。在akashx中，理解和解释查询计划和查询分析是诊断和改进慢查询的基础。这些工具可以帮助你：",
+  "source": "@site/docs/query_planning.md",
+  "sourceDirName": ".",
+  "slug": "/query_planning",
+  "permalink": "/docs/query_planning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "权限项",
+    "permalink": "/docs/privilege_item"
+  },
+  "next": {
+    "title": "物化视图查询改写",
+    "permalink": "/docs/query_rewrite_with_materialized_views"
+  }
+}

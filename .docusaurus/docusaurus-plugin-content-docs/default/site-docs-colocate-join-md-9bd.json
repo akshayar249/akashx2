@@ -1,0 +1,26 @@
+{
+  "id": "Colocate_join",
+  "title": "Colocate Join",
+  "description": "本小节介绍如何使用 Colocate Join。",
+  "source": "@site/docs/Colocate_join.md",
+  "sourceDirName": ".",
+  "slug": "/Colocate_join",
+  "permalink": "/docs/Colocate_join",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "异步物化视图故障排除",
+    "permalink": "/docs/troubleshooting_asynchronous_materialized_views"
+  },
+  "next": {
+    "title": "Connector",
+    "permalink": "/docs/Connector"
+  }
+}

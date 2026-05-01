@@ -1,0 +1,23 @@
+{
+  "id": "ISSUE_TEMPLATE",
+  "title": "Issue Title",
+  "description": "Expected Behavior",
+  "source": "@site/docs/ISSUE_TEMPLATE.md",
+  "sourceDirName": ".",
+  "slug": "/ISSUE_TEMPLATE",
+  "permalink": "/docs/ISSUE_TEMPLATE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "INT",
+    "permalink": "/docs/INT"
+  },
+  "next": {
+    "title": "通过 INSERT 语句导入数据",
+    "permalink": "/docs/InsertInto"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "inspect_hive_part_info",
+  "title": "inspect_hive_part_info",
+  "description": "inspecthivepartinfo(tablename)",
+  "source": "@site/docs/inspect_hive_part_info.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_hive_part_info",
+  "permalink": "/docs/inspect_hive_part_info",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_all_pipes",
+    "permalink": "/docs/inspect_all_pipes"
+  },
+  "next": {
+    "title": "inspect_memory",
+    "permalink": "/docs/inspect_memory"
+  }
+}

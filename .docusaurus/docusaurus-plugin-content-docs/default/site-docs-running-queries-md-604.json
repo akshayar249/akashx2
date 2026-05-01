@@ -1,0 +1,26 @@
+{
+  "id": "running_queries",
+  "title": "查看运行中的查询",
+  "description": "本文介绍 AkashX 如何查看运行中的查询，分析查询的资源消耗情况。",
+  "source": "@site/docs/running_queries.md",
+  "sourceDirName": ".",
+  "slug": "/running_queries",
+  "permalink": "/docs/running_queries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/congratulations"
+  },
+  "next": {
+    "title": "CBO 统计信息",
+    "permalink": "/docs/Cost_based_optimizer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "character_sets",
+  "title": "character_sets",
+  "description": "character_sets 用于识别可用的字符集。",
+  "source": "@site/docs/character_sets.md",
+  "sourceDirName": ".",
+  "slug": "/character_sets",
+  "permalink": "/docs/character_sets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "character_length",
+    "permalink": "/docs/character_length"
+  },
+  "next": {
+    "title": "集群快照",
+    "permalink": "/docs/cluster_snapshot"
+  }
+}

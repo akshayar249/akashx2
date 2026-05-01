@@ -1,0 +1,27 @@
+{
+  "id": "Architecture",
+  "title": "架构",
+  "description": "AkashX 架构简洁明了，整个系统仅由两种组件组成：前端和后端。前端节点称为 FE。后端节点有两种类型，BE 和 CN (计算节点)。当使用本地存储数据时，您需要部署 BE；当数据存储在对象存储或 HDFS 时，需要部署 CN。AkashX 不依赖任何外部组件，简化了部署和维护。节点可以水平扩展而不影响服务正常运行。此外，AkashX 具有元数据和服务数据副本机制，提高了数据可靠性，有效防止单点故障 (SPOF)。",
+  "source": "@site/docs/Architecture.md",
+  "sourceDirName": ".",
+  "slug": "/Architecture",
+  "permalink": "/docs/Architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "cun chu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "在 AWS 上使用 AWS CloudFormation 部署 AkashX 集群",
+    "permalink": "/docs/AWS_cloudformation"
+  },
+  "next": {
+    "title": "ARRAY",
+    "permalink": "/docs/Array"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "map_from_arrays",
+  "title": "map_from_arrays",
+  "description": "将两个 ARRAY 数组作为 Key 和 Value 组合成一个 MAP 对象。",
+  "source": "@site/docs/map_from_arrays.md",
+  "sourceDirName": ".",
+  "slug": "/map_from_arrays",
+  "permalink": "/docs/map_from_arrays",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "map_filter",
+    "permalink": "/docs/map_filter"
+  },
+  "next": {
+    "title": "map_keys",
+    "permalink": "/docs/map_keys"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "DROP_ROLE",
+  "title": "DROP ROLE",
+  "description": "功能",
+  "source": "@site/docs/DROP_ROLE.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_ROLE",
+  "permalink": "/docs/DROP_ROLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP RESOURCE GROUP",
+    "permalink": "/docs/DROP_RESOURCE_GROUP"
+  },
+  "next": {
+    "title": "DROP STATS",
+    "permalink": "/docs/DROP_STATS"
+  }
+}

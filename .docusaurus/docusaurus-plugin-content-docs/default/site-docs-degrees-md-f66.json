@@ -1,0 +1,23 @@
+{
+  "id": "degrees",
+  "title": "degrees",
+  "description": "将参数 x 转成角度，x 是弧度。",
+  "source": "@site/docs/degrees.md",
+  "sourceDirName": ".",
+  "slug": "/degrees",
+  "permalink": "/docs/degrees",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Default catalog",
+    "permalink": "/docs/default_catalog"
+  },
+  "next": {
+    "title": "Delta Lake catalog",
+    "permalink": "/docs/deltalake_catalog"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Load_balance",
+  "title": "负载均衡",
+  "description": "本文介绍如何通过在多个 FE 节点之上部署负载均衡层以实现 AkashX 的高可用。",
+  "source": "@site/docs/Load_balance.md",
+  "sourceDirName": ".",
+  "slug": "/Load_balance",
+  "permalink": "/docs/Load_balance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "fuzai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LICENSE",
+    "permalink": "/docs/LICENSE"
+  },
+  "next": {
+    "title": "通过导入实现数据变更",
+    "permalink": "/docs/Load_to_Primary_Key_tables"
+  }
+}

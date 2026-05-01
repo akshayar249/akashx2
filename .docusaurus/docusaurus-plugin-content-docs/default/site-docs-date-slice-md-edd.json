@@ -1,0 +1,23 @@
+{
+  "id": "date_slice",
+  "title": "date_slice",
+  "description": "根据指定的时间粒度周期，将给定的时间转化到其所在的时间粒度周期的起始或结束时刻。",
+  "source": "@site/docs/date_slice.md",
+  "sourceDirName": ".",
+  "slug": "/date_slice",
+  "permalink": "/docs/date_slice",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "date_format",
+    "permalink": "/docs/date_format"
+  },
+  "next": {
+    "title": "date_sub,subdate",
+    "permalink": "/docs/date_sub"
+  }
+}

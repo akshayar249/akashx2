@@ -1,0 +1,27 @@
+{
+  "id": "SHOW_DYNAMIC_PARTITION_TABLES",
+  "title": "SHOW DYNAMIC PARTITION TABLES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_DYNAMIC_PARTITION_TABLES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_DYNAMIC_PARTITION_TABLES",
+  "permalink": "/docs/SHOW_DYNAMIC_PARTITION_TABLES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "fenqu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW DICTIONARY",
+    "permalink": "/docs/SHOW_DICTIONARY"
+  },
+  "next": {
+    "title": "SHOW EXPORT",
+    "permalink": "/docs/SHOW_EXPORT"
+  }
+}

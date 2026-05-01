@@ -1,0 +1,23 @@
+{
+  "id": "to_json",
+  "title": "to_json",
+  "description": "将 Map 或 Struct 值转换为 JSON 字符串。如果输入值为 NULL，则返回 NULL。",
+  "source": "@site/docs/to_json.md",
+  "sourceDirName": ".",
+  "slug": "/to_json",
+  "permalink": "/docs/to_json",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "to_iso8601",
+    "permalink": "/docs/to_iso8601"
+  },
+  "next": {
+    "title": "to_tera_date",
+    "permalink": "/docs/to_tera_date"
+  }
+}

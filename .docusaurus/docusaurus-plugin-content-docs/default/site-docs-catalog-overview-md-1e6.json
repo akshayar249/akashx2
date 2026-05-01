@@ -1,0 +1,27 @@
+{
+  "id": "catalog_overview",
+  "title": "概述",
+  "description": "本文介绍什么是 Catalog， 以及如何使用 Catalog 管理和查询内外部数据。",
+  "source": "@site/docs/catalog_overview.md",
+  "sourceDirName": ".",
+  "slug": "/catalog_overview",
+  "permalink": "/docs/catalog_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "waibiao"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "catalog",
+    "permalink": "/docs/catalog"
+  },
+  "next": {
+    "title": "cbrt",
+    "permalink": "/docs/cbrt"
+  }
+}

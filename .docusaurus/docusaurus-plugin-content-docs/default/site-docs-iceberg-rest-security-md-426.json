@@ -1,0 +1,23 @@
+{
+  "id": "iceberg_rest_security",
+  "title": "Iceberg REST Catalog 的安全设置",
+  "description": "在多个节点协同访问同一数据湖的场景中，核心挑战是如何实现安全、统一且可审计的权限管理。在传统模式中，用户需要为每个节点单独配置存储凭证并进行本地权限控制，这不仅增加了维护成本，还带来了凭证泄露和权限不一致的风险。",
+  "source": "@site/docs/iceberg_rest_security.md",
+  "sourceDirName": ".",
+  "slug": "/iceberg_rest_security",
+  "permalink": "/docs/iceberg_rest_security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "为 AWS S3 表创建 Iceberg REST Catalog",
+    "permalink": "/docs/iceberg_rest_s3"
+  },
+  "next": {
+    "title": "使用 Iceberg Catalog 的时间旅行",
+    "permalink": "/docs/iceberg_timetravel"
+  }
+}

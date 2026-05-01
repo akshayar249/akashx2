@@ -1,0 +1,25 @@
+{
+  "id": "GRANT",
+  "title": "GRANT",
+  "description": "功能",
+  "source": "@site/docs/GRANT.md",
+  "sourceDirName": ".",
+  "slug": "/GRANT",
+  "permalink": "/docs/GRANT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GOVERNANCE",
+    "permalink": "/docs/GOVERNANCE"
+  },
+  "next": {
+    "title": "HLL (HyperLogLog)",
+    "permalink": "/docs/HLL"
+  }
+}

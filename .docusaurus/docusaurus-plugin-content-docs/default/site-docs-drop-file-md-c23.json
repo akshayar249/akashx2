@@ -1,0 +1,23 @@
+{
+  "id": "DROP_FILE",
+  "title": "DROP FILE",
+  "description": "DROP FILE 语句用于删除保存在数据库中的文件。使用该语句删除一个文件，那么该文件在 FE 内存和 BDBJE 中均会被删除。",
+  "source": "@site/docs/DROP_FILE.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_FILE",
+  "permalink": "/docs/DROP_FILE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP DICTIONARY",
+    "permalink": "/docs/DROP_DICTIONARY"
+  },
+  "next": {
+    "title": "DROP FUNCTION",
+    "permalink": "/docs/DROP_FUNCTION"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "DECIMAL",
+  "title": "DECIMAL",
+  "description": "DECIMAL(P[,S]) 是一种高精度定点数值。P 代表有效数字的总数（精度，Precision）。S 代表小数点后的最大位数（刻度，Scale）。",
+  "source": "@site/docs/DECIMAL.md",
+  "sourceDirName": ".",
+  "slug": "/DECIMAL",
+  "permalink": "/docs/DECIMAL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DBeaver",
+    "permalink": "/docs/DBeaver"
+  },
+  "next": {
+    "title": "DELETE",
+    "permalink": "/docs/DELETE"
+  }
+}

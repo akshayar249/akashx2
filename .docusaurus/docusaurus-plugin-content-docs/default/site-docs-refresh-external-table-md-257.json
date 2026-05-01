@@ -1,0 +1,23 @@
+{
+  "id": "REFRESH_EXTERNAL_TABLE",
+  "title": "REFRESH EXTERNAL TABLE",
+  "description": "功能",
+  "source": "@site/docs/REFRESH_EXTERNAL_TABLE.md",
+  "sourceDirName": ".",
+  "slug": "/REFRESH_EXTERNAL_TABLE",
+  "permalink": "/docs/REFRESH_EXTERNAL_TABLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REFRESH DICTIONARY",
+    "permalink": "/docs/REFRESH_DICTIONARY"
+  },
+  "next": {
+    "title": "REFRESH MATERIALIZED VIEW",
+    "permalink": "/docs/REFRESH_MATERIALIZED_VIEW"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "last_query_id",
+  "title": "last_query_id",
+  "description": "返回最近一次执行的查询的 ID。",
+  "source": "@site/docs/last_query_id.md",
+  "sourceDirName": ".",
+  "slug": "/last_query_id",
+  "permalink": "/docs/last_query_id",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "last_day",
+    "permalink": "/docs/last_day"
+  },
+  "next": {
+    "title": "lcase",
+    "permalink": "/docs/lcase"
+  }
+}

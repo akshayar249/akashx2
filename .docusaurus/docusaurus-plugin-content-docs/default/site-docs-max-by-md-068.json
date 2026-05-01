@@ -1,0 +1,23 @@
+{
+  "id": "max_by",
+  "title": "max_by",
+  "description": "返回与 y 的最大值相关联的 x 值。比如 SELECT maxby(subject, examresult) FROM exam; 表示返回 exam 表中考试得分最高的科目。该函数从 2.5 版本开始支持。",
+  "source": "@site/docs/max_by.md",
+  "sourceDirName": ".",
+  "slug": "/max_by",
+  "permalink": "/docs/max_by",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "max",
+    "permalink": "/docs/max"
+  },
+  "next": {
+    "title": "MaxCompute catalog",
+    "permalink": "/docs/maxcompute_catalog"
+  }
+}

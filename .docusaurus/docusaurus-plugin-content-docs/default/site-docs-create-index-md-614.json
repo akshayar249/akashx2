@@ -1,0 +1,27 @@
+{
+  "id": "CREATE_INDEX",
+  "title": "CREATE INDEX",
+  "description": "功能",
+  "source": "@site/docs/CREATE_INDEX.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_INDEX",
+  "permalink": "/docs/CREATE_INDEX",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE FUNCTION",
+    "permalink": "/docs/CREATE_FUNCTION"
+  },
+  "next": {
+    "title": "CREATE MATERIALIZED VIEW",
+    "permalink": "/docs/CREATE_MATERIALIZED_VIEW"
+  }
+}

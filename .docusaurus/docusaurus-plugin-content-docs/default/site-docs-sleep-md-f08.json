@@ -1,0 +1,23 @@
+{
+  "id": "sleep",
+  "title": "sleep",
+  "description": "将当前正在执行的线程休眠 x 秒。返回 BOOLEAN 类型的值，1 表示正常休眠，0 表示休眠失败。",
+  "source": "@site/docs/sleep.md",
+  "sourceDirName": ".",
+  "slug": "/sleep",
+  "permalink": "/docs/sleep",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "支持渠道",
+    "permalink": "/docs/slack"
+  },
+  "next": {
+    "title": "sm3",
+    "permalink": "/docs/sm3"
+  }
+}

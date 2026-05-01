@@ -1,0 +1,23 @@
+{
+  "id": "instr",
+  "title": "instr",
+  "description": "返回 substr 在 str 中第一次出现的位置（从 1 开始计数，按「字符」计算）。如果 substr 不在 str 中出现，则返回 0。",
+  "source": "@site/docs/instr.md",
+  "sourceDirName": ".",
+  "slug": "/instr",
+  "permalink": "/docs/instr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_task_runs",
+    "permalink": "/docs/inspect_task_runs"
+  },
+  "next": {
+    "title": "intersect_count",
+    "permalink": "/docs/intersect_count"
+  }
+}

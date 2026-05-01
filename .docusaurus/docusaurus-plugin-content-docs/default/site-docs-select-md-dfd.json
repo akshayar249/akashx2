@@ -1,0 +1,27 @@
+{
+  "id": "SELECT",
+  "title": "SELECT",
+  "description": "功能",
+  "source": "@site/docs/SELECT.md",
+  "sourceDirName": ".",
+  "slug": "/SELECT",
+  "permalink": "/docs/SELECT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "lianjie"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reporting Security Issues",
+    "permalink": "/docs/SECURITY"
+  },
+  "next": {
+    "title": "SET",
+    "permalink": "/docs/SET"
+  }
+}

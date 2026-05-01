@@ -1,0 +1,23 @@
+{
+  "id": "lpad",
+  "title": "lpad",
+  "description": "根据指定的长度在字符串前面（左侧）追加字符。",
+  "source": "@site/docs/lpad.md",
+  "sourceDirName": ".",
+  "slug": "/lpad",
+  "permalink": "/docs/lpad",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lower",
+    "permalink": "/docs/lower"
+  },
+  "next": {
+    "title": "ltrim",
+    "permalink": "/docs/ltrim"
+  }
+}

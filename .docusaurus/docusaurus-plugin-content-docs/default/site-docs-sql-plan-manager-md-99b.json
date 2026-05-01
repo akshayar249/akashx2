@@ -1,0 +1,26 @@
+{
+  "id": "SQL_plan_manager",
+  "title": "SQL Plan Manager",
+  "description": "本文介绍 SQL Plan Manager 功能的基本概念和使用场景，以及如何使用 SQL Plan Manager 规范化查询计划。",
+  "source": "@site/docs/SQL_plan_manager.md",
+  "sourceDirName": ".",
+  "slug": "/SQL_plan_manager",
+  "permalink": "/docs/SQL_plan_manager",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "权限系统总览",
+    "permalink": "/docs/user_privs"
+  },
+  "next": {
+    "title": "查询反馈",
+    "permalink": "/docs/query_feedback"
+  }
+}

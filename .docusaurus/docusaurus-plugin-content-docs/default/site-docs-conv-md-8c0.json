@@ -1,0 +1,23 @@
+{
+  "id": "conv",
+  "title": "conv",
+  "description": "对输入的参数 x 进行进制转换。",
+  "source": "@site/docs/conv.md",
+  "sourceDirName": ".",
+  "slug": "/conv",
+  "permalink": "/docs/conv",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "concat_ws",
+    "permalink": "/docs/concat_ws"
+  },
+  "next": {
+    "title": "convert_tz",
+    "permalink": "/docs/convert_tz"
+  }
+}

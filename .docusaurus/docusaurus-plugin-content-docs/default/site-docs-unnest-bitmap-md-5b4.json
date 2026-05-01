@@ -1,0 +1,23 @@
+{
+  "id": "unnest_bitmap",
+  "title": "unnest_bitmap",
+  "description": "unnest_bitmap 是一种表函数 (table function)，用于将一个 bitmap 展开成多行。",
+  "source": "@site/docs/unnest_bitmap.md",
+  "sourceDirName": ".",
+  "slug": "/unnest_bitmap",
+  "permalink": "/docs/unnest_bitmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unnest",
+    "permalink": "/docs/unnest"
+  },
+  "next": {
+    "title": "升级 AkashX",
+    "permalink": "/docs/upgrade"
+  }
+}

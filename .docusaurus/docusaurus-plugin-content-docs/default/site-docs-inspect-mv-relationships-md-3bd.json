@@ -1,0 +1,23 @@
+{
+  "id": "inspect_mv_relationships",
+  "title": "inspect_mv_relationships",
+  "description": "inspectmvrelationships()",
+  "source": "@site/docs/inspect_mv_relationships.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_mv_relationships",
+  "permalink": "/docs/inspect_mv_relationships",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_mv_refresh_info",
+    "permalink": "/docs/inspect_mv_refresh_info"
+  },
+  "next": {
+    "title": "inspect_related_mv",
+    "permalink": "/docs/inspect_related_mv"
+  }
+}

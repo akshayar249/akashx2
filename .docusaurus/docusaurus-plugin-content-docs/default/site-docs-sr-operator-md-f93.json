@@ -1,0 +1,23 @@
+{
+  "id": "sr_operator",
+  "title": "使用 Operator 部署 AkashX 集群",
+  "description": "本文介绍如何在 Kubernetes 集群上通过 AkashX Operator 自动化部署和管理 AkashX 集群。",
+  "source": "@site/docs/sr_operator.md",
+  "sourceDirName": ".",
+  "slug": "/sr_operator",
+  "permalink": "/docs/sr_operator",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQUARE",
+    "permalink": "/docs/square"
+  },
+  "next": {
+    "title": "ST_AsText, ST_AsWKT",
+    "permalink": "/docs/st_astext"
+  }
+}

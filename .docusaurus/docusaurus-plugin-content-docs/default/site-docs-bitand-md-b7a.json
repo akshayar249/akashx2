@@ -1,0 +1,23 @@
+{
+  "id": "bitand",
+  "title": "bitand",
+  "description": "返回两个数值在按位进行 AND 运算后的结果。",
+  "source": "@site/docs/bitand.md",
+  "sourceDirName": ".",
+  "slug": "/bitand",
+  "permalink": "/docs/bitand",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bit_shift_right_logical",
+    "permalink": "/docs/bit_shift_right_logical"
+  },
+  "next": {
+    "title": "bitmap_agg",
+    "permalink": "/docs/bitmap_agg"
+  }
+}

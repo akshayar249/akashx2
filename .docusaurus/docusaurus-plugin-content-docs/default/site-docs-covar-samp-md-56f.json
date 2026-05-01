@@ -1,0 +1,23 @@
+{
+  "id": "covar_samp",
+  "title": "covar_samp",
+  "description": "返回两个随机变量的样本协方差。该函数从 2.5.10 版本开始支持，也可用作窗口函数。",
+  "source": "@site/docs/covar_samp.md",
+  "sourceDirName": ".",
+  "slug": "/covar_samp",
+  "permalink": "/docs/covar_samp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "covar_pop",
+    "permalink": "/docs/covar_pop"
+  },
+  "next": {
+    "title": "crc32",
+    "permalink": "/docs/crc32"
+  }
+}

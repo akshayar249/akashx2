@@ -1,0 +1,23 @@
+{
+  "id": "translate",
+  "title": "translate",
+  "description": "用于替换给定字符串中的字符。该函数会将给定字符串 source 中出现在 fromstring 中的字符替换为对应位置的 tostring 中的字符。",
+  "source": "@site/docs/translate.md",
+  "sourceDirName": ".",
+  "slug": "/translate",
+  "permalink": "/docs/translate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transform_values",
+    "permalink": "/docs/transform_values"
+  },
+  "next": {
+    "title": "triggers",
+    "permalink": "/docs/triggers"
+  }
+}

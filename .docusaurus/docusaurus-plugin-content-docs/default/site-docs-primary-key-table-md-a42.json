@@ -1,0 +1,29 @@
+{
+  "id": "primary_key_table",
+  "title": "主键表",
+  "description": "主键表使用 AkashX 全新设计开发的存储引擎。其主要优势在于支撑实时数据更新的同时，也能保证高效的复杂即席查询性能。在实时分析业务中采用主键表，用最新的数据实时分析出结果来指导决策，使得数据分析不再受限于 T+1 数据延迟。",
+  "source": "@site/docs/primary_key_table.md",
+  "sourceDirName": ".",
+  "slug": "/primary_key_table",
+  "permalink": "/docs/primary_key_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "keywords": [
+      "zhujian"
+    ],
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "相关参考",
+    "permalink": "/docs/mv_ref"
+  },
+  "next": {
+    "title": "权限项",
+    "permalink": "/docs/privilege_item"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "char_length",
+  "title": "char_length",
+  "description": "返回字符串的长度。",
+  "source": "@site/docs/char_length.md",
+  "sourceDirName": ".",
+  "slug": "/char_length",
+  "permalink": "/docs/char_length",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ceiling",
+    "permalink": "/docs/ceiling"
+  },
+  "next": {
+    "title": "character_length",
+    "permalink": "/docs/character_length"
+  }
+}

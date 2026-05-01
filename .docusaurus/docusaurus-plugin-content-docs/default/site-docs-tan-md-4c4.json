@@ -1,0 +1,23 @@
+{
+  "id": "tan",
+  "title": "tan",
+  "description": "计算参数 x 的正切，x 为弧度值。",
+  "source": "@site/docs/tan.md",
+  "sourceDirName": ".",
+  "slug": "/tan",
+  "permalink": "/docs/tan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tables_config",
+    "permalink": "/docs/tables_config"
+  },
+  "next": {
+    "title": "tanh",
+    "permalink": "/docs/tanh"
+  }
+}

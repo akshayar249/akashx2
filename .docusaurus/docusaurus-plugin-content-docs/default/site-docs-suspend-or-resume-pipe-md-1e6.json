@@ -1,0 +1,23 @@
+{
+  "id": "SUSPEND_or_RESUME_PIPE",
+  "title": "SUSPEND or RESUME PIPE",
+  "description": "功能",
+  "source": "@site/docs/SUSPEND_or_RESUME_PIPE.md",
+  "sourceDirName": ".",
+  "slug": "/SUSPEND_or_RESUME_PIPE",
+  "permalink": "/docs/SUSPEND_or_RESUME_PIPE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/docs/SUPPORT"
+  },
+  "next": {
+    "title": "SYNC",
+    "permalink": "/docs/SYNC"
+  }
+}

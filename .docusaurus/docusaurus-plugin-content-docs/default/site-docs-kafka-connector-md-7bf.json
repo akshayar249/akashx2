@@ -1,0 +1,23 @@
+{
+  "id": "kafka_connector",
+  "title": "Kafka connector 版本发布",
+  "description": "发布说明",
+  "source": "@site/docs/kafka_connector.md",
+  "sourceDirName": ".",
+  "slug": "/kafka_connector",
+  "permalink": "/docs/kafka_connector",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jupyter",
+    "permalink": "/docs/jupysql"
+  },
+  "next": {
+    "title": "key_column_usage",
+    "permalink": "/docs/key_column_usage"
+  }
+}

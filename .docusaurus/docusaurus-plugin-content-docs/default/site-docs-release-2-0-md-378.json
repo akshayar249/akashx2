@@ -1,0 +1,23 @@
+{
+  "id": "release-2.0",
+  "title": "AkashX",
+  "description": "2.0.9",
+  "source": "@site/docs/release-2.0.md",
+  "sourceDirName": ".",
+  "slug": "/release-2.0",
+  "permalink": "/docs/release-2.0",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AkashX",
+    "permalink": "/docs/release-1.19"
+  },
+  "next": {
+    "title": "AkashX",
+    "permalink": "/docs/release-2.1"
+  }
+}

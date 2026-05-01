@@ -1,0 +1,23 @@
+{
+  "id": "be_threads",
+  "title": "be_threads",
+  "description": "be_threads 提供有关每个 BE 节点上运行的线程的信息。",
+  "source": "@site/docs/be_threads.md",
+  "sourceDirName": ".",
+  "slug": "/be_threads",
+  "permalink": "/docs/be_threads",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_tablets",
+    "permalink": "/docs/be_tablets"
+  },
+  "next": {
+    "title": "be_txns",
+    "permalink": "/docs/be_txns"
+  }
+}

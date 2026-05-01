@@ -1,0 +1,23 @@
+{
+  "id": "SUBMIT_TASK",
+  "title": "SUBMIT TASK",
+  "description": "功能",
+  "source": "@site/docs/SUBMIT_TASK.md",
+  "sourceDirName": ".",
+  "slug": "/SUBMIT_TASK",
+  "permalink": "/docs/SUBMIT_TASK",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "STRUCT",
+    "permalink": "/docs/STRUCT"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/docs/SUPPORT"
+  }
+}

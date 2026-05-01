@@ -1,0 +1,23 @@
+{
+  "id": "aggregate_table",
+  "title": "聚合表",
+  "description": "在创建表时，您可以定义一个聚合键，并为值列指定一个聚合函数。当多行数据具有相同的聚合键时，值列中的值将被聚合。此外，您可以单独定义排序键。如果查询中的过滤条件包含排序键，AkashX 可以快速过滤数据，提高查询效率。",
+  "source": "@site/docs/aggregate_table.md",
+  "sourceDirName": ".",
+  "slug": "/aggregate_table",
+  "permalink": "/docs/aggregate_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aes_encrypt",
+    "permalink": "/docs/aes_encrypt"
+  },
+  "next": {
+    "title": "报警管理",
+    "permalink": "/docs/alert"
+  }
+}

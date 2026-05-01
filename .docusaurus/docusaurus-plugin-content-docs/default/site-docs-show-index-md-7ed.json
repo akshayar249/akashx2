@@ -1,0 +1,27 @@
+{
+  "id": "SHOW_INDEX",
+  "title": "SHOW INDEX",
+  "description": "功能",
+  "source": "@site/docs/SHOW_INDEX.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_INDEX",
+  "permalink": "/docs/SHOW_INDEX",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW GRANTS",
+    "permalink": "/docs/SHOW_GRANTS"
+  },
+  "next": {
+    "title": "SHOW LOAD",
+    "permalink": "/docs/SHOW_LOAD"
+  }
+}

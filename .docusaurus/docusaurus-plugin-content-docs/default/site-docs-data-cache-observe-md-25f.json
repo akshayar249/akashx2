@@ -1,0 +1,23 @@
+{
+  "id": "data_cache_observe",
+  "title": "Data Cache 可观测性",
+  "description": "早期版本中 Data Cache 特性缺少相关监控指标和有效的监控手段。3.3 版本对 Data Cache 的可观测性做了提升，支持通过以下几种方式来观测 Data Cache 相关指标，帮助用户清晰了解 Data Cache 的整体磁盘和内存用量，以及详细的指标。",
+  "source": "@site/docs/data_cache_observe.md",
+  "sourceDirName": ".",
+  "slug": "/data_cache_observe",
+  "permalink": "/docs/data_cache_observe",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Cache",
+    "permalink": "/docs/data_cache"
+  },
+  "next": {
+    "title": "Data Cache 常见问题解答",
+    "permalink": "/docs/data_cache_troubleshooting"
+  }
+}

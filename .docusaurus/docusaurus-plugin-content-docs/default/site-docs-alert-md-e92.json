@@ -1,0 +1,23 @@
+{
+  "id": "alert",
+  "title": "报警管理",
+  "description": "本文从业务持续性、集群可用性、机器负载等多个维度介绍需要关注的报警项及其处理办法。",
+  "source": "@site/docs/alert.md",
+  "sourceDirName": ".",
+  "slug": "/alert",
+  "permalink": "/docs/alert",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "聚合表",
+    "permalink": "/docs/aggregate_table"
+  },
+  "next": {
+    "title": "从阿里云 OSS 导入",
+    "permalink": "/docs/alibaba"
+  }
+}

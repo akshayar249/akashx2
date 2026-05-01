@@ -1,0 +1,23 @@
+{
+  "id": "arrow-function",
+  "title": "箭头函数",
+  "description": "查询可以通过 jsonpath 表达式在 JSON 对象中定位的元素，并返回一个 JSON 值。箭头函数 -> 比 jsonquery 函数更简洁且易于使用。",
+  "source": "@site/docs/arrow-function.md",
+  "sourceDirName": ".",
+  "slug": "/arrow-function",
+  "permalink": "/docs/arrow-function",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arrays_overlap",
+    "permalink": "/docs/arrays_overlap"
+  },
+  "next": {
+    "title": "通过 Arrow Flight SQL 与 AkashX 交互",
+    "permalink": "/docs/arrow_flight"
+  }
+}

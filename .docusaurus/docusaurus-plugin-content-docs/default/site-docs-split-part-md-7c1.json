@@ -1,0 +1,23 @@
+{
+  "id": "split_part",
+  "title": "split_part",
+  "description": "根据分割符拆分字符串，返回指定的分割部分（从 1 开始计数）。",
+  "source": "@site/docs/split_part.md",
+  "sourceDirName": ".",
+  "slug": "/split_part",
+  "permalink": "/docs/split_part",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "split",
+    "permalink": "/docs/split"
+  },
+  "next": {
+    "title": "SQL Digest",
+    "permalink": "/docs/sql_digest"
+  }
+}

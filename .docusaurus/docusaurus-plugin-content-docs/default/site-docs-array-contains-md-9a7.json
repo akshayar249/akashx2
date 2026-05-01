@@ -1,0 +1,27 @@
+{
+  "id": "array_contains",
+  "title": "array_contains",
+  "description": "检查数组中是否包含某个元素，是的话返回 1，否则返回 0。",
+  "source": "@site/docs/array_contains.md",
+  "sourceDirName": ".",
+  "slug": "/array_contains",
+  "permalink": "/docs/array_contains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "shu zu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_concat",
+    "permalink": "/docs/array_concat"
+  },
+  "next": {
+    "title": "array_contains_all",
+    "permalink": "/docs/array_contains_all"
+  }
+}

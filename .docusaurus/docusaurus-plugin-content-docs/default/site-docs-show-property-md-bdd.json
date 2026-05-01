@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_PROPERTY",
+  "title": "SHOW PROPERTY",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PROPERTY.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PROPERTY",
+  "permalink": "/docs/SHOW_PROPERTY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW PROFILELIST",
+    "permalink": "/docs/SHOW_PROFILELIST"
+  },
+  "next": {
+    "title": "SHOW REPOSITORIES",
+    "permalink": "/docs/SHOW_REPOSITORIES"
+  }
+}

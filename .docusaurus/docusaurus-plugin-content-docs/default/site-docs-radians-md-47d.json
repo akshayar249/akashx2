@@ -1,0 +1,23 @@
+{
+  "id": "radians",
+  "title": "radians",
+  "description": "将参数 x转为弧度，x 是角度。",
+  "source": "@site/docs/radians.md",
+  "sourceDirName": ".",
+  "slug": "/radians",
+  "permalink": "/docs/radians",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query Trace Profile",
+    "permalink": "/docs/query_trace_profile"
+  },
+  "next": {
+    "title": "rand, random",
+    "permalink": "/docs/rand"
+  }
+}

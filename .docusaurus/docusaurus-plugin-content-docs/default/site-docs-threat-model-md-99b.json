@@ -1,0 +1,23 @@
+{
+  "id": "THREAT_MODEL",
+  "title": "THREAT_MODEL",
+  "description": "Threat Model for resolve (module path resolution library)",
+  "source": "@site/docs/THREAT_MODEL.md",
+  "sourceDirName": ".",
+  "slug": "/THREAT_MODEL",
+  "permalink": "/docs/THREAT_MODEL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "系统变量",
+    "permalink": "/docs/System_variable"
+  },
+  "next": {
+    "title": "TINYINT",
+    "permalink": "/docs/TINYINT"
+  }
+}

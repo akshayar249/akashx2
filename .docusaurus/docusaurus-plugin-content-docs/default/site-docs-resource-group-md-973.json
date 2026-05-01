@@ -1,0 +1,29 @@
+{
+  "id": "resource_group",
+  "title": "资源隔离",
+  "description": "本文介绍如何使用资源隔离功能。",
+  "source": "@site/docs/resource_group.md",
+  "sourceDirName": ".",
+  "slug": "/resource_group",
+  "permalink": "/docs/resource_group",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "fuzai",
+      "ziyuan",
+      "ziyuanzu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "replace",
+    "permalink": "/docs/replace"
+  },
+  "next": {
+    "title": "retention",
+    "permalink": "/docs/retention"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "elasticsearch_catalog",
+  "title": "Elasticsearch catalog",
+  "description": "AkashX 自 3.1 版本起支持 Elasticsearch Catalog。",
+  "source": "@site/docs/elasticsearch_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/elasticsearch_catalog",
+  "permalink": "/docs/elasticsearch_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "e",
+    "permalink": "/docs/e"
+  },
+  "next": {
+    "title": "element_at",
+    "permalink": "/docs/element_at"
+  }
+}

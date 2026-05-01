@@ -1,0 +1,23 @@
+{
+  "id": "inspect_mv_refresh_info",
+  "title": "inspect_mv_refresh_info",
+  "description": "inspectmvrefreshinfo(mvname)",
+  "source": "@site/docs/inspect_mv_refresh_info.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_mv_refresh_info",
+  "permalink": "/docs/inspect_mv_refresh_info",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_mv_plan",
+    "permalink": "/docs/inspect_mv_plan"
+  },
+  "next": {
+    "title": "inspect_mv_relationships",
+    "permalink": "/docs/inspect_mv_relationships"
+  }
+}

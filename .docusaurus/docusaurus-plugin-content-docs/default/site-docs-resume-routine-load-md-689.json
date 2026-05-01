@@ -1,0 +1,23 @@
+{
+  "id": "RESUME_ROUTINE_LOAD",
+  "title": "RESUME ROUTINE LOAD",
+  "description": "功能",
+  "source": "@site/docs/RESUME_ROUTINE_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/RESUME_ROUTINE_LOAD",
+  "permalink": "/docs/RESUME_ROUTINE_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RESTORE",
+    "permalink": "/docs/RESTORE"
+  },
+  "next": {
+    "title": "RETRY FILE",
+    "permalink": "/docs/RETRY_FILE"
+  }
+}

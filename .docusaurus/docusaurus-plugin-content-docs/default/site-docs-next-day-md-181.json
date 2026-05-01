@@ -1,0 +1,23 @@
+{
+  "id": "next_day",
+  "title": "next_day",
+  "description": "根据输入的日期值，返回它之后的那个星期几所对应的日期。比如 next_day('2023-04-06', 'Monday') 返回 '2023-04-06' 之后的那个星期一所对应的日期。",
+  "source": "@site/docs/next_day.md",
+  "sourceDirName": ".",
+  "slug": "/next_day",
+  "permalink": "/docs/next_day",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "negative",
+    "permalink": "/docs/negative"
+  },
+  "next": {
+    "title": "ngram_search",
+    "permalink": "/docs/ngram_search"
+  }
+}

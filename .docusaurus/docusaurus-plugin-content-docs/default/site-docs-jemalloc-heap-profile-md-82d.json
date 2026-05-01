@@ -1,0 +1,23 @@
+{
+  "id": "jemalloc_heap_profile",
+  "title": "Jemalloc 堆内存分析",
+  "description": "本文介绍如何为 AkashX 启用和可视化 Jemalloc 堆内存分析。",
+  "source": "@site/docs/jemalloc_heap_profile.md",
+  "sourceDirName": ".",
+  "slug": "/jemalloc_heap_profile",
+  "permalink": "/docs/jemalloc_heap_profile",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JDBC catalog",
+    "permalink": "/docs/jdbc_catalog"
+  },
+  "next": {
+    "title": "jodatime_format",
+    "permalink": "/docs/jodatime_format"
+  }
+}

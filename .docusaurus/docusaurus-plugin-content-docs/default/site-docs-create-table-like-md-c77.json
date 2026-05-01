@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_TABLE_LIKE",
+  "title": "CREATE TABLE LIKE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_TABLE_LIKE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_TABLE_LIKE",
+  "permalink": "/docs/CREATE_TABLE_LIKE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE TABLE AS SELECT",
+    "permalink": "/docs/CREATE_TABLE_AS_SELECT"
+  },
+  "next": {
+    "title": "CREATE USER",
+    "permalink": "/docs/CREATE_USER"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "block_cache",
+  "title": "Data Cache",
+  "description": "自 AkashX  和  版本起，AkashX 引入 Data Cache 功能用以加速存算分离集群中的查询。该功能将取代早期版本中的 File Cache 功能。Data Cache 以 Block（MB 级别）为单位，按需从远端存储中加载数据。相较之下，File Cache 无论查询需要读取多少数据，都需要在后台线程加载整个数据文件。",
+  "source": "@site/docs/block_cache.md",
+  "sourceDirName": ".",
+  "slug": "/block_cache",
+  "permalink": "/docs/block_cache",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20,
+    "toc_max_heading_level": 2,
+    "keywords": [
+      "huan cun"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 HyperLogLog 实现近似去重",
+    "permalink": "/docs/Using_HLL"
+  },
+  "next": {
+    "title": "List 分区（不推荐）",
+    "permalink": "/docs/list_partitioning"
+  }
+}

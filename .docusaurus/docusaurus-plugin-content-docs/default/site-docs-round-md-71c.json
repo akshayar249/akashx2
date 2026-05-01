@@ -1,0 +1,23 @@
+{
+  "id": "round",
+  "title": "round, dround",
+  "description": "将数字四舍五入到指定的位数。",
+  "source": "@site/docs/round.md",
+  "sourceDirName": ".",
+  "slug": "/round",
+  "permalink": "/docs/round",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "role_edges",
+    "permalink": "/docs/role_edges"
+  },
+  "next": {
+    "title": "routine_load_jobs",
+    "permalink": "/docs/routine_load_jobs"
+  }
+}

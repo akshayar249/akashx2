@@ -1,0 +1,23 @@
+{
+  "id": "null_or_empty",
+  "title": "null_or_empty",
+  "description": "如果字符串为空字符串或者 NULL 则返回 true，否则返回 false。",
+  "source": "@site/docs/null_or_empty.md",
+  "sourceDirName": ".",
+  "slug": "/null_or_empty",
+  "permalink": "/docs/null_or_empty",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "now, current_timestamp, localtime, localtimestamp",
+    "permalink": "/docs/now"
+  },
+  "next": {
+    "title": "nullif",
+    "permalink": "/docs/nullif"
+  }
+}

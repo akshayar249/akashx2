@@ -1,0 +1,23 @@
+{
+  "id": "metrics-materialized_view",
+  "title": "异步物化视图监控指标",
+  "description": "从  版本开始，AkashX 支持异步物化视图相关监控项。",
+  "source": "@site/docs/metrics-materialized_view.md",
+  "sourceDirName": ".",
+  "slug": "/metrics-materialized_view",
+  "permalink": "/docs/metrics-materialized_view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "md5sum_numeric",
+    "permalink": "/docs/md5sum_numeric"
+  },
+  "next": {
+    "title": "存算分离集群监控指标",
+    "permalink": "/docs/metrics-shared-data"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_SET_REPLICA_STATUS",
+  "title": "ADMIN SET REPLICA STATUS",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_SET_REPLICA_STATUS.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_SET_REPLICA_STATUS",
+  "permalink": "/docs/ADMIN_SET_REPLICA_STATUS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SET PARTITION VERSION",
+    "permalink": "/docs/ADMIN_SET_PARTITION_VERSION"
+  },
+  "next": {
+    "title": "ADMIN SHOW CONFIG",
+    "permalink": "/docs/ADMIN_SHOW_CONFIG"
+  }
+}

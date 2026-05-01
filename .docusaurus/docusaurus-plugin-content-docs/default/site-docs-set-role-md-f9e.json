@@ -1,0 +1,23 @@
+{
+  "id": "SET_ROLE",
+  "title": "SET ROLE",
+  "description": "功能",
+  "source": "@site/docs/SET_ROLE.md",
+  "sourceDirName": ".",
+  "slug": "/SET_ROLE",
+  "permalink": "/docs/SET_ROLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SET PASSWORD",
+    "permalink": "/docs/SET_PASSWORD"
+  },
+  "next": {
+    "title": "SHOW ALTER TABLE",
+    "permalink": "/docs/SHOW_ALTER"
+  }
+}

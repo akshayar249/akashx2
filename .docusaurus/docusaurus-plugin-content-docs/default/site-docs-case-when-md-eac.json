@@ -1,0 +1,23 @@
+{
+  "id": "case_when",
+  "title": "case",
+  "description": "CASE 是一种条件表达式，有两种写法：简单 CASE 表达式和搜索 CASE 表达式。",
+  "source": "@site/docs/case_when.md",
+  "sourceDirName": ".",
+  "slug": "/case_when",
+  "permalink": "/docs/case_when",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardinality",
+    "permalink": "/docs/cardinality"
+  },
+  "next": {
+    "title": "cast",
+    "permalink": "/docs/cast"
+  }
+}

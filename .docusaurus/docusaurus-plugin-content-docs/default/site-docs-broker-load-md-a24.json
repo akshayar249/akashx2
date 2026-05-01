@@ -1,0 +1,25 @@
+{
+  "id": "BROKER_LOAD",
+  "title": "BROKER LOAD",
+  "description": "功能",
+  "source": "@site/docs/BROKER_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/BROKER_LOAD",
+  "permalink": "/docs/BROKER_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BOOLEAN",
+    "permalink": "/docs/BOOLEAN"
+  },
+  "next": {
+    "title": "备份与恢复",
+    "permalink": "/docs/Backup_and_restore"
+  }
+}

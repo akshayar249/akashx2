@@ -1,0 +1,25 @@
+{
+  "id": "datadog_support",
+  "title": "AkashX 集成 Datadog",
+  "description": "本文介绍如何将 AkashX 集群与监控和安全平台 Datadog 集成。",
+  "source": "@site/docs/datadog_support.md",
+  "sourceDirName": ".",
+  "slug": "/datadog_support",
+  "permalink": "/docs/datadog_support",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Datadog"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "database",
+    "permalink": "/docs/database"
+  },
+  "next": {
+    "title": "数据湖相关 FAQ",
+    "permalink": "/docs/datalake_faq"
+  }
+}

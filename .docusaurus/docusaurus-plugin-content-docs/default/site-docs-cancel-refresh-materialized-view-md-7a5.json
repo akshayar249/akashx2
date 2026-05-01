@@ -1,0 +1,23 @@
+{
+  "id": "CANCEL_REFRESH_MATERIALIZED_VIEW",
+  "title": "CANCEL REFRESH MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/CANCEL_REFRESH_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_REFRESH_MATERIALIZED_VIEW",
+  "permalink": "/docs/CANCEL_REFRESH_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL REFRESH DICTIONARY",
+    "permalink": "/docs/CANCEL_REFRESH_DICTIONARY"
+  },
+  "next": {
+    "title": "CANCEL RESTORE",
+    "permalink": "/docs/CANCEL_RESTORE"
+  }
+}

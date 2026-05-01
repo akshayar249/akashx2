@@ -1,0 +1,23 @@
+{
+  "id": "schema_privileges",
+  "title": "schema_privileges",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/schema_privileges.md",
+  "sourceDirName": ".",
+  "slug": "/schema_privileges",
+  "permalink": "/docs/schema_privileges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从其他兼容 S3 协议的对象存储导入",
+    "permalink": "/docs/s3_compatible"
+  },
+  "next": {
+    "title": "schemata",
+    "permalink": "/docs/schemata"
+  }
+}

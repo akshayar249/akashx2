@@ -1,0 +1,23 @@
+{
+  "id": "STRUCT",
+  "title": "STRUCT",
+  "description": "描述",
+  "source": "@site/docs/STRUCT.md",
+  "sourceDirName": ".",
+  "slug": "/STRUCT",
+  "permalink": "/docs/STRUCT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "STRING",
+    "permalink": "/docs/STRING"
+  },
+  "next": {
+    "title": "SUBMIT TASK",
+    "permalink": "/docs/SUBMIT_TASK"
+  }
+}

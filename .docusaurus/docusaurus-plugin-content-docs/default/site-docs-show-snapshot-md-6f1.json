@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_SNAPSHOT",
+  "title": "SHOW SNAPSHOT",
+  "description": "功能",
+  "source": "@site/docs/SHOW_SNAPSHOT.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_SNAPSHOT",
+  "permalink": "/docs/SHOW_SNAPSHOT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW RUNNING QUERIES",
+    "permalink": "/docs/SHOW_RUNNING_QUERIES"
+  },
+  "next": {
+    "title": "SHOW SQLBLACKLIST",
+    "permalink": "/docs/SHOW_SQLBLACKLIST"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_flatten",
+  "title": "array_flatten",
+  "description": "功能",
+  "source": "@site/docs/array_flatten.md",
+  "sourceDirName": ".",
+  "slug": "/array_flatten",
+  "permalink": "/docs/array_flatten",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_filter",
+    "permalink": "/docs/array_filter"
+  },
+  "next": {
+    "title": "array_generate",
+    "permalink": "/docs/array_generate"
+  }
+}

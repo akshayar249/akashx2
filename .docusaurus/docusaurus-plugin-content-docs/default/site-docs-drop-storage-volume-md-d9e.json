@@ -1,0 +1,23 @@
+{
+  "id": "DROP_STORAGE_VOLUME",
+  "title": "DROP STORAGE VOLUME",
+  "description": "功能",
+  "source": "@site/docs/DROP_STORAGE_VOLUME.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_STORAGE_VOLUME",
+  "permalink": "/docs/DROP_STORAGE_VOLUME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP STATS",
+    "permalink": "/docs/DROP_STATS"
+  },
+  "next": {
+    "title": "DROP TABLE",
+    "permalink": "/docs/DROP_TABLE"
+  }
+}

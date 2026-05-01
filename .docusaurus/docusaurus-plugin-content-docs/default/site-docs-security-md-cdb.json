@@ -1,0 +1,23 @@
+{
+  "id": "SECURITY",
+  "title": "Reporting Security Issues",
+  "description": "If you discover a security issue inwebpack, please report it by sending an",
+  "source": "@site/docs/SECURITY.md",
+  "sourceDirName": ".",
+  "slug": "/SECURITY",
+  "permalink": "/docs/SECURITY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Routine Load 导入常见问题",
+    "permalink": "/docs/Routine_load_faq"
+  },
+  "next": {
+    "title": "SELECT",
+    "permalink": "/docs/SELECT"
+  }
+}

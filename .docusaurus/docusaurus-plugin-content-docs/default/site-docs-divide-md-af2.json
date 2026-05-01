@@ -1,0 +1,23 @@
+{
+  "id": "divide",
+  "title": "divide",
+  "description": "除法函数，返回 x 除以 y 的结果，如果 y 为 0，则返回null。",
+  "source": "@site/docs/divide.md",
+  "sourceDirName": ".",
+  "slug": "/divide",
+  "permalink": "/docs/divide",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "distinct_map_keys",
+    "permalink": "/docs/distinct_map_keys"
+  },
+  "next": {
+    "title": "降级 AkashX",
+    "permalink": "/docs/downgrade"
+  }
+}

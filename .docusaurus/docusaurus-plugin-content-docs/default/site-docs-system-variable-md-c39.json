@@ -1,0 +1,28 @@
+{
+  "id": "System_variable",
+  "title": "系统变量",
+  "description": "AkashX 提供多个系统变量（system variables），方便您根据业务情况进行调整。本文介绍 AkashX 支持的变量。您可以在 MySQL 客户端通过命令 SHOW VARIABLES 查看当前变量。也可以通过 SET 命令动态设置或者修改变量。您可以设置变量在系统全局 (global) 范围内生效、仅在当前会话 (session) 中生效、或者仅在单个查询语句中生效。",
+  "source": "@site/docs/System_variable.md",
+  "sourceDirName": ".",
+  "slug": "/System_variable",
+  "permalink": "/docs/System_variable",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "session",
+      "variable"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "系统限制",
+    "permalink": "/docs/System_limit"
+  },
+  "next": {
+    "title": "THREAT_MODEL",
+    "permalink": "/docs/THREAT_MODEL"
+  }
+}

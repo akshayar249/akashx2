@@ -1,0 +1,23 @@
+{
+  "id": "fe_locks",
+  "title": "fe_locks",
+  "description": "fe_locks 提供 AkashX FE 中元数据锁的信息。",
+  "source": "@site/docs/fe_locks.md",
+  "sourceDirName": ".",
+  "slug": "/fe_locks",
+  "permalink": "/docs/fe_locks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "exp, dexp",
+    "permalink": "/docs/exp"
+  },
+  "next": {
+    "title": "FE 内存 FAQ",
+    "permalink": "/docs/fe_mem_faq"
+  }
+}

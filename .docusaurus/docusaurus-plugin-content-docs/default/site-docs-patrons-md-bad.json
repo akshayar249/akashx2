@@ -1,0 +1,23 @@
+{
+  "id": "PATRONS",
+  "title": "Our patrons",
+  "description": "These are the first-tier patrons from Patreon (notice: The Terser Patreon is shutting down infavor of opencollective). My appreciation goes to everyone on this list for supporting the project!",
+  "source": "@site/docs/PATRONS.md",
+  "sourceDirName": ".",
+  "slug": "/PATRONS",
+  "permalink": "/docs/PATRONS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "其他问题",
+    "permalink": "/docs/Others"
+  },
+  "next": {
+    "title": "PAUSE ROUTINE LOAD",
+    "permalink": "/docs/PAUSE_ROUTINE_LOAD"
+  }
+}

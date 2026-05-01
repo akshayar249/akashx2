@@ -1,0 +1,27 @@
+{
+  "id": "ALTER_SYSTEM",
+  "title": "ALTER SYSTEM",
+  "description": "功能",
+  "source": "@site/docs/ALTER_SYSTEM.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_SYSTEM",
+  "permalink": "/docs/ALTER_SYSTEM",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER STORAGE VOLUME",
+    "permalink": "/docs/ALTER_STORAGE_VOLUME"
+  },
+  "next": {
+    "title": "ALTER TABLE",
+    "permalink": "/docs/ALTER_TABLE"
+  }
+}

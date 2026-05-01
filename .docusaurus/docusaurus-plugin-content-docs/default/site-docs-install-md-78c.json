@@ -1,0 +1,23 @@
+{
+  "id": "INSTALL",
+  "title": "Installing PostCSS Clamp",
+  "description": "[PostCSS Clamp] runs inall Node environments, with special instructions for:",
+  "source": "@site/docs/INSTALL.md",
+  "sourceDirName": ".",
+  "slug": "/INSTALL",
+  "permalink": "/docs/INSTALL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "INSERT",
+    "permalink": "/docs/INSERT"
+  },
+  "next": {
+    "title": "INSTALL PLUGIN",
+    "permalink": "/docs/INSTALL_PLUGIN"
+  }
+}

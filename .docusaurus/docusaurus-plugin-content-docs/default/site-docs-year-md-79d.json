@@ -1,0 +1,23 @@
+{
+  "id": "year",
+  "title": "year",
+  "description": "返回指定日期中的年份。",
+  "source": "@site/docs/year.md",
+  "sourceDirName": ".",
+  "slug": "/year",
+  "permalink": "/docs/year",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xx_hash3_64",
+    "permalink": "/docs/xx_hash3_64"
+  },
+  "next": {
+    "title": "years_add",
+    "permalink": "/docs/years_add"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_from_string",
+  "title": "bitmap_from_string",
+  "description": "将一个字符串转化为一个 bitmap，字符串由逗号分隔的一组 UInt64 数字组成。比如将 \"0, 1, 2\" 字符串转化为一个 bitmap，会对其中的第 0，1，2 位会进行设置，当输入字段不合法时返回 NULL。",
+  "source": "@site/docs/bitmap_from_string.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_from_string",
+  "permalink": "/docs/bitmap_from_string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_from_binary",
+    "permalink": "/docs/bitmap_from_binary"
+  },
+  "next": {
+    "title": "bitmap_has_any",
+    "permalink": "/docs/bitmap_has_any"
+  }
+}

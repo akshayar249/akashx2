@@ -1,0 +1,28 @@
+{
+  "id": "ALTER_RESOURCE_GROUP",
+  "title": "ALTER RESOURCE GROUP",
+  "description": "功能",
+  "source": "@site/docs/ALTER_RESOURCE_GROUP.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_RESOURCE_GROUP",
+  "permalink": "/docs/ALTER_RESOURCE_GROUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai",
+      "ziyuanzu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER RESOURCE",
+    "permalink": "/docs/ALTER_RESOURCE"
+  },
+  "next": {
+    "title": "ALTER ROUTINE LOAD",
+    "permalink": "/docs/ALTER_ROUTINE_LOAD"
+  }
+}

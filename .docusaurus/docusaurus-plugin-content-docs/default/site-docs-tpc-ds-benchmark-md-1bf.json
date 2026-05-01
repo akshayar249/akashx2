@@ -1,0 +1,23 @@
+{
+  "id": "TPC_DS_Benchmark",
+  "title": "TPC-DS 基准测试",
+  "description": "TPC-DS 是由事务处理性能委员会 (TPC) 开发的决策支持基准测试。它使用比 TPC-H 更全面的测试数据集和复杂的 SQL 查询。",
+  "source": "@site/docs/TPC_DS_Benchmark.md",
+  "sourceDirName": ".",
+  "slug": "/TPC_DS_Benchmark",
+  "permalink": "/docs/TPC_DS_Benchmark",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TPC-H 基准测试",
+    "permalink": "/docs/TPC-H_Benchmarking"
+  },
+  "next": {
+    "title": "Translate Trino SQL",
+    "permalink": "/docs/TRANSLATE_TRINO"
+  }
+}

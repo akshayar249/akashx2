@@ -1,0 +1,23 @@
+{
+  "id": "percentile_cont",
+  "title": "percentile_cont",
+  "description": "计算精确百分位数。该函数使用连续分布模型，如果未找到与百分位完全匹配的值，则返回临近两个值的线性插值。",
+  "source": "@site/docs/percentile_cont.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_cont",
+  "permalink": "/docs/percentile_cont",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_approx_weight",
+    "permalink": "/docs/percentile_approx_weight"
+  },
+  "next": {
+    "title": "percentile_disc",
+    "permalink": "/docs/percentile_disc"
+  }
+}

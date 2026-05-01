@@ -1,0 +1,23 @@
+{
+  "id": "huawei",
+  "title": "从华为云 OBS 导入",
+  "description": "AkashX 支持通过两种方式从云存储系统导入大批量数据：Broker Load 和 INSERT。",
+  "source": "@site/docs/huawei.md",
+  "sourceDirName": ".",
+  "slug": "/huawei",
+  "permalink": "/docs/huawei",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTP SQL API",
+    "permalink": "/docs/http_sql_api"
+  },
+  "next": {
+    "title": "Hudi catalog",
+    "permalink": "/docs/hudi_catalog"
+  }
+}

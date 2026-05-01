@@ -1,0 +1,23 @@
+{
+  "id": "group_concat",
+  "title": "group_concat",
+  "description": "将分组中的多个非 NULL 值连接成一个字符串，参数 sep 为字符串之间的连接符，该参数可选，默认为 ,。该函数在连接时会忽略 NULL 值。",
+  "source": "@site/docs/group_concat.md",
+  "sourceDirName": ".",
+  "slug": "/group_concat",
+  "permalink": "/docs/group_concat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "greatest",
+    "permalink": "/docs/greatest"
+  },
+  "next": {
+    "title": "grouping",
+    "permalink": "/docs/grouping"
+  }
+}

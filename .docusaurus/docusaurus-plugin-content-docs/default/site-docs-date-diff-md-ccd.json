@@ -1,0 +1,23 @@
+{
+  "id": "date_diff",
+  "title": "date_diff",
+  "description": "根据指定的时间单位返回两个日期的差值。该函数按照 unit 指定的时间单位返回 expr1 - expr2 的差值。比如 date_diff('second', '2010-11-30 2359', '2010-11-30 2059') 以秒为单位返回这两个日期的差值。",
+  "source": "@site/docs/date_diff.md",
+  "sourceDirName": ".",
+  "slug": "/date_diff",
+  "permalink": "/docs/date_diff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "date_add,adddate",
+    "permalink": "/docs/date_add"
+  },
+  "next": {
+    "title": "date_format",
+    "permalink": "/docs/date_format"
+  }
+}

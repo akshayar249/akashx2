@@ -1,0 +1,23 @@
+{
+  "id": "Flink_cdc_load",
+  "title": "从 MySQL 实时同步",
+  "description": "AkashX 支持多种方式将 MySQL 的数据实时同步至 AkashX，支撑实时分析和处理海量数据的需求。",
+  "source": "@site/docs/Flink_cdc_load.md",
+  "sourceDirName": ".",
+  "slug": "/Flink_cdc_load",
+  "permalink": "/docs/Flink_cdc_load",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 Apache Flink® 持续导入",
+    "permalink": "/docs/Flink-connector-akashx"
+  },
+  "next": {
+    "title": "Flink Connector 导入常见问题",
+    "permalink": "/docs/Flink_connector_faq"
+  }
+}

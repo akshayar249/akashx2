@@ -1,0 +1,27 @@
+{
+  "id": "Load_to_Primary_Key_tables",
+  "title": "通过导入实现数据变更",
+  "description": "AkashX 的主键表支持通过 Stream Load、Broker Load 或 Routine Load 导入作业，对 AkashX 表进行数据变更，包括插入、更新和删除数据。不支持通过 Spark Load 导入作业或 INSERT 语句对 AkashX 表进行数据变更。",
+  "source": "@site/docs/Load_to_Primary_Key_tables.md",
+  "sourceDirName": ".",
+  "slug": "/Load_to_Primary_Key_tables",
+  "permalink": "/docs/Load_to_Primary_Key_tables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "zhujian"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "负载均衡",
+    "permalink": "/docs/Load_balance"
+  },
+  "next": {
+    "title": "导入通用问题",
+    "permalink": "/docs/Loading_faq"
+  }
+}

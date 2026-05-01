@@ -1,0 +1,29 @@
+{
+  "id": "query_plan_intro",
+  "title": "查询调优简介",
+  "description": "查询调优对于在 AkashX 中实现高性能和高可靠性至关重要。本目录汇集了实用指南、参考资料和可操作的方案，帮助您在每个阶段分析、诊断和优化查询性能——从编写 SQL 到解释执行细节。",
+  "source": "@site/docs/query_plan_intro.md",
+  "sourceDirName": ".",
+  "slug": "/query_plan_intro",
+  "permalink": "/docs/query_plan_intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "keywords": [
+      "cha xun"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query Cache",
+    "permalink": "/docs/query_cache"
+  },
+  "next": {
+    "title": "各类表的能力对比",
+    "permalink": "/docs/table_capabilities"
+  }
+}

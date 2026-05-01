@@ -1,0 +1,27 @@
+{
+  "id": "SHOW_PARTITIONS",
+  "title": "SHOW PARTITIONS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PARTITIONS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PARTITIONS",
+  "permalink": "/docs/SHOW_PARTITIONS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "fenqu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW META",
+    "permalink": "/docs/SHOW_META"
+  },
+  "next": {
+    "title": "SHOW PIPES",
+    "permalink": "/docs/SHOW_PIPES"
+  }
+}

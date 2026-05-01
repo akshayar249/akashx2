@@ -1,0 +1,23 @@
+{
+  "id": "DATE",
+  "title": "date",
+  "description": "从日期或时间日期表达式中截取日期部分。",
+  "source": "@site/docs/DATE.md",
+  "sourceDirName": ".",
+  "slug": "/DATE",
+  "permalink": "/docs/DATE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CloudCanal 导入常见问题",
+    "permalink": "/docs/CloudCanal_load_faq"
+  },
+  "next": {
+    "title": "DATETIME",
+    "permalink": "/docs/DATETIME"
+  }
+}

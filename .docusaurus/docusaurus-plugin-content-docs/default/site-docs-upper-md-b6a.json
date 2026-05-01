@@ -1,0 +1,23 @@
+{
+  "id": "upper",
+  "title": "upper",
+  "description": "将字符串转换为大写形式。",
+  "source": "@site/docs/upper.md",
+  "sourceDirName": ".",
+  "slug": "/upper",
+  "permalink": "/docs/upper",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "升级 AkashX",
+    "permalink": "/docs/upgrade"
+  },
+  "next": {
+    "title": "url_decode",
+    "permalink": "/docs/url_decode"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_META",
+  "title": "SHOW META",
+  "description": "功能",
+  "source": "@site/docs/SHOW_META.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_META",
+  "permalink": "/docs/SHOW_META",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW MATERIALIZED VIEWS",
+    "permalink": "/docs/SHOW_MATERIALIZED_VIEW"
+  },
+  "next": {
+    "title": "SHOW PARTITIONS",
+    "permalink": "/docs/SHOW_PARTITIONS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "last_day",
+  "title": "last_day",
+  "description": "根据指定的时间单位，返回输入的日期对应的最后一天。比如 last_day('2023-05-10', 'month') 返回 '2023-05-10' 所在月份的最后一天。",
+  "source": "@site/docs/last_day.md",
+  "sourceDirName": ".",
+  "slug": "/last_day",
+  "permalink": "/docs/last_day",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kudu catalog",
+    "permalink": "/docs/kudu_catalog"
+  },
+  "next": {
+    "title": "last_query_id",
+    "permalink": "/docs/last_query_id"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "unique_key_table",
+  "title": "更新表",
+  "description": "建表时需要定义唯一键。当多条数据具有相同的唯一键时，value 列会进行 REPLACE，查询时返回唯一键相同的一组数据中的最新数据。并且支持单独定义排序键，如果查询的过滤条件包含排序键，则 AkashX 能够快速地过滤数据，提高查询效率。",
+  "source": "@site/docs/unique_key_table.md",
+  "sourceDirName": ".",
+  "slug": "/unique_key_table",
+  "permalink": "/docs/unique_key_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "中间结果落盘",
+    "permalink": "/docs/spill_to_disk"
+  },
+  "next": {
+    "title": "行列混存",
+    "permalink": "/docs/hybrid_table"
+  }
+}

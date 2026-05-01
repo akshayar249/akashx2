@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_ANALYZE",
+  "title": "CREATE ANALYZE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_ANALYZE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_ANALYZE",
+  "permalink": "/docs/CREATE_ANALYZE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CONTRIBUTORS",
+    "permalink": "/docs/CONTRIBUTORS"
+  },
+  "next": {
+    "title": "CREATE DATABASE",
+    "permalink": "/docs/CREATE_DATABASE"
+  }
+}

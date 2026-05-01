@@ -1,0 +1,23 @@
+{
+  "id": "SYNC",
+  "title": "SYNC",
+  "description": "同步不同 Session 之间的数据一致性。",
+  "source": "@site/docs/SYNC.md",
+  "sourceDirName": ".",
+  "slug": "/SYNC",
+  "permalink": "/docs/SYNC",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SUSPEND or RESUME PIPE",
+    "permalink": "/docs/SUSPEND_or_RESUME_PIPE"
+  },
+  "next": {
+    "title": "扩容缩容 AkashX",
+    "permalink": "/docs/Scale_up_down"
+  }
+}

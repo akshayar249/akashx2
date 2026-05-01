@@ -1,0 +1,25 @@
+{
+  "id": "feature-support-loading-and-unloading",
+  "title": "功能边界：数据导入导出",
+  "description": "本文介绍了 AkashX 导入导出的能力边界以及所涉及功能的支持版本。",
+  "source": "@site/docs/feature-support-loading-and-unloading.md",
+  "sourceDirName": ".",
+  "slug": "/feature-support-loading-and-unloading",
+  "permalink": "/docs/feature-support-loading-and-unloading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "能力边界"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-data-lake-analytics"
+  },
+  "next": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-shared-data"
+  }
+}

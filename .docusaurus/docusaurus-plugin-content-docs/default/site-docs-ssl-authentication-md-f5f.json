@@ -1,0 +1,26 @@
+{
+  "id": "ssl_authentication",
+  "title": "SSL 认证",
+  "description": "自  起，AkashX 支持由 SSL 加密的安全连接。与传统的 DBMS 明文连接不同，SSL 连接提供端点验证和数据加密，确保客户端与 AkashX 集群之间传输的数据不会被未经授权的用户读取。",
+  "source": "@site/docs/ssl_authentication.md",
+  "sourceDirName": ".",
+  "slug": "/ssl_authentication",
+  "permalink": "/docs/ssl_authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Apache Ranger 管理权限",
+    "permalink": "/docs/ranger_plugin"
+  },
+  "next": {
+    "title": "使用 Lateral Join 实现列转行",
+    "permalink": "/docs/Lateral_join"
+  }
+}

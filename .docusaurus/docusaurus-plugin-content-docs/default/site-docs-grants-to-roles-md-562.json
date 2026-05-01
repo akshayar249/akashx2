@@ -1,0 +1,23 @@
+{
+  "id": "grants_to_roles",
+  "title": "grants_to_roles",
+  "description": "您可以通过查询 grantstoroles 视图查看用户自定义角色的权限。",
+  "source": "@site/docs/grants_to_roles.md",
+  "sourceDirName": ".",
+  "slug": "/grants_to_roles",
+  "permalink": "/docs/grants_to_roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "global_variables",
+    "permalink": "/docs/global_variables"
+  },
+  "next": {
+    "title": "grants_to_users",
+    "permalink": "/docs/grants_to_users"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_xor",
+  "title": "bitmap_xor",
+  "description": "计算两个 Bitmap 中不重复元素所构成的集合，逻辑上等价于 bitmapandnot(bitmapor(lhs, rhs), bitmap_and(lhs, rhs))(补集)。",
+  "source": "@site/docs/bitmap_xor.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_xor",
+  "permalink": "/docs/bitmap_xor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_union_int",
+    "permalink": "/docs/bitmap_union_int"
+  },
+  "next": {
+    "title": "bitnot",
+    "permalink": "/docs/bitnot"
+  }
+}

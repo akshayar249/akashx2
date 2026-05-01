@@ -1,0 +1,23 @@
+{
+  "id": "any_value",
+  "title": "any_value",
+  "description": "在包含 GROUP BY 的聚合查询中，该函数用于从每个聚合分组中随机选择一行返回。",
+  "source": "@site/docs/any_value.md",
+  "sourceDirName": ".",
+  "slug": "/any_value",
+  "permalink": "/docs/any_value",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "any_match",
+    "permalink": "/docs/any_match"
+  },
+  "next": {
+    "title": "append_trailing_char_if_absent",
+    "permalink": "/docs/append_trailing_char_if_absent"
+  }
+}

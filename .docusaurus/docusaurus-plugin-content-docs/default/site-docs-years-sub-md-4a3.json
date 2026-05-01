@@ -1,0 +1,23 @@
+{
+  "id": "years_sub",
+  "title": "years_sub",
+  "description": "从指定日期时间或日期减去指定年数。",
+  "source": "@site/docs/years_sub.md",
+  "sourceDirName": ".",
+  "slug": "/years_sub",
+  "permalink": "/docs/years_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "years_diff",
+    "permalink": "/docs/years_diff"
+  },
+  "next": {
+    "title": "yearweek",
+    "permalink": "/docs/yearweek"
+  }
+}

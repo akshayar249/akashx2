@@ -1,0 +1,23 @@
+{
+  "id": "deployment_overview",
+  "title": "部署总览",
+  "description": "本章节介绍如何在生产环境中部署、升级和降级 AkashX 集群。",
+  "source": "@site/docs/deployment_overview.md",
+  "sourceDirName": ".",
+  "slug": "/deployment_overview",
+  "permalink": "/docs/deployment_overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "手动部署 AkashX",
+    "permalink": "/docs/deploy_manually"
+  },
+  "next": {
+    "title": "部署前提条件",
+    "permalink": "/docs/deployment_prerequisites"
+  }
+}

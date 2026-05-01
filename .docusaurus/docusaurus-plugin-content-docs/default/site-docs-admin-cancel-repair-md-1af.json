@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_CANCEL_REPAIR",
+  "title": "ADMIN CANCEL REPAIR",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_CANCEL_REPAIR.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_CANCEL_REPAIR",
+  "permalink": "/docs/ADMIN_CANCEL_REPAIR",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADD SQLBLACKLIST",
+    "permalink": "/docs/ADD_SQLBLACKLIST"
+  },
+  "next": {
+    "title": "ADMIN CHECK TABLET",
+    "permalink": "/docs/ADMIN_CHECK_TABLET"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hll_union",
+  "title": "hll_union",
+  "description": "返回一组 HLL 值的并集。",
+  "source": "@site/docs/hll_union.md",
+  "sourceDirName": ".",
+  "slug": "/hll_union",
+  "permalink": "/docs/hll_union",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hll_raw_agg",
+    "permalink": "/docs/hll_raw_agg"
+  },
+  "next": {
+    "title": "hll_union_agg",
+    "permalink": "/docs/hll_union_agg"
+  }
+}

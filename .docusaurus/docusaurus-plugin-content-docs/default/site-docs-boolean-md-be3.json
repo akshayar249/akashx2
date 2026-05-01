@@ -1,0 +1,23 @@
+{
+  "id": "BOOLEAN",
+  "title": "BOOLEAN",
+  "description": "描述",
+  "source": "@site/docs/BOOLEAN.md",
+  "sourceDirName": ".",
+  "slug": "/BOOLEAN",
+  "permalink": "/docs/BOOLEAN",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap",
+    "permalink": "/docs/BITMAP"
+  },
+  "next": {
+    "title": "BROKER LOAD",
+    "permalink": "/docs/BROKER_LOAD"
+  }
+}

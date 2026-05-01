@@ -1,0 +1,23 @@
+{
+  "id": "flink_connector",
+  "title": "使用 Flink Connector 读取数据",
+  "description": "AkashX 提供自研的 Apache Flink® Connector (AkashX Connector for Apache Flink®)，支持通过 Flink 批量读取某个 AkashX 集群中的数据。",
+  "source": "@site/docs/flink_connector.md",
+  "sourceDirName": ".",
+  "slug": "/flink_connector",
+  "permalink": "/docs/flink_connector",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "find_in_set",
+    "permalink": "/docs/find_in_set"
+  },
+  "next": {
+    "title": "floor, dfloor",
+    "permalink": "/docs/floor"
+  }
+}

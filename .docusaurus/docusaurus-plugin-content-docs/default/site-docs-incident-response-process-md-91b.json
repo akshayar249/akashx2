@@ -1,0 +1,23 @@
+{
+  "id": "INCIDENT_RESPONSE_PROCESS",
+  "title": "Incident Response Process for **resolve**",
+  "description": "Reporting a Vulnerability",
+  "source": "@site/docs/INCIDENT_RESPONSE_PROCESS.md",
+  "sourceDirName": ".",
+  "slug": "/INCIDENT_RESPONSE_PROCESS",
+  "permalink": "/docs/INCIDENT_RESPONSE_PROCESS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.2.1 / 2019-05-10",
+    "permalink": "/docs/History"
+  },
+  "next": {
+    "title": "INSERT",
+    "permalink": "/docs/INSERT"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_STORAGE_VOLUME",
+  "title": "CREATE STORAGE VOLUME",
+  "description": "功能",
+  "source": "@site/docs/CREATE_STORAGE_VOLUME.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_STORAGE_VOLUME",
+  "permalink": "/docs/CREATE_STORAGE_VOLUME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE ROUTINE LOAD",
+    "permalink": "/docs/CREATE_ROUTINE_LOAD"
+  },
+  "next": {
+    "title": "CREATE TABLE",
+    "permalink": "/docs/CREATE_TABLE"
+  }
+}

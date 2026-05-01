@@ -1,0 +1,28 @@
+{
+  "id": "ALTER_RESOURCE",
+  "title": "ALTER RESOURCE",
+  "description": "功能",
+  "source": "@site/docs/ALTER_RESOURCE.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_RESOURCE",
+  "permalink": "/docs/ALTER_RESOURCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai",
+      "ziyuan"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER PIPE",
+    "permalink": "/docs/ALTER_PIPE"
+  },
+  "next": {
+    "title": "ALTER RESOURCE GROUP",
+    "permalink": "/docs/ALTER_RESOURCE_GROUP"
+  }
+}

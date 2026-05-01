@@ -1,0 +1,26 @@
+{
+  "id": "list_partitioning",
+  "title": "List 分区（不推荐）",
+  "description": "自  起，AkashX 支持 List 分区，数据按照您显式定义的枚举值列表进行分区，适用于按枚举值来查询和管理数据。",
+  "source": "@site/docs/list_partitioning.md",
+  "sourceDirName": ".",
+  "slug": "/list_partitioning",
+  "permalink": "/docs/list_partitioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Cache",
+    "permalink": "/docs/block_cache"
+  },
+  "next": {
+    "title": "相关参考",
+    "permalink": "/docs/mv_ref"
+  }
+}

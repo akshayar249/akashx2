@@ -1,0 +1,27 @@
+{
+  "id": "Monitor_and_Alert",
+  "title": "使用 Prometheus 和 Grafana 监控报警",
+  "description": "AkashX 支持基于 Prometheus 和 Grafana 实现可视化监控。该方式允许您可视化集群的运行情况，便于监控和故障排除。",
+  "source": "@site/docs/Monitor_and_Alert.md",
+  "sourceDirName": ".",
+  "slug": "/Monitor_and_Alert",
+  "permalink": "/docs/Monitor_and_Alert",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "jian kong"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Metabase",
+    "permalink": "/docs/Metabase"
+  },
+  "next": {
+    "title": "Notes",
+    "permalink": "/docs/Notes"
+  }
+}

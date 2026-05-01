@@ -1,0 +1,23 @@
+{
+  "id": "file_external_table",
+  "title": "文件外部表",
+  "description": "文件外部表 (File External Table) 是一种特殊的外部表。您可以通过文件外部表直接查询外部存储系统上的 Parquet 和 ORC 格式的数据文件，无需导入数据。同时，文件外部表也不依赖任何 Metastore。AkashX 当前支持的外部存储系统包括 HDFS、Amazon S3 及其他兼容 S3 协议的对象存储、阿里云对象存储 OSS 和腾讯云对象存储 COS。",
+  "source": "@site/docs/file_external_table.md",
+  "sourceDirName": ".",
+  "slug": "/file_external_table",
+  "permalink": "/docs/file_external_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "field",
+    "permalink": "/docs/field"
+  },
+  "next": {
+    "title": "文件管理器",
+    "permalink": "/docs/filemanager"
+  }
+}

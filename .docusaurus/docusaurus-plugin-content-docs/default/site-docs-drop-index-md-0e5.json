@@ -1,0 +1,27 @@
+{
+  "id": "DROP_INDEX",
+  "title": "DROP INDEX",
+  "description": "功能",
+  "source": "@site/docs/DROP_INDEX.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_INDEX",
+  "permalink": "/docs/DROP_INDEX",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP FUNCTION",
+    "permalink": "/docs/DROP_FUNCTION"
+  },
+  "next": {
+    "title": "DROP MATERIALIZED VIEW",
+    "permalink": "/docs/DROP_MATERIALIZED_VIEW"
+  }
+}

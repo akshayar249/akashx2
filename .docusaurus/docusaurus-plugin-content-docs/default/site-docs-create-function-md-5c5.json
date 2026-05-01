@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_FUNCTION",
+  "title": "CREATE FUNCTION",
+  "description": "功能",
+  "source": "@site/docs/CREATE_FUNCTION.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_FUNCTION",
+  "permalink": "/docs/CREATE_FUNCTION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE FILE",
+    "permalink": "/docs/CREATE_FILE"
+  },
+  "next": {
+    "title": "CREATE INDEX",
+    "permalink": "/docs/CREATE_INDEX"
+  }
+}

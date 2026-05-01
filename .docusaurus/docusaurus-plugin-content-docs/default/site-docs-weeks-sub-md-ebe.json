@@ -1,0 +1,23 @@
+{
+  "id": "weeks_sub",
+  "title": "weeks_sub",
+  "description": "返回原始的日期减去若干周后的日期。",
+  "source": "@site/docs/weeks_sub.md",
+  "sourceDirName": ".",
+  "slug": "/weeks_sub",
+  "permalink": "/docs/weeks_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weeks_diff",
+    "permalink": "/docs/weeks_diff"
+  },
+  "next": {
+    "title": "什么是 AkashX",
+    "permalink": "/docs/what_is_akashx"
+  }
+}

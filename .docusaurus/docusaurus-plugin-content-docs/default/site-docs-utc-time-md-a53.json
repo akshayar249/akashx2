@@ -1,0 +1,23 @@
+{
+  "id": "utc_time",
+  "title": "utc_time",
+  "description": "現在の UTC 時刻を 'HHSS' の形式で返します。",
+  "source": "@site/docs/utc_time.md",
+  "sourceDirName": ".",
+  "slug": "/utc_time",
+  "permalink": "/docs/utc_time",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "user_privileges",
+    "permalink": "/docs/user_privileges"
+  },
+  "next": {
+    "title": "utc_timestamp",
+    "permalink": "/docs/utc_timestamp"
+  }
+}

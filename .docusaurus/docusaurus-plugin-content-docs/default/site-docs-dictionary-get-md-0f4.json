@@ -1,0 +1,23 @@
+{
+  "id": "dictionary_get",
+  "title": "dictionary_get",
+  "description": "查询字典对象中 key 映射的 value。",
+  "source": "@site/docs/dictionary_get.md",
+  "sourceDirName": ".",
+  "slug": "/dictionary_get",
+  "permalink": "/docs/dictionary_get",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dict_mapping",
+    "permalink": "/docs/dict_mapping"
+  },
+  "next": {
+    "title": "distinct_map_keys",
+    "permalink": "/docs/distinct_map_keys"
+  }
+}

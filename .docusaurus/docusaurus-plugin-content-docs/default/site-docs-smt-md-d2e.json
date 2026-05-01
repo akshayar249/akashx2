@@ -1,0 +1,23 @@
+{
+  "id": "SMT",
+  "title": "AkashX migration tool（SMT）",
+  "description": "AkashX migration tool（简称 SMT）是 AkashX 提供的数据迁移工具，用于将源数据库的数据通过 Flink 导入 AkashX。其主要有两个功能：",
+  "source": "@site/docs/SMT.md",
+  "sourceDirName": ".",
+  "slug": "/SMT",
+  "permalink": "/docs/SMT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SMALLINT",
+    "permalink": "/docs/SMALLINT"
+  },
+  "next": {
+    "title": "SPARK LOAD",
+    "permalink": "/docs/SPARK_LOAD"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "split",
+  "title": "split",
+  "description": "根据分隔符拆分字符串，将拆分后的所有字符串以 ARRAY 的格式返回。",
+  "source": "@site/docs/split.md",
+  "sourceDirName": ".",
+  "slug": "/split",
+  "permalink": "/docs/split",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Spark Connector 读取数据",
+    "permalink": "/docs/spark_connector"
+  },
+  "next": {
+    "title": "split_part",
+    "permalink": "/docs/split_part"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "VARCHAR",
+  "title": "VARCHAR",
+  "description": "描述",
+  "source": "@site/docs/VARCHAR.md",
+  "sourceDirName": ".",
+  "slug": "/VARCHAR",
+  "permalink": "/docs/VARCHAR",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "USE",
+    "permalink": "/docs/USE"
+  },
+  "next": {
+    "title": "视频资源",
+    "permalink": "/docs/Video"
+  }
+}

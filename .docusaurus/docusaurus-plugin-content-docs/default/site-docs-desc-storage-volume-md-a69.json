@@ -1,0 +1,23 @@
+{
+  "id": "DESC_STORAGE_VOLUME",
+  "title": "DESC STORAGE VOLUME",
+  "description": "功能",
+  "source": "@site/docs/DESC_STORAGE_VOLUME.md",
+  "sourceDirName": ".",
+  "slug": "/DESC_STORAGE_VOLUME",
+  "permalink": "/docs/DESC_STORAGE_VOLUME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DESC",
+    "permalink": "/docs/DESCRIBE"
+  },
+  "next": {
+    "title": "DOUBLE",
+    "permalink": "/docs/DOUBLE"
+  }
+}

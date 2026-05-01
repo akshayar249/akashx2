@@ -1,0 +1,26 @@
+{
+  "id": "duplicate_key_table",
+  "title": "明细表",
+  "description": "明细表是默认创建的表类型。如果在建表时未指定任何 key，默认创建的是明细表。",
+  "source": "@site/docs/duplicate_key_table.md",
+  "sourceDirName": ".",
+  "slug": "/duplicate_key_table",
+  "permalink": "/docs/duplicate_key_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用物化视图加速数据湖查询",
+    "permalink": "/docs/data_lake_query_acceleration_with_materialized_views"
+  },
+  "next": {
+    "title": "Range 分区（不推荐）",
+    "permalink": "/docs/dynamic_partitioning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "truncate",
+  "title": "truncate",
+  "description": "返回数值 x 保留到小数点后 y 位的值。",
+  "source": "@site/docs/truncate.md",
+  "sourceDirName": ".",
+  "slug": "/truncate",
+  "permalink": "/docs/truncate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/troubleshooting_loading"
+  },
+  "next": {
+    "title": "ucase",
+    "permalink": "/docs/ucase"
+  }
+}

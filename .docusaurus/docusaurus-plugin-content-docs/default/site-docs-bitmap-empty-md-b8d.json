@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_empty",
+  "title": "bitmap_empty",
+  "description": "返回一个空 bitmap，主要用于 insert 或 stream load 时填充默认值，如下例:",
+  "source": "@site/docs/bitmap_empty.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_empty",
+  "permalink": "/docs/bitmap_empty",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_count",
+    "permalink": "/docs/bitmap_count"
+  },
+  "next": {
+    "title": "bitmap_from_binary",
+    "permalink": "/docs/bitmap_from_binary"
+  }
+}

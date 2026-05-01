@@ -1,0 +1,27 @@
+{
+  "id": "CANCEL_RESTORE",
+  "title": "CANCEL RESTORE",
+  "description": "取消指定数据库中一个正在进行的恢复任务。",
+  "source": "@site/docs/CANCEL_RESTORE.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_RESTORE",
+  "permalink": "/docs/CANCEL_RESTORE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL REFRESH MATERIALIZED VIEW",
+    "permalink": "/docs/CANCEL_REFRESH_MATERIALIZED_VIEW"
+  },
+  "next": {
+    "title": "3.0.0",
+    "permalink": "/docs/CHANGELOG"
+  }
+}

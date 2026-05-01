@@ -1,0 +1,25 @@
+{
+  "id": "helm",
+  "title": "使用 Helm 部署 AkashX",
+  "description": "使用 Helm 部署 AkashX",
+  "source": "@site/docs/helm.md",
+  "sourceDirName": ".",
+  "slug": "/helm",
+  "permalink": "/docs/helm",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "使用 Helm 部署 AkashX"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 HDFS 导入",
+    "permalink": "/docs/hdfs_load"
+  },
+  "next": {
+    "title": "hex_decode_binary",
+    "permalink": "/docs/hex_decode_binary"
+  }
+}

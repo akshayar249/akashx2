@@ -1,0 +1,23 @@
+{
+  "id": "Spark-connector-akashx",
+  "title": "使用 Spark connector 导入数据（推荐）",
+  "description": "AkashX 提供 Apache Spark™ 连接器 (AkashX Connector for Apache Spark™)，可以通过 Spark 导入数据至 AkashX（推荐）。",
+  "source": "@site/docs/Spark-connector-akashx.md",
+  "sourceDirName": ".",
+  "slug": "/Spark-connector-akashx",
+  "permalink": "/docs/Spark-connector-akashx",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "扩容缩容 AkashX",
+    "permalink": "/docs/Scale_up_down"
+  },
+  "next": {
+    "title": "使用 Spark Load 批量导入数据",
+    "permalink": "/docs/SparkLoad"
+  }
+}

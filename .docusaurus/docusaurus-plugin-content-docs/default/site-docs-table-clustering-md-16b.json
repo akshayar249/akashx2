@@ -1,0 +1,26 @@
+{
+  "id": "table_clustering",
+  "title": "表聚类",
+  "description": "精心设计的排序键是 AkashX 中最具杠杆效应的物理设计调节器。本指南解释了排序键在底层的工作原理、它所解锁的系统性优势，以及为您的工作负载选择有效键的具体操作手册。",
+  "source": "@site/docs/table_clustering.md",
+  "sourceDirName": ".",
+  "slug": "/table_clustering",
+  "permalink": "/docs/table_clustering",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通过安全集成认证用户",
+    "permalink": "/docs/security_integration"
+  },
+  "next": {
+    "title": "内置角色",
+    "permalink": "/docs/built_in_roles"
+  }
+}

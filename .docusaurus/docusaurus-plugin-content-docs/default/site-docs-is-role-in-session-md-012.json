@@ -1,0 +1,23 @@
+{
+  "id": "is_role_in_session",
+  "title": "is_role_in_session",
+  "description": "用于检查指定的角色（包括嵌套角色）在当前会话下是否已经激活。",
+  "source": "@site/docs/is_role_in_session.md",
+  "sourceDirName": ".",
+  "slug": "/is_role_in_session",
+  "permalink": "/docs/is_role_in_session",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "intersect_count",
+    "permalink": "/docs/intersect_count"
+  },
+  "next": {
+    "title": "isnotnull",
+    "permalink": "/docs/isnotnull"
+  }
+}

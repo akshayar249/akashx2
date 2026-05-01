@@ -1,0 +1,23 @@
+{
+  "id": "columns",
+  "title": "columns",
+  "description": "columns 包含有关所有表（或视图）中列的信息。",
+  "source": "@site/docs/columns.md",
+  "sourceDirName": ".",
+  "slug": "/columns",
+  "permalink": "/docs/columns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "column_stats_usage",
+    "permalink": "/docs/column_stats_usage"
+  },
+  "next": {
+    "title": "存算分离集群 Compaction",
+    "permalink": "/docs/compaction"
+  }
+}

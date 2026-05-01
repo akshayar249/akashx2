@@ -1,0 +1,23 @@
+{
+  "id": "REVOKE",
+  "title": "REVOKE",
+  "description": "功能",
+  "source": "@site/docs/REVOKE.md",
+  "sourceDirName": ".",
+  "slug": "/REVOKE",
+  "permalink": "/docs/REVOKE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RETRY FILE",
+    "permalink": "/docs/RETRY_FILE"
+  },
+  "next": {
+    "title": "管理副本",
+    "permalink": "/docs/Replica"
+  }
+}

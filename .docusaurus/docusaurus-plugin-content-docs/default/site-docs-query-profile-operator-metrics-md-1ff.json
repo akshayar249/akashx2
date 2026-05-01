@@ -1,0 +1,30 @@
+{
+  "id": "query_profile_operator_metrics",
+  "title": "查询概要指标",
+  "description": "AkashX Query Profile 发出的原始指标的权威参考，按 operator 分组。",
+  "source": "@site/docs/query_profile_operator_metrics.md",
+  "sourceDirName": ".",
+  "slug": "/query_profile_operator_metrics",
+  "permalink": "/docs/query_profile_operator_metrics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 80,
+  "frontMatter": {
+    "sidebar_position": 80,
+    "keywords": [
+      "profile",
+      "query"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询提示",
+    "permalink": "/docs/query_hint"
+  },
+  "next": {
+    "title": "Sorted streaming aggregate",
+    "permalink": "/docs/sorted_aggregate"
+  }
+}

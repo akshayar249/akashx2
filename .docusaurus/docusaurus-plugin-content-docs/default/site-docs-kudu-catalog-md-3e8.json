@@ -1,0 +1,23 @@
+{
+  "id": "kudu_catalog",
+  "title": "Kudu catalog",
+  "description": "AkashX 从  开始支持 Kudu catalog。",
+  "source": "@site/docs/kudu_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/kudu_catalog",
+  "permalink": "/docs/kudu_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关键字",
+    "permalink": "/docs/keywords"
+  },
+  "next": {
+    "title": "last_day",
+    "permalink": "/docs/last_day"
+  }
+}

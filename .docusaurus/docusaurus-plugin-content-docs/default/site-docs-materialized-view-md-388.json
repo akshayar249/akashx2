@@ -1,0 +1,31 @@
+{
+  "id": "Materialized_view",
+  "title": "异步物化视图",
+  "description": "本文介绍如何理解、创建、使用和管理 AkashX 中的异步物化视图。AkashX 自 2.4 版本起支持异步物化视图。",
+  "source": "@site/docs/Materialized_view.md",
+  "sourceDirName": ".",
+  "slug": "/Materialized_view",
+  "permalink": "/docs/Materialized_view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "keywords": [
+      "wuhua",
+      "Wuhuashitu",
+      "yibu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CBO 统计信息",
+    "permalink": "/docs/Cost_based_optimizer"
+  },
+  "next": {
+    "title": "前缀索引和排序键",
+    "permalink": "/docs/Prefix_index_sort_key"
+  }
+}

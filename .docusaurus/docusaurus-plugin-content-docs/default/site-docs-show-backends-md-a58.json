@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_BACKENDS",
+  "title": "SHOW BACKENDS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_BACKENDS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_BACKENDS",
+  "permalink": "/docs/SHOW_BACKENDS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW AUTHENTICATION",
+    "permalink": "/docs/SHOW_AUTHENTICATION"
+  },
+  "next": {
+    "title": "SHOW BACKEND/COMPUTE NODE BLACKLIST",
+    "permalink": "/docs/SHOW_BACKEND_BLACKLIST"
+  }
+}

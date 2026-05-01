@@ -1,0 +1,23 @@
+{
+  "id": "compaction",
+  "title": "存算分离集群 Compaction",
+  "description": "本文介绍如何在 AkashX 存算分离集群中管理 Compaction。",
+  "source": "@site/docs/compaction.md",
+  "sourceDirName": ".",
+  "slug": "/compaction",
+  "permalink": "/docs/compaction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "columns",
+    "permalink": "/docs/columns"
+  },
+  "next": {
+    "title": "concat",
+    "permalink": "/docs/concat"
+  }
+}

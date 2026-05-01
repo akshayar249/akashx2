@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_ROUTINE_LOAD",
+  "title": "SHOW ROUTINE LOAD",
+  "description": "功能",
+  "source": "@site/docs/SHOW_ROUTINE_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_ROUTINE_LOAD",
+  "permalink": "/docs/SHOW_ROUTINE_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW ROLES",
+    "permalink": "/docs/SHOW_ROLES"
+  },
+  "next": {
+    "title": "SHOW ROUTINE LOAD TASK",
+    "permalink": "/docs/SHOW_ROUTINE_LOAD_TASK"
+  }
+}

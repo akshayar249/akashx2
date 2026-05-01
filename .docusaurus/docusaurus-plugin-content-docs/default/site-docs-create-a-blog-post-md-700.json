@@ -1,0 +1,26 @@
+{
+  "id": "create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/create-a-blog-post.md",
+  "sourceDirName": ".",
+  "slug": "/create-a-blog-post",
+  "permalink": "/docs/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/translate-your-site"
+  },
+  "next": {
+    "title": "Apache Iceberg Lakehouse",
+    "permalink": "/docs/iceberg"
+  }
+}

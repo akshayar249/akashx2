@@ -1,0 +1,23 @@
+{
+  "id": "DROP_STATS",
+  "title": "DROP STATS",
+  "description": "功能",
+  "source": "@site/docs/DROP_STATS.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_STATS",
+  "permalink": "/docs/DROP_STATS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP ROLE",
+    "permalink": "/docs/DROP_ROLE"
+  },
+  "next": {
+    "title": "DROP STORAGE VOLUME",
+    "permalink": "/docs/DROP_STORAGE_VOLUME"
+  }
+}

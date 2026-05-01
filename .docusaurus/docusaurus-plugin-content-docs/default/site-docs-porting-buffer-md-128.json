@@ -1,0 +1,23 @@
+{
+  "id": "Porting-Buffer",
+  "title": "Porting to the Buffer.from/Buffer.alloc API",
+  "description": "Overview",
+  "source": "@site/docs/Porting-Buffer.md",
+  "sourceDirName": ".",
+  "slug": "/Porting-Buffer",
+  "permalink": "/docs/Porting-Buffer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PULL_REQUEST_TEMPLATE",
+    "permalink": "/docs/PULL_REQUEST_TEMPLATE"
+  },
+  "next": {
+    "title": "优化性能",
+    "permalink": "/docs/Profiling"
+  }
+}

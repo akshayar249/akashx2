@@ -1,0 +1,23 @@
+{
+  "id": "applicable_roles",
+  "title": "applicable_roles",
+  "description": "applicable_roles 提供有关适用于当前用户的角色的信息。",
+  "source": "@site/docs/applicable_roles.md",
+  "sourceDirName": ".",
+  "slug": "/applicable_roles",
+  "permalink": "/docs/applicable_roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "append_trailing_char_if_absent",
+    "permalink": "/docs/append_trailing_char_if_absent"
+  },
+  "next": {
+    "title": "approx_count_distinct",
+    "permalink": "/docs/approx_count_distinct"
+  }
+}

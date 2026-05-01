@@ -1,0 +1,26 @@
+{
+  "id": "data_compression",
+  "title": "数据压缩",
+  "description": "AkashX 支持对表和索引数据进行压缩 (compression)。数据压缩不仅有助于节省存储空间，还可以提高 I/O 密集型任务的性能。请注意，压缩和解压缩数据需要额外的 CPU 资源。",
+  "source": "@site/docs/data_compression.md",
+  "sourceDirName": ".",
+  "slug": "/data_compression",
+  "permalink": "/docs/data_compression",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Lateral Join 实现列转行",
+    "permalink": "/docs/Lateral_join"
+  },
+  "next": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-asynchronous-materialized-views"
+  }
+}

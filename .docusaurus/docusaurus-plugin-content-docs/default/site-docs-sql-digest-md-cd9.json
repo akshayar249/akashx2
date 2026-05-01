@@ -1,0 +1,23 @@
+{
+  "id": "sql_digest",
+  "title": "SQL Digest",
+  "description": "本文介绍 AkashX 的 SQL Digest 功能。该功能从  开始支持。",
+  "source": "@site/docs/sql_digest.md",
+  "sourceDirName": ".",
+  "slug": "/sql_digest",
+  "permalink": "/docs/sql_digest",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "split_part",
+    "permalink": "/docs/split_part"
+  },
+  "next": {
+    "title": "sqrt, dsqrt",
+    "permalink": "/docs/sqrt"
+  }
+}

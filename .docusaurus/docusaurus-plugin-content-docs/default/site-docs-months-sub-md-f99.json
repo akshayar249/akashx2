@@ -1,0 +1,23 @@
+{
+  "id": "months_sub",
+  "title": "months_sub",
+  "description": "从日期中减去指定的月数。",
+  "source": "@site/docs/months_sub.md",
+  "sourceDirName": ".",
+  "slug": "/months_sub",
+  "permalink": "/docs/months_sub",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "months_diff",
+    "permalink": "/docs/months_diff"
+  },
+  "next": {
+    "title": "multi_distinct_count",
+    "permalink": "/docs/multi_distinct_count"
+  }
+}

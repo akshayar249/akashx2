@@ -1,0 +1,26 @@
+{
+  "id": "privilege_faq",
+  "title": "权限系统 FAQ",
+  "description": "为什么已经赋予角色给用户，但用户执行 SQL 时仍旧报错没有权限？",
+  "source": "@site/docs/privilege_faq.md",
+  "sourceDirName": ".",
+  "slug": "/privilege_faq",
+  "permalink": "/docs/privilege_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OAuth 2.0 认证",
+    "permalink": "/docs/oauth2_authentication"
+  },
+  "next": {
+    "title": "Schema Tuning Recipes",
+    "permalink": "/docs/schema_tuning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sys",
+  "title": "系统元数据库",
+  "description": "本文介绍如何通过系统定义的视图查看 AkashX 集群中独有的的元数据。",
+  "source": "@site/docs/sys.md",
+  "sourceDirName": ".",
+  "slug": "/sys",
+  "permalink": "/docs/sys",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MySQL 实时同步至 AkashX 常见问题",
+    "permalink": "/docs/synchronize_mysql_into_sr"
+  },
+  "next": {
+    "title": "table_constraints",
+    "permalink": "/docs/table_constraints"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ALTER_USER",
+  "title": "ALTER USER",
+  "description": "功能",
+  "source": "@site/docs/ALTER_USER.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_USER",
+  "permalink": "/docs/ALTER_USER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER TABLE",
+    "permalink": "/docs/ALTER_TABLE"
+  },
+  "next": {
+    "title": "ALTER VIEW",
+    "permalink": "/docs/ALTER_VIEW"
+  }
+}

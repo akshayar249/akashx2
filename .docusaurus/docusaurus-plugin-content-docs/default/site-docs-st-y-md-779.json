@@ -1,0 +1,23 @@
+{
+  "id": "st_y",
+  "title": "ST_Y",
+  "description": "当 point 是一个合法的 POINT 类型时，返回对应的 Y 坐标值。",
+  "source": "@site/docs/st_y.md",
+  "sourceDirName": ".",
+  "slug": "/st_y",
+  "permalink": "/docs/st_y",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_X",
+    "permalink": "/docs/st_x"
+  },
+  "next": {
+    "title": "使用 StarGo 部署管理 AkashX",
+    "permalink": "/docs/stargo"
+  }
+}

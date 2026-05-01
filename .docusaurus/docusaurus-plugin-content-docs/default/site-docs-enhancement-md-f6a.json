@@ -1,0 +1,27 @@
+{
+  "id": "enhancement",
+  "title": "enhancement",
+  "description": "Enhancement",
+  "source": "@site/docs/enhancement.md",
+  "sourceDirName": ".",
+  "slug": "/enhancement",
+  "permalink": "/docs/enhancement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "Enhancement",
+    "about": "I want to make an enhancement.",
+    "labels": "type/enhancement"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "engines",
+    "permalink": "/docs/engines"
+  },
+  "next": {
+    "title": "检查环境配置",
+    "permalink": "/docs/environment_configurations"
+  }
+}

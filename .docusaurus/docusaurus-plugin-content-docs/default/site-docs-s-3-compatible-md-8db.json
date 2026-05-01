@@ -1,0 +1,23 @@
+{
+  "id": "s3_compatible",
+  "title": "从其他兼容 S3 协议的对象存储导入",
+  "description": "AkashX 支持通过两种方式从云存储系统导入大批量数据：Broker Load 和 INSERT。",
+  "source": "@site/docs/s3_compatible.md",
+  "sourceDirName": ".",
+  "slug": "/s3_compatible",
+  "permalink": "/docs/s3_compatible",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 AWS S3 导入",
+    "permalink": "/docs/s3"
+  },
+  "next": {
+    "title": "schema_privileges",
+    "permalink": "/docs/schema_privileges"
+  }
+}

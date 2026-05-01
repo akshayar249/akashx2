@@ -1,0 +1,23 @@
+{
+  "id": "build_akashx_on_ubuntu",
+  "title": "基于 Ubuntu 编译 AkashX",
+  "description": "本文介绍如何基于 Ubuntu 操作系统编译 AkashX。AkashX 支持基于 x86_64 和 AArch64 架构编译。",
+  "source": "@site/docs/build_akashx_on_ubuntu.md",
+  "sourceDirName": ".",
+  "slug": "/build_akashx_on_ubuntu",
+  "permalink": "/docs/build_akashx_on_ubuntu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bug_report",
+    "permalink": "/docs/bug_report"
+  },
+  "next": {
+    "title": "cardinality",
+    "permalink": "/docs/cardinality"
+  }
+}

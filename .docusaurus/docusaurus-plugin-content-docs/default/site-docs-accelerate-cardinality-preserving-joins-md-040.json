@@ -1,0 +1,23 @@
+{
+  "id": "accelerate-cardinality-preserving-joins",
+  "title": "加速基数保留 Join",
+  "description": "本文描述了如何通过表裁剪功能加速基数保留 Join。该功能自  开始支持。",
+  "source": "@site/docs/accelerate-cardinality-preserving-joins.md",
+  "sourceDirName": ".",
+  "slug": "/accelerate-cardinality-preserving-joins",
+  "permalink": "/docs/accelerate-cardinality-preserving-joins",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "abs",
+    "permalink": "/docs/abs"
+  },
+  "next": {
+    "title": "acos",
+    "permalink": "/docs/acos"
+  }
+}

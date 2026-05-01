@@ -1,0 +1,23 @@
+{
+  "id": "CHANGELOG",
+  "title": "3.0.0",
+  "description": "* Implement options.tmpfileCreated callback.",
+  "source": "@site/docs/CHANGELOG.md",
+  "sourceDirName": ".",
+  "slug": "/CHANGELOG",
+  "permalink": "/docs/CHANGELOG",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL RESTORE",
+    "permalink": "/docs/CANCEL_RESTORE"
+  },
+  "next": {
+    "title": "node-trace-event changelog",
+    "permalink": "/docs/CHANGES"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stddev",
+  "title": "stddev, stddev_pop, std",
+  "description": "返回 expr 表达式的总体标准差。从 2.5.10 版本开始，该函数也可以用作窗口函数。",
+  "source": "@site/docs/stddev.md",
+  "sourceDirName": ".",
+  "slug": "/stddev",
+  "permalink": "/docs/stddev",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "std",
+    "permalink": "/docs/std"
+  },
+  "next": {
+    "title": "stddev_samp",
+    "permalink": "/docs/stddev_samp"
+  }
+}

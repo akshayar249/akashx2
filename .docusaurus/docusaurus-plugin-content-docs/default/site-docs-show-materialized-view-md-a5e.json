@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_MATERIALIZED_VIEW",
+  "title": "SHOW MATERIALIZED VIEWS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_MATERIALIZED_VIEW",
+  "permalink": "/docs/SHOW_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW LOAD",
+    "permalink": "/docs/SHOW_LOAD"
+  },
+  "next": {
+    "title": "SHOW META",
+    "permalink": "/docs/SHOW_META"
+  }
+}

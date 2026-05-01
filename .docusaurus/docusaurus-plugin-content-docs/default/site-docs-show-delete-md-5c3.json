@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_DELETE",
+  "title": "SHOW DELETE",
+  "description": "功能",
+  "source": "@site/docs/SHOW_DELETE.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_DELETE",
+  "permalink": "/docs/SHOW_DELETE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW DATABASES",
+    "permalink": "/docs/SHOW_DATABASES"
+  },
+  "next": {
+    "title": "SHOW DICTIONARY",
+    "permalink": "/docs/SHOW_DICTIONARY"
+  }
+}

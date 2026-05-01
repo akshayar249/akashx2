@@ -1,0 +1,23 @@
+{
+  "id": "InsertInto",
+  "title": "通过 INSERT 语句导入数据",
+  "description": "本文介绍如何使用 INSERT 语句向 AkashX 导入数据。",
+  "source": "@site/docs/InsertInto.md",
+  "sourceDirName": ".",
+  "slug": "/InsertInto",
+  "permalink": "/docs/InsertInto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Issue Title",
+    "permalink": "/docs/ISSUE_TEMPLATE"
+  },
+  "next": {
+    "title": "INSERT INTO 导入常见问题",
+    "permalink": "/docs/Insert_into_faq"
+  }
+}

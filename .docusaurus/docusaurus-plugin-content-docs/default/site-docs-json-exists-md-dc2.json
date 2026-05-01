@@ -1,0 +1,23 @@
+{
+  "id": "json_exists",
+  "title": "json_exists",
+  "description": "检查一个 JSON 对象是否包含可以通过 jsonpath 表达式定位的元素。如果元素存在，JSONEXISTS 函数返回 1。否则，JSON_EXISTS 函数返回 0。",
+  "source": "@site/docs/json_exists.md",
+  "sourceDirName": ".",
+  "slug": "/json_exists",
+  "permalink": "/docs/json_exists",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_each",
+    "permalink": "/docs/json_each"
+  },
+  "next": {
+    "title": "json_keys",
+    "permalink": "/docs/json_keys"
+  }
+}

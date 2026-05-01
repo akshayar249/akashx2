@@ -1,0 +1,23 @@
+{
+  "id": "acos",
+  "title": "acos",
+  "description": "返回 x 的反余弦值（单位为弧度）。x 为 DOUBLE 类型的数值。",
+  "source": "@site/docs/acos.md",
+  "sourceDirName": ".",
+  "slug": "/acos",
+  "permalink": "/docs/acos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "加速基数保留 Join",
+    "permalink": "/docs/accelerate-cardinality-preserving-joins"
+  },
+  "next": {
+    "title": "add_months",
+    "permalink": "/docs/add_months"
+  }
+}

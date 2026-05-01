@@ -1,0 +1,23 @@
+{
+  "id": "fe_tablet_schedules",
+  "title": "fe_tablet_schedules",
+  "description": "fetabletschedules 提供有关 FE 节点上 Tablet 调度任务的信息。",
+  "source": "@site/docs/fe_tablet_schedules.md",
+  "sourceDirName": ".",
+  "slug": "/fe_tablet_schedules",
+  "permalink": "/docs/fe_tablet_schedules",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fe_metrics",
+    "permalink": "/docs/fe_metrics"
+  },
+  "next": {
+    "title": "feature-request",
+    "permalink": "/docs/feature-request"
+  }
+}

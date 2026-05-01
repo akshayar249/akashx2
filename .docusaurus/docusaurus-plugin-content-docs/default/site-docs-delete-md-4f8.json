@@ -1,0 +1,23 @@
+{
+  "id": "DELETE",
+  "title": "DELETE",
+  "description": "该语句用于从表中删除数据行。表可以是分区表或者非分区表。",
+  "source": "@site/docs/DELETE.md",
+  "sourceDirName": ".",
+  "slug": "/DELETE",
+  "permalink": "/docs/DELETE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DECIMAL",
+    "permalink": "/docs/DECIMAL"
+  },
+  "next": {
+    "title": "DELETE BACKEND/COMPUTE NOT BLACKLIST",
+    "permalink": "/docs/DELETE_BACKEND_BLACKLIST"
+  }
+}

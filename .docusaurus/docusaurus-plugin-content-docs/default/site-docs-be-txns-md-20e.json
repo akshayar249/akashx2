@@ -1,0 +1,23 @@
+{
+  "id": "be_txns",
+  "title": "be_txns",
+  "description": "be_txns 提供有关每个 BE 节点上事务的信息。",
+  "source": "@site/docs/be_txns.md",
+  "sourceDirName": ".",
+  "slug": "/be_txns",
+  "permalink": "/docs/be_txns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_threads",
+    "permalink": "/docs/be_threads"
+  },
+  "next": {
+    "title": "bin",
+    "permalink": "/docs/bin"
+  }
+}

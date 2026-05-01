@@ -1,0 +1,23 @@
+{
+  "id": "debuginfo",
+  "title": "使用 debuginfo 文件进行调试",
+  "description": "为了降低 AkashX 二进制包的空间占用，自 2.5 版本开始，我们将 AkashX BE 二进制中的调试信息 debuginfo 文件单独分离并打包提供下载。",
+  "source": "@site/docs/debuginfo.md",
+  "sourceDirName": ".",
+  "slug": "/debuginfo",
+  "permalink": "/docs/debuginfo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dbt",
+    "permalink": "/docs/dbt"
+  },
+  "next": {
+    "title": "Default catalog",
+    "permalink": "/docs/default_catalog"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "inspect_all_pipes",
+  "title": "inspect_all_pipes",
+  "description": "inspectallpipes()",
+  "source": "@site/docs/inspect_all_pipes.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_all_pipes",
+  "permalink": "/docs/inspect_all_pipes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Information Schema",
+    "permalink": "/docs/information_schema"
+  },
+  "next": {
+    "title": "inspect_hive_part_info",
+    "permalink": "/docs/inspect_hive_part_info"
+  }
+}

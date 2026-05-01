@@ -1,0 +1,25 @@
+{
+  "id": "fe_mem_faq",
+  "title": "FE 堆内存故障排查",
+  "description": "本主题描述了如何在 AkashX 中排查 FE 堆内存问题。",
+  "source": "@site/docs/fe_mem_faq.md",
+  "sourceDirName": ".",
+  "slug": "/fe_mem_faq",
+  "permalink": "/docs/fe_mem_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "FE 内存 FAQ"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fe_locks",
+    "permalink": "/docs/fe_locks"
+  },
+  "next": {
+    "title": "fe_metrics",
+    "permalink": "/docs/fe_metrics"
+  }
+}

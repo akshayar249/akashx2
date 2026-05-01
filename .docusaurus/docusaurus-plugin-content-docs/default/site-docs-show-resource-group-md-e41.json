@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_RESOURCE_GROUP",
+  "title": "SHOW RESOURCE GROUP",
+  "description": "功能",
+  "source": "@site/docs/SHOW_RESOURCE_GROUP.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_RESOURCE_GROUP",
+  "permalink": "/docs/SHOW_RESOURCE_GROUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW RESOURCES",
+    "permalink": "/docs/SHOW_RESOURCES"
+  },
+  "next": {
+    "title": "SHOW RESTORE",
+    "permalink": "/docs/SHOW_RESTORE"
+  }
+}

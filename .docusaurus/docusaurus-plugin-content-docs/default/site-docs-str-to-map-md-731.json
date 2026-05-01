@@ -1,0 +1,23 @@
+{
+  "id": "str_to_map",
+  "title": "str_to_map",
+  "description": "将给定的字符串分割成键值对 (Key-Value pair)，返回包含这些键值对的 Map。",
+  "source": "@site/docs/str_to_map.md",
+  "sourceDirName": ".",
+  "slug": "/str_to_map",
+  "permalink": "/docs/str_to_map",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "str_to_jodatime",
+    "permalink": "/docs/str_to_jodatime"
+  },
+  "next": {
+    "title": "strcmp",
+    "permalink": "/docs/strcmp"
+  }
+}

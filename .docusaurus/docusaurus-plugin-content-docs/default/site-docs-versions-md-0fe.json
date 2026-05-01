@@ -1,0 +1,26 @@
+{
+  "id": "versions",
+  "title": "版本发布指南",
+  "description": "版本命名的详细信息请参阅版本控制文档。首先阅读该页面以了解主版本、次版本和补丁版本的命名规则。",
+  "source": "@site/docs/versions.md",
+  "sourceDirName": ".",
+  "slug": "/versions",
+  "permalink": "/docs/versions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "存算一体",
+    "permalink": "/docs/shared-nothing"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/create-a-document"
+  }
+}

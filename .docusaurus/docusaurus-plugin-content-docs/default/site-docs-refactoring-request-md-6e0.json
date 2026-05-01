@@ -1,0 +1,27 @@
+{
+  "id": "refactoring-request",
+  "title": "refactoring-request",
+  "description": "Refactoring request",
+  "source": "@site/docs/refactoring-request.md",
+  "sourceDirName": ".",
+  "slug": "/refactoring-request",
+  "permalink": "/docs/refactoring-request",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "Refactoring Request",
+    "about": "Suggest a refactoring for this project",
+    "labels": "type/refactoring-request"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recyclebin_catalogs",
+    "permalink": "/docs/recyclebin_catalogs"
+  },
+  "next": {
+    "title": "referential_constraints",
+    "permalink": "/docs/referential_constraints"
+  }
+}

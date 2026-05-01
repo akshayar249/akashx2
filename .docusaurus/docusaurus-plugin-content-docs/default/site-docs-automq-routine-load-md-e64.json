@@ -1,0 +1,23 @@
+{
+  "id": "automq-routine-load",
+  "title": "从 AutoMQ Kafka 持续导入",
+  "description": "AutoMQ for Kafka AutoMQ Kafka ) 是一款基于云重新设计的云原生 Kafka。",
+  "source": "@site/docs/automq-routine-load.md",
+  "sourceDirName": ".",
+  "slug": "/automq-routine-load",
+  "permalink": "/docs/automq-routine-load",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AUTO_INCREMENT",
+    "permalink": "/docs/auto_increment"
+  },
+  "next": {
+    "title": "avg",
+    "permalink": "/docs/avg"
+  }
+}

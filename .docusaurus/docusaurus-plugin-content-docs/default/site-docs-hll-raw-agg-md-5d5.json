@@ -1,0 +1,23 @@
+{
+  "id": "hll_raw_agg",
+  "title": "hll_raw_agg",
+  "description": "此函数为聚合函数，用于聚合 HLL 类型的字段，返回的还是 HLL 类型。",
+  "source": "@site/docs/hll_raw_agg.md",
+  "sourceDirName": ".",
+  "slug": "/hll_raw_agg",
+  "permalink": "/docs/hll_raw_agg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hll_hash",
+    "permalink": "/docs/hll_hash"
+  },
+  "next": {
+    "title": "hll_union",
+    "permalink": "/docs/hll_union"
+  }
+}

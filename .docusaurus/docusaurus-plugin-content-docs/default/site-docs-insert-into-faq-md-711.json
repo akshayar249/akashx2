@@ -1,0 +1,23 @@
+{
+  "id": "Insert_into_faq",
+  "title": "INSERT INTO 导入常见问题",
+  "description": "本页列举了使用 INSERT INTO 语句导入数据时可能会遇到的常见问题及潜在解决方案。",
+  "source": "@site/docs/Insert_into_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Insert_into_faq",
+  "permalink": "/docs/Insert_into_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通过 INSERT 语句导入数据",
+    "permalink": "/docs/InsertInto"
+  },
+  "next": {
+    "title": "JSON",
+    "permalink": "/docs/JSON"
+  }
+}

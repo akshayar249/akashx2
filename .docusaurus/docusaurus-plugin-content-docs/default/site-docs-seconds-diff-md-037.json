@@ -1,0 +1,23 @@
+{
+  "id": "seconds_diff",
+  "title": "seconds_diff",
+  "description": "计算开始时间和结束时间相差多少秒 (expr1 − expr2)。",
+  "source": "@site/docs/seconds_diff.md",
+  "sourceDirName": ".",
+  "slug": "/seconds_diff",
+  "permalink": "/docs/seconds_diff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seconds_add",
+    "permalink": "/docs/seconds_add"
+  },
+  "next": {
+    "title": "seconds_sub",
+    "permalink": "/docs/seconds_sub"
+  }
+}

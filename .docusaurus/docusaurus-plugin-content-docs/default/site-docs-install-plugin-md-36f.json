@@ -1,0 +1,23 @@
+{
+  "id": "INSTALL_PLUGIN",
+  "title": "INSTALL PLUGIN",
+  "description": "功能",
+  "source": "@site/docs/INSTALL_PLUGIN.md",
+  "sourceDirName": ".",
+  "slug": "/INSTALL_PLUGIN",
+  "permalink": "/docs/INSTALL_PLUGIN",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing PostCSS Clamp",
+    "permalink": "/docs/INSTALL"
+  },
+  "next": {
+    "title": "INT",
+    "permalink": "/docs/INT"
+  }
+}

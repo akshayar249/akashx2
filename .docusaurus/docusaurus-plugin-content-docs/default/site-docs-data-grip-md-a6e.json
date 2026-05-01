@@ -1,0 +1,23 @@
+{
+  "id": "DataGrip",
+  "title": "DataGrip",
+  "description": "DataGrip 支持查询 AkashX 中的内部数据和外部数据。",
+  "source": "@site/docs/DataGrip.md",
+  "sourceDirName": ".",
+  "slug": "/DataGrip",
+  "permalink": "/docs/DataGrip",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP VIEW",
+    "permalink": "/docs/DROP_VIEW"
+  },
+  "next": {
+    "title": "使用 DataX 导入",
+    "permalink": "/docs/DataX-akashx-writer"
+  }
+}

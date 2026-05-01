@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_CREATE_DATABASE",
+  "title": "SHOW CREATE DATABASE",
+  "description": "查看指定数据库的创建语句。",
+  "source": "@site/docs/SHOW_CREATE_DATABASE.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_CREATE_DATABASE",
+  "permalink": "/docs/SHOW_CREATE_DATABASE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW CREATE CATALOG",
+    "permalink": "/docs/SHOW_CREATE_CATALOG"
+  },
+  "next": {
+    "title": "SHOW CREATE MATERIALIZED VIEW",
+    "permalink": "/docs/SHOW_CREATE_MATERIALIZED_VIEW"
+  }
+}

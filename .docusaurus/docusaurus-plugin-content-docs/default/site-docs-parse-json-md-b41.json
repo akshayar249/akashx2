@@ -1,0 +1,23 @@
+{
+  "id": "parse_json",
+  "title": "parse_json",
+  "description": "将字符串转换为 JSON 值。",
+  "source": "@site/docs/parse_json.md",
+  "sourceDirName": ".",
+  "slug": "/parse_json",
+  "permalink": "/docs/parse_json",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Paimon catalog",
+    "permalink": "/docs/paimon_catalog"
+  },
+  "next": {
+    "title": "parse_url",
+    "permalink": "/docs/parse_url"
+  }
+}

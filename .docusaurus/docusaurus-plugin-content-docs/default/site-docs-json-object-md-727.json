@@ -1,0 +1,23 @@
+{
+  "id": "json_object",
+  "title": "json_object",
+  "description": "将一个或多个键值对转换为由这些键值对组成的 JSON 对象。键值对按字典顺序排序。",
+  "source": "@site/docs/json_object.md",
+  "sourceDirName": ".",
+  "slug": "/json_object",
+  "permalink": "/docs/json_object",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_length",
+    "permalink": "/docs/json_length"
+  },
+  "next": {
+    "title": "json_query",
+    "permalink": "/docs/json_query"
+  }
+}

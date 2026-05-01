@@ -1,0 +1,25 @@
+{
+  "id": "files",
+  "title": "FILES",
+  "description": "定义远端存储中的数据文件，用于数据导入和导出：",
+  "source": "@site/docs/files.md",
+  "sourceDirName": ".",
+  "slug": "/files",
+  "permalink": "/docs/files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件管理器",
+    "permalink": "/docs/filemanager"
+  },
+  "next": {
+    "title": "find_in_set",
+    "permalink": "/docs/find_in_set"
+  }
+}

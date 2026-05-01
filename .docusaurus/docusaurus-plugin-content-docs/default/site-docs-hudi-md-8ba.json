@@ -1,0 +1,17 @@
+{
+  "id": "hudi",
+  "title": "hudi",
+  "description": "",
+  "source": "@site/docs/hudi.md",
+  "sourceDirName": ".",
+  "slug": "/hudi",
+  "permalink": "/docs/hudi",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

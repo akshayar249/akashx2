@@ -1,0 +1,23 @@
+{
+  "id": "inspect_mv_meta",
+  "title": "inspect_mv_meta",
+  "description": "inspectmvmeta(mv_name)",
+  "source": "@site/docs/inspect_mv_meta.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_mv_meta",
+  "permalink": "/docs/inspect_mv_meta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_memory_detail",
+    "permalink": "/docs/inspect_memory_detail"
+  },
+  "next": {
+    "title": "inspect_mv_plan",
+    "permalink": "/docs/inspect_mv_plan"
+  }
+}

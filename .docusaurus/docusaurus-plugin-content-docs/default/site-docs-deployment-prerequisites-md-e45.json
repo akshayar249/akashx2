@@ -1,0 +1,23 @@
+{
+  "id": "deployment_prerequisites",
+  "title": "部署前提条件",
+  "description": "本文描述了部署 AkashX 的服务器必须满足哪些软硬件要求。关于 AkashX 集群的推荐硬件规格，请参阅规划您的 AkashX 集群。",
+  "source": "@site/docs/deployment_prerequisites.md",
+  "sourceDirName": ".",
+  "slug": "/deployment_prerequisites",
+  "permalink": "/docs/deployment_prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署总览",
+    "permalink": "/docs/deployment_overview"
+  },
+  "next": {
+    "title": "Setup development environment with Docker",
+    "permalink": "/docs/dev-env-setup"
+  }
+}

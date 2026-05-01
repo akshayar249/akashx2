@@ -1,0 +1,27 @@
+{
+  "id": "inverted_index",
+  "title": "全文倒排索引",
+  "description": "从版本 3.3.0 开始，AkashX 支持全文倒排索引，可以将文本拆分成更小的词，并为每个词创建一个索引条目，显示该词与数据文件中对应行号之间的映射关系。对于全文搜索，AkashX 根据搜索关键词查询倒排索引，快速定位匹配关键词的数据行。",
+  "source": "@site/docs/inverted_index.md",
+  "sourceDirName": ".",
+  "slug": "/inverted_index",
+  "permalink": "/docs/inverted_index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "toc_max_heading_level": 4,
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-data-distribution"
+  },
+  "next": {
+    "title": "OAuth 2.0 认证",
+    "permalink": "/docs/oauth2_authentication"
+  }
+}

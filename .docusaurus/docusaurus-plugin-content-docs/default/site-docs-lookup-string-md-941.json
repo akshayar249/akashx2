@@ -1,0 +1,23 @@
+{
+  "id": "lookup_string",
+  "title": "lookup_string",
+  "description": "lookupstring(tablename, lookupkey, returncolumn)",
+  "source": "@site/docs/lookup_string.md",
+  "sourceDirName": ".",
+  "slug": "/lookup_string",
+  "permalink": "/docs/lookup_string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "logs",
+    "permalink": "/docs/logs"
+  },
+  "next": {
+    "title": "lower",
+    "permalink": "/docs/lower"
+  }
+}

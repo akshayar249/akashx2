@@ -1,0 +1,23 @@
+{
+  "id": "Broker_load_faq",
+  "title": "Broker Load 导入常见问题",
+  "description": "1. Broker Load 是否支持再次执行已经执行成功、处于 FINISHED 状态的导入作业？",
+  "source": "@site/docs/Broker_load_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Broker_load_faq",
+  "permalink": "/docs/Broker_load_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 HDFS 或外部云存储系统导入数据",
+    "permalink": "/docs/BrokerLoad"
+  },
+  "next": {
+    "title": "使用 Docker 编译 AkashX",
+    "permalink": "/docs/Build_in_docker"
+  }
+}

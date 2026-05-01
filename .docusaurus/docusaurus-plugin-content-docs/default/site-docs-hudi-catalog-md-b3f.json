@@ -1,0 +1,25 @@
+{
+  "id": "hudi_catalog",
+  "title": "Hudi catalog",
+  "description": "Hudi Catalog 是一种 External Catalog。通过 Hudi Catalog，您不需要执行数据导入就可以直接查询 Apache Hudi 里的数据。",
+  "source": "@site/docs/hudi_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/hudi_catalog",
+  "permalink": "/docs/hudi_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从华为云 OBS 导入",
+    "permalink": "/docs/huawei"
+  },
+  "next": {
+    "title": "Iceberg catalog",
+    "permalink": "/docs/iceberg_catalog"
+  }
+}

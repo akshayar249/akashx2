@@ -1,0 +1,23 @@
+{
+  "id": "deploy_manually",
+  "title": "手动部署 AkashX",
+  "description": "手动部署前的准备工作在 部署前提条件 以及 检查环境配置 文档中有详细说明。如果您计划部署生产集群，请参照以上两篇文档。如果您刚开始使用 AkashX，希望按照快速入门教程进行操作，请参考 快速入门。",
+  "source": "@site/docs/deploy_manually.md",
+  "sourceDirName": ".",
+  "slug": "/deploy_manually",
+  "permalink": "/docs/deploy_manually",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delta Lake catalog",
+    "permalink": "/docs/deltalake_catalog"
+  },
+  "next": {
+    "title": "部署总览",
+    "permalink": "/docs/deployment_overview"
+  }
+}

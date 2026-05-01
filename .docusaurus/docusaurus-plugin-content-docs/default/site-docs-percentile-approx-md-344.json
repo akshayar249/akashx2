@@ -1,0 +1,23 @@
+{
+  "id": "percentile_approx",
+  "title": "percentile_approx",
+  "description": "返回第 p 个百分位点的近似值。",
+  "source": "@site/docs/percentile_approx.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_approx",
+  "permalink": "/docs/percentile_approx",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "patchRequire(vol[, unixifyPaths[, Module]])",
+    "permalink": "/docs/patchRequire"
+  },
+  "next": {
+    "title": "percentile_approx_raw",
+    "permalink": "/docs/percentile_approx_raw"
+  }
+}

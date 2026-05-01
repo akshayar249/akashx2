@@ -1,0 +1,23 @@
+{
+  "id": "add_months",
+  "title": "add_months",
+  "description": "在给定的日期（DATE、DATETIME）上增加一个整数月，返回结果日期。",
+  "source": "@site/docs/add_months.md",
+  "sourceDirName": ".",
+  "slug": "/add_months",
+  "permalink": "/docs/add_months",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acos",
+    "permalink": "/docs/acos"
+  },
+  "next": {
+    "title": "adddate,date_add",
+    "permalink": "/docs/adddate"
+  }
+}

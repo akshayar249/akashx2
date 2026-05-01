@@ -1,0 +1,27 @@
+{
+  "id": "logs",
+  "title": "logs",
+  "description": "在部署和操作akashx时，理解并正确使用日志系统对于故障排除、性能分析和系统调优至关重要。本文详细介绍了akashx的Frontend（FE）和Backend（BE或CN）组件的日志文件类型、典型内容、配置方法以及日志滚动和保留策略。",
+  "source": "@site/docs/logs.md",
+  "sourceDirName": ".",
+  "slug": "/logs",
+  "permalink": "/docs/logs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "shen ji ri zhi"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "log2",
+    "permalink": "/docs/log2"
+  },
+  "next": {
+    "title": "lookup_string",
+    "permalink": "/docs/lookup_string"
+  }
+}

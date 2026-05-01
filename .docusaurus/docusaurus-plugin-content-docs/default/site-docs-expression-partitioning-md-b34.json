@@ -1,0 +1,29 @@
+{
+  "id": "expression_partitioning",
+  "title": "表达式分区（推荐）",
+  "description": "自  起，AkashX 支持表达式分区（原称自动创建分区），更加灵活易用，适用于大多数场景，比如按照连续日期范围或者枚举值来查询和管理数据。",
+  "source": "@site/docs/expression_partitioning.md",
+  "sourceDirName": ".",
+  "slug": "/expression_partitioning",
+  "permalink": "/docs/expression_partitioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "keywords": [
+      "fenqu"
+    ],
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用物化视图进行数据建模",
+    "permalink": "/docs/data_modeling_with_materialized_views"
+  },
+  "next": {
+    "title": "本地身份验证",
+    "permalink": "/docs/native_authentication"
+  }
+}

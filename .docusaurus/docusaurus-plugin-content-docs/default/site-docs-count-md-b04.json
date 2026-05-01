@@ -1,0 +1,23 @@
+{
+  "id": "count",
+  "title": "count",
+  "description": "计算总行数。",
+  "source": "@site/docs/count.md",
+  "sourceDirName": ".",
+  "slug": "/count",
+  "permalink": "/docs/count",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cot",
+    "permalink": "/docs/cot"
+  },
+  "next": {
+    "title": "count_if",
+    "permalink": "/docs/count_if"
+  }
+}

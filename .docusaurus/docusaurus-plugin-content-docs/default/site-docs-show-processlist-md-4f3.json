@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_PROCESSLIST",
+  "title": "SHOW PROCESSLIST",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PROCESSLIST.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PROCESSLIST",
+  "permalink": "/docs/SHOW_PROCESSLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW PROC",
+    "permalink": "/docs/SHOW_PROC"
+  },
+  "next": {
+    "title": "SHOW PROFILELIST",
+    "permalink": "/docs/SHOW_PROFILELIST"
+  }
+}

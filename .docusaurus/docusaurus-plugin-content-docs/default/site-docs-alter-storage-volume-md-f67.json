@@ -1,0 +1,27 @@
+{
+  "id": "ALTER_STORAGE_VOLUME",
+  "title": "ALTER STORAGE VOLUME",
+  "description": "功能",
+  "source": "@site/docs/ALTER_STORAGE_VOLUME.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_STORAGE_VOLUME",
+  "permalink": "/docs/ALTER_STORAGE_VOLUME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER ROUTINE LOAD",
+    "permalink": "/docs/ALTER_ROUTINE_LOAD"
+  },
+  "next": {
+    "title": "ALTER SYSTEM",
+    "permalink": "/docs/ALTER_SYSTEM"
+  }
+}

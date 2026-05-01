@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_CREATE_VIEW",
+  "title": "SHOW CREATE VIEW",
+  "description": "功能",
+  "source": "@site/docs/SHOW_CREATE_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_CREATE_VIEW",
+  "permalink": "/docs/SHOW_CREATE_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW CREATE TABLE",
+    "permalink": "/docs/SHOW_CREATE_TABLE"
+  },
+  "next": {
+    "title": "SHOW DATA",
+    "permalink": "/docs/SHOW_DATA"
+  }
+}

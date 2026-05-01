@@ -1,0 +1,23 @@
+{
+  "id": "USE",
+  "title": "USE",
+  "description": "功能",
+  "source": "@site/docs/USE.md",
+  "sourceDirName": ".",
+  "slug": "/USE",
+  "permalink": "/docs/USE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UPDATE",
+    "permalink": "/docs/UPDATE"
+  },
+  "next": {
+    "title": "VARCHAR",
+    "permalink": "/docs/VARCHAR"
+  }
+}

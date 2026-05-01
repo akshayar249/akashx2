@@ -1,0 +1,23 @@
+{
+  "id": "time_slice",
+  "title": "time_slice",
+  "description": "根据指定的时间粒度周期，将给定的时间转化为其所在的时间粒度周期的起始或结束时刻。",
+  "source": "@site/docs/time_slice.md",
+  "sourceDirName": ".",
+  "slug": "/time_slice",
+  "permalink": "/docs/time_slice",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "time_format",
+    "permalink": "/docs/time_format"
+  },
+  "next": {
+    "title": "time_to_sec",
+    "permalink": "/docs/time_to_sec"
+  }
+}

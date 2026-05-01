@@ -1,0 +1,23 @@
+{
+  "id": "ds_hll_estimate",
+  "title": "ds_hll_estimate",
+  "description": "从序列化的 HyperLogLog 草图估算近似去重计数。此函数是 DataSketches HLL 近似去重计数函数族的一部分。",
+  "source": "@site/docs/ds_hll_estimate.md",
+  "sourceDirName": ".",
+  "slug": "/ds_hll_estimate",
+  "permalink": "/docs/ds_hll_estimate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ds_hll_count_distinct",
+    "permalink": "/docs/ds_hll_count_distinct"
+  },
+  "next": {
+    "title": "ds_theta_count_distinct",
+    "permalink": "/docs/ds_theta_count_distinct"
+  }
+}

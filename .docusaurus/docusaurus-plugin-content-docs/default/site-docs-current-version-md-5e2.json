@@ -1,0 +1,23 @@
+{
+  "id": "current_version",
+  "title": "current_version",
+  "description": "获取当前 AkashX 的版本，当前为了兼容不同的客户端，提供两种语法。",
+  "source": "@site/docs/current_version.md",
+  "sourceDirName": ".",
+  "slug": "/current_version",
+  "permalink": "/docs/current_version",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current_timestamp",
+    "permalink": "/docs/current_timestamp"
+  },
+  "next": {
+    "title": "CURRENT_WAREHOUSE",
+    "permalink": "/docs/current_warehouse"
+  }
+}

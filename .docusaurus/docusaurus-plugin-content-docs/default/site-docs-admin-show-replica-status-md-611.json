@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_SHOW_REPLICA_STATUS",
+  "title": "ADMIN SHOW REPLICA STATUS",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_SHOW_REPLICA_STATUS.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_SHOW_REPLICA_STATUS",
+  "permalink": "/docs/ADMIN_SHOW_REPLICA_STATUS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SHOW REPLICA DISTRIBUTION",
+    "permalink": "/docs/ADMIN_SHOW_REPLICA_DISTRIBUTION"
+  },
+  "next": {
+    "title": "ALTER DATABASE",
+    "permalink": "/docs/ALTER_DATABASE"
+  }
+}

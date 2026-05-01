@@ -1,0 +1,29 @@
+{
+  "id": "Bloomfilter_index",
+  "title": "Bloom filter 索引",
+  "description": "本文介绍了 Bloom filter（布隆过滤器）索引的原理，以及如何创建和修改 Bloom filter 索引。",
+  "source": "@site/docs/Bloomfilter_index.md",
+  "sourceDirName": ".",
+  "slug": "/Bloomfilter_index",
+  "permalink": "/docs/Bloomfilter_index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ],
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "内置角色",
+    "permalink": "/docs/built_in_roles"
+  },
+  "next": {
+    "title": "数据分布",
+    "permalink": "/docs/Data_distribution"
+  }
+}

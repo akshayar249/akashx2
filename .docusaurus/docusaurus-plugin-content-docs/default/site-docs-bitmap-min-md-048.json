@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_min",
+  "title": "bitmap_min",
+  "description": "获取Bitmap中的最小值。如果Bitmap为NULL，则返回NULL。如果Bitmap为空，默认返回NULL。",
+  "source": "@site/docs/bitmap_min.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_min",
+  "permalink": "/docs/bitmap_min",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_max",
+    "permalink": "/docs/bitmap_max"
+  },
+  "next": {
+    "title": "bitmap_or",
+    "permalink": "/docs/bitmap_or"
+  }
+}

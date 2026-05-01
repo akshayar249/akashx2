@@ -1,0 +1,23 @@
+{
+  "id": "role_edges",
+  "title": "role_edges",
+  "description": "您可以通过查询 role_edges 视图查看角色的授予关系。",
+  "source": "@site/docs/role_edges.md",
+  "sourceDirName": ".",
+  "slug": "/role_edges",
+  "permalink": "/docs/role_edges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 RisingWave 持续导入",
+    "permalink": "/docs/rising_wave"
+  },
+  "next": {
+    "title": "round, dround",
+    "permalink": "/docs/round"
+  }
+}

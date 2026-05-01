@@ -1,0 +1,23 @@
+{
+  "id": "QuickBI",
+  "title": "QuickBI",
+  "description": "本文介绍如何将 QuickBI 连接到 AkashX 数据库，通过 QuickBI 对 AkashX 中的数据进行可视化分析。",
+  "source": "@site/docs/QuickBI.md",
+  "sourceDirName": ".",
+  "slug": "/QuickBI",
+  "permalink": "/docs/QuickBI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Querybook",
+    "permalink": "/docs/Querybook"
+  },
+  "next": {
+    "title": "RECOVER",
+    "permalink": "/docs/RECOVER"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "generated_columns",
+  "title": "生成列",
+  "description": "AkashX 自 3.1 版本起支持生成列（Generated Column）。该特性支持预先计算并存储表达式的结果，从而加速包含复杂表达式的查询，并且支持查询改写，因此极大提高了查询性能。",
+  "source": "@site/docs/generated_columns.md",
+  "sourceDirName": ".",
+  "slug": "/generated_columns",
+  "permalink": "/docs/generated_columns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generate_series",
+    "permalink": "/docs/generate_series"
+  },
+  "next": {
+    "title": "get_json_bool",
+    "permalink": "/docs/get_json_bool"
+  }
+}

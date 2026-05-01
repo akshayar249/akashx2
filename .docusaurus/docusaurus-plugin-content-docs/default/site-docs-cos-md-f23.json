@@ -1,0 +1,23 @@
+{
+  "id": "cos",
+  "title": "cos",
+  "description": "求参数 x 的余弦值。",
+  "source": "@site/docs/cos.md",
+  "sourceDirName": ".",
+  "slug": "/cos",
+  "permalink": "/docs/cos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "corr",
+    "permalink": "/docs/corr"
+  },
+  "next": {
+    "title": "cosine_similarity",
+    "permalink": "/docs/cos_similarity"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ADD_SQLBLACKLIST",
+  "title": "ADD SQLBLACKLIST",
+  "description": "功能",
+  "source": "@site/docs/ADD_SQLBLACKLIST.md",
+  "sourceDirName": ".",
+  "slug": "/ADD_SQLBLACKLIST",
+  "permalink": "/docs/ADD_SQLBLACKLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADD BACKEND/COMPUTE NODE BLACKLIST",
+    "permalink": "/docs/ADD_BACKEND_BLACKLIST"
+  },
+  "next": {
+    "title": "ADMIN CANCEL REPAIR",
+    "permalink": "/docs/ADMIN_CANCEL_REPAIR"
+  }
+}

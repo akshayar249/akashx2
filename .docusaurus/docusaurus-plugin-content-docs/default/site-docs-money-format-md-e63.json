@@ -1,0 +1,23 @@
+{
+  "id": "money_format",
+  "title": "money_format",
+  "description": "将数字按照货币格式输出，整数部分每隔 3 位用逗号分隔，小数部分保留 2 位。",
+  "source": "@site/docs/money_format.md",
+  "sourceDirName": ".",
+  "slug": "/money_format",
+  "permalink": "/docs/money_format",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mod",
+    "permalink": "/docs/mod"
+  },
+  "next": {
+    "title": "监控管理大查询",
+    "permalink": "/docs/monitor_manage_big_queries"
+  }
+}

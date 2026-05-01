@@ -1,0 +1,23 @@
+{
+  "id": "window_funnel",
+  "title": "window_funnel",
+  "description": "搜索滑动时间窗口内的事件列表，计算条件匹配的事件链里的最大连续事件数。该函数是一种漏斗函数，是比较常见的转化分析方法，用于分析用户在各阶段行为的转化率。",
+  "source": "@site/docs/window_funnel.md",
+  "sourceDirName": ".",
+  "slug": "/window_funnel",
+  "permalink": "/docs/window_funnel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "什么是 AkashX",
+    "permalink": "/docs/what_is_akashx"
+  },
+  "next": {
+    "title": "xx_hash3_128",
+    "permalink": "/docs/xx_hash3_128"
+  }
+}

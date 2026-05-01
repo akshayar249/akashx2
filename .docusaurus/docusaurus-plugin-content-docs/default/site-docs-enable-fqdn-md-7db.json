@@ -1,0 +1,23 @@
+{
+  "id": "enable_fqdn",
+  "title": "启用 FQDN 访问",
+  "description": "本文介绍如何启用基于完全限定域名（fully qualified domain name，FQDN）访问 AkashX 节点。 FQDN 是指可以在 Internet 上访问的特定实体的完整域名。FQDN 由两部分组成：主机名和域名。",
+  "source": "@site/docs/enable_fqdn.md",
+  "sourceDirName": ".",
+  "slug": "/enable_fqdn",
+  "permalink": "/docs/enable_fqdn",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "element_at",
+    "permalink": "/docs/element_at"
+  },
+  "next": {
+    "title": "encode_sort_key",
+    "permalink": "/docs/encode_sort_key"
+  }
+}

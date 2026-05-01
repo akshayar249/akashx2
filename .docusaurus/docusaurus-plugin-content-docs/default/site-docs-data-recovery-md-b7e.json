@@ -1,0 +1,23 @@
+{
+  "id": "Data_recovery",
+  "title": "恢复数据",
+  "description": "本文介绍如何恢复 AkashX 中被删除的数据。",
+  "source": "@site/docs/Data_recovery.md",
+  "sourceDirName": ".",
+  "slug": "/Data_recovery",
+  "permalink": "/docs/Data_recovery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataX 导入常见问题",
+    "permalink": "/docs/DataX_faq"
+  },
+  "next": {
+    "title": "Dataphin",
+    "permalink": "/docs/Dataphin"
+  }
+}

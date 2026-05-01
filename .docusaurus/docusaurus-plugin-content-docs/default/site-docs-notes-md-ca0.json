@@ -1,0 +1,23 @@
+{
+  "id": "Notes",
+  "title": "Notes",
+  "description": "Testing",
+  "source": "@site/docs/Notes.md",
+  "sourceDirName": ".",
+  "slug": "/Notes",
+  "permalink": "/docs/Notes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Prometheus 和 Grafana 监控报警",
+    "permalink": "/docs/Monitor_and_Alert"
+  },
+  "next": {
+    "title": "其他问题",
+    "permalink": "/docs/Others"
+  }
+}

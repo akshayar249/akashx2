@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_ROUTINE_LOAD",
+  "title": "CREATE ROUTINE LOAD",
+  "description": "Routine Load 可以持续从 Apache Kafka® 消费消息并将数据导入到 AkashX。Routine Load 可以从 Kafka 集群中消费 CSV、JSON 和 Avro（自  起支持）格式的数据，并通过多种安全协议访问 Kafka，包括 plaintext、ssl、saslplaintext 和 saslssl。",
+  "source": "@site/docs/CREATE_ROUTINE_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_ROUTINE_LOAD",
+  "permalink": "/docs/CREATE_ROUTINE_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE ROLE",
+    "permalink": "/docs/CREATE_ROLE"
+  },
+  "next": {
+    "title": "CREATE STORAGE VOLUME",
+    "permalink": "/docs/CREATE_STORAGE_VOLUME"
+  }
+}

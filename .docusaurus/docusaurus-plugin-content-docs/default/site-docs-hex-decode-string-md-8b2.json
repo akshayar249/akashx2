@@ -1,0 +1,23 @@
+{
+  "id": "hex_decode_string",
+  "title": "hex_decode_string",
+  "description": "将输入字符串中每一对十六进制数字解析为一个数字，并将解析得到的数字转换为表示该数字的字节，然后返回一个二进制字符串。该函数是 hex() 函数的反向函数。",
+  "source": "@site/docs/hex_decode_string.md",
+  "sourceDirName": ".",
+  "slug": "/hex_decode_string",
+  "permalink": "/docs/hex_decode_string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hex_decode_binary",
+    "permalink": "/docs/hex_decode_binary"
+  },
+  "next": {
+    "title": "Hive catalog",
+    "permalink": "/docs/hive_catalog"
+  }
+}

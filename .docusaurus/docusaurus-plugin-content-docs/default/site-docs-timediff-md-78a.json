@@ -1,0 +1,23 @@
+{
+  "id": "timediff",
+  "title": "timediff",
+  "description": "返回两个 DATETIME 类型值之间的差值。",
+  "source": "@site/docs/timediff.md",
+  "sourceDirName": ".",
+  "slug": "/timediff",
+  "permalink": "/docs/timediff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "time_to_sec",
+    "permalink": "/docs/time_to_sec"
+  },
+  "next": {
+    "title": "timestamp",
+    "permalink": "/docs/timestamp"
+  }
+}

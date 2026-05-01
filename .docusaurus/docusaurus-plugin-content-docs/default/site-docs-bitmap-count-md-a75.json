@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_count",
+  "title": "bitmap_count",
+  "description": "统计 bitmap 中不重复值的个数。",
+  "source": "@site/docs/bitmap_count.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_count",
+  "permalink": "/docs/bitmap_count",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_contains",
+    "permalink": "/docs/bitmap_contains"
+  },
+  "next": {
+    "title": "bitmap_empty",
+    "permalink": "/docs/bitmap_empty"
+  }
+}

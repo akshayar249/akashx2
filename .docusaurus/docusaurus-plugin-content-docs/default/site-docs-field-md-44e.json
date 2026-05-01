@@ -1,0 +1,23 @@
+{
+  "id": "field",
+  "title": "field",
+  "description": "返回某个值在一组值中的索引（位置）。",
+  "source": "@site/docs/field.md",
+  "sourceDirName": ".",
+  "slug": "/field",
+  "permalink": "/docs/field",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to feedback and contribute",
+    "permalink": "/docs/feedback-and-contribute"
+  },
+  "next": {
+    "title": "文件外部表",
+    "permalink": "/docs/file_external_table"
+  }
+}

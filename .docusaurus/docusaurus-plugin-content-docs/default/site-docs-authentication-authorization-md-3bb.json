@@ -1,0 +1,26 @@
+{
+  "id": "authentication_authorization",
+  "title": "认证与授权",
+  "description": "本文旨在为开发您自己的身份验证和授权工作流提供一个连贯的最佳实践指南。",
+  "source": "@site/docs/authentication_authorization.md",
+  "sourceDirName": ".",
+  "slug": "/authentication_authorization",
+  "permalink": "/docs/authentication_authorization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sorted streaming aggregate",
+    "permalink": "/docs/sorted_aggregate"
+  },
+  "next": {
+    "title": "使用 AUTO INCREMENT 列构建全局字典以加速精确去重计算和 Join",
+    "permalink": "/docs/query_acceleration_with_auto_increment"
+  }
+}

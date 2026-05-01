@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_FRONTENDS",
+  "title": "SHOW FRONTENDS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_FRONTENDS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_FRONTENDS",
+  "permalink": "/docs/SHOW_FRONTENDS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW FILE",
+    "permalink": "/docs/SHOW_FILE"
+  },
+  "next": {
+    "title": "SHOW FULL COLUMNS",
+    "permalink": "/docs/SHOW_FULL_COLUMNS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_avg",
+  "title": "array_avg",
+  "description": "求取一个ARRAY中的所有数据的平均数，返回这个结果。",
+  "source": "@site/docs/array_avg.md",
+  "sourceDirName": ".",
+  "slug": "/array_avg",
+  "permalink": "/docs/array_avg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_append",
+    "permalink": "/docs/array_append"
+  },
+  "next": {
+    "title": "array_concat",
+    "permalink": "/docs/array_concat"
+  }
+}

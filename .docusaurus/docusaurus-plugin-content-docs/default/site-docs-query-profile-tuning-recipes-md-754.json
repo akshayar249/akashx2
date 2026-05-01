@@ -1,0 +1,30 @@
+{
+  "id": "query_profile_tuning_recipes",
+  "title": "查询优化方案",
+  "description": "一个实用的操作手册：症状 → 根本原因 → 经过验证的解决方案。",
+  "source": "@site/docs/query_profile_tuning_recipes.md",
+  "sourceDirName": ".",
+  "slug": "/query_profile_tuning_recipes",
+  "permalink": "/docs/query_profile_tuning_recipes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40,
+    "keywords": [
+      "profile",
+      "query"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "主键表",
+    "permalink": "/docs/primarykey_table"
+  },
+  "next": {
+    "title": "使用 Apache Ranger 管理权限",
+    "permalink": "/docs/ranger_plugin"
+  }
+}

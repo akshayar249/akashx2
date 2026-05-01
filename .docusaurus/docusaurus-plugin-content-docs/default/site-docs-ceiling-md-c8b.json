@@ -1,0 +1,23 @@
+{
+  "id": "ceiling",
+  "title": "ceiling",
+  "description": "返回大于或等于 x 的最小整数。",
+  "source": "@site/docs/ceiling.md",
+  "sourceDirName": ".",
+  "slug": "/ceiling",
+  "permalink": "/docs/ceiling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ceil, dceil",
+    "permalink": "/docs/ceil"
+  },
+  "next": {
+    "title": "char_length",
+    "permalink": "/docs/char_length"
+  }
+}

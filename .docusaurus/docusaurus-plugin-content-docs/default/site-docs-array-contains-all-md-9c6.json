@@ -1,0 +1,23 @@
+{
+  "id": "array_contains_all",
+  "title": "array_contains_all",
+  "description": "检查数组arr1是否包含数组arr2中的所有元素，即arr2是否为arr1的子集。是的话返回1，否则返回0。",
+  "source": "@site/docs/array_contains_all.md",
+  "sourceDirName": ".",
+  "slug": "/array_contains_all",
+  "permalink": "/docs/array_contains_all",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_contains",
+    "permalink": "/docs/array_contains"
+  },
+  "next": {
+    "title": "array_contains_seq",
+    "permalink": "/docs/array_contains_seq"
+  }
+}

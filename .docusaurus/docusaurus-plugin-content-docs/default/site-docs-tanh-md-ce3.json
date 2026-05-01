@@ -1,0 +1,23 @@
+{
+  "id": "tanh",
+  "title": "tanh",
+  "description": "计算输入数值的双曲正切值。",
+  "source": "@site/docs/tanh.md",
+  "sourceDirName": ".",
+  "slug": "/tanh",
+  "permalink": "/docs/tanh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tan",
+    "permalink": "/docs/tan"
+  },
+  "next": {
+    "title": "task_runs",
+    "permalink": "/docs/task_runs"
+  }
+}

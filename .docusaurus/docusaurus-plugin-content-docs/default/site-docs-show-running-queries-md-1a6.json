@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_RUNNING_QUERIES",
+  "title": "SHOW RUNNING QUERIES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_RUNNING_QUERIES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_RUNNING_QUERIES",
+  "permalink": "/docs/SHOW_RUNNING_QUERIES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW ROUTINE LOAD TASK",
+    "permalink": "/docs/SHOW_ROUTINE_LOAD_TASK"
+  },
+  "next": {
+    "title": "SHOW SNAPSHOT",
+    "permalink": "/docs/SHOW_SNAPSHOT"
+  }
+}

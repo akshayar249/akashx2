@@ -1,0 +1,23 @@
+{
+  "id": "CANCEL_LOAD",
+  "title": "CANCEL LOAD",
+  "description": "功能",
+  "source": "@site/docs/CANCEL_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_LOAD",
+  "permalink": "/docs/CANCEL_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL EXPORT",
+    "permalink": "/docs/CANCEL_EXPORT"
+  },
+  "next": {
+    "title": "CANCEL REFRESH DICTIONARY",
+    "permalink": "/docs/CANCEL_REFRESH_DICTIONARY"
+  }
+}

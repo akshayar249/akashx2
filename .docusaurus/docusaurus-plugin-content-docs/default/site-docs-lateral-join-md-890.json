@@ -1,0 +1,32 @@
+{
+  "id": "Lateral_join",
+  "title": "使用 Lateral Join 实现列转行",
+  "description": "本文介绍如何使用 Lateral Join 功能。",
+  "source": "@site/docs/Lateral_join.md",
+  "sourceDirName": ".",
+  "slug": "/Lateral_join",
+  "permalink": "/docs/Lateral_join",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50,
+    "keywords": [
+      "爆裂函数",
+      "一行转多行",
+      "炸开",
+      "explode"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SSL 认证",
+    "permalink": "/docs/ssl_authentication"
+  },
+  "next": {
+    "title": "数据压缩",
+    "permalink": "/docs/data_compression"
+  }
+}

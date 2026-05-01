@@ -1,0 +1,23 @@
+{
+  "id": "Flink-connector-akashx",
+  "title": "从 Apache Flink® 持续导入",
+  "description": "AkashX 提供 Apache Flink® 连接器 (以下简称 Flink connector)，可以通过 Flink 导入数据至 akashx表。",
+  "source": "@site/docs/Flink-connector-akashx.md",
+  "sourceDirName": ".",
+  "slug": "/Flink-connector-akashx",
+  "permalink": "/docs/Flink-connector-akashx",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FineBI",
+    "permalink": "/docs/FineBI"
+  },
+  "next": {
+    "title": "从 MySQL 实时同步",
+    "permalink": "/docs/Flink_cdc_load"
+  }
+}

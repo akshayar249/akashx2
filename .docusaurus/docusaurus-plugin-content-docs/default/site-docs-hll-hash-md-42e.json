@@ -1,0 +1,23 @@
+{
+  "id": "hll_hash",
+  "title": "hll_hash",
+  "description": "将一个数值转换为 HLL 类型。通常用于导入中，将源数据中的数值映射到 AkashX 表中的 HLL 列类型。",
+  "source": "@site/docs/hll_hash.md",
+  "sourceDirName": ".",
+  "slug": "/hll_hash",
+  "permalink": "/docs/hll_hash",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hll_empty",
+    "permalink": "/docs/hll_empty"
+  },
+  "next": {
+    "title": "hll_raw_agg",
+    "permalink": "/docs/hll_raw_agg"
+  }
+}

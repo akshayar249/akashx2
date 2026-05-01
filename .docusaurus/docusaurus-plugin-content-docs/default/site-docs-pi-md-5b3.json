@@ -1,0 +1,23 @@
+{
+  "id": "pi",
+  "title": "pi",
+  "description": "返回圆周率。",
+  "source": "@site/docs/pi.md",
+  "sourceDirName": ".",
+  "slug": "/pi",
+  "permalink": "/docs/pi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_union",
+    "permalink": "/docs/percentile_union"
+  },
+  "next": {
+    "title": "pipe_files",
+    "permalink": "/docs/pipe_files"
+  }
+}

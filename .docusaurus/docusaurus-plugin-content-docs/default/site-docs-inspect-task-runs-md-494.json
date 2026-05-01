@@ -1,0 +1,23 @@
+{
+  "id": "inspect_task_runs",
+  "title": "inspect_task_runs",
+  "description": "inspecttaskruns()",
+  "source": "@site/docs/inspect_task_runs.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_task_runs",
+  "permalink": "/docs/inspect_task_runs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_table_partition_info",
+    "permalink": "/docs/inspect_table_partition_info"
+  },
+  "next": {
+    "title": "instr",
+    "permalink": "/docs/instr"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "now",
+  "title": "now, current_timestamp, localtime, localtimestamp",
+  "description": "获取当前的时间，以 DATETIME 类型返回。",
+  "source": "@site/docs/now.md",
+  "sourceDirName": ".",
+  "slug": "/now",
+  "permalink": "/docs/now",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ngram_search",
+    "permalink": "/docs/ngram_search"
+  },
+  "next": {
+    "title": "null_or_empty",
+    "permalink": "/docs/null_or_empty"
+  }
+}

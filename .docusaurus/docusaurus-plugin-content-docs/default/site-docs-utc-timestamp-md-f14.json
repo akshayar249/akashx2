@@ -1,0 +1,23 @@
+{
+  "id": "utc_timestamp",
+  "title": "utc_timestamp",
+  "description": "返回当前 UTC 日期时间。",
+  "source": "@site/docs/utc_timestamp.md",
+  "sourceDirName": ".",
+  "slug": "/utc_timestamp",
+  "permalink": "/docs/utc_timestamp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "utc_time",
+    "permalink": "/docs/utc_time"
+  },
+  "next": {
+    "title": "uuid",
+    "permalink": "/docs/uuid"
+  }
+}

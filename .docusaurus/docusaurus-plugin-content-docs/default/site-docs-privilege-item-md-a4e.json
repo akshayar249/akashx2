@@ -1,0 +1,27 @@
+{
+  "id": "privilege_item",
+  "title": "权限项",
+  "description": "本文详细描述了 AkashX 中可以用于赋权的权限项及其含义。您可以通过 GRANT 和 REVOKE 操作对用户和角色进行权限的赋予和收回。",
+  "source": "@site/docs/privilege_item.md",
+  "sourceDirName": ".",
+  "slug": "/privilege_item",
+  "permalink": "/docs/privilege_item",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20,
+    "sidebar_label": "权限项"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "主键表",
+    "permalink": "/docs/primary_key_table"
+  },
+  "next": {
+    "title": "查询计划",
+    "permalink": "/docs/query_planning"
+  }
+}

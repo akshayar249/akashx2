@@ -1,0 +1,23 @@
+{
+  "id": "array_generate",
+  "title": "array_generate",
+  "description": "生成一个包含数值元素的数组，数值范围在 start 和 end 之间，步长为 step。",
+  "source": "@site/docs/array_generate.md",
+  "sourceDirName": ".",
+  "slug": "/array_generate",
+  "permalink": "/docs/array_generate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_flatten",
+    "permalink": "/docs/array_flatten"
+  },
+  "next": {
+    "title": "array_intersect",
+    "permalink": "/docs/array_intersect"
+  }
+}

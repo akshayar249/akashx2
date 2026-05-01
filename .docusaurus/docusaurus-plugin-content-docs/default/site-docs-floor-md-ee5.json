@@ -1,0 +1,23 @@
+{
+  "id": "floor",
+  "title": "floor, dfloor",
+  "description": "返回不大于 x 的最大整数值。",
+  "source": "@site/docs/floor.md",
+  "sourceDirName": ".",
+  "slug": "/floor",
+  "permalink": "/docs/floor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Flink Connector 读取数据",
+    "permalink": "/docs/flink_connector"
+  },
+  "next": {
+    "title": "fmod",
+    "permalink": "/docs/fmod"
+  }
+}

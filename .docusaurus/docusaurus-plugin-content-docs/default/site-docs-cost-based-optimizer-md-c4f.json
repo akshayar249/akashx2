@@ -1,0 +1,26 @@
+{
+  "id": "Cost_based_optimizer",
+  "title": "CBO 统计信息",
+  "description": "本文介绍 AkashX CBO 优化器（Cost-based Optimizer）的基本概念，以及如何为 CBO 优化器采集统计信息来优化查询计划。AkashX 2.4 版本引入直方图作为统计信息，提供更准确的数据分布统计。",
+  "source": "@site/docs/Cost_based_optimizer.md",
+  "sourceDirName": ".",
+  "slug": "/Cost_based_optimizer",
+  "permalink": "/docs/Cost_based_optimizer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查看运行中的查询",
+    "permalink": "/docs/running_queries"
+  },
+  "next": {
+    "title": "异步物化视图",
+    "permalink": "/docs/Materialized_view"
+  }
+}

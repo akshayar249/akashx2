@@ -1,0 +1,23 @@
+{
+  "id": "percentile_hash",
+  "title": "percentile_hash",
+  "description": "将 double 类型数值构造成 percentile 类型数值。",
+  "source": "@site/docs/percentile_hash.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_hash",
+  "permalink": "/docs/percentile_hash",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_empty",
+    "permalink": "/docs/percentile_empty"
+  },
+  "next": {
+    "title": "percentile_union",
+    "permalink": "/docs/percentile_union"
+  }
+}

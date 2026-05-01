@@ -1,0 +1,23 @@
+{
+  "id": "DELETE_SQLBLACKLIST",
+  "title": "DELETE SQLBLACKLIST",
+  "description": "功能",
+  "source": "@site/docs/DELETE_SQLBLACKLIST.md",
+  "sourceDirName": ".",
+  "slug": "/DELETE_SQLBLACKLIST",
+  "permalink": "/docs/DELETE_SQLBLACKLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DELETE BACKEND/COMPUTE NOT BLACKLIST",
+    "permalink": "/docs/DELETE_BACKEND_BLACKLIST"
+  },
+  "next": {
+    "title": "DESC",
+    "permalink": "/docs/DESCRIBE"
+  }
+}

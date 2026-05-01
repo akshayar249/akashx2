@@ -1,0 +1,23 @@
+{
+  "id": "array_to_bitmap",
+  "title": "array_to_bitmap",
+  "description": "将 array 类型转化为 bitmap 类型。该函数从 2.3 版本开始支持。",
+  "source": "@site/docs/array_to_bitmap.md",
+  "sourceDirName": ".",
+  "slug": "/array_to_bitmap",
+  "permalink": "/docs/array_to_bitmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_sum",
+    "permalink": "/docs/array_sum"
+  },
+  "next": {
+    "title": "array_unique_agg",
+    "permalink": "/docs/array_unique_agg"
+  }
+}

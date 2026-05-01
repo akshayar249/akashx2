@@ -1,0 +1,27 @@
+{
+  "id": "DROP_VIEW",
+  "title": "DROP VIEW",
+  "description": "功能",
+  "source": "@site/docs/DROP_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_VIEW",
+  "permalink": "/docs/DROP_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "shitu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP USER",
+    "permalink": "/docs/DROP_USER"
+  },
+  "next": {
+    "title": "DataGrip",
+    "permalink": "/docs/DataGrip"
+  }
+}

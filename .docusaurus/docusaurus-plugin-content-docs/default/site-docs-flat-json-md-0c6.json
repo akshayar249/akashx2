@@ -1,0 +1,26 @@
+{
+  "id": "Flat_json",
+  "title": "Flat JSON",
+  "description": "本文介绍了Flat JSON的基本概念及如何使用此功能。",
+  "source": "@site/docs/Flat_json.md",
+  "sourceDirName": ".",
+  "slug": "/Flat_json",
+  "permalink": "/docs/Flat_json",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 110,
+  "frontMatter": {
+    "sidebar_position": 110
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 AUTO INCREMENT 列构建全局字典以加速精确去重计算和 Join",
+    "permalink": "/docs/query_acceleration_with_auto_increment"
+  },
+  "next": {
+    "title": "表达式 JIT 编译",
+    "permalink": "/docs/jit"
+  }
+}

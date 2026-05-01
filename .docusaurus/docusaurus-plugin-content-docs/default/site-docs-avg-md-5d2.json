@@ -1,0 +1,23 @@
+{
+  "id": "avg",
+  "title": "avg",
+  "description": "用于返回选中字段的平均值。",
+  "source": "@site/docs/avg.md",
+  "sourceDirName": ".",
+  "slug": "/avg",
+  "permalink": "/docs/avg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 AutoMQ Kafka 持续导入",
+    "permalink": "/docs/automq-routine-load"
+  },
+  "next": {
+    "title": "AWS IAM 策略",
+    "permalink": "/docs/aws_iam_policies"
+  }
+}

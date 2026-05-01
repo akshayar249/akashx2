@@ -1,0 +1,23 @@
+{
+  "id": "seconds_add",
+  "title": "seconds_add",
+  "description": "向 expr1 添加指定的时间间隔，单位为秒。",
+  "source": "@site/docs/seconds_add.md",
+  "sourceDirName": ".",
+  "slug": "/seconds_add",
+  "permalink": "/docs/seconds_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "second",
+    "permalink": "/docs/second"
+  },
+  "next": {
+    "title": "seconds_diff",
+    "permalink": "/docs/seconds_diff"
+  }
+}

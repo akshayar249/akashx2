@@ -1,0 +1,23 @@
+{
+  "id": "months_add",
+  "title": "months_add",
+  "description": "给日期添加指定的月数，精确到月。",
+  "source": "@site/docs/months_add.md",
+  "sourceDirName": ".",
+  "slug": "/months_add",
+  "permalink": "/docs/months_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "monthname",
+    "permalink": "/docs/monthname"
+  },
+  "next": {
+    "title": "months_diff",
+    "permalink": "/docs/months_diff"
+  }
+}

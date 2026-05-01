@@ -1,0 +1,26 @@
+{
+  "id": "bucketing",
+  "title": "分桶",
+  "description": "在 AkashX 中选择 Hash Bucketing 和 Random Bucketing 的简明指南，包括它们的机制、权衡和推荐使用场景。",
+  "source": "@site/docs/bucketing.md",
+  "sourceDirName": ".",
+  "slug": "/bucketing",
+  "permalink": "/docs/bucketing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "管理用户权限",
+    "permalink": "/docs/User_privilege"
+  },
+  "next": {
+    "title": "使用物化视图加速数据湖查询",
+    "permalink": "/docs/data_lake_query_acceleration_with_materialized_views"
+  }
+}

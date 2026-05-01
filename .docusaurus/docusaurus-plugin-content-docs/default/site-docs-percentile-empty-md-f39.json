@@ -1,0 +1,23 @@
+{
+  "id": "percentile_empty",
+  "title": "percentile_empty",
+  "description": "构造一个 percentile 类型的数值，主要用于 INSERT 或 Stream Load 导入时填充默认值。",
+  "source": "@site/docs/percentile_empty.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_empty",
+  "permalink": "/docs/percentile_empty",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_disc_lc",
+    "permalink": "/docs/percentile_disc_lc"
+  },
+  "next": {
+    "title": "percentile_hash",
+    "permalink": "/docs/percentile_hash"
+  }
+}

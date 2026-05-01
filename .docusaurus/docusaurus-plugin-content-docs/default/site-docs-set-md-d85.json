@@ -1,0 +1,23 @@
+{
+  "id": "SET",
+  "title": "SET",
+  "description": "功能",
+  "source": "@site/docs/SET.md",
+  "sourceDirName": ".",
+  "slug": "/SET",
+  "permalink": "/docs/SET",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SELECT",
+    "permalink": "/docs/SELECT"
+  },
+  "next": {
+    "title": "SET CATALOG",
+    "permalink": "/docs/SET_CATALOG"
+  }
+}

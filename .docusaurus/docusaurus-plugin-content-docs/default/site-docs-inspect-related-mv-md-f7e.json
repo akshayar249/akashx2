@@ -1,0 +1,23 @@
+{
+  "id": "inspect_related_mv",
+  "title": "inspect_related_mv",
+  "description": "inspectrelatedmv(table_name)",
+  "source": "@site/docs/inspect_related_mv.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_related_mv",
+  "permalink": "/docs/inspect_related_mv",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_mv_relationships",
+    "permalink": "/docs/inspect_mv_relationships"
+  },
+  "next": {
+    "title": "inspect_table_partition_info",
+    "permalink": "/docs/inspect_table_partition_info"
+  }
+}

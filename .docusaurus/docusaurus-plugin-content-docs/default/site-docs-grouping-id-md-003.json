@@ -1,0 +1,23 @@
+{
+  "id": "grouping_id",
+  "title": "grouping_id",
+  "description": "用于区分相同分组标准的分组统计结果。",
+  "source": "@site/docs/grouping_id.md",
+  "sourceDirName": ".",
+  "slug": "/grouping_id",
+  "permalink": "/docs/grouping_id",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grouping",
+    "permalink": "/docs/grouping"
+  },
+  "next": {
+    "title": "基于 HDFS 部署",
+    "permalink": "/docs/hdfs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "restful-api-standard",
+  "title": "restful-api-standard",
+  "description": "此文档仅支持英文。",
+  "source": "@site/docs/restful-api-standard.md",
+  "sourceDirName": ".",
+  "slug": "/restful-api-standard",
+  "permalink": "/docs/restful-api-standard",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

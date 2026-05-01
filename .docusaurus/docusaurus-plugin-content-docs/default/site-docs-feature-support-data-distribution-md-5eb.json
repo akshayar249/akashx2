@@ -1,0 +1,27 @@
+{
+  "id": "feature-support-data-distribution",
+  "title": "功能边界：数据分布",
+  "description": "本文档概述了 AkashX 支持的分区和分桶功能。",
+  "source": "@site/docs/feature-support-data-distribution.md",
+  "sourceDirName": ".",
+  "slug": "/feature-support-data-distribution",
+  "permalink": "/docs/feature-support-data-distribution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_label": "能力边界",
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-asynchronous-materialized-views"
+  },
+  "next": {
+    "title": "全文倒排索引",
+    "permalink": "/docs/inverted_index"
+  }
+}

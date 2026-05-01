@@ -1,0 +1,23 @@
+{
+  "id": "be_compactions",
+  "title": "be_compactions",
+  "description": "be_compactions 提供有关 Compaction 任务的统计信息。",
+  "source": "@site/docs/be_compactions.md",
+  "sourceDirName": ".",
+  "slug": "/be_compactions",
+  "permalink": "/docs/be_compactions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_cloud_native_compactions",
+    "permalink": "/docs/be_cloud_native_compactions"
+  },
+  "next": {
+    "title": "be_configs",
+    "permalink": "/docs/be_configs"
+  }
+}

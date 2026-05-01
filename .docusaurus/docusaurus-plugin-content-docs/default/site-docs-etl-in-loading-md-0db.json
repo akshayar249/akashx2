@@ -1,0 +1,23 @@
+{
+  "id": "Etl_in_loading",
+  "title": "导入过程中实现数据转换",
+  "description": "AkashX 支持在导入数据的过程中实现数据转换。",
+  "source": "@site/docs/Etl_in_loading.md",
+  "sourceDirName": ".",
+  "slug": "/Etl_in_loading",
+  "permalink": "/docs/Etl_in_loading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "错误码",
+    "permalink": "/docs/Error_code"
+  },
+  "next": {
+    "title": "导出",
+    "permalink": "/docs/Exporting_faq"
+  }
+}

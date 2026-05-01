@@ -1,0 +1,23 @@
+{
+  "id": "DROP_DICTIONARY",
+  "title": "DROP DICTIONARY",
+  "description": "删除字典对象或者清空字典对象中缓存的数据。",
+  "source": "@site/docs/DROP_DICTIONARY.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_DICTIONARY",
+  "permalink": "/docs/DROP_DICTIONARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP DATABASE",
+    "permalink": "/docs/DROP_DATABASE"
+  },
+  "next": {
+    "title": "DROP FILE",
+    "permalink": "/docs/DROP_FILE"
+  }
+}

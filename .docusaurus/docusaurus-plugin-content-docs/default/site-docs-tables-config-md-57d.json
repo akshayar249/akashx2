@@ -1,0 +1,23 @@
+{
+  "id": "tables_config",
+  "title": "tables_config",
+  "description": "tables_config 提供有关表配置的信息。",
+  "source": "@site/docs/tables_config.md",
+  "sourceDirName": ".",
+  "slug": "/tables_config",
+  "permalink": "/docs/tables_config",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tables",
+    "permalink": "/docs/tables"
+  },
+  "next": {
+    "title": "tan",
+    "permalink": "/docs/tan"
+  }
+}

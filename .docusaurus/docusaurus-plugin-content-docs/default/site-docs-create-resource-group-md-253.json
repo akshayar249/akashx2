@@ -1,0 +1,27 @@
+{
+  "id": "CREATE_RESOURCE_GROUP",
+  "title": "CREATE RESOURCE GROUP",
+  "description": "功能",
+  "source": "@site/docs/CREATE_RESOURCE_GROUP.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_RESOURCE_GROUP",
+  "permalink": "/docs/CREATE_RESOURCE_GROUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "ziyuanzu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE RESOURCE",
+    "permalink": "/docs/CREATE_RESOURCE"
+  },
+  "next": {
+    "title": "CREATE ROLE",
+    "permalink": "/docs/CREATE_ROLE"
+  }
+}

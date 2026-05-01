@@ -1,0 +1,23 @@
+{
+  "id": "monthname",
+  "title": "monthname",
+  "description": "返回指定日期对应的月份。参数为 DATE 或 DATETIME 类型。",
+  "source": "@site/docs/monthname.md",
+  "sourceDirName": ".",
+  "slug": "/monthname",
+  "permalink": "/docs/monthname",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "month",
+    "permalink": "/docs/month"
+  },
+  "next": {
+    "title": "months_add",
+    "permalink": "/docs/months_add"
+  }
+}

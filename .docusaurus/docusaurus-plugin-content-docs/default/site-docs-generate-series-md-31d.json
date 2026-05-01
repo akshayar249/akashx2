@@ -1,0 +1,23 @@
+{
+  "id": "generate_series",
+  "title": "generate_series",
+  "description": "生成一系列从 start 到 end 的数值，步长为 step，step 默认为 1。",
+  "source": "@site/docs/generate_series.md",
+  "sourceDirName": ".",
+  "slug": "/generate_series",
+  "permalink": "/docs/generate_series",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 GCS 导入",
+    "permalink": "/docs/gcs"
+  },
+  "next": {
+    "title": "生成列",
+    "permalink": "/docs/generated_columns"
+  }
+}

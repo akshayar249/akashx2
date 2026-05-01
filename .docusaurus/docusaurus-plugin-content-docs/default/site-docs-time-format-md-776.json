@@ -1,0 +1,23 @@
+{
+  "id": "time_format",
+  "title": "time_format",
+  "description": "按指定格式格式化 TIME 类型时间值。",
+  "source": "@site/docs/time_format.md",
+  "sourceDirName": ".",
+  "slug": "/time_format",
+  "permalink": "/docs/time_format",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从腾讯云 COS 导入",
+    "permalink": "/docs/tencent"
+  },
+  "next": {
+    "title": "time_slice",
+    "permalink": "/docs/time_slice"
+  }
+}

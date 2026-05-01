@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_subset_limit",
+  "title": "bitmap_subset_limit",
+  "description": "根据指定的起始值，从 BITMAP 中截取指定个数的元素。返回的元素是 Bitmap 的子集。",
+  "source": "@site/docs/bitmap_subset_limit.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_subset_limit",
+  "permalink": "/docs/bitmap_subset_limit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_subset_in_range",
+    "permalink": "/docs/bitmap_subset_in_range"
+  },
+  "next": {
+    "title": "bitmap_to_array",
+    "permalink": "/docs/bitmap_to_array"
+  }
+}

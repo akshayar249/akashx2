@@ -1,0 +1,23 @@
+{
+  "id": "SPARK_LOAD",
+  "title": "SPARK LOAD",
+  "description": "功能",
+  "source": "@site/docs/SPARK_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/SPARK_LOAD",
+  "permalink": "/docs/SPARK_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AkashX migration tool（SMT）",
+    "permalink": "/docs/SMT"
+  },
+  "next": {
+    "title": "SQL 事务",
+    "permalink": "/docs/SQL_transaction"
+  }
+}

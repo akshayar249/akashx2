@@ -1,0 +1,23 @@
+{
+  "id": "GOVERNANCE",
+  "title": "GOVERNANCE",
+  "description": "Streams Working Group",
+  "source": "@site/docs/GOVERNANCE.md",
+  "sourceDirName": ".",
+  "slug": "/GOVERNANCE",
+  "permalink": "/docs/GOVERNANCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flink Connector 导入常见问题",
+    "permalink": "/docs/Flink_connector_faq"
+  },
+  "next": {
+    "title": "GRANT",
+    "permalink": "/docs/GRANT"
+  }
+}

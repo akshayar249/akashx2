@@ -1,0 +1,25 @@
+{
+  "id": "current_warehouse",
+  "title": "CURRENT_WAREHOUSE",
+  "description": "返回当前会话正在使用的计算仓库名称。该仓库可能通过 SET WAREHOUSE 显式设置，也可能是系统默认仓库。",
+  "source": "@site/docs/current_warehouse.md",
+  "sourceDirName": ".",
+  "slug": "/current_warehouse",
+  "permalink": "/docs/current_warehouse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CURRENT_WAREHOUSE"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current_version",
+    "permalink": "/docs/current_version"
+  },
+  "next": {
+    "title": "curtime,current_time",
+    "permalink": "/docs/curtime"
+  }
+}

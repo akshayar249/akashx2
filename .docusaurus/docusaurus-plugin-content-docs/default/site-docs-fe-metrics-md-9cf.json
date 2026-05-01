@@ -1,0 +1,23 @@
+{
+  "id": "fe_metrics",
+  "title": "fe_metrics",
+  "description": "fe_metrics 提供有关每个 FE 节点指标的信息。",
+  "source": "@site/docs/fe_metrics.md",
+  "sourceDirName": ".",
+  "slug": "/fe_metrics",
+  "permalink": "/docs/fe_metrics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FE 内存 FAQ",
+    "permalink": "/docs/fe_mem_faq"
+  },
+  "next": {
+    "title": "fe_tablet_schedules",
+    "permalink": "/docs/fe_tablet_schedules"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "month",
+  "title": "month",
+  "description": "返回指定日期中的月份。",
+  "source": "@site/docs/month.md",
+  "sourceDirName": ".",
+  "slug": "/month",
+  "permalink": "/docs/month",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "监控管理大查询",
+    "permalink": "/docs/monitor_manage_big_queries"
+  },
+  "next": {
+    "title": "monthname",
+    "permalink": "/docs/monthname"
+  }
+}

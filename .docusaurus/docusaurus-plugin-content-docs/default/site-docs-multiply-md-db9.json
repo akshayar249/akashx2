@@ -1,0 +1,23 @@
+{
+  "id": "multiply",
+  "title": "multiply",
+  "description": "计算参数 arg1 与 arg2 的乘积。",
+  "source": "@site/docs/multiply.md",
+  "sourceDirName": ".",
+  "slug": "/multiply",
+  "permalink": "/docs/multiply",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multi_distinct_sum",
+    "permalink": "/docs/multi_distinct_sum"
+  },
+  "next": {
+    "title": "murmur_hash3_32",
+    "permalink": "/docs/murmur_hash3_32"
+  }
+}

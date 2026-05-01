@@ -1,0 +1,23 @@
+{
+  "id": "HLL",
+  "title": "HLL (HyperLogLog)",
+  "description": "描述",
+  "source": "@site/docs/HLL.md",
+  "sourceDirName": ".",
+  "slug": "/HLL",
+  "permalink": "/docs/HLL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GRANT",
+    "permalink": "/docs/GRANT"
+  },
+  "next": {
+    "title": "hex",
+    "permalink": "/docs/Hex"
+  }
+}

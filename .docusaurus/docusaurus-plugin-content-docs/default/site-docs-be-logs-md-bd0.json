@@ -1,0 +1,23 @@
+{
+  "id": "be_logs",
+  "title": "be_logs",
+  "description": "be_logs 提供有关每个 BE 节点日志的信息。",
+  "source": "@site/docs/be_logs.md",
+  "sourceDirName": ".",
+  "slug": "/be_logs",
+  "permalink": "/docs/be_logs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用标签管理 BE 节点",
+    "permalink": "/docs/be_label"
+  },
+  "next": {
+    "title": "be_metrics",
+    "permalink": "/docs/be_metrics"
+  }
+}

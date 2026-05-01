@@ -1,0 +1,27 @@
+{
+  "id": "RESTORE",
+  "title": "RESTORE",
+  "description": "AkashX 支持备份及恢复以下对象：",
+  "source": "@site/docs/RESTORE.md",
+  "sourceDirName": ".",
+  "slug": "/RESTORE",
+  "permalink": "/docs/RESTORE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REFRESH MATERIALIZED VIEW",
+    "permalink": "/docs/REFRESH_MATERIALIZED_VIEW"
+  },
+  "next": {
+    "title": "RESUME ROUTINE LOAD",
+    "permalink": "/docs/RESUME_ROUTINE_LOAD"
+  }
+}

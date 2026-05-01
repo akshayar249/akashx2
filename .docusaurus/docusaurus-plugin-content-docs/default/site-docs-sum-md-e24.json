@@ -1,0 +1,23 @@
+{
+  "id": "sum",
+  "title": "sum",
+  "description": "返回指定列所有值的总和。该函数会忽略 NULL 值，可以与 DISTINCT 运算符搭配使用。",
+  "source": "@site/docs/sum.md",
+  "sourceDirName": ".",
+  "slug": "/sum",
+  "permalink": "/docs/sum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "substring_index",
+    "permalink": "/docs/substring_index"
+  },
+  "next": {
+    "title": "支持 Superset",
+    "permalink": "/docs/superset_support"
+  }
+}

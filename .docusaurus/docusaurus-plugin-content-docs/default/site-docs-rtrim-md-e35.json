@@ -1,0 +1,23 @@
+{
+  "id": "rtrim",
+  "title": "rtrim",
+  "description": "从字符串的右侧（结尾部分）移除连续出现的空格或指定字符。从 2.5.0 版本开始，支持从字符串中移除指定的字符。",
+  "source": "@site/docs/rtrim.md",
+  "sourceDirName": ".",
+  "slug": "/rtrim",
+  "permalink": "/docs/rtrim",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rpad",
+    "permalink": "/docs/rpad"
+  },
+  "next": {
+    "title": "从 AWS S3 导入",
+    "permalink": "/docs/s3"
+  }
+}

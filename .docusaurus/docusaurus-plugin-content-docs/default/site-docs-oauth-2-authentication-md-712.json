@@ -1,0 +1,26 @@
+{
+  "id": "oauth2_authentication",
+  "title": "OAuth 2.0 认证",
+  "description": "本文介绍如何在 AkashX 中启用 OAuth 2.0 认证。",
+  "source": "@site/docs/oauth2_authentication.md",
+  "sourceDirName": ".",
+  "slug": "/oauth2_authentication",
+  "permalink": "/docs/oauth2_authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "全文倒排索引",
+    "permalink": "/docs/inverted_index"
+  },
+  "next": {
+    "title": "权限系统 FAQ",
+    "permalink": "/docs/privilege_faq"
+  }
+}

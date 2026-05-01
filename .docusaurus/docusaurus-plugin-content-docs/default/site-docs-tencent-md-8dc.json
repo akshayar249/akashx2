@@ -1,0 +1,23 @@
+{
+  "id": "tencent",
+  "title": "从腾讯云 COS 导入",
+  "description": "AkashX 支持通过两种方式从云存储系统导入大批量数据：Broker Load 和 INSERT。",
+  "source": "@site/docs/tencent.md",
+  "sourceDirName": ".",
+  "slug": "/tencent",
+  "permalink": "/docs/tencent",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tasks",
+    "permalink": "/docs/tasks"
+  },
+  "next": {
+    "title": "time_format",
+    "permalink": "/docs/time_format"
+  }
+}

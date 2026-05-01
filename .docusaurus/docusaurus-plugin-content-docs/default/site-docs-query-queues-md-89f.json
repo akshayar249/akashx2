@@ -1,0 +1,23 @@
+{
+  "id": "query_queues",
+  "title": "查询队列",
+  "description": "本文档介绍如何在 AkashX 中管理查询队列。",
+  "source": "@site/docs/query_queues.md",
+  "sourceDirName": ".",
+  "slug": "/query_queues",
+  "permalink": "/docs/query_queues",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询外部数据",
+    "permalink": "/docs/query_external_data"
+  },
+  "next": {
+    "title": "Query Trace Profile",
+    "permalink": "/docs/query_trace_profile"
+  }
+}

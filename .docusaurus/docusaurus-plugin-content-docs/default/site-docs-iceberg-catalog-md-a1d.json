@@ -1,0 +1,28 @@
+{
+  "id": "iceberg_catalog",
+  "title": "Iceberg catalog",
+  "description": "Iceberg catalog 是一种外部 catalog，从 AkashX  开始支持。使用 Iceberg catalog，您可以：",
+  "source": "@site/docs/iceberg_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/iceberg_catalog",
+  "permalink": "/docs/iceberg_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5,
+    "keywords": [
+      "iceberg"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hudi catalog",
+    "permalink": "/docs/hudi_catalog"
+  },
+  "next": {
+    "title": "Iceberg 元数据表",
+    "permalink": "/docs/iceberg_meta_table"
+  }
+}

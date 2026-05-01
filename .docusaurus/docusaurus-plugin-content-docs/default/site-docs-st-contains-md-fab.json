@@ -1,0 +1,23 @@
+{
+  "id": "st_contains",
+  "title": "ST_Contains",
+  "description": "判断几何图形 shape1 是否完全能够包含几何图形 shape2。",
+  "source": "@site/docs/st_contains.md",
+  "sourceDirName": ".",
+  "slug": "/st_contains",
+  "permalink": "/docs/st_contains",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_Circle",
+    "permalink": "/docs/st_circle"
+  },
+  "next": {
+    "title": "ST_Distance_Sphere",
+    "permalink": "/docs/st_distance_sphere"
+  }
+}

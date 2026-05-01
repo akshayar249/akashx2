@@ -1,0 +1,27 @@
+{
+  "id": "built_in_roles",
+  "title": "AkashX 支持的内置角色",
+  "description": "在 AkashX 集群中，有五个内置角色：",
+  "source": "@site/docs/built_in_roles.md",
+  "sourceDirName": ".",
+  "slug": "/built_in_roles",
+  "permalink": "/docs/built_in_roles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "sidebar_position": 25,
+    "sidebar_label": "内置角色"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表聚类",
+    "permalink": "/docs/table_clustering"
+  },
+  "next": {
+    "title": "Bloom filter 索引",
+    "permalink": "/docs/Bloomfilter_index"
+  }
+}

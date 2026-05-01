@@ -1,0 +1,23 @@
+{
+  "id": "to_date",
+  "title": "to_date",
+  "description": "返回 DATETIME 类型值中的日期部分。",
+  "source": "@site/docs/to_date.md",
+  "sourceDirName": ".",
+  "slug": "/to_date",
+  "permalink": "/docs/to_date",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "to_bitmap",
+    "permalink": "/docs/to_bitmap"
+  },
+  "next": {
+    "title": "to_datetime",
+    "permalink": "/docs/to_datetime"
+  }
+}

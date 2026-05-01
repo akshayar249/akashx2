@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_TRANSACTION",
+  "title": "SHOW TRANSACTION",
+  "description": "功能",
+  "source": "@site/docs/SHOW_TRANSACTION.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_TRANSACTION",
+  "permalink": "/docs/SHOW_TRANSACTION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW TABLE STATUS",
+    "permalink": "/docs/SHOW_TABLE_STATUS"
+  },
+  "next": {
+    "title": "SHOW USAGE RESOURCE GROUPS",
+    "permalink": "/docs/SHOW_USAGE_RESOURCE_GROUPS"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "README",
+  "title": "函数",
+  "description": "AkashX 提供了丰富的函数，方便您在日常数据查询和分析时使用。除了常见的函数分类，AkashX 也支持 ARRAY、JSON、MAP、STRUCT 等半结构化函数，支持 Lambda 高阶函数。如果以上函数都不符合您的需求，您还可以自行编写 Java UDF 来满足业务需求。AkashX 还提供 Hive Bitmap UDF 功能，您可以在 Hive 里计算生成 Bitmap 后，再导入 AkashX；将 AkashX 里生成的 Bitmap，导出到 Hive，方便其它系统使用。",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "sidebar_position": 0.5
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Java UDF",
+    "permalink": "/docs/JAVA_UDF"
+  }
+}

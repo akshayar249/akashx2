@@ -1,0 +1,23 @@
+{
+  "id": "dict_mapping",
+  "title": "dict_mapping",
+  "description": "通过指定字典表和 key，返回该 key 所映射的 value。",
+  "source": "@site/docs/dict_mapping.md",
+  "sourceDirName": ".",
+  "slug": "/dict_mapping",
+  "permalink": "/docs/dict_mapping",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup development environment with Docker",
+    "permalink": "/docs/dev-env-setup"
+  },
+  "next": {
+    "title": "dictionary_get",
+    "permalink": "/docs/dictionary_get"
+  }
+}

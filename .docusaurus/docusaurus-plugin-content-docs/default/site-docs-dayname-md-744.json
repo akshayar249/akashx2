@@ -1,0 +1,23 @@
+{
+  "id": "dayname",
+  "title": "dayname",
+  "description": "返回指定日期对应的星期名称。",
+  "source": "@site/docs/dayname.md",
+  "sourceDirName": ".",
+  "slug": "/dayname",
+  "permalink": "/docs/dayname",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dayofweek_iso",
+    "permalink": "/docs/day_of_week_iso"
+  },
+  "next": {
+    "title": "dayofmonth",
+    "permalink": "/docs/dayofmonth"
+  }
+}

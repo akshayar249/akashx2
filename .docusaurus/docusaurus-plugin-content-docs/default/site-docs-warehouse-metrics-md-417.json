@@ -1,0 +1,23 @@
+{
+  "id": "warehouse_metrics",
+  "title": "warehouse_metrics",
+  "description": "warehouse_metrics は各ウェアハウスのメトリックに関する情報を提供します。",
+  "source": "@site/docs/warehouse_metrics.md",
+  "sourceDirName": ".",
+  "slug": "/warehouse_metrics",
+  "permalink": "/docs/warehouse_metrics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "views",
+    "permalink": "/docs/views"
+  },
+  "next": {
+    "title": "warehouse_queries",
+    "permalink": "/docs/warehouse_queries"
+  }
+}

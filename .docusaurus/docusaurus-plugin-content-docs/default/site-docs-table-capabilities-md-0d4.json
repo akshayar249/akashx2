@@ -1,0 +1,26 @@
+{
+  "id": "table_capabilities",
+  "title": "各类表的能力对比",
+  "description": "Key 列和排序键",
+  "source": "@site/docs/table_capabilities.md",
+  "sourceDirName": ".",
+  "slug": "/table_capabilities",
+  "permalink": "/docs/table_capabilities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询调优简介",
+    "permalink": "/docs/query_plan_intro"
+  },
+  "next": {
+    "title": "权限系统总览",
+    "permalink": "/docs/user_privs"
+  }
+}

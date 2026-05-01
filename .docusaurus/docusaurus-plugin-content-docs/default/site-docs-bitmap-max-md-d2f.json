@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_max",
+  "title": "bitmap_max",
+  "description": "获取Bitmap中的最大值。如果Bitmap为NULL，则返回NULL。如果Bitmap为空，默认返回NULL。",
+  "source": "@site/docs/bitmap_max.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_max",
+  "permalink": "/docs/bitmap_max",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_intersect",
+    "permalink": "/docs/bitmap_intersect"
+  },
+  "next": {
+    "title": "bitmap_min",
+    "permalink": "/docs/bitmap_min"
+  }
+}

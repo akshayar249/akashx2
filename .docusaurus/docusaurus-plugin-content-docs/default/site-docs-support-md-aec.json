@@ -1,0 +1,23 @@
+{
+  "id": "SUPPORT",
+  "title": "Support",
+  "description": "Community",
+  "source": "@site/docs/SUPPORT.md",
+  "sourceDirName": ".",
+  "slug": "/SUPPORT",
+  "permalink": "/docs/SUPPORT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SUBMIT TASK",
+    "permalink": "/docs/SUBMIT_TASK"
+  },
+  "next": {
+    "title": "SUSPEND or RESUME PIPE",
+    "permalink": "/docs/SUSPEND_or_RESUME_PIPE"
+  }
+}

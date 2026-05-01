@@ -1,0 +1,26 @@
+{
+  "id": "sorted_aggregate",
+  "title": "Sorted streaming aggregate",
+  "description": "数据库常见的聚合方法有 Hash 聚合和排序聚合。",
+  "source": "@site/docs/sorted_aggregate.md",
+  "sourceDirName": ".",
+  "slug": "/sorted_aggregate",
+  "permalink": "/docs/sorted_aggregate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 90,
+  "frontMatter": {
+    "sidebar_position": 90
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询概要指标",
+    "permalink": "/docs/query_profile_operator_metrics"
+  },
+  "next": {
+    "title": "认证与授权",
+    "permalink": "/docs/authentication_authorization"
+  }
+}

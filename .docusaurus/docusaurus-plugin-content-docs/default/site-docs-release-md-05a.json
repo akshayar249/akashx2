@@ -1,0 +1,23 @@
+{
+  "id": "release",
+  "title": "release",
+  "description": "npm run build",
+  "source": "@site/docs/release.md",
+  "sourceDirName": ".",
+  "slug": "/release",
+  "permalink": "/docs/release",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AkashX",
+    "permalink": "/docs/release-3.5"
+  },
+  "next": {
+    "title": "repeat",
+    "permalink": "/docs/repeat"
+  }
+}

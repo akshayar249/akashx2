@@ -1,0 +1,29 @@
+{
+  "id": "Prefix_index_sort_key",
+  "title": "前缀索引和排序键",
+  "description": "功能简介",
+  "source": "@site/docs/Prefix_index_sort_key.md",
+  "sourceDirName": ".",
+  "slug": "/Prefix_index_sort_key",
+  "permalink": "/docs/Prefix_index_sort_key",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ],
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "异步物化视图",
+    "permalink": "/docs/Materialized_view"
+  },
+  "next": {
+    "title": "表概览",
+    "permalink": "/docs/akashx_table_design"
+  }
+}

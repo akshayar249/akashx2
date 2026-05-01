@@ -1,0 +1,23 @@
+{
+  "id": "plan_cluster",
+  "title": "规划 AkashX 集群",
+  "description": "本文介绍如何为部署 AkashX 生产集群规划资源。您需要从节点数、CPU 内核数、内存大小和存储大小的角度规划您的 AkashX 集群。",
+  "source": "@site/docs/plan_cluster.md",
+  "sourceDirName": ".",
+  "slug": "/plan_cluster",
+  "permalink": "/docs/plan_cluster",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pipes",
+    "permalink": "/docs/pipes"
+  },
+  "next": {
+    "title": "pmod",
+    "permalink": "/docs/pmod"
+  }
+}

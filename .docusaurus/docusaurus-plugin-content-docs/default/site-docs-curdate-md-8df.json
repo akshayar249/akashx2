@@ -1,0 +1,23 @@
+{
+  "id": "curdate",
+  "title": "curdate,current_date",
+  "description": "获取当前的日期，以 DATE 类型返回。",
+  "source": "@site/docs/curdate.md",
+  "sourceDirName": ".",
+  "slug": "/curdate",
+  "permalink": "/docs/curdate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crc32",
+    "permalink": "/docs/crc32"
+  },
+  "next": {
+    "title": "current_role",
+    "permalink": "/docs/current_role"
+  }
+}

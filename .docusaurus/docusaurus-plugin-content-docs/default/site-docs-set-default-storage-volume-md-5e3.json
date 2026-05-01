@@ -1,0 +1,23 @@
+{
+  "id": "SET_DEFAULT_STORAGE_VOLUME",
+  "title": "SET DEFAULT STORAGE VOLUME",
+  "description": "功能",
+  "source": "@site/docs/SET_DEFAULT_STORAGE_VOLUME.md",
+  "sourceDirName": ".",
+  "slug": "/SET_DEFAULT_STORAGE_VOLUME",
+  "permalink": "/docs/SET_DEFAULT_STORAGE_VOLUME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SET DEFAULT ROLE",
+    "permalink": "/docs/SET_DEFAULT_ROLE"
+  },
+  "next": {
+    "title": "SET PASSWORD",
+    "permalink": "/docs/SET_PASSWORD"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "query_acceleration_with_auto_increment",
+  "title": "使用 AUTO INCREMENT 列构建全局字典以加速精确去重计算和 Join",
+  "description": "应用场景",
+  "source": "@site/docs/query_acceleration_with_auto_increment.md",
+  "sourceDirName": ".",
+  "slug": "/query_acceleration_with_auto_increment",
+  "permalink": "/docs/query_acceleration_with_auto_increment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "sidebar_position": 100
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "认证与授权",
+    "permalink": "/docs/authentication_authorization"
+  },
+  "next": {
+    "title": "Flat JSON",
+    "permalink": "/docs/Flat_json"
+  }
+}

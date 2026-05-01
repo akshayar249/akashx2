@@ -1,0 +1,23 @@
+{
+  "id": "warehouse_queries",
+  "title": "warehouse_queries",
+  "description": "warehouse_queries は各ウェアハウスで実行されているクエリに関する情報を提供します。",
+  "source": "@site/docs/warehouse_queries.md",
+  "sourceDirName": ".",
+  "slug": "/warehouse_queries",
+  "permalink": "/docs/warehouse_queries",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "warehouse_metrics",
+    "permalink": "/docs/warehouse_metrics"
+  },
+  "next": {
+    "title": "week",
+    "permalink": "/docs/week"
+  }
+}

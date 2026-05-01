@@ -1,0 +1,23 @@
+{
+  "id": "INSERT",
+  "title": "INSERT",
+  "description": "功能",
+  "source": "@site/docs/INSERT.md",
+  "sourceDirName": ".",
+  "slug": "/INSERT",
+  "permalink": "/docs/INSERT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Incident Response Process for **resolve**",
+    "permalink": "/docs/INCIDENT_RESPONSE_PROCESS"
+  },
+  "next": {
+    "title": "Installing PostCSS Clamp",
+    "permalink": "/docs/INSTALL"
+  }
+}

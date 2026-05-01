@@ -1,0 +1,23 @@
+{
+  "id": "dayofyear",
+  "title": "dayofyear",
+  "description": "计算指定日期为对应年中的哪一天。",
+  "source": "@site/docs/dayofyear.md",
+  "sourceDirName": ".",
+  "slug": "/dayofyear",
+  "permalink": "/docs/dayofyear",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dayofweek",
+    "permalink": "/docs/dayofweek"
+  },
+  "next": {
+    "title": "days_add",
+    "permalink": "/docs/days_add"
+  }
+}

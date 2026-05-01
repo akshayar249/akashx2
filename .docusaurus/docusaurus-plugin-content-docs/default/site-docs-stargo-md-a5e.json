@@ -1,0 +1,23 @@
+{
+  "id": "stargo",
+  "title": "使用 StarGo 部署管理 AkashX",
+  "description": "本文介绍如何使用 StarGo 部署管理 AkashX 集群。",
+  "source": "@site/docs/stargo.md",
+  "sourceDirName": ".",
+  "slug": "/stargo",
+  "permalink": "/docs/stargo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_Y",
+    "permalink": "/docs/st_y"
+  },
+  "next": {
+    "title": "Kubernetes Operator 版本发布",
+    "permalink": "/docs/akashx-kubernetes-operator"
+  }
+}

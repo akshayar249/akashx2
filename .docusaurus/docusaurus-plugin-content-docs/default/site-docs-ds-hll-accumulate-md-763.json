@@ -1,0 +1,23 @@
+{
+  "id": "ds_hll_accumulate",
+  "title": "ds_hll_accumulate",
+  "description": "将值累积到 HyperLogLog 草图中，并返回序列化的草图作为 VARBINARY。此函数是 DataSketches HLL 近似去重计数函数族的一部分。",
+  "source": "@site/docs/ds_hll_accumulate.md",
+  "sourceDirName": ".",
+  "slug": "/ds_hll_accumulate",
+  "permalink": "/docs/ds_hll_accumulate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "降级 AkashX",
+    "permalink": "/docs/downgrade"
+  },
+  "next": {
+    "title": "ds_hll_combine",
+    "permalink": "/docs/ds_hll_combine"
+  }
+}

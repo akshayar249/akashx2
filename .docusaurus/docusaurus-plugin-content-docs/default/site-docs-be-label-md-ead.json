@@ -1,0 +1,23 @@
+{
+  "id": "be_label",
+  "title": "使用标签管理 BE 节点",
+  "description": "自 3.2.8 版本起，AkashX 支持使用标签对 BE 节点进行分组。您在建表或创建异步物化视图时可以通过指定和 BE 节点相同标签来使数据副本分布到指定的标签所对应的 BE 节点上。数据副本在相同标签的节点下会均匀分布，该特性可以提高数据高可用和资源隔离性能。",
+  "source": "@site/docs/be_label.md",
+  "sourceDirName": ".",
+  "slug": "/be_label",
+  "permalink": "/docs/be_label",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_configs",
+    "permalink": "/docs/be_configs"
+  },
+  "next": {
+    "title": "be_logs",
+    "permalink": "/docs/be_logs"
+  }
+}

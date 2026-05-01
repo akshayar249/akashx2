@@ -1,0 +1,23 @@
+{
+  "id": "External_table",
+  "title": "外部表",
+  "description": "外部表功能除特定边缘使用场景外已不推荐使用，未来版本可能弃用。在常规场景中管理和查询外部数据源的数据时，建议使用 External Catalog。",
+  "source": "@site/docs/External_table.md",
+  "sourceDirName": ".",
+  "slug": "/External_table",
+  "permalink": "/docs/External_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "导出",
+    "permalink": "/docs/Exporting_faq"
+  },
+  "next": {
+    "title": "FE 配置项",
+    "permalink": "/docs/FE_configuration"
+  }
+}

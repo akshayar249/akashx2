@@ -1,0 +1,30 @@
+{
+  "id": "Temporary_partition",
+  "title": "临时分区",
+  "description": "本文介绍如何使用临时分区功能。",
+  "source": "@site/docs/Temporary_partition.md",
+  "sourceDirName": ".",
+  "slug": "/Temporary_partition",
+  "permalink": "/docs/Temporary_partition",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "keywords": [
+      "fenqu",
+      "linshi"
+    ],
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "N-gram bloom filter 索引",
+    "permalink": "/docs/Ngram_Bloom_Filter_Index"
+  },
+  "next": {
+    "title": "创建分区物化视图",
+    "permalink": "/docs/create_partitioned_materialized_view"
+  }
+}

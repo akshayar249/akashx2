@@ -1,0 +1,26 @@
+{
+  "id": "dynamic_partitioning",
+  "title": "Range 分区（不推荐）",
+  "description": "Range 分区适用于存储简单的连续数据，如时间序列数据或连续的数值数据。",
+  "source": "@site/docs/dynamic_partitioning.md",
+  "sourceDirName": ".",
+  "slug": "/dynamic_partitioning",
+  "permalink": "/docs/dynamic_partitioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "明细表",
+    "permalink": "/docs/duplicate_key_table"
+  },
+  "next": {
+    "title": "认证用户组",
+    "permalink": "/docs/group_provider"
+  }
+}

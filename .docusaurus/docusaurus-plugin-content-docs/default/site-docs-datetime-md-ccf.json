@@ -1,0 +1,23 @@
+{
+  "id": "DATETIME",
+  "title": "DATETIME",
+  "description": "日期时间类型，取值范围是 ['0000-01-01 0000', '9999-12-31 2359']。",
+  "source": "@site/docs/DATETIME.md",
+  "sourceDirName": ".",
+  "slug": "/DATETIME",
+  "permalink": "/docs/DATETIME",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "date",
+    "permalink": "/docs/DATE"
+  },
+  "next": {
+    "title": "DBeaver",
+    "permalink": "/docs/DBeaver"
+  }
+}

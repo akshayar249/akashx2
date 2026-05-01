@@ -1,0 +1,23 @@
+{
+  "id": "EXECUTE_AS",
+  "title": "EXECUTE AS",
+  "description": "功能",
+  "source": "@site/docs/EXECUTE_AS.md",
+  "sourceDirName": ".",
+  "slug": "/EXECUTE_AS",
+  "permalink": "/docs/EXECUTE_AS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "query_dump 接口",
+    "permalink": "/docs/Dump_query"
+  },
+  "next": {
+    "title": "EXPLAIN",
+    "permalink": "/docs/EXPLAIN"
+  }
+}

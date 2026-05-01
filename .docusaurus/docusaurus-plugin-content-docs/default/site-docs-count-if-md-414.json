@@ -1,0 +1,23 @@
+{
+  "id": "count_if",
+  "title": "count_if",
+  "description": "计算满足指定条件（即条件表达试的结果为 true）的记录数。",
+  "source": "@site/docs/count_if.md",
+  "sourceDirName": ".",
+  "slug": "/count_if",
+  "permalink": "/docs/count_if",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "count",
+    "permalink": "/docs/count"
+  },
+  "next": {
+    "title": "covar_pop",
+    "permalink": "/docs/covar_pop"
+  }
+}

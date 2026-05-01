@@ -1,0 +1,23 @@
+{
+  "id": "asin",
+  "title": "asin",
+  "description": "返回 x 的反正弦值（单位为弧度）。x 为 DOUBLE 类型的数值。",
+  "source": "@site/docs/asin.md",
+  "sourceDirName": ".",
+  "slug": "/asin",
+  "permalink": "/docs/asin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ascii",
+    "permalink": "/docs/ascii"
+  },
+  "next": {
+    "title": "atan",
+    "permalink": "/docs/atan"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_filter",
+  "title": "array_filter",
+  "description": "根据设定的过滤条件返回数组中匹配的元素。该函数可用于普通的数组过滤，也可以搭配 Lambda 函数进行更灵活的数组过滤。有关 Lambda 表达式的详细信息，参见 Lambda expression。该函数从 2.5 版本开始支持。",
+  "source": "@site/docs/array_filter.md",
+  "sourceDirName": ".",
+  "slug": "/array_filter",
+  "permalink": "/docs/array_filter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_distinct",
+    "permalink": "/docs/array_distinct"
+  },
+  "next": {
+    "title": "array_flatten",
+    "permalink": "/docs/array_flatten"
+  }
+}

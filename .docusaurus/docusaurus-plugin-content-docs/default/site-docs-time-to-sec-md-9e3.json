@@ -1,0 +1,23 @@
+{
+  "id": "time_to_sec",
+  "title": "time_to_sec",
+  "description": "将 time 时间值转换为秒数，转换公式为:",
+  "source": "@site/docs/time_to_sec.md",
+  "sourceDirName": ".",
+  "slug": "/time_to_sec",
+  "permalink": "/docs/time_to_sec",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "time_slice",
+    "permalink": "/docs/time_slice"
+  },
+  "next": {
+    "title": "timediff",
+    "permalink": "/docs/timediff"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_TABLES",
+  "title": "SHOW TABLES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_TABLES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_TABLES",
+  "permalink": "/docs/SHOW_TABLES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW STORAGE VOLUMES",
+    "permalink": "/docs/SHOW_STORAGE_VOLUMES"
+  },
+  "next": {
+    "title": "SHOW TABLET",
+    "permalink": "/docs/SHOW_TABLET"
+  }
+}

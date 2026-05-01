@@ -1,0 +1,25 @@
+{
+  "id": "jdbc_catalog",
+  "title": "JDBC catalog",
+  "description": "AkashX 从 3.0 版本开始支持 JDBC Catalog。",
+  "source": "@site/docs/jdbc_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/jdbc_catalog",
+  "permalink": "/docs/jdbc_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "isnull",
+    "permalink": "/docs/isnull"
+  },
+  "next": {
+    "title": "Jemalloc 堆内存分析",
+    "permalink": "/docs/jemalloc_heap_profile"
+  }
+}

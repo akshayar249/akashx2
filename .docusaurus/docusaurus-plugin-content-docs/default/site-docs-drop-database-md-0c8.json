@@ -1,0 +1,23 @@
+{
+  "id": "DROP_DATABASE",
+  "title": "DROP DATABASE",
+  "description": "功能",
+  "source": "@site/docs/DROP_DATABASE.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_DATABASE",
+  "permalink": "/docs/DROP_DATABASE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP CATALOG",
+    "permalink": "/docs/DROP_CATALOG"
+  },
+  "next": {
+    "title": "DROP DICTIONARY",
+    "permalink": "/docs/DROP_DICTIONARY"
+  }
+}

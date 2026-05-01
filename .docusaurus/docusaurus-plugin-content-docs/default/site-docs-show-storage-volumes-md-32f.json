@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_STORAGE_VOLUMES",
+  "title": "SHOW STORAGE VOLUMES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_STORAGE_VOLUMES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_STORAGE_VOLUMES",
+  "permalink": "/docs/SHOW_STORAGE_VOLUMES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW SQLBLACKLIST",
+    "permalink": "/docs/SHOW_SQLBLACKLIST"
+  },
+  "next": {
+    "title": "SHOW TABLES",
+    "permalink": "/docs/SHOW_TABLES"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "DataX_faq",
+  "title": "DataX 导入常见问题",
+  "description": "本页列举了使用 DataX 导入数据时可能会遇到的常见问题及潜在解决方案。",
+  "source": "@site/docs/DataX_faq.md",
+  "sourceDirName": ".",
+  "slug": "/DataX_faq",
+  "permalink": "/docs/DataX_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 DataX 导入",
+    "permalink": "/docs/DataX-akashx-writer"
+  },
+  "next": {
+    "title": "恢复数据",
+    "permalink": "/docs/Data_recovery"
+  }
+}

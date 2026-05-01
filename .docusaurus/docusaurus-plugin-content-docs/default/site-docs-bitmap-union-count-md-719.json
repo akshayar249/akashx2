@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_union_count",
+  "title": "bitmap_union_count",
+  "description": "计算输入的一组 bitmap 值的并集，并返回并集的基数。该函数从 2.3 版本开始支持。",
+  "source": "@site/docs/bitmap_union_count.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_union_count",
+  "permalink": "/docs/bitmap_union_count",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_union",
+    "permalink": "/docs/bitmap_union"
+  },
+  "next": {
+    "title": "bitmap_union_int",
+    "permalink": "/docs/bitmap_union_int"
+  }
+}

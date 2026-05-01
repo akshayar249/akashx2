@@ -1,0 +1,23 @@
+{
+  "id": "iceberg_rest_s3",
+  "title": "为 AWS S3 表创建 Iceberg REST Catalog",
+  "description": "本文介绍如何在 AkashX 中创建 Iceberg REST Catalog，以通过 AWS Glue Iceberg REST 端点访问 AWS S3 表中的数据。",
+  "source": "@site/docs/iceberg_rest_s3.md",
+  "sourceDirName": ".",
+  "slug": "/iceberg_rest_s3",
+  "permalink": "/docs/iceberg_rest_s3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Iceberg 元数据表",
+    "permalink": "/docs/iceberg_meta_table"
+  },
+  "next": {
+    "title": "Iceberg REST Catalog 的安全设置",
+    "permalink": "/docs/iceberg_rest_security"
+  }
+}

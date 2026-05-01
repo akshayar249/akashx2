@@ -1,0 +1,23 @@
+{
+  "id": "array_repeat",
+  "title": "array_repeat",
+  "description": "功能",
+  "source": "@site/docs/array_repeat.md",
+  "sourceDirName": ".",
+  "slug": "/array_repeat",
+  "permalink": "/docs/array_repeat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_remove",
+    "permalink": "/docs/array_remove"
+  },
+  "next": {
+    "title": "array_slice",
+    "permalink": "/docs/array_slice"
+  }
+}

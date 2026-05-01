@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_SQLBLACKLIST",
+  "title": "SHOW SQLBLACKLIST",
+  "description": "功能",
+  "source": "@site/docs/SHOW_SQLBLACKLIST.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_SQLBLACKLIST",
+  "permalink": "/docs/SHOW_SQLBLACKLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW SNAPSHOT",
+    "permalink": "/docs/SHOW_SNAPSHOT"
+  },
+  "next": {
+    "title": "SHOW STORAGE VOLUMES",
+    "permalink": "/docs/SHOW_STORAGE_VOLUMES"
+  }
+}

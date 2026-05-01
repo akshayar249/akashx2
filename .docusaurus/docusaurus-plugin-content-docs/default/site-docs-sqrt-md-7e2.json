@@ -1,0 +1,23 @@
+{
+  "id": "sqrt",
+  "title": "sqrt, dsqrt",
+  "description": "返回参数 x 的平方根。dsqrt() 和 sqrt() 功能相同。",
+  "source": "@site/docs/sqrt.md",
+  "sourceDirName": ".",
+  "slug": "/sqrt",
+  "permalink": "/docs/sqrt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL Digest",
+    "permalink": "/docs/sql_digest"
+  },
+  "next": {
+    "title": "SQUARE",
+    "permalink": "/docs/square"
+  }
+}

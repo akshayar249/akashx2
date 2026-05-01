@@ -1,0 +1,26 @@
+{
+  "id": "jit",
+  "title": "表达式 JIT 编译",
+  "description": "本文描述了如何在 AkashX 中启用和配置表达式的 JIT 编译功能。",
+  "source": "@site/docs/jit.md",
+  "sourceDirName": ".",
+  "slug": "/jit",
+  "permalink": "/docs/jit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 130,
+  "frontMatter": {
+    "sidebar_position": 130
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flat JSON",
+    "permalink": "/docs/Flat_json"
+  },
+  "next": {
+    "title": "streams WG Meeting 2015-01-30",
+    "permalink": "/docs/2015-01-30"
+  }
+}

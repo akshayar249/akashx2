@@ -1,0 +1,23 @@
+{
+  "id": "BINARY",
+  "title": "BINARY/VARBINARY",
+  "description": "描述",
+  "source": "@site/docs/BINARY.md",
+  "sourceDirName": ".",
+  "slug": "/BINARY",
+  "permalink": "/docs/BINARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BIGINT",
+    "permalink": "/docs/BIGINT"
+  },
+  "next": {
+    "title": "bitmap",
+    "permalink": "/docs/BITMAP"
+  }
+}

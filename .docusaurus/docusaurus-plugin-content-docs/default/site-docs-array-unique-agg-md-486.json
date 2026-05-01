@@ -1,0 +1,23 @@
+{
+  "id": "array_unique_agg",
+  "title": "array_unique_agg",
+  "description": "将一列中的 distinct 值（包括空值 null）串联成一个数组（多行转一行）。",
+  "source": "@site/docs/array_unique_agg.md",
+  "sourceDirName": ".",
+  "slug": "/array_unique_agg",
+  "permalink": "/docs/array_unique_agg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_to_bitmap",
+    "permalink": "/docs/array_to_bitmap"
+  },
+  "next": {
+    "title": "arrays_overlap",
+    "permalink": "/docs/arrays_overlap"
+  }
+}

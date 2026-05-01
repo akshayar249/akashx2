@@ -1,0 +1,26 @@
+{
+  "id": "Using_HLL",
+  "title": "使用 HyperLogLog 实现近似去重",
+  "description": "本文介绍如何通过 HLL（HyperLogLog）在 AkashX 中实现近似去重。",
+  "source": "@site/docs/Using_HLL.md",
+  "sourceDirName": ".",
+  "slug": "/Using_HLL",
+  "permalink": "/docs/Using_HLL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "同步物化视图",
+    "permalink": "/docs/Materialized_view-single_table"
+  },
+  "next": {
+    "title": "Data Cache",
+    "permalink": "/docs/block_cache"
+  }
+}

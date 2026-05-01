@@ -1,0 +1,23 @@
+{
+  "id": "LARGEINT",
+  "title": "LARGEINT",
+  "description": "描述",
+  "source": "@site/docs/LARGEINT.md",
+  "sourceDirName": ".",
+  "slug": "/LARGEINT",
+  "permalink": "/docs/LARGEINT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Kafka connector 导入数据",
+    "permalink": "/docs/Kafka-connector-akashx"
+  },
+  "next": {
+    "title": "LICENSE",
+    "permalink": "/docs/LICENSE"
+  }
+}

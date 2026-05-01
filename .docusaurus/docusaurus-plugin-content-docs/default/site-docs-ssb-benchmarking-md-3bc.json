@@ -1,0 +1,23 @@
+{
+  "id": "SSB_Benchmarking",
+  "title": "SSB 扁平表基准测试",
+  "description": "星形模型基准测试（SSB）旨在测试 OLAP 数据库产品的基本性能指标。SSB 使用一种在学术界和工业界广泛应用的星形模型测试集。有关更多信息，请参见 Star Schema Benchmark。",
+  "source": "@site/docs/SSB_Benchmarking.md",
+  "sourceDirName": ".",
+  "slug": "/SSB_Benchmarking",
+  "permalink": "/docs/SSB_Benchmarking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL 事务",
+    "permalink": "/docs/SQL_transaction"
+  },
+  "next": {
+    "title": "STOP ROUTINE LOAD",
+    "permalink": "/docs/STOP_ROUTINE_LOAD"
+  }
+}

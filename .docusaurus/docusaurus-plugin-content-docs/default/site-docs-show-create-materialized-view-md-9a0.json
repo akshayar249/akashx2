@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_CREATE_MATERIALIZED_VIEW",
+  "title": "SHOW CREATE MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/SHOW_CREATE_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_CREATE_MATERIALIZED_VIEW",
+  "permalink": "/docs/SHOW_CREATE_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW CREATE DATABASE",
+    "permalink": "/docs/SHOW_CREATE_DATABASE"
+  },
+  "next": {
+    "title": "SHOW CREATE TABLE",
+    "permalink": "/docs/SHOW_CREATE_TABLE"
+  }
+}

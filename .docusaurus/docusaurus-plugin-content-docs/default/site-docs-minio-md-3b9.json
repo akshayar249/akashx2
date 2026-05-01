@@ -1,0 +1,25 @@
+{
+  "id": "minio",
+  "title": "从 MinIO 导入",
+  "description": "AkashX 支持通过以下方式从 MinIO 导入数据：",
+  "source": "@site/docs/minio.md",
+  "sourceDirName": ".",
+  "slug": "/minio",
+  "permalink": "/docs/minio",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "min_by",
+    "permalink": "/docs/min_by"
+  },
+  "next": {
+    "title": "minute",
+    "permalink": "/docs/minute"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ALTER_MATERIALIZED_VIEW",
+  "title": "ALTER MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/ALTER_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_MATERIALIZED_VIEW",
+  "permalink": "/docs/ALTER_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER LOAD",
+    "permalink": "/docs/ALTER_LOAD"
+  },
+  "next": {
+    "title": "ALTER PIPE",
+    "permalink": "/docs/ALTER_PIPE"
+  }
+}

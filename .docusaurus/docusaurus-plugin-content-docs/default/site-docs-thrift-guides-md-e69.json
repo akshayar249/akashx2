@@ -1,0 +1,17 @@
+{
+  "id": "thrift-guides",
+  "title": "thrift-guides",
+  "description": "此文档仅支持英文。",
+  "source": "@site/docs/thrift-guides.md",
+  "sourceDirName": ".",
+  "slug": "/thrift-guides",
+  "permalink": "/docs/thrift-guides",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

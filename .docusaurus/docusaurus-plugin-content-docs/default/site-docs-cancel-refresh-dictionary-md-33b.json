@@ -1,0 +1,23 @@
+{
+  "id": "CANCEL_REFRESH_DICTIONARY",
+  "title": "CANCEL REFRESH DICTIONARY",
+  "description": "取消刷新字典对象。",
+  "source": "@site/docs/CANCEL_REFRESH_DICTIONARY.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_REFRESH_DICTIONARY",
+  "permalink": "/docs/CANCEL_REFRESH_DICTIONARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL LOAD",
+    "permalink": "/docs/CANCEL_LOAD"
+  },
+  "next": {
+    "title": "CANCEL REFRESH MATERIALIZED VIEW",
+    "permalink": "/docs/CANCEL_REFRESH_MATERIALIZED_VIEW"
+  }
+}

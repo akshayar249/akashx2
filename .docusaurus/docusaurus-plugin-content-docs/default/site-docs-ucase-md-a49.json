@@ -1,0 +1,23 @@
+{
+  "id": "ucase",
+  "title": "ucase",
+  "description": "该函数与 upper 一致，将字符串转换为大写形式。",
+  "source": "@site/docs/ucase.md",
+  "sourceDirName": ".",
+  "slug": "/ucase",
+  "permalink": "/docs/ucase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "truncate",
+    "permalink": "/docs/truncate"
+  },
+  "next": {
+    "title": "unhex",
+    "permalink": "/docs/unhex"
+  }
+}

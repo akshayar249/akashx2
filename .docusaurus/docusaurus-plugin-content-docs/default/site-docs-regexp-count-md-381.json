@@ -1,0 +1,23 @@
+{
+  "id": "regexp_count",
+  "title": "regexp_count",
+  "description": "对字符串进行正则匹配，计算正则表达式 Pattern 在目标字符串中出现的次数。",
+  "source": "@site/docs/regexp_count.md",
+  "sourceDirName": ".",
+  "slug": "/regexp_count",
+  "permalink": "/docs/regexp_count",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "regexp",
+    "permalink": "/docs/regexp"
+  },
+  "next": {
+    "title": "regexp_extract",
+    "permalink": "/docs/regexp_extract"
+  }
+}

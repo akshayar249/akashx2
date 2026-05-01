@@ -1,0 +1,23 @@
+{
+  "id": "AUTHORS",
+  "title": "AUTHORS",
+  "description": "react-loadable-ssr-addon is authored by:",
+  "source": "@site/docs/AUTHORS.md",
+  "sourceDirName": ".",
+  "slug": "/AUTHORS",
+  "permalink": "/docs/AUTHORS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API",
+    "permalink": "/docs/API"
+  },
+  "next": {
+    "title": "在 AWS 上使用 AWS CloudFormation 部署 AkashX 集群",
+    "permalink": "/docs/AWS_cloudformation"
+  }
+}

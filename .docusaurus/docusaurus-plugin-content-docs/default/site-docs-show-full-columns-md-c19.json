@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_FULL_COLUMNS",
+  "title": "SHOW FULL COLUMNS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_FULL_COLUMNS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_FULL_COLUMNS",
+  "permalink": "/docs/SHOW_FULL_COLUMNS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW FRONTENDS",
+    "permalink": "/docs/SHOW_FRONTENDS"
+  },
+  "next": {
+    "title": "SHOW FUNCTIONS",
+    "permalink": "/docs/SHOW_FUNCTIONS"
+  }
+}

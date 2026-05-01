@@ -1,0 +1,26 @@
+{
+  "id": "authenticate_to_aws_resources",
+  "title": "配置 AWS 认证信息",
+  "description": "本文介绍如何认证 AWS 资源",
+  "source": "@site/docs/authenticate_to_aws_resources.md",
+  "sourceDirName": ".",
+  "slug": "/authenticate_to_aws_resources",
+  "permalink": "/docs/authenticate_to_aws_resources",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "AWS",
+    "description": "本文介绍如何认证 AWS 资源"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通过 AuditLoader 管理 AkashX 中的审计日志",
+    "permalink": "/docs/audit_loader"
+  },
+  "next": {
+    "title": "Microsoft Azure Storage",
+    "permalink": "/docs/authenticate_to_azure_storage"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "database",
+  "title": "database",
+  "description": "查询当前会话所在的数据库。如果未选定数据库，返回空值。",
+  "source": "@site/docs/database.md",
+  "sourceDirName": ".",
+  "slug": "/database",
+  "permalink": "/docs/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "跨集群数据迁移工具",
+    "permalink": "/docs/data_migration_tool"
+  },
+  "next": {
+    "title": "Datadog",
+    "permalink": "/docs/datadog_support"
+  }
+}

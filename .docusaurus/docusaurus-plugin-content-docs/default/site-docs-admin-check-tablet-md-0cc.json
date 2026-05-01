@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_CHECK_TABLET",
+  "title": "ADMIN CHECK TABLET",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_CHECK_TABLET.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_CHECK_TABLET",
+  "permalink": "/docs/ADMIN_CHECK_TABLET",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN CANCEL REPAIR",
+    "permalink": "/docs/ADMIN_CANCEL_REPAIR"
+  },
+  "next": {
+    "title": "ADMIN REPAIR",
+    "permalink": "/docs/ADMIN_REPAIR"
+  }
+}

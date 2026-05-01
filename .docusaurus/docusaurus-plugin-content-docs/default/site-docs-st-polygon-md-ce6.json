@@ -1,0 +1,23 @@
+{
+  "id": "st_polygon",
+  "title": "ST_Polygon, ST_PolyFromText, ST_PolygonFromText",
+  "description": "将一个 WKT（Well Known Text）转化为对应的多边形内存形式。",
+  "source": "@site/docs/st_polygon.md",
+  "sourceDirName": ".",
+  "slug": "/st_polygon",
+  "permalink": "/docs/st_polygon",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_Point",
+    "permalink": "/docs/st_point"
+  },
+  "next": {
+    "title": "ST_X",
+    "permalink": "/docs/st_x"
+  }
+}

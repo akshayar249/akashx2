@@ -1,0 +1,23 @@
+{
+  "id": "partitions_meta",
+  "title": "partitions_meta",
+  "description": "partitions_meta 提供有关表分区的信息。",
+  "source": "@site/docs/partitions_meta.md",
+  "sourceDirName": ".",
+  "slug": "/partitions_meta",
+  "permalink": "/docs/partitions_meta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "partitions",
+    "permalink": "/docs/partitions"
+  },
+  "next": {
+    "title": "patchFs(vol[, fs])",
+    "permalink": "/docs/patchFs"
+  }
+}

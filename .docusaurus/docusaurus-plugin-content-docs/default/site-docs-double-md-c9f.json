@@ -1,0 +1,23 @@
+{
+  "id": "DOUBLE",
+  "title": "DOUBLE",
+  "description": "描述",
+  "source": "@site/docs/DOUBLE.md",
+  "sourceDirName": ".",
+  "slug": "/DOUBLE",
+  "permalink": "/docs/DOUBLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DESC STORAGE VOLUME",
+    "permalink": "/docs/DESC_STORAGE_VOLUME"
+  },
+  "next": {
+    "title": "DROP ANALYZE",
+    "permalink": "/docs/DROP_ANALYZE"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Replica",
+  "title": "管理副本",
+  "description": "本文描述如何管理 AkashX 集群中的数据副本。",
+  "source": "@site/docs/Replica.md",
+  "sourceDirName": ".",
+  "slug": "/Replica",
+  "permalink": "/docs/Replica",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "Fuben",
+      "fuzai"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REVOKE",
+    "permalink": "/docs/REVOKE"
+  },
+  "next": {
+    "title": "使用 Routine Load 导入数据",
+    "permalink": "/docs/RoutineLoad"
+  }
+}

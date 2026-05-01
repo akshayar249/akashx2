@@ -1,0 +1,23 @@
+{
+  "id": "datediff",
+  "title": "datediff",
+  "description": "计算两个日期的差值，结果精确到天。",
+  "source": "@site/docs/datediff.md",
+  "sourceDirName": ".",
+  "slug": "/datediff",
+  "permalink": "/docs/datediff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "date_trunc",
+    "permalink": "/docs/date_trunc"
+  },
+  "next": {
+    "title": "day",
+    "permalink": "/docs/day"
+  }
+}

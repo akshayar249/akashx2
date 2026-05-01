@@ -1,0 +1,23 @@
+{
+  "id": "marked.1",
+  "title": "marked(1) -- a javascript markdown parser",
+  "description": "SYNOPSIS",
+  "source": "@site/docs/marked.1.md",
+  "sourceDirName": ".",
+  "slug": "/marked.1",
+  "permalink": "/docs/marked.1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown page example",
+    "permalink": "/docs/markdown-page"
+  },
+  "next": {
+    "title": "理解物化视图Task Run",
+    "permalink": "/docs/materialized_view_task_run_details"
+  }
+}

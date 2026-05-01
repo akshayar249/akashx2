@@ -1,0 +1,23 @@
+{
+  "id": "iceberg_meta_table",
+  "title": "Iceberg 元数据表",
+  "description": "本文描述了如何查看 AkashX 中 Iceberg 表的元数据信息。",
+  "source": "@site/docs/iceberg_meta_table.md",
+  "sourceDirName": ".",
+  "slug": "/iceberg_meta_table",
+  "permalink": "/docs/iceberg_meta_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Iceberg catalog",
+    "permalink": "/docs/iceberg_catalog"
+  },
+  "next": {
+    "title": "为 AWS S3 表创建 Iceberg REST Catalog",
+    "permalink": "/docs/iceberg_rest_s3"
+  }
+}

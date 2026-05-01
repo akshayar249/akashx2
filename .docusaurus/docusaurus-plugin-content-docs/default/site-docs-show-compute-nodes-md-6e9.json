@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_COMPUTE_NODES",
+  "title": "SHOW COMPUTE NODES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_COMPUTE_NODES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_COMPUTE_NODES",
+  "permalink": "/docs/SHOW_COMPUTE_NODES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW CATALOGS",
+    "permalink": "/docs/SHOW_CATALOGS"
+  },
+  "next": {
+    "title": "SHOW CREATE CATALOG",
+    "permalink": "/docs/SHOW_CREATE_CATALOG"
+  }
+}

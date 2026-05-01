@@ -1,0 +1,23 @@
+{
+  "id": "concat",
+  "title": "concat",
+  "description": "将多个字符串连接起来。如果参数中任意一个值是 NULL，那么返回的结果为 NULL。",
+  "source": "@site/docs/concat.md",
+  "sourceDirName": ".",
+  "slug": "/concat",
+  "permalink": "/docs/concat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "存算分离集群 Compaction",
+    "permalink": "/docs/compaction"
+  },
+  "next": {
+    "title": "concat_ws",
+    "permalink": "/docs/concat_ws"
+  }
+}

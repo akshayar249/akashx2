@@ -1,0 +1,23 @@
+{
+  "id": "Exporting_faq",
+  "title": "导出",
+  "description": "阿里云OSS备份与还原",
+  "source": "@site/docs/Exporting_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Exporting_faq",
+  "permalink": "/docs/Exporting_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "导入过程中实现数据转换",
+    "permalink": "/docs/Etl_in_loading"
+  },
+  "next": {
+    "title": "外部表",
+    "permalink": "/docs/External_table"
+  }
+}

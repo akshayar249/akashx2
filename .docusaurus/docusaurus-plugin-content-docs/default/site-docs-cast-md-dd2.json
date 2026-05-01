@@ -1,0 +1,23 @@
+{
+  "id": "cast",
+  "title": "cast",
+  "description": "在 JSON 类型和 SQL 类型之间转换值。",
+  "source": "@site/docs/cast.md",
+  "sourceDirName": ".",
+  "slug": "/cast",
+  "permalink": "/docs/cast",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "case",
+    "permalink": "/docs/case_when"
+  },
+  "next": {
+    "title": "catalog",
+    "permalink": "/docs/catalog"
+  }
+}

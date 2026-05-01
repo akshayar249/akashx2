@@ -1,0 +1,23 @@
+{
+  "id": "log10",
+  "title": "log10, dlog10",
+  "description": "返回以 10 为底数的 x 的对数。",
+  "source": "@site/docs/log10.md",
+  "sourceDirName": ".",
+  "slug": "/log10",
+  "permalink": "/docs/log10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "log",
+    "permalink": "/docs/log"
+  },
+  "next": {
+    "title": "log2",
+    "permalink": "/docs/log2"
+  }
+}

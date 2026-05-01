@@ -1,0 +1,23 @@
+{
+  "id": "bitnot",
+  "title": "bitnot",
+  "description": "返回参数 x 进行取反运算后的结果。",
+  "source": "@site/docs/bitnot.md",
+  "sourceDirName": ".",
+  "slug": "/bitnot",
+  "permalink": "/docs/bitnot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_xor",
+    "permalink": "/docs/bitmap_xor"
+  },
+  "next": {
+    "title": "bitor",
+    "permalink": "/docs/bitor"
+  }
+}

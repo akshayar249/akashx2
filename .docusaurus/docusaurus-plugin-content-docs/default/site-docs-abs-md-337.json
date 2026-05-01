@@ -1,0 +1,23 @@
+{
+  "id": "abs",
+  "title": "abs",
+  "description": "返回 x 的绝对值。如果输入值为 NULL，则返回 NULL。",
+  "source": "@site/docs/abs.md",
+  "sourceDirName": ".",
+  "slug": "/abs",
+  "permalink": "/docs/abs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "视频资源",
+    "permalink": "/docs/Video"
+  },
+  "next": {
+    "title": "加速基数保留 Join",
+    "permalink": "/docs/accelerate-cardinality-preserving-joins"
+  }
+}

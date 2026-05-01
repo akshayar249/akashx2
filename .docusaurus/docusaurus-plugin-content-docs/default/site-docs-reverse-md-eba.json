@@ -1,0 +1,23 @@
+{
+  "id": "reverse",
+  "title": "reverse",
+  "description": "将字符串或数组反转，返回的字符串或数组的顺序和源字符串或数组的顺序相反。",
+  "source": "@site/docs/reverse.md",
+  "sourceDirName": ".",
+  "slug": "/reverse",
+  "permalink": "/docs/reverse",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "retention",
+    "permalink": "/docs/retention"
+  },
+  "next": {
+    "title": "right",
+    "permalink": "/docs/right"
+  }
+}

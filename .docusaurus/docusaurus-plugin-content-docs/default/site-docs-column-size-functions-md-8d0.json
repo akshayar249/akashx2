@@ -1,0 +1,23 @@
+{
+  "id": "column_size_functions",
+  "title": "column_size & column_compressed_size",
+  "description": "这些函数返回表列的大小信息，用于存储分析和优化。两个函数都与 [META] 提示一起使用来检查 Segment 文件元数据。",
+  "source": "@site/docs/column_size_functions.md",
+  "sourceDirName": ".",
+  "slug": "/column_size_functions",
+  "permalink": "/docs/column_size_functions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "column_privileges",
+    "permalink": "/docs/column_privileges"
+  },
+  "next": {
+    "title": "column_stats_usage",
+    "permalink": "/docs/column_stats_usage"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_MATERIALIZED_VIEW",
+  "title": "CREATE MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/CREATE_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_MATERIALIZED_VIEW",
+  "permalink": "/docs/CREATE_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE INDEX",
+    "permalink": "/docs/CREATE_INDEX"
+  },
+  "next": {
+    "title": "CREATE PIPE",
+    "permalink": "/docs/CREATE_PIPE"
+  }
+}

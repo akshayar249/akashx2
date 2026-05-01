@@ -1,0 +1,23 @@
+{
+  "id": "array_append",
+  "title": "array_append",
+  "description": "在数组末尾添加一个新的元素。返回 ARRAY 类型的值。",
+  "source": "@site/docs/array_append.md",
+  "sourceDirName": ".",
+  "slug": "/array_append",
+  "permalink": "/docs/array_append",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_agg",
+    "permalink": "/docs/array_agg"
+  },
+  "next": {
+    "title": "array_avg",
+    "permalink": "/docs/array_avg"
+  }
+}

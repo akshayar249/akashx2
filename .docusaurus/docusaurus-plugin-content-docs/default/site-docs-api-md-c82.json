@@ -1,0 +1,23 @@
+{
+  "id": "API",
+  "title": "API",
+  "description": "- API",
+  "source": "@site/docs/API.md",
+  "sourceDirName": ".",
+  "slug": "/API",
+  "permalink": "/docs/API",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ANALYZE TABLE",
+    "permalink": "/docs/ANALYZE_TABLE"
+  },
+  "next": {
+    "title": "AUTHORS",
+    "permalink": "/docs/AUTHORS"
+  }
+}

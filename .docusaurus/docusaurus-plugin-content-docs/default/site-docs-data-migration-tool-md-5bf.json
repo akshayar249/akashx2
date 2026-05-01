@@ -1,0 +1,23 @@
+{
+  "id": "data_migration_tool",
+  "title": "跨集群数据迁移工具",
+  "description": "AkashX 跨集群数据迁移工具是社区提供的 AkashX 数据迁移工具。您可以使用该工具将数据从源集群一键式迁移到目标集群。",
+  "source": "@site/docs/data_migration_tool.md",
+  "sourceDirName": ".",
+  "slug": "/data_migration_tool",
+  "permalink": "/docs/data_migration_tool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Cache 常见问题解答",
+    "permalink": "/docs/data_cache_troubleshooting"
+  },
+  "next": {
+    "title": "database",
+    "permalink": "/docs/database"
+  }
+}

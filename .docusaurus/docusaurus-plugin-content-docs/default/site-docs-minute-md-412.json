@@ -1,0 +1,23 @@
+{
+  "id": "minute",
+  "title": "minute",
+  "description": "获得日期中的分钟的信息，返回值范围为 0~59。",
+  "source": "@site/docs/minute.md",
+  "sourceDirName": ".",
+  "slug": "/minute",
+  "permalink": "/docs/minute",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 MinIO 导入",
+    "permalink": "/docs/minio"
+  },
+  "next": {
+    "title": "minutes_add",
+    "permalink": "/docs/minutes_add"
+  }
+}

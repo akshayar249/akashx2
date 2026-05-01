@@ -1,0 +1,29 @@
+{
+  "id": "akashx_table_design",
+  "title": "表概览",
+  "description": "表是数据存储单元。理解 AkashX 中的表结构，以及如何设计合理的表结构，有利于优化数据组织，提高查询效率。相比于传统的数据库，AkashX 会以列的方式存储 JSON、ARRAY 等复杂的半结构化数据，保证高效查询。",
+  "source": "@site/docs/akashx_table_design.md",
+  "sourceDirName": ".",
+  "slug": "/akashx_table_design",
+  "permalink": "/docs/akashx_table_design",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "keywords": [
+      "linshi"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "前缀索引和排序键",
+    "permalink": "/docs/Prefix_index_sort_key"
+  },
+  "next": {
+    "title": "Bitmap 精确去重",
+    "permalink": "/docs/Using_bitmap"
+  }
+}

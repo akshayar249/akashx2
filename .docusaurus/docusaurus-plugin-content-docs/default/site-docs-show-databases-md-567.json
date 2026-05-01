@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_DATABASES",
+  "title": "SHOW DATABASES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_DATABASES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_DATABASES",
+  "permalink": "/docs/SHOW_DATABASES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW DATA",
+    "permalink": "/docs/SHOW_DATA"
+  },
+  "next": {
+    "title": "SHOW DELETE",
+    "permalink": "/docs/SHOW_DELETE"
+  }
+}

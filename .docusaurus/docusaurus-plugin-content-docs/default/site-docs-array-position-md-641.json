@@ -1,0 +1,23 @@
+{
+  "id": "array_position",
+  "title": "array_position",
+  "description": "获取数组中某个元素位置，是的话返回位置，否则返回0.",
+  "source": "@site/docs/array_position.md",
+  "sourceDirName": ".",
+  "slug": "/array_position",
+  "permalink": "/docs/array_position",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_min",
+    "permalink": "/docs/array_min"
+  },
+  "next": {
+    "title": "array_remove",
+    "permalink": "/docs/array_remove"
+  }
+}

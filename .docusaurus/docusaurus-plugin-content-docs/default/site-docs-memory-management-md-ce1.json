@@ -1,0 +1,23 @@
+{
+  "id": "Memory_management",
+  "title": "管理内存",
+  "description": "本文介绍如何管理并调优内存资源。",
+  "source": "@site/docs/Memory_management.md",
+  "sourceDirName": ".",
+  "slug": "/Memory_management",
+  "permalink": "/docs/Memory_management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MAP",
+    "permalink": "/docs/Map"
+  },
+  "next": {
+    "title": "恢复元数据",
+    "permalink": "/docs/Meta_recovery"
+  }
+}

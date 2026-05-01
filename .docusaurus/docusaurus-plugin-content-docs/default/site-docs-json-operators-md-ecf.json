@@ -1,0 +1,23 @@
+{
+  "id": "json-operators",
+  "title": "JSON 操作符",
+  "description": "AkashX 支持以下 JSON 比较操作符：`、>=、= 和 !=。你可以使用这些操作符来查询 JSON 数据。然而，AkashX 不允许使用 IN` 来查询 JSON 数据。",
+  "source": "@site/docs/json-operators.md",
+  "sourceDirName": ".",
+  "slug": "/json-operators",
+  "permalink": "/docs/json-operators",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jodatime_format",
+    "permalink": "/docs/jodatime_format"
+  },
+  "next": {
+    "title": "json_array",
+    "permalink": "/docs/json_array"
+  }
+}

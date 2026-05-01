@@ -1,0 +1,25 @@
+{
+  "id": "hive_catalog",
+  "title": "Hive catalog",
+  "description": "Hive Catalog 是一种 External Catalog，自 2.3 版本开始支持。通过 Hive Catalog，您可以：",
+  "source": "@site/docs/hive_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/hive_catalog",
+  "permalink": "/docs/hive_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hex_decode_string",
+    "permalink": "/docs/hex_decode_string"
+  },
+  "next": {
+    "title": "hll_cardinality",
+    "permalink": "/docs/hll_cardinality"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SparkLoad",
+  "title": "使用 Spark Load 批量导入数据",
+  "description": "Spark Load 通过外部的 Spark 资源实现对导入数据的预处理，提高 AkashX 大数据量的导入性能并且节省 AkashX 集群的计算资源。主要用于 初次迁移、大数据量导入 AkashX 的场景（数据量可到 TB 级别）。",
+  "source": "@site/docs/SparkLoad.md",
+  "sourceDirName": ".",
+  "slug": "/SparkLoad",
+  "permalink": "/docs/SparkLoad",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Spark connector 导入数据（推荐）",
+    "permalink": "/docs/Spark-connector-akashx"
+  },
+  "next": {
+    "title": "查询常见问题",
+    "permalink": "/docs/Sql_faq"
+  }
+}

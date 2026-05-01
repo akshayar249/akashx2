@@ -1,0 +1,23 @@
+{
+  "id": "DBeaver",
+  "title": "DBeaver",
+  "description": "作为一款 SQL 客户端应用软件，DBeaver 提供了强大的数据库管理能力，通过 Assistant 帮助您快速连接数据库。",
+  "source": "@site/docs/DBeaver.md",
+  "sourceDirName": ".",
+  "slug": "/DBeaver",
+  "permalink": "/docs/DBeaver",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DATETIME",
+    "permalink": "/docs/DATETIME"
+  },
+  "next": {
+    "title": "DECIMAL",
+    "permalink": "/docs/DECIMAL"
+  }
+}

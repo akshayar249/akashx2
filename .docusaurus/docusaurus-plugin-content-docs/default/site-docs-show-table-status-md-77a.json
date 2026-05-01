@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_TABLE_STATUS",
+  "title": "SHOW TABLE STATUS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_TABLE_STATUS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_TABLE_STATUS",
+  "permalink": "/docs/SHOW_TABLE_STATUS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW TABLET",
+    "permalink": "/docs/SHOW_TABLET"
+  },
+  "next": {
+    "title": "SHOW TRANSACTION",
+    "permalink": "/docs/SHOW_TRANSACTION"
+  }
+}

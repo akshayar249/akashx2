@@ -1,0 +1,17 @@
+{
+  "id": "ide-setup",
+  "title": "ide-setup",
+  "description": "此文档仅支持英文。",
+  "source": "@site/docs/ide-setup.md",
+  "sourceDirName": ".",
+  "slug": "/ide-setup",
+  "permalink": "/docs/ide-setup",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

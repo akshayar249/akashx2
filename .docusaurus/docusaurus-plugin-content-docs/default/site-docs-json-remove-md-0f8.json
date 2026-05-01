@@ -1,0 +1,23 @@
+{
+  "id": "json_remove",
+  "title": "json_remove",
+  "description": "从JSON文档中删除一个或多个指定JSON路径的数据，并返回修改后的JSON文档。",
+  "source": "@site/docs/json_remove.md",
+  "sourceDirName": ".",
+  "slug": "/json_remove",
+  "permalink": "/docs/json_remove",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_query",
+    "permalink": "/docs/json_query"
+  },
+  "next": {
+    "title": "json_string",
+    "permalink": "/docs/json_string"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "views",
+  "title": "views",
+  "description": "views 提供有关所有用户定义视图的信息。",
+  "source": "@site/docs/views.md",
+  "sourceDirName": ".",
+  "slug": "/views",
+  "permalink": "/docs/views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "版本命名",
+    "permalink": "/docs/versioning"
+  },
+  "next": {
+    "title": "warehouse_metrics",
+    "permalink": "/docs/warehouse_metrics"
+  }
+}

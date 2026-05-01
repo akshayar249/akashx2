@@ -1,0 +1,23 @@
+{
+  "id": "timestampadd",
+  "title": "timestampadd",
+  "description": "将整数表达式间隔添加到日期或日期时间表达式 datetime_expr 中。",
+  "source": "@site/docs/timestampadd.md",
+  "sourceDirName": ".",
+  "slug": "/timestampadd",
+  "permalink": "/docs/timestampadd",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "timestamp",
+    "permalink": "/docs/timestamp"
+  },
+  "next": {
+    "title": "timestampdiff",
+    "permalink": "/docs/timestampdiff"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ends_with",
+  "title": "ends_with",
+  "description": "如果字符串以指定后缀结尾，返回 true，否则返回 false。任意参数为 NULL 则返回 NULL。",
+  "source": "@site/docs/ends_with.md",
+  "sourceDirName": ".",
+  "slug": "/ends_with",
+  "permalink": "/docs/ends_with",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "encode_sort_key",
+    "permalink": "/docs/encode_sort_key"
+  },
+  "next": {
+    "title": "engines",
+    "permalink": "/docs/engines"
+  }
+}

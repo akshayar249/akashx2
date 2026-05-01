@@ -1,0 +1,28 @@
+{
+  "id": "ALTER_VIEW",
+  "title": "ALTER VIEW",
+  "description": "功能",
+  "source": "@site/docs/ALTER_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_VIEW",
+  "permalink": "/docs/ALTER_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "xiugai",
+      "shitu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER USER",
+    "permalink": "/docs/ALTER_USER"
+  },
+  "next": {
+    "title": "ANALYZE PROFILE",
+    "permalink": "/docs/ANALYZE_PROFILE"
+  }
+}

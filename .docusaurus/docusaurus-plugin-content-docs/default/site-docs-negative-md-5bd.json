@@ -1,0 +1,23 @@
+{
+  "id": "negative",
+  "title": "negative",
+  "description": "对参数 x 取其负数作为结果输出。",
+  "source": "@site/docs/negative.md",
+  "sourceDirName": ".",
+  "slug": "/negative",
+  "permalink": "/docs/negative",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "named_struct",
+    "permalink": "/docs/named_struct"
+  },
+  "next": {
+    "title": "next_day",
+    "permalink": "/docs/next_day"
+  }
+}

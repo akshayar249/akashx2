@@ -1,0 +1,23 @@
+{
+  "id": "murmur_hash3_32",
+  "title": "murmur_hash3_32",
+  "description": "返回输入字符串的 32 位 murmur3 hash 值。",
+  "source": "@site/docs/murmur_hash3_32.md",
+  "sourceDirName": ".",
+  "slug": "/murmur_hash3_32",
+  "permalink": "/docs/murmur_hash3_32",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multiply",
+    "permalink": "/docs/multiply"
+  },
+  "next": {
+    "title": "named_struct",
+    "permalink": "/docs/named_struct"
+  }
+}

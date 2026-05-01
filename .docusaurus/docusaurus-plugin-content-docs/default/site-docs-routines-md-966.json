@@ -1,0 +1,23 @@
+{
+  "id": "routines",
+  "title": "routines",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/routines.md",
+  "sourceDirName": ".",
+  "slug": "/routines",
+  "permalink": "/docs/routines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "routine_load_jobs",
+    "permalink": "/docs/routine_load_jobs"
+  },
+  "next": {
+    "title": "row",
+    "permalink": "/docs/row"
+  }
+}

@@ -1,0 +1,5008 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "2015-01-30",
+              "path": "/docs/2015-01-30",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2019-05-28-first-blog-post",
+              "path": "/docs/first-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "2019-05-29-long-blog-post",
+              "path": "/docs/long-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "abs",
+              "path": "/docs/abs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "accelerate-cardinality-preserving-joins",
+              "path": "/docs/accelerate-cardinality-preserving-joins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "acos",
+              "path": "/docs/acos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADD_BACKEND_BLACKLIST",
+              "path": "/docs/ADD_BACKEND_BLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "add_months",
+              "path": "/docs/add_months",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADD_SQLBLACKLIST",
+              "path": "/docs/ADD_SQLBLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "adddate",
+              "path": "/docs/adddate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_CANCEL_REPAIR",
+              "path": "/docs/ADMIN_CANCEL_REPAIR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_CHECK_TABLET",
+              "path": "/docs/ADMIN_CHECK_TABLET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_REPAIR",
+              "path": "/docs/ADMIN_REPAIR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SET_CONFIG",
+              "path": "/docs/ADMIN_SET_CONFIG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SET_PARTITION_VERSION",
+              "path": "/docs/ADMIN_SET_PARTITION_VERSION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SET_REPLICA_STATUS",
+              "path": "/docs/ADMIN_SET_REPLICA_STATUS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SHOW_CONFIG",
+              "path": "/docs/ADMIN_SHOW_CONFIG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SHOW_REPLICA_DISTRIBUTION",
+              "path": "/docs/ADMIN_SHOW_REPLICA_DISTRIBUTION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ADMIN_SHOW_REPLICA_STATUS",
+              "path": "/docs/ADMIN_SHOW_REPLICA_STATUS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aes_decrypt",
+              "path": "/docs/aes_decrypt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aes_encrypt",
+              "path": "/docs/aes_encrypt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aggregate_table",
+              "path": "/docs/aggregate_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "alert",
+              "path": "/docs/alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "alibaba",
+              "path": "/docs/alibaba",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "all_match",
+              "path": "/docs/all_match",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_DATABASE",
+              "path": "/docs/ALTER_DATABASE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_LOAD",
+              "path": "/docs/ALTER_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_MATERIALIZED_VIEW",
+              "path": "/docs/ALTER_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_PIPE",
+              "path": "/docs/ALTER_PIPE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_RESOURCE",
+              "path": "/docs/ALTER_RESOURCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_RESOURCE_GROUP",
+              "path": "/docs/ALTER_RESOURCE_GROUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_ROUTINE_LOAD",
+              "path": "/docs/ALTER_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_STORAGE_VOLUME",
+              "path": "/docs/ALTER_STORAGE_VOLUME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_SYSTEM",
+              "path": "/docs/ALTER_SYSTEM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_TABLE",
+              "path": "/docs/ALTER_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_USER",
+              "path": "/docs/ALTER_USER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ALTER_VIEW",
+              "path": "/docs/ALTER_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ANALYZE_PROFILE",
+              "path": "/docs/ANALYZE_PROFILE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "analyze_status",
+              "path": "/docs/analyze_status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ANALYZE_TABLE",
+              "path": "/docs/ANALYZE_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "any_match",
+              "path": "/docs/any_match",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "any_value",
+              "path": "/docs/any_value",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "API",
+              "path": "/docs/API",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "append_trailing_char_if_absent",
+              "path": "/docs/append_trailing_char_if_absent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "applicable_roles",
+              "path": "/docs/applicable_roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "approx_count_distinct",
+              "path": "/docs/approx_count_distinct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "approx_top_k",
+              "path": "/docs/approx_top_k",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture",
+              "path": "/docs/Architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Array",
+              "path": "/docs/Array",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_agg",
+              "path": "/docs/array_agg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_append",
+              "path": "/docs/array_append",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_avg",
+              "path": "/docs/array_avg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_concat",
+              "path": "/docs/array_concat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_contains",
+              "path": "/docs/array_contains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_contains_all",
+              "path": "/docs/array_contains_all",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_contains_seq",
+              "path": "/docs/array_contains_seq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_cum_sum",
+              "path": "/docs/array_cum_sum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_difference",
+              "path": "/docs/array_difference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_distinct",
+              "path": "/docs/array_distinct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_filter",
+              "path": "/docs/array_filter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_flatten",
+              "path": "/docs/array_flatten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_generate",
+              "path": "/docs/array_generate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_intersect",
+              "path": "/docs/array_intersect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_join",
+              "path": "/docs/array_join",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_length",
+              "path": "/docs/array_length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_map",
+              "path": "/docs/array_map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_max",
+              "path": "/docs/array_max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_min",
+              "path": "/docs/array_min",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_position",
+              "path": "/docs/array_position",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_remove",
+              "path": "/docs/array_remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_repeat",
+              "path": "/docs/array_repeat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_slice",
+              "path": "/docs/array_slice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_sort",
+              "path": "/docs/array_sort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_sortby",
+              "path": "/docs/array_sortby",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_sum",
+              "path": "/docs/array_sum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_to_bitmap",
+              "path": "/docs/array_to_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "array_unique_agg",
+              "path": "/docs/array_unique_agg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arrays_overlap",
+              "path": "/docs/arrays_overlap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arrow_flight",
+              "path": "/docs/arrow_flight",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "arrow-function",
+              "path": "/docs/arrow-function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ascii",
+              "path": "/docs/ascii",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "asin",
+              "path": "/docs/asin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "atan",
+              "path": "/docs/atan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "atan2",
+              "path": "/docs/atan2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "audit_loader",
+              "path": "/docs/audit_loader",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "authenticate_to_aws_resources",
+              "path": "/docs/authenticate_to_aws_resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "authenticate_to_azure_storage",
+              "path": "/docs/authenticate_to_azure_storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "authenticate_to_gcs",
+              "path": "/docs/authenticate_to_gcs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "authentication_authorization",
+              "path": "/docs/authentication_authorization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AUTHORS",
+              "path": "/docs/AUTHORS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "auto_increment",
+              "path": "/docs/auto_increment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "automq-routine-load",
+              "path": "/docs/automq-routine-load",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "avg",
+              "path": "/docs/avg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "AWS_cloudformation",
+              "path": "/docs/AWS_cloudformation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "aws_iam_policies",
+              "path": "/docs/aws_iam_policies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "azure",
+              "path": "/docs/azure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BACKUP",
+              "path": "/docs/BACKUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backup_and_restore",
+              "path": "/docs/Backup_and_restore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bar",
+              "path": "/docs/bar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "base64_decode_binary",
+              "path": "/docs/base64_decode_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "base64_decode_string",
+              "path": "/docs/base64_decode_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "base64_to_bitmap",
+              "path": "/docs/base64_to_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BE_blacklist",
+              "path": "/docs/BE_blacklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_bvars",
+              "path": "/docs/be_bvars",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_cloud_native_compactions",
+              "path": "/docs/be_cloud_native_compactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_compactions",
+              "path": "/docs/be_compactions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_configs",
+              "path": "/docs/be_configs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BE_configuration",
+              "path": "/docs/BE_configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_label",
+              "path": "/docs/be_label",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_logs",
+              "path": "/docs/be_logs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_metrics",
+              "path": "/docs/be_metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_tablets",
+              "path": "/docs/be_tablets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_threads",
+              "path": "/docs/be_threads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "be_txns",
+              "path": "/docs/be_txns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BIGINT",
+              "path": "/docs/BIGINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bin",
+              "path": "/docs/bin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BINARY",
+              "path": "/docs/BINARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bit_shift_left",
+              "path": "/docs/bit_shift_left",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bit_shift_right",
+              "path": "/docs/bit_shift_right",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bit_shift_right_logical",
+              "path": "/docs/bit_shift_right_logical",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitand",
+              "path": "/docs/bitand",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BITMAP",
+              "path": "/docs/BITMAP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_agg",
+              "path": "/docs/bitmap_agg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_and",
+              "path": "/docs/bitmap_and",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_andnot",
+              "path": "/docs/bitmap_andnot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_contains",
+              "path": "/docs/bitmap_contains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_count",
+              "path": "/docs/bitmap_count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_empty",
+              "path": "/docs/bitmap_empty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_from_binary",
+              "path": "/docs/bitmap_from_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_from_string",
+              "path": "/docs/bitmap_from_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_has_any",
+              "path": "/docs/bitmap_has_any",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_hash",
+              "path": "/docs/bitmap_hash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_hash64",
+              "path": "/docs/bitmap_hash64",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bitmap_index",
+              "path": "/docs/Bitmap_index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_intersect",
+              "path": "/docs/bitmap_intersect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_max",
+              "path": "/docs/bitmap_max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_min",
+              "path": "/docs/bitmap_min",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_or",
+              "path": "/docs/bitmap_or",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_remove",
+              "path": "/docs/bitmap_remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_subset_in_range",
+              "path": "/docs/bitmap_subset_in_range",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_subset_limit",
+              "path": "/docs/bitmap_subset_limit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_to_array",
+              "path": "/docs/bitmap_to_array",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_to_base64",
+              "path": "/docs/bitmap_to_base64",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_to_binary",
+              "path": "/docs/bitmap_to_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_to_string",
+              "path": "/docs/bitmap_to_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_union",
+              "path": "/docs/bitmap_union",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_union_count",
+              "path": "/docs/bitmap_union_count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_union_int",
+              "path": "/docs/bitmap_union_int",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitmap_xor",
+              "path": "/docs/bitmap_xor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitnot",
+              "path": "/docs/bitnot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitor",
+              "path": "/docs/bitor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bitxor",
+              "path": "/docs/bitxor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Blacklist",
+              "path": "/docs/Blacklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "block_cache",
+              "path": "/docs/block_cache",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "block_cache_warmup",
+              "path": "/docs/block_cache_warmup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Bloomfilter_index",
+              "path": "/docs/Bloomfilter_index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bool_or",
+              "path": "/docs/bool_or",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BOOLEAN",
+              "path": "/docs/BOOLEAN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BROKER_LOAD",
+              "path": "/docs/BROKER_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Broker_load_faq",
+              "path": "/docs/Broker_load_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BrokerLoad",
+              "path": "/docs/BrokerLoad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bucketing",
+              "path": "/docs/bucketing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bug_report",
+              "path": "/docs/bug_report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bug-report",
+              "path": "/docs/bug-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Build_in_docker",
+              "path": "/docs/Build_in_docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "build_akashx_on_ubuntu",
+              "path": "/docs/build_akashx_on_ubuntu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "built_in_roles",
+              "path": "/docs/built_in_roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_ALTER_TABLE",
+              "path": "/docs/CANCEL_ALTER_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_BACKUP",
+              "path": "/docs/CANCEL_BACKUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_DECOMMISSION",
+              "path": "/docs/CANCEL_DECOMMISSION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_EXPORT",
+              "path": "/docs/CANCEL_EXPORT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_LOAD",
+              "path": "/docs/CANCEL_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_REFRESH_DICTIONARY",
+              "path": "/docs/CANCEL_REFRESH_DICTIONARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_REFRESH_MATERIALIZED_VIEW",
+              "path": "/docs/CANCEL_REFRESH_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CANCEL_RESTORE",
+              "path": "/docs/CANCEL_RESTORE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cardinality",
+              "path": "/docs/cardinality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "case_when",
+              "path": "/docs/case_when",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cast",
+              "path": "/docs/cast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "catalog",
+              "path": "/docs/catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "catalog_overview",
+              "path": "/docs/catalog_overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cbrt",
+              "path": "/docs/cbrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ceil",
+              "path": "/docs/ceil",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ceiling",
+              "path": "/docs/ceiling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CHANGELOG",
+              "path": "/docs/CHANGELOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CHANGES",
+              "path": "/docs/CHANGES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CHAR",
+              "path": "/docs/CHAR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "char_length",
+              "path": "/docs/char_length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "character_length",
+              "path": "/docs/character_length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "character_sets",
+              "path": "/docs/character_sets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CloudCanal",
+              "path": "/docs/CloudCanal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CloudCanal_load_faq",
+              "path": "/docs/CloudCanal_load_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cluster_snapshot",
+              "path": "/docs/cluster_snapshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "coalesce",
+              "path": "/docs/coalesce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CODE_OF_CONDUCT",
+              "path": "/docs/CODE_OF_CONDUCT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "collations",
+              "path": "/docs/collations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Colocate_join",
+              "path": "/docs/Colocate_join",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "column_privileges",
+              "path": "/docs/column_privileges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "column_size_functions",
+              "path": "/docs/column_size_functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "column_stats_usage",
+              "path": "/docs/column_stats_usage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "columns",
+              "path": "/docs/columns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "compaction",
+              "path": "/docs/compaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concat",
+              "path": "/docs/concat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concat_ws",
+              "path": "/docs/concat_ws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "congratulations",
+              "path": "/docs/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Connector",
+              "path": "/docs/Connector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CONTRIBUTING",
+              "path": "/docs/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CONTRIBUTORS",
+              "path": "/docs/CONTRIBUTORS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conv",
+              "path": "/docs/conv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "convert_tz",
+              "path": "/docs/convert_tz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "corr",
+              "path": "/docs/corr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cos",
+              "path": "/docs/cos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cos_similarity",
+              "path": "/docs/cos_similarity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cos_similarity_norm",
+              "path": "/docs/cos_similarity_norm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cosh",
+              "path": "/docs/cosh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Cost_based_optimizer",
+              "path": "/docs/Cost_based_optimizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cot",
+              "path": "/docs/cot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "count",
+              "path": "/docs/count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "count_if",
+              "path": "/docs/count_if",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "covar_pop",
+              "path": "/docs/covar_pop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "covar_samp",
+              "path": "/docs/covar_samp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "crc32",
+              "path": "/docs/crc32",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_ANALYZE",
+              "path": "/docs/CREATE_ANALYZE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_DATABASE",
+              "path": "/docs/CREATE_DATABASE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_DICTIONARY",
+              "path": "/docs/CREATE_DICTIONARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_EXTERNAL_CATALOG",
+              "path": "/docs/CREATE_EXTERNAL_CATALOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_FILE",
+              "path": "/docs/CREATE_FILE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_FUNCTION",
+              "path": "/docs/CREATE_FUNCTION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_INDEX",
+              "path": "/docs/CREATE_INDEX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_MATERIALIZED_VIEW",
+              "path": "/docs/CREATE_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "create_partitioned_materialized_view",
+              "path": "/docs/create_partitioned_materialized_view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_PIPE",
+              "path": "/docs/CREATE_PIPE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_REPOSITORY",
+              "path": "/docs/CREATE_REPOSITORY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_RESOURCE",
+              "path": "/docs/CREATE_RESOURCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_RESOURCE_GROUP",
+              "path": "/docs/CREATE_RESOURCE_GROUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_ROLE",
+              "path": "/docs/CREATE_ROLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_ROUTINE_LOAD",
+              "path": "/docs/CREATE_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_STORAGE_VOLUME",
+              "path": "/docs/CREATE_STORAGE_VOLUME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_TABLE",
+              "path": "/docs/CREATE_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_TABLE_AS_SELECT",
+              "path": "/docs/CREATE_TABLE_AS_SELECT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_TABLE_LIKE",
+              "path": "/docs/CREATE_TABLE_LIKE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_USER",
+              "path": "/docs/CREATE_USER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CREATE_VIEW",
+              "path": "/docs/CREATE_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "create-a-blog-post",
+              "path": "/docs/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "create-a-document",
+              "path": "/docs/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "create-a-page",
+              "path": "/docs/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "curdate",
+              "path": "/docs/curdate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "current_role",
+              "path": "/docs/current_role",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "current_timestamp",
+              "path": "/docs/current_timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "current_version",
+              "path": "/docs/current_version",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "current_warehouse",
+              "path": "/docs/current_warehouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "curtime",
+              "path": "/docs/curtime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_cache",
+              "path": "/docs/data_cache",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_cache_observe",
+              "path": "/docs/data_cache_observe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_cache_troubleshooting",
+              "path": "/docs/data_cache_troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_compression",
+              "path": "/docs/data_compression",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data_distribution",
+              "path": "/docs/Data_distribution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_lake_query_acceleration_with_materialized_views",
+              "path": "/docs/data_lake_query_acceleration_with_materialized_views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_migration_tool",
+              "path": "/docs/data_migration_tool",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data_modeling_with_materialized_views",
+              "path": "/docs/data_modeling_with_materialized_views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Data_recovery",
+              "path": "/docs/Data_recovery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "database",
+              "path": "/docs/database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "datadog_support",
+              "path": "/docs/datadog_support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DataGrip",
+              "path": "/docs/DataGrip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "datalake_faq",
+              "path": "/docs/datalake_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dataphin",
+              "path": "/docs/Dataphin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DataX_faq",
+              "path": "/docs/DataX_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DataX-akashx-writer",
+              "path": "/docs/DataX-akashx-writer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DATE",
+              "path": "/docs/DATE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_add",
+              "path": "/docs/date_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_diff",
+              "path": "/docs/date_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_format",
+              "path": "/docs/date_format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_slice",
+              "path": "/docs/date_slice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_sub",
+              "path": "/docs/date_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "date_trunc",
+              "path": "/docs/date_trunc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "datediff",
+              "path": "/docs/datediff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DATETIME",
+              "path": "/docs/DATETIME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "day",
+              "path": "/docs/day",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "day_of_week_iso",
+              "path": "/docs/day_of_week_iso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dayname",
+              "path": "/docs/dayname",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dayofmonth",
+              "path": "/docs/dayofmonth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dayofweek",
+              "path": "/docs/dayofweek",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dayofyear",
+              "path": "/docs/dayofyear",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "days_add",
+              "path": "/docs/days_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "days_diff",
+              "path": "/docs/days_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "days_sub",
+              "path": "/docs/days_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DBeaver",
+              "path": "/docs/DBeaver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dbt",
+              "path": "/docs/dbt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "debuginfo",
+              "path": "/docs/debuginfo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DECIMAL",
+              "path": "/docs/DECIMAL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "default_catalog",
+              "path": "/docs/default_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "degrees",
+              "path": "/docs/degrees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DELETE",
+              "path": "/docs/DELETE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DELETE_BACKEND_BLACKLIST",
+              "path": "/docs/DELETE_BACKEND_BLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DELETE_SQLBLACKLIST",
+              "path": "/docs/DELETE_SQLBLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deltalake_catalog",
+              "path": "/docs/deltalake_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Deploy_faq",
+              "path": "/docs/Deploy_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy_manually",
+              "path": "/docs/deploy_manually",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy-your-site",
+              "path": "/docs/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment_overview",
+              "path": "/docs/deployment_overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deployment_prerequisites",
+              "path": "/docs/deployment_prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DESC_STORAGE_VOLUME",
+              "path": "/docs/DESC_STORAGE_VOLUME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DESCRIBE",
+              "path": "/docs/DESCRIBE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-env-setup",
+              "path": "/docs/dev-env-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dict_mapping",
+              "path": "/docs/dict_mapping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dictionary_get",
+              "path": "/docs/dictionary_get",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "distinct_map_keys",
+              "path": "/docs/distinct_map_keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "divide",
+              "path": "/docs/divide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DOUBLE",
+              "path": "/docs/DOUBLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "downgrade",
+              "path": "/docs/downgrade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_ANALYZE",
+              "path": "/docs/DROP_ANALYZE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_CATALOG",
+              "path": "/docs/DROP_CATALOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_DATABASE",
+              "path": "/docs/DROP_DATABASE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_DICTIONARY",
+              "path": "/docs/DROP_DICTIONARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_FILE",
+              "path": "/docs/DROP_FILE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_FUNCTION",
+              "path": "/docs/DROP_FUNCTION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_INDEX",
+              "path": "/docs/DROP_INDEX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_MATERIALIZED_VIEW",
+              "path": "/docs/DROP_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_PIPE",
+              "path": "/docs/DROP_PIPE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_REPOSITORY",
+              "path": "/docs/DROP_REPOSITORY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_RESOURCE",
+              "path": "/docs/DROP_RESOURCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_RESOURCE_GROUP",
+              "path": "/docs/DROP_RESOURCE_GROUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_ROLE",
+              "path": "/docs/DROP_ROLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_STATS",
+              "path": "/docs/DROP_STATS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_STORAGE_VOLUME",
+              "path": "/docs/DROP_STORAGE_VOLUME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_TABLE",
+              "path": "/docs/DROP_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_TASK",
+              "path": "/docs/DROP_TASK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_USER",
+              "path": "/docs/DROP_USER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DROP_VIEW",
+              "path": "/docs/DROP_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ds_hll_accumulate",
+              "path": "/docs/ds_hll_accumulate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ds_hll_combine",
+              "path": "/docs/ds_hll_combine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ds_hll_count_distinct",
+              "path": "/docs/ds_hll_count_distinct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ds_hll_estimate",
+              "path": "/docs/ds_hll_estimate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ds_theta_count_distinct",
+              "path": "/docs/ds_theta_count_distinct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dump_query",
+              "path": "/docs/Dump_query",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "duplicate_key_table",
+              "path": "/docs/duplicate_key_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dynamic_partitioning",
+              "path": "/docs/dynamic_partitioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "e",
+              "path": "/docs/e",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "elasticsearch_catalog",
+              "path": "/docs/elasticsearch_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "element_at",
+              "path": "/docs/element_at",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enable_fqdn",
+              "path": "/docs/enable_fqdn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "encode_sort_key",
+              "path": "/docs/encode_sort_key",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ends_with",
+              "path": "/docs/ends_with",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "engines",
+              "path": "/docs/engines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "enhancement",
+              "path": "/docs/enhancement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "environment_configurations",
+              "path": "/docs/environment_configurations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "equiwidth_bucket",
+              "path": "/docs/equiwidth_bucket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Error_code",
+              "path": "/docs/Error_code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Etl_in_loading",
+              "path": "/docs/Etl_in_loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "events",
+              "path": "/docs/events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "EXECUTE_AS",
+              "path": "/docs/EXECUTE_AS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "exp",
+              "path": "/docs/exp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "EXPLAIN",
+              "path": "/docs/EXPLAIN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "EXPLAIN_ANALYZE",
+              "path": "/docs/EXPLAIN_ANALYZE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "EXPORT",
+              "path": "/docs/EXPORT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Exporting_faq",
+              "path": "/docs/Exporting_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "expression_partitioning",
+              "path": "/docs/expression_partitioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "External_table",
+              "path": "/docs/External_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FE_configuration",
+              "path": "/docs/FE_configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fe_locks",
+              "path": "/docs/fe_locks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fe_mem_faq",
+              "path": "/docs/fe_mem_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fe_metrics",
+              "path": "/docs/fe_metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fe_tablet_schedules",
+              "path": "/docs/fe_tablet_schedules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature_request",
+              "path": "/docs/feature_request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-request",
+              "path": "/docs/feature-request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-support-asynchronous-materialized-views",
+              "path": "/docs/feature-support-asynchronous-materialized-views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-support-data-distribution",
+              "path": "/docs/feature-support-data-distribution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-support-data-lake-analytics",
+              "path": "/docs/feature-support-data-lake-analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-support-loading-and-unloading",
+              "path": "/docs/feature-support-loading-and-unloading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feature-support-shared-data",
+              "path": "/docs/feature-support-shared-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features",
+              "path": "/docs/Features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "feedback-and-contribute",
+              "path": "/docs/feedback-and-contribute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "field",
+              "path": "/docs/field",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "file_external_table",
+              "path": "/docs/file_external_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "filemanager",
+              "path": "/docs/filemanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "files",
+              "path": "/docs/files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "find_in_set",
+              "path": "/docs/find_in_set",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FineBI",
+              "path": "/docs/FineBI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Flat_json",
+              "path": "/docs/Flat_json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Flink_cdc_load",
+              "path": "/docs/Flink_cdc_load",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "flink_connector",
+              "path": "/docs/flink_connector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Flink_connector_faq",
+              "path": "/docs/Flink_connector_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Flink-connector-akashx",
+              "path": "/docs/Flink-connector-akashx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "FLOAT",
+              "path": "/docs/FLOAT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "floor",
+              "path": "/docs/floor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fmod",
+              "path": "/docs/fmod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "format_bytes",
+              "path": "/docs/format_bytes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "from_base64",
+              "path": "/docs/from_base64",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "from_binary",
+              "path": "/docs/from_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "from_days",
+              "path": "/docs/from_days",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "from_unixtime",
+              "path": "/docs/from_unixtime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gcs",
+              "path": "/docs/gcs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generate_series",
+              "path": "/docs/generate_series",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generated_columns",
+              "path": "/docs/generated_columns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_json_bool",
+              "path": "/docs/get_json_bool",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_json_double",
+              "path": "/docs/get_json_double",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_json_int",
+              "path": "/docs/get_json_int",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_json_string",
+              "path": "/docs/get_json_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_query_dump",
+              "path": "/docs/get_query_dump",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get_query_profile",
+              "path": "/docs/get_query_profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "global_variables",
+              "path": "/docs/global_variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GOVERNANCE",
+              "path": "/docs/GOVERNANCE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GRANT",
+              "path": "/docs/GRANT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grants_to_roles",
+              "path": "/docs/grants_to_roles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grants_to_users",
+              "path": "/docs/grants_to_users",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "greatest",
+              "path": "/docs/greatest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "group_concat",
+              "path": "/docs/group_concat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "group_provider",
+              "path": "/docs/group_provider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grouping",
+              "path": "/docs/grouping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "grouping_id",
+              "path": "/docs/grouping_id",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "handbook",
+              "path": "/docs/handbook",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hdfs",
+              "path": "/docs/hdfs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hdfs_load",
+              "path": "/docs/hdfs_load",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "helm",
+              "path": "/docs/helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Hex",
+              "path": "/docs/Hex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hex_decode_binary",
+              "path": "/docs/hex_decode_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hex_decode_string",
+              "path": "/docs/hex_decode_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "History",
+              "path": "/docs/History",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hive_bitmap_udf",
+              "path": "/docs/hive_bitmap_udf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hive_catalog",
+              "path": "/docs/hive_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HLL",
+              "path": "/docs/HLL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_cardinality",
+              "path": "/docs/hll_cardinality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_empty",
+              "path": "/docs/hll_empty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_hash",
+              "path": "/docs/hll_hash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_raw_agg",
+              "path": "/docs/hll_raw_agg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_union",
+              "path": "/docs/hll_union",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hll_union_agg",
+              "path": "/docs/hll_union_agg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "host_name",
+              "path": "/docs/host_name",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hour",
+              "path": "/docs/hour",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hours_add",
+              "path": "/docs/hours_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hours_diff",
+              "path": "/docs/hours_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hours_sub",
+              "path": "/docs/hours_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How_to_Contribute",
+              "path": "/docs/How_to_Contribute",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How_to_Write_Functions_Documentation",
+              "path": "/docs/How_to_Write_Functions_Documentation",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How_to_write_SQL_command_doc",
+              "path": "/docs/How_to_write_SQL_command_doc",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "http_interface",
+              "path": "/docs/http_interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "http_sql_api",
+              "path": "/docs/http_sql_api",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "huawei",
+              "path": "/docs/huawei",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hudi",
+              "path": "/docs/hudi",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hudi_catalog",
+              "path": "/docs/hudi_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hybrid_table",
+              "path": "/docs/hybrid_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg",
+              "path": "/docs/iceberg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg_catalog",
+              "path": "/docs/iceberg_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg_meta_table",
+              "path": "/docs/iceberg_meta_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg_rest_s3",
+              "path": "/docs/iceberg_rest_s3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg_rest_security",
+              "path": "/docs/iceberg_rest_security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "iceberg_timetravel",
+              "path": "/docs/iceberg_timetravel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ide-setup",
+              "path": "/docs/ide-setup",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "IDEA",
+              "path": "/docs/IDEA",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "if",
+              "path": "/docs/if",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ifnull",
+              "path": "/docs/ifnull",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "INCIDENT_RESPONSE_PROCESS",
+              "path": "/docs/INCIDENT_RESPONSE_PROCESS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/welcome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "indexes",
+              "path": "/docs/indexes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inet_aton",
+              "path": "/docs/inet_aton",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "information_schema",
+              "path": "/docs/information_schema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "INSERT",
+              "path": "/docs/INSERT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Insert_into_faq",
+              "path": "/docs/Insert_into_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "InsertInto",
+              "path": "/docs/InsertInto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_all_pipes",
+              "path": "/docs/inspect_all_pipes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_hive_part_info",
+              "path": "/docs/inspect_hive_part_info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_memory",
+              "path": "/docs/inspect_memory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_memory_detail",
+              "path": "/docs/inspect_memory_detail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_mv_meta",
+              "path": "/docs/inspect_mv_meta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_mv_plan",
+              "path": "/docs/inspect_mv_plan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_mv_refresh_info",
+              "path": "/docs/inspect_mv_refresh_info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_mv_relationships",
+              "path": "/docs/inspect_mv_relationships",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_related_mv",
+              "path": "/docs/inspect_related_mv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_table_partition_info",
+              "path": "/docs/inspect_table_partition_info",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inspect_task_runs",
+              "path": "/docs/inspect_task_runs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "INSTALL",
+              "path": "/docs/INSTALL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "INSTALL_PLUGIN",
+              "path": "/docs/INSTALL_PLUGIN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "instr",
+              "path": "/docs/instr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "INT",
+              "path": "/docs/INT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intersect_count",
+              "path": "/docs/intersect_count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "inverted_index",
+              "path": "/docs/inverted_index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "is_role_in_session",
+              "path": "/docs/is_role_in_session",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isnotnull",
+              "path": "/docs/isnotnull",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isnull",
+              "path": "/docs/isnull",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ISSUE_TEMPLATE",
+              "path": "/docs/ISSUE_TEMPLATE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JAVA_UDF",
+              "path": "/docs/JAVA_UDF",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jdbc_catalog",
+              "path": "/docs/jdbc_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jemalloc_heap_profile",
+              "path": "/docs/jemalloc_heap_profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jit",
+              "path": "/docs/jit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jodatime_format",
+              "path": "/docs/jodatime_format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "JSON",
+              "path": "/docs/JSON",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_array",
+              "path": "/docs/json_array",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_contains",
+              "path": "/docs/json_contains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_each",
+              "path": "/docs/json_each",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_exists",
+              "path": "/docs/json_exists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_keys",
+              "path": "/docs/json_keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_length",
+              "path": "/docs/json_length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Json_loading",
+              "path": "/docs/Json_loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_object",
+              "path": "/docs/json_object",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_query",
+              "path": "/docs/json_query",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_remove",
+              "path": "/docs/json_remove",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json_string",
+              "path": "/docs/json_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "json-operators",
+              "path": "/docs/json-operators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jupysql",
+              "path": "/docs/jupysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jwt_authentication",
+              "path": "/docs/jwt_authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kafka_connector",
+              "path": "/docs/kafka_connector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kafka-connector-akashx",
+              "path": "/docs/Kafka-connector-akashx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "key_column_usage",
+              "path": "/docs/key_column_usage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "keywords",
+              "path": "/docs/keywords",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "KILL",
+              "path": "/docs/KILL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "KILL_ANALYZE",
+              "path": "/docs/KILL_ANALYZE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kudu_catalog",
+              "path": "/docs/kudu_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lambda_expression",
+              "path": "/docs/Lambda_expression",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "LARGEINT",
+              "path": "/docs/LARGEINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "last_day",
+              "path": "/docs/last_day",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "last_query_id",
+              "path": "/docs/last_query_id",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Lateral_join",
+              "path": "/docs/Lateral_join",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lcase",
+              "path": "/docs/lcase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ldap_authentication",
+              "path": "/docs/ldap_authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "least",
+              "path": "/docs/least",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "left",
+              "path": "/docs/left",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "length",
+              "path": "/docs/length",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "LICENSE",
+              "path": "/docs/LICENSE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "like",
+              "path": "/docs/like",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "list_partitioning",
+              "path": "/docs/list_partitioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ln",
+              "path": "/docs/ln",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Load_balance",
+              "path": "/docs/Load_balance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "load_from_pulsar",
+              "path": "/docs/load_from_pulsar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Load_to_Primary_Key_tables",
+              "path": "/docs/Load_to_Primary_Key_tables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "load_tracking_logs",
+              "path": "/docs/load_tracking_logs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "loading_concepts",
+              "path": "/docs/loading_concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "loading_considerations",
+              "path": "/docs/loading_considerations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Loading_data_template",
+              "path": "/docs/Loading_data_template",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Loading_faq",
+              "path": "/docs/Loading_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Loading_intro",
+              "path": "/docs/Loading_intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "loading_tools",
+              "path": "/docs/loading_tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "loads",
+              "path": "/docs/loads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "locate",
+              "path": "/docs/locate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "log",
+              "path": "/docs/log",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "log10",
+              "path": "/docs/log10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "log2",
+              "path": "/docs/log2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "logs",
+              "path": "/docs/logs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lookup_string",
+              "path": "/docs/lookup_string",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lower",
+              "path": "/docs/lower",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "lpad",
+              "path": "/docs/lpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ltrim",
+              "path": "/docs/ltrim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "makedate",
+              "path": "/docs/makedate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manage-docs-versions",
+              "path": "/docs/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mann_whitney_u_test",
+              "path": "/docs/mann_whitney_u_test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Map",
+              "path": "/docs/Map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_apply",
+              "path": "/docs/map_apply",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_concat",
+              "path": "/docs/map_concat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_filter",
+              "path": "/docs/map_filter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_from_arrays",
+              "path": "/docs/map_from_arrays",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_keys",
+              "path": "/docs/map_keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_size",
+              "path": "/docs/map_size",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "map_values",
+              "path": "/docs/map_values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "markdown-page",
+              "path": "/docs/markdown-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "marked.1",
+              "path": "/docs/marked.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Materialized_view",
+              "path": "/docs/Materialized_view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "materialized_view_task_run_details",
+              "path": "/docs/materialized_view_task_run_details",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Materialized_view-single_table",
+              "path": "/docs/Materialized_view-single_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "materialized_views",
+              "path": "/docs/materialized_views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "maturity",
+              "path": "/docs/maturity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "max",
+              "path": "/docs/max",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "max_by",
+              "path": "/docs/max_by",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "maxcompute_catalog",
+              "path": "/docs/maxcompute_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "md5",
+              "path": "/docs/md5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "md5sum",
+              "path": "/docs/md5sum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "md5sum_numeric",
+              "path": "/docs/md5sum_numeric",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Memory_management",
+              "path": "/docs/Memory_management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Meta_recovery",
+              "path": "/docs/Meta_recovery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Metabase",
+              "path": "/docs/Metabase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "metrics",
+              "path": "/docs/metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "metrics-materialized_view",
+              "path": "/docs/metrics-materialized_view",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "metrics-shared-data",
+              "path": "/docs/metrics-shared-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "microseconds_add",
+              "path": "/docs/microseconds_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "microseconds_sub",
+              "path": "/docs/microseconds_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "MIGRATION_GUIDE",
+              "path": "/docs/MIGRATION_GUIDE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milliseconds_diff",
+              "path": "/docs/milliseconds_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "min",
+              "path": "/docs/min",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "min_by",
+              "path": "/docs/min_by",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "minio",
+              "path": "/docs/minio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "minute",
+              "path": "/docs/minute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "minutes_add",
+              "path": "/docs/minutes_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "minutes_diff",
+              "path": "/docs/minutes_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "minutes_sub",
+              "path": "/docs/minutes_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mod",
+              "path": "/docs/mod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "money_format",
+              "path": "/docs/money_format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Monitor_and_Alert",
+              "path": "/docs/Monitor_and_Alert",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "monitor_manage_big_queries",
+              "path": "/docs/monitor_manage_big_queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "month",
+              "path": "/docs/month",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "monthname",
+              "path": "/docs/monthname",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "months_add",
+              "path": "/docs/months_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "months_diff",
+              "path": "/docs/months_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "months_sub",
+              "path": "/docs/months_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "multi_distinct_count",
+              "path": "/docs/multi_distinct_count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "multi_distinct_sum",
+              "path": "/docs/multi_distinct_sum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "multiply",
+              "path": "/docs/multiply",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "murmur_hash3_32",
+              "path": "/docs/murmur_hash3_32",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mv_ref",
+              "path": "/docs/mv_ref",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "named_struct",
+              "path": "/docs/named_struct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "native_authentication",
+              "path": "/docs/native_authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "negative",
+              "path": "/docs/negative",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "next_day",
+              "path": "/docs/next_day",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ngram_Bloom_Filter_Index",
+              "path": "/docs/Ngram_Bloom_Filter_Index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ngram_search",
+              "path": "/docs/ngram_search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Notes",
+              "path": "/docs/Notes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "now",
+              "path": "/docs/now",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "null_or_empty",
+              "path": "/docs/null_or_empty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "nullif",
+              "path": "/docs/nullif",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "oauth2_authentication",
+              "path": "/docs/oauth2_authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "object_dependencies",
+              "path": "/docs/object_dependencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "other",
+              "path": "/docs/other",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Others",
+              "path": "/docs/Others",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview",
+              "path": "/docs/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overview-of-json-functions-and-operators",
+              "path": "/docs/overview-of-json-functions-and-operators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "paimon_catalog",
+              "path": "/docs/paimon_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "parse_json",
+              "path": "/docs/parse_json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "parse_url",
+              "path": "/docs/parse_url",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partitioning",
+              "path": "/docs/partitioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partitions",
+              "path": "/docs/partitions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "partitions_meta",
+              "path": "/docs/partitions_meta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "patchFs",
+              "path": "/docs/patchFs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "patchRequire",
+              "path": "/docs/patchRequire",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PATRONS",
+              "path": "/docs/PATRONS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PAUSE_ROUTINE_LOAD",
+              "path": "/docs/PAUSE_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_approx",
+              "path": "/docs/percentile_approx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_approx_raw",
+              "path": "/docs/percentile_approx_raw",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_approx_weight",
+              "path": "/docs/percentile_approx_weight",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_cont",
+              "path": "/docs/percentile_cont",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_disc",
+              "path": "/docs/percentile_disc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_disc_lc",
+              "path": "/docs/percentile_disc_lc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_empty",
+              "path": "/docs/percentile_empty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_hash",
+              "path": "/docs/percentile_hash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "percentile_union",
+              "path": "/docs/percentile_union",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pi",
+              "path": "/docs/pi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pipe_files",
+              "path": "/docs/pipe_files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pipes",
+              "path": "/docs/pipes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "plan_cluster",
+              "path": "/docs/plan_cluster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pmod",
+              "path": "/docs/pmod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "policy_references",
+              "path": "/docs/policy_references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Porting-Buffer",
+              "path": "/docs/Porting-Buffer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "positive",
+              "path": "/docs/positive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "post_deployment_setup",
+              "path": "/docs/post_deployment_setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pow",
+              "path": "/docs/pow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Prefix_index_sort_key",
+              "path": "/docs/Prefix_index_sort_key",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prepare_deployment_files",
+              "path": "/docs/prepare_deployment_files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "prepared_statement",
+              "path": "/docs/prepared_statement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "previous_day",
+              "path": "/docs/previous_day",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primary_key_table",
+              "path": "/docs/primary_key_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "primarykey_table",
+              "path": "/docs/primarykey_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "privilege_faq",
+              "path": "/docs/privilege_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "privilege_item",
+              "path": "/docs/privilege_item",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Profiling",
+              "path": "/docs/Profiling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "protobuf-guides",
+              "path": "/docs/protobuf-guides",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PULL_REQUEST_TEMPLATE",
+              "path": "/docs/PULL_REQUEST_TEMPLATE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Python_UDF",
+              "path": "/docs/Python_UDF",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "quarter",
+              "path": "/docs/quarter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_acceleration_with_auto_increment",
+              "path": "/docs/query_acceleration_with_auto_increment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_cache",
+              "path": "/docs/query_cache",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_external_data",
+              "path": "/docs/query_external_data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_feedback",
+              "path": "/docs/query_feedback",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_hint",
+              "path": "/docs/query_hint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Query_management",
+              "path": "/docs/Query_management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_plan_intro",
+              "path": "/docs/query_plan_intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_planning",
+              "path": "/docs/query_planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_profile_operator_metrics",
+              "path": "/docs/query_profile_operator_metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_profile_overview",
+              "path": "/docs/query_profile_overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_profile_text_based_analysis",
+              "path": "/docs/query_profile_text_based_analysis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_profile_tuning_recipes",
+              "path": "/docs/query_profile_tuning_recipes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_queues",
+              "path": "/docs/query_queues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_rewrite_with_materialized_views",
+              "path": "/docs/query_rewrite_with_materialized_views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query_trace_profile",
+              "path": "/docs/query_trace_profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Querybook",
+              "path": "/docs/Querybook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "QuickBI",
+              "path": "/docs/QuickBI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "radians",
+              "path": "/docs/radians",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rand",
+              "path": "/docs/rand",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ranger_plugin",
+              "path": "/docs/ranger_plugin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "README",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RECOVER",
+              "path": "/docs/RECOVER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recyclebin_catalogs",
+              "path": "/docs/recyclebin_catalogs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "refactoring-request",
+              "path": "/docs/refactoring-request",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "referential_constraints",
+              "path": "/docs/referential_constraints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "REFRESH_DICTIONARY",
+              "path": "/docs/REFRESH_DICTIONARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "REFRESH_EXTERNAL_TABLE",
+              "path": "/docs/REFRESH_EXTERNAL_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "REFRESH_MATERIALIZED_VIEW",
+              "path": "/docs/REFRESH_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp",
+              "path": "/docs/regexp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp_count",
+              "path": "/docs/regexp_count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp_extract",
+              "path": "/docs/regexp_extract",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp_extract_all",
+              "path": "/docs/regexp_extract_all",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp_replace",
+              "path": "/docs/regexp_replace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "regexp_split",
+              "path": "/docs/regexp_split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release",
+              "path": "/docs/release",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-1.19",
+              "path": "/docs/release-1.19",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.0",
+              "path": "/docs/release-2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.1",
+              "path": "/docs/release-2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.2",
+              "path": "/docs/release-2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.3",
+              "path": "/docs/release-2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.4",
+              "path": "/docs/release-2.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-2.5",
+              "path": "/docs/release-2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.0",
+              "path": "/docs/release-3.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.1",
+              "path": "/docs/release-3.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.2",
+              "path": "/docs/release-3.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.3",
+              "path": "/docs/release-3.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.4",
+              "path": "/docs/release-3.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "release-3.5",
+              "path": "/docs/release-3.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "repeat",
+              "path": "/docs/repeat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "replace",
+              "path": "/docs/replace",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Replica",
+              "path": "/docs/Replica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resource_group",
+              "path": "/docs/resource_group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "restful-api-standard",
+              "path": "/docs/restful-api-standard",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RESTORE",
+              "path": "/docs/RESTORE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RESUME_ROUTINE_LOAD",
+              "path": "/docs/RESUME_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "retention",
+              "path": "/docs/retention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RETRY_FILE",
+              "path": "/docs/RETRY_FILE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reverse",
+              "path": "/docs/reverse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "REVOKE",
+              "path": "/docs/REVOKE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "right",
+              "path": "/docs/right",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rising_wave",
+              "path": "/docs/rising_wave",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "role_edges",
+              "path": "/docs/role_edges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "round",
+              "path": "/docs/round",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Routine_load_faq",
+              "path": "/docs/Routine_load_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routine_load_jobs",
+              "path": "/docs/routine_load_jobs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routine-load",
+              "path": "/docs/routine-load",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RoutineLoad",
+              "path": "/docs/RoutineLoad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "routines",
+              "path": "/docs/routines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "row",
+              "path": "/docs/row",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rpad",
+              "path": "/docs/rpad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rtrim",
+              "path": "/docs/rtrim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "running_queries",
+              "path": "/docs/running_queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "s3",
+              "path": "/docs/s3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "s3_compatible",
+              "path": "/docs/s3_compatible",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Scale_up_down",
+              "path": "/docs/Scale_up_down",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "schema_privileges",
+              "path": "/docs/schema_privileges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "schema_tuning",
+              "path": "/docs/schema_tuning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "schemata",
+              "path": "/docs/schemata",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "second",
+              "path": "/docs/second",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seconds_add",
+              "path": "/docs/seconds_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seconds_diff",
+              "path": "/docs/seconds_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "seconds_sub",
+              "path": "/docs/seconds_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SECURITY",
+              "path": "/docs/SECURITY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security_integration",
+              "path": "/docs/security_integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SELECT",
+              "path": "/docs/SELECT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "session_variables",
+              "path": "/docs/session_variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET",
+              "path": "/docs/SET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET_CATALOG",
+              "path": "/docs/SET_CATALOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET_DEFAULT_ROLE",
+              "path": "/docs/SET_DEFAULT_ROLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET_DEFAULT_STORAGE_VOLUME",
+              "path": "/docs/SET_DEFAULT_STORAGE_VOLUME",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET_PASSWORD",
+              "path": "/docs/SET_PASSWORD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SET_ROLE",
+              "path": "/docs/SET_ROLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sha2",
+              "path": "/docs/sha2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "shared-data",
+              "path": "/docs/shared-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "shared-nothing",
+              "path": "/docs/shared-nothing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ALTER",
+              "path": "/docs/SHOW_ALTER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ALTER_MATERIALIZED_VIEW",
+              "path": "/docs/SHOW_ALTER_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ANALYZE_JOB",
+              "path": "/docs/SHOW_ANALYZE_JOB",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ANALYZE_STATUS",
+              "path": "/docs/SHOW_ANALYZE_STATUS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_AUTHENTICATION",
+              "path": "/docs/SHOW_AUTHENTICATION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_BACKEND_BLACKLIST",
+              "path": "/docs/SHOW_BACKEND_BLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_BACKENDS",
+              "path": "/docs/SHOW_BACKENDS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_BACKUP",
+              "path": "/docs/SHOW_BACKUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_BROKER",
+              "path": "/docs/SHOW_BROKER",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CATALOGS",
+              "path": "/docs/SHOW_CATALOGS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_COMPUTE_NODES",
+              "path": "/docs/SHOW_COMPUTE_NODES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CREATE_CATALOG",
+              "path": "/docs/SHOW_CREATE_CATALOG",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CREATE_DATABASE",
+              "path": "/docs/SHOW_CREATE_DATABASE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CREATE_MATERIALIZED_VIEW",
+              "path": "/docs/SHOW_CREATE_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CREATE_TABLE",
+              "path": "/docs/SHOW_CREATE_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_CREATE_VIEW",
+              "path": "/docs/SHOW_CREATE_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_DATA",
+              "path": "/docs/SHOW_DATA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_DATABASES",
+              "path": "/docs/SHOW_DATABASES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_DELETE",
+              "path": "/docs/SHOW_DELETE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_DICTIONARY",
+              "path": "/docs/SHOW_DICTIONARY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_DYNAMIC_PARTITION_TABLES",
+              "path": "/docs/SHOW_DYNAMIC_PARTITION_TABLES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_EXPORT",
+              "path": "/docs/SHOW_EXPORT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_FILE",
+              "path": "/docs/SHOW_FILE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_FRONTENDS",
+              "path": "/docs/SHOW_FRONTENDS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_FULL_COLUMNS",
+              "path": "/docs/SHOW_FULL_COLUMNS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_FUNCTIONS",
+              "path": "/docs/SHOW_FUNCTIONS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_GRANTS",
+              "path": "/docs/SHOW_GRANTS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_INDEX",
+              "path": "/docs/SHOW_INDEX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_LOAD",
+              "path": "/docs/SHOW_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_MATERIALIZED_VIEW",
+              "path": "/docs/SHOW_MATERIALIZED_VIEW",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_META",
+              "path": "/docs/SHOW_META",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PARTITIONS",
+              "path": "/docs/SHOW_PARTITIONS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PIPES",
+              "path": "/docs/SHOW_PIPES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PLUGINS",
+              "path": "/docs/SHOW_PLUGINS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PROC",
+              "path": "/docs/SHOW_PROC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PROCESSLIST",
+              "path": "/docs/SHOW_PROCESSLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PROFILELIST",
+              "path": "/docs/SHOW_PROFILELIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_PROPERTY",
+              "path": "/docs/SHOW_PROPERTY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_REPOSITORIES",
+              "path": "/docs/SHOW_REPOSITORIES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_RESOURCE_GROUP",
+              "path": "/docs/SHOW_RESOURCE_GROUP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_RESOURCES",
+              "path": "/docs/SHOW_RESOURCES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_RESTORE",
+              "path": "/docs/SHOW_RESTORE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ROLES",
+              "path": "/docs/SHOW_ROLES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ROUTINE_LOAD",
+              "path": "/docs/SHOW_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_ROUTINE_LOAD_TASK",
+              "path": "/docs/SHOW_ROUTINE_LOAD_TASK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_RUNNING_QUERIES",
+              "path": "/docs/SHOW_RUNNING_QUERIES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_SNAPSHOT",
+              "path": "/docs/SHOW_SNAPSHOT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_SQLBLACKLIST",
+              "path": "/docs/SHOW_SQLBLACKLIST",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_STORAGE_VOLUMES",
+              "path": "/docs/SHOW_STORAGE_VOLUMES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_TABLE_STATUS",
+              "path": "/docs/SHOW_TABLE_STATUS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_TABLES",
+              "path": "/docs/SHOW_TABLES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_TABLET",
+              "path": "/docs/SHOW_TABLET",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_TRANSACTION",
+              "path": "/docs/SHOW_TRANSACTION",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_USAGE_RESOURCE_GROUPS",
+              "path": "/docs/SHOW_USAGE_RESOURCE_GROUPS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_USERS",
+              "path": "/docs/SHOW_USERS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SHOW_VARIABLES",
+              "path": "/docs/SHOW_VARIABLES",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sign",
+              "path": "/docs/sign",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sin",
+              "path": "/docs/sin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sinh",
+              "path": "/docs/sinh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "skew_join_v2",
+              "path": "/docs/skew_join_v2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "slack",
+              "path": "/docs/slack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sleep",
+              "path": "/docs/sleep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sm3",
+              "path": "/docs/sm3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SMALLINT",
+              "path": "/docs/SMALLINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SMT",
+              "path": "/docs/SMT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sorted_aggregate",
+              "path": "/docs/sorted_aggregate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "space",
+              "path": "/docs/space",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "spark_connector",
+              "path": "/docs/spark_connector",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SPARK_LOAD",
+              "path": "/docs/SPARK_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Spark-connector-akashx",
+              "path": "/docs/Spark-connector-akashx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SparkLoad",
+              "path": "/docs/SparkLoad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "spill_to_disk",
+              "path": "/docs/spill_to_disk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "split",
+              "path": "/docs/split",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "split_part",
+              "path": "/docs/split_part",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL_command_template",
+              "path": "/docs/SQL_command_template",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql_digest",
+              "path": "/docs/sql_digest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sql_faq",
+              "path": "/docs/Sql_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL_plan_manager",
+              "path": "/docs/SQL_plan_manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SQL_transaction",
+              "path": "/docs/SQL_transaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sqrt",
+              "path": "/docs/sqrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "square",
+              "path": "/docs/square",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sr_operator",
+              "path": "/docs/sr_operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SSB_Benchmarking",
+              "path": "/docs/SSB_Benchmarking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ssl_authentication",
+              "path": "/docs/ssl_authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_astext",
+              "path": "/docs/st_astext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_circle",
+              "path": "/docs/st_circle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_contains",
+              "path": "/docs/st_contains",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_distance_sphere",
+              "path": "/docs/st_distance_sphere",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_geometryfromtext",
+              "path": "/docs/st_geometryfromtext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_linefromtext",
+              "path": "/docs/st_linefromtext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_point",
+              "path": "/docs/st_point",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_polygon",
+              "path": "/docs/st_polygon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_x",
+              "path": "/docs/st_x",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "st_y",
+              "path": "/docs/st_y",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stargo",
+              "path": "/docs/stargo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "akashx_intro",
+              "path": "/docs/akashx_intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "akashx_table_design",
+              "path": "/docs/akashx_table_design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "akashx-kubernetes-operator",
+              "path": "/docs/akashx-kubernetes-operator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "starts_with",
+              "path": "/docs/starts_with",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "statistics",
+              "path": "/docs/statistics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "std",
+              "path": "/docs/std",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stddev",
+              "path": "/docs/stddev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stddev_samp",
+              "path": "/docs/stddev_samp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "STOP_ROUTINE_LOAD",
+              "path": "/docs/STOP_ROUTINE_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "str_to_date",
+              "path": "/docs/str_to_date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "str_to_jodatime",
+              "path": "/docs/str_to_jodatime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "str_to_map",
+              "path": "/docs/str_to_map",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "str2date",
+              "path": "/docs/str2date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strcmp",
+              "path": "/docs/strcmp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "STREAM_LOAD",
+              "path": "/docs/STREAM_LOAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Stream_load_faq",
+              "path": "/docs/Stream_load_faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Stream_Load_transaction_interface",
+              "path": "/docs/Stream_Load_transaction_interface",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "stream_loads",
+              "path": "/docs/stream_loads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "StreamLoad",
+              "path": "/docs/StreamLoad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strict_mode",
+              "path": "/docs/strict_mode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "STRING",
+              "path": "/docs/STRING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strleft",
+              "path": "/docs/strleft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strpos",
+              "path": "/docs/strpos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "strright",
+              "path": "/docs/strright",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "STRUCT",
+              "path": "/docs/STRUCT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sub_bitmap",
+              "path": "/docs/sub_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "subdivide_bitmap",
+              "path": "/docs/subdivide_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SUBMIT_TASK",
+              "path": "/docs/SUBMIT_TASK",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "substring",
+              "path": "/docs/substring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "substring_index",
+              "path": "/docs/substring_index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sum",
+              "path": "/docs/sum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Superset",
+              "path": "/docs/Superset",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "superset_support",
+              "path": "/docs/superset_support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SUPPORT",
+              "path": "/docs/SUPPORT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SUSPEND_or_RESUME_PIPE",
+              "path": "/docs/SUSPEND_or_RESUME_PIPE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SYNC",
+              "path": "/docs/SYNC",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "synchronize_mysql_into_sr",
+              "path": "/docs/synchronize_mysql_into_sr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sys",
+              "path": "/docs/sys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "System_limit",
+              "path": "/docs/System_limit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "System_variable",
+              "path": "/docs/System_variable",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_capabilities",
+              "path": "/docs/table_capabilities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_clustering",
+              "path": "/docs/table_clustering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_constraints",
+              "path": "/docs/table_constraints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_design",
+              "path": "/docs/table_design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_privileges",
+              "path": "/docs/table_privileges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "table_types",
+              "path": "/docs/table_types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tableau_Desktop",
+              "path": "/docs/Tableau_Desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tables",
+              "path": "/docs/tables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tables_config",
+              "path": "/docs/tables_config",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tan",
+              "path": "/docs/tan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tanh",
+              "path": "/docs/tanh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "task_runs",
+              "path": "/docs/task_runs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tasks",
+              "path": "/docs/tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "template_for_config",
+              "path": "/docs/template_for_config",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Temporary_partition",
+              "path": "/docs/Temporary_partition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tencent",
+              "path": "/docs/tencent",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "THREAT_MODEL",
+              "path": "/docs/THREAT_MODEL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "thrift-guides",
+              "path": "/docs/thrift-guides",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "time_format",
+              "path": "/docs/time_format",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "time_slice",
+              "path": "/docs/time_slice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "time_to_sec",
+              "path": "/docs/time_to_sec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timediff",
+              "path": "/docs/timediff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timestamp",
+              "path": "/docs/timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timestampadd",
+              "path": "/docs/timestampadd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timestampdiff",
+              "path": "/docs/timestampdiff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "timezone",
+              "path": "/docs/timezone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TINYINT",
+              "path": "/docs/TINYINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_base64",
+              "path": "/docs/to_base64",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_binary",
+              "path": "/docs/to_binary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_bitmap",
+              "path": "/docs/to_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_date",
+              "path": "/docs/to_date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_datetime",
+              "path": "/docs/to_datetime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_datetime_ntz",
+              "path": "/docs/to_datetime_ntz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_days",
+              "path": "/docs/to_days",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_iso8601",
+              "path": "/docs/to_iso8601",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_json",
+              "path": "/docs/to_json",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_tera_date",
+              "path": "/docs/to_tera_date",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "to_tera_timestamp",
+              "path": "/docs/to_tera_timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tokenize",
+              "path": "/docs/tokenize",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tpc_ds_99_sql",
+              "path": "/docs/tpc_ds_99_sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TPC_DS_Benchmark",
+              "path": "/docs/TPC_DS_Benchmark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TPC-H_Benchmarking",
+              "path": "/docs/TPC-H_Benchmarking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Trace",
+              "path": "/docs/Trace",
+              "unlisted": true,
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transform_keys",
+              "path": "/docs/transform_keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "transform_values",
+              "path": "/docs/transform_values",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "translate",
+              "path": "/docs/translate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TRANSLATE_TRINO",
+              "path": "/docs/TRANSLATE_TRINO",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "translate-your-site",
+              "path": "/docs/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "triggers",
+              "path": "/docs/triggers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "trim",
+              "path": "/docs/trim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting_asynchronous_materialized_views",
+              "path": "/docs/troubleshooting_asynchronous_materialized_views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting_loading",
+              "path": "/docs/troubleshooting_loading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "truncate",
+              "path": "/docs/truncate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TRUNCATE_TABLE",
+              "path": "/docs/TRUNCATE_TABLE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ucase",
+              "path": "/docs/ucase",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unhex",
+              "path": "/docs/unhex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unified_catalog",
+              "path": "/docs/unified_catalog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UNINSTALL_PLUGIN",
+              "path": "/docs/UNINSTALL_PLUGIN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unique_key_table",
+              "path": "/docs/unique_key_table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unix_timestamp",
+              "path": "/docs/unix_timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unload_using_insert_into_files",
+              "path": "/docs/unload_using_insert_into_files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unnest",
+              "path": "/docs/unnest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unnest_bitmap",
+              "path": "/docs/unnest_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UPDATE",
+              "path": "/docs/UPDATE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrade",
+              "path": "/docs/upgrade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upper",
+              "path": "/docs/upper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "url_decode",
+              "path": "/docs/url_decode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "url_encode",
+              "path": "/docs/url_encode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "url_extract_host",
+              "path": "/docs/url_extract_host",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "url_extract_parameter",
+              "path": "/docs/url_extract_parameter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "USE",
+              "path": "/docs/USE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user_defined_variables",
+              "path": "/docs/user_defined_variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "User_privilege",
+              "path": "/docs/User_privilege",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user_privileges",
+              "path": "/docs/user_privileges",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user_privs",
+              "path": "/docs/user_privs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using_bitmap",
+              "path": "/docs/Using_bitmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using_HLL",
+              "path": "/docs/Using_HLL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "utc_time",
+              "path": "/docs/utc_time",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "utc_timestamp",
+              "path": "/docs/utc_timestamp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "uuid",
+              "path": "/docs/uuid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "uuid_numeric",
+              "path": "/docs/uuid_numeric",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "var_samp",
+              "path": "/docs/var_samp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "VARCHAR",
+              "path": "/docs/VARCHAR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "variance",
+              "path": "/docs/variance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vector_index",
+              "path": "/docs/vector_index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "verbose_session_variables",
+              "path": "/docs/verbose_session_variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "version",
+              "path": "/docs/version",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "versioning",
+              "path": "/docs/versioning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "versions",
+              "path": "/docs/versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Video",
+              "path": "/docs/Video",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "views",
+              "path": "/docs/views",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "warehouse_metrics",
+              "path": "/docs/warehouse_metrics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "warehouse_queries",
+              "path": "/docs/warehouse_queries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "week",
+              "path": "/docs/week",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "week_iso",
+              "path": "/docs/week_iso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weekofyear",
+              "path": "/docs/weekofyear",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weeks_add",
+              "path": "/docs/weeks_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weeks_diff",
+              "path": "/docs/weeks_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "weeks_sub",
+              "path": "/docs/weeks_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "what_is_akashx",
+              "path": "/docs/what_is_akashx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Window_function",
+              "path": "/docs/Window_function",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "window_funnel",
+              "path": "/docs/window_funnel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "xx_hash3_128",
+              "path": "/docs/xx_hash3_128",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "xx_hash3_64",
+              "path": "/docs/xx_hash3_64",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "year",
+              "path": "/docs/year",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "years_add",
+              "path": "/docs/years_add",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "years_diff",
+              "path": "/docs/years_diff",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "years_sub",
+              "path": "/docs/years_sub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yearweek",
+              "path": "/docs/yearweek",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "README"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

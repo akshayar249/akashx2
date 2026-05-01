@@ -1,0 +1,23 @@
+{
+  "id": "left",
+  "title": "left",
+  "description": "从字符串左边部分返回指定长度的字符，长度的单位为「utf8 字符」。函数别名为 strleft.",
+  "source": "@site/docs/left.md",
+  "sourceDirName": ".",
+  "slug": "/left",
+  "permalink": "/docs/left",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "least",
+    "permalink": "/docs/least"
+  },
+  "next": {
+    "title": "length",
+    "permalink": "/docs/length"
+  }
+}

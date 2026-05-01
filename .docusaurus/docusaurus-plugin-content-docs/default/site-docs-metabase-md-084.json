@@ -1,0 +1,23 @@
+{
+  "id": "Metabase",
+  "title": "Metabase",
+  "description": "Metabase 支持对 AkashX 中的内部数据和外部数据进行查询和可视化处理。",
+  "source": "@site/docs/Metabase.md",
+  "sourceDirName": ".",
+  "slug": "/Metabase",
+  "permalink": "/docs/Metabase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "恢复元数据",
+    "permalink": "/docs/Meta_recovery"
+  },
+  "next": {
+    "title": "使用 Prometheus 和 Grafana 监控报警",
+    "permalink": "/docs/Monitor_and_Alert"
+  }
+}

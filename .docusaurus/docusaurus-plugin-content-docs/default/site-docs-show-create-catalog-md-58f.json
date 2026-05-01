@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_CREATE_CATALOG",
+  "title": "SHOW CREATE CATALOG",
+  "description": "功能",
+  "source": "@site/docs/SHOW_CREATE_CATALOG.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_CREATE_CATALOG",
+  "permalink": "/docs/SHOW_CREATE_CATALOG",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW COMPUTE NODES",
+    "permalink": "/docs/SHOW_COMPUTE_NODES"
+  },
+  "next": {
+    "title": "SHOW CREATE DATABASE",
+    "permalink": "/docs/SHOW_CREATE_DATABASE"
+  }
+}

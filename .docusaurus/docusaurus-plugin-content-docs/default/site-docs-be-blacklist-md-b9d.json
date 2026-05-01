@@ -1,0 +1,23 @@
+{
+  "id": "BE_blacklist",
+  "title": "管理 BE 和 CN 黑名单",
+  "description": "本主题介绍如何管理 BE 和 CN 黑名单。",
+  "source": "@site/docs/BE_blacklist.md",
+  "sourceDirName": ".",
+  "slug": "/BE_blacklist",
+  "permalink": "/docs/BE_blacklist",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BACKUP",
+    "permalink": "/docs/BACKUP"
+  },
+  "next": {
+    "title": "BE 配置项",
+    "permalink": "/docs/BE_configuration"
+  }
+}

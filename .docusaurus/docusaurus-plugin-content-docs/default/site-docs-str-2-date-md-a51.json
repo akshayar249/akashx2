@@ -1,0 +1,23 @@
+{
+  "id": "str2date",
+  "title": "str2date",
+  "description": "按照 format 指定的格式将 str 转换为 DATE 类型的值。如果转换结果不对，返回 NULL。",
+  "source": "@site/docs/str2date.md",
+  "sourceDirName": ".",
+  "slug": "/str2date",
+  "permalink": "/docs/str2date",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stddev_samp",
+    "permalink": "/docs/stddev_samp"
+  },
+  "next": {
+    "title": "str_to_date",
+    "permalink": "/docs/str_to_date"
+  }
+}

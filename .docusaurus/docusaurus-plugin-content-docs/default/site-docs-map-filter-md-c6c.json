@@ -1,0 +1,23 @@
+{
+  "id": "map_filter",
+  "title": "map_filter",
+  "description": "根据设定的过滤函数返回 MAP 中匹配的 Key-value 对。该过滤函数可以是普通的 Boolean 数组，也可以是灵活的 Lambda 函数。有关 Lambda 函数的详细信息，参见 Lambda expression。",
+  "source": "@site/docs/map_filter.md",
+  "sourceDirName": ".",
+  "slug": "/map_filter",
+  "permalink": "/docs/map_filter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "map_concat",
+    "permalink": "/docs/map_concat"
+  },
+  "next": {
+    "title": "map_from_arrays",
+    "permalink": "/docs/map_from_arrays"
+  }
+}

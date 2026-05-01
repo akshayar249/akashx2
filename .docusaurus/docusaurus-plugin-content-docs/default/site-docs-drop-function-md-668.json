@@ -1,0 +1,23 @@
+{
+  "id": "DROP_FUNCTION",
+  "title": "DROP FUNCTION",
+  "description": "功能",
+  "source": "@site/docs/DROP_FUNCTION.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_FUNCTION",
+  "permalink": "/docs/DROP_FUNCTION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP FILE",
+    "permalink": "/docs/DROP_FILE"
+  },
+  "next": {
+    "title": "DROP INDEX",
+    "permalink": "/docs/DROP_INDEX"
+  }
+}

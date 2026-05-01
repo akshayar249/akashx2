@@ -1,0 +1,23 @@
+{
+  "id": "rand",
+  "title": "rand, random",
+  "description": "返回一个 0 (包含) 到 1（不包含）之间的随机浮点数。",
+  "source": "@site/docs/rand.md",
+  "sourceDirName": ".",
+  "slug": "/rand",
+  "permalink": "/docs/rand",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "radians",
+    "permalink": "/docs/radians"
+  },
+  "next": {
+    "title": "recyclebin_catalogs",
+    "permalink": "/docs/recyclebin_catalogs"
+  }
+}

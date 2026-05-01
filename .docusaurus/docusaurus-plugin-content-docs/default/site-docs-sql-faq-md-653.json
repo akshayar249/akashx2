@@ -1,0 +1,23 @@
+{
+  "id": "Sql_faq",
+  "title": "查询常见问题",
+  "description": "构建物化视图失败：fail to allocate memory",
+  "source": "@site/docs/Sql_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Sql_faq",
+  "permalink": "/docs/Sql_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Spark Load 批量导入数据",
+    "permalink": "/docs/SparkLoad"
+  },
+  "next": {
+    "title": "AkashX",
+    "permalink": "/docs/akashx_intro"
+  }
+}

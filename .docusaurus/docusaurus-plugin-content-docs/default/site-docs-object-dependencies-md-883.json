@@ -1,0 +1,23 @@
+{
+  "id": "object_dependencies",
+  "title": "object_dependencies",
+  "description": "您可以通过查询 object_dependencies 视图查看异步物化视图的依赖关系。",
+  "source": "@site/docs/object_dependencies.md",
+  "sourceDirName": ".",
+  "slug": "/object_dependencies",
+  "permalink": "/docs/object_dependencies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nullif",
+    "permalink": "/docs/nullif"
+  },
+  "next": {
+    "title": "基于其他云存储部署",
+    "permalink": "/docs/other"
+  }
+}

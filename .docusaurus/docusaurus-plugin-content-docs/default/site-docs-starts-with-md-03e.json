@@ -1,0 +1,23 @@
+{
+  "id": "starts_with",
+  "title": "starts_with",
+  "description": "如果字符串以指定前缀开头返回 1，否则返回 0，任意参数为 NULL 则返回 NULL。",
+  "source": "@site/docs/starts_with.md",
+  "sourceDirName": ".",
+  "slug": "/starts_with",
+  "permalink": "/docs/starts_with",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes Operator 版本发布",
+    "permalink": "/docs/akashx-kubernetes-operator"
+  },
+  "next": {
+    "title": "statistics",
+    "permalink": "/docs/statistics"
+  }
+}

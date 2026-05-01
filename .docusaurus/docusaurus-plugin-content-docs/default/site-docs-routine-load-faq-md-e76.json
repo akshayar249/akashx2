@@ -1,0 +1,23 @@
+{
+  "id": "Routine_load_faq",
+  "title": "Routine Load 导入常见问题",
+  "description": "1. 如何提高导入性能？",
+  "source": "@site/docs/Routine_load_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Routine_load_faq",
+  "permalink": "/docs/Routine_load_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Routine Load 导入数据",
+    "permalink": "/docs/RoutineLoad"
+  },
+  "next": {
+    "title": "Reporting Security Issues",
+    "permalink": "/docs/SECURITY"
+  }
+}

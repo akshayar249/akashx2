@@ -1,0 +1,23 @@
+{
+  "id": "min_by",
+  "title": "min_by",
+  "description": "返回与 y 的最小值关联的 x 值。比如 SELECT minby(subject, examresult) FROM exam; 表示返回 exam 表中考试得分最低的科目。",
+  "source": "@site/docs/min_by.md",
+  "sourceDirName": ".",
+  "slug": "/min_by",
+  "permalink": "/docs/min_by",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "min",
+    "permalink": "/docs/min"
+  },
+  "next": {
+    "title": "从 MinIO 导入",
+    "permalink": "/docs/minio"
+  }
+}

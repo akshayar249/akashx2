@@ -1,0 +1,23 @@
+{
+  "id": "CloudCanal_load_faq",
+  "title": "CloudCanal 导入常见问题",
+  "description": "导入时任务异常，报错 close index failed/too many tablet versions",
+  "source": "@site/docs/CloudCanal_load_faq.md",
+  "sourceDirName": ".",
+  "slug": "/CloudCanal_load_faq",
+  "permalink": "/docs/CloudCanal_load_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 CloudCanal 导入",
+    "permalink": "/docs/CloudCanal"
+  },
+  "next": {
+    "title": "date",
+    "permalink": "/docs/DATE"
+  }
+}

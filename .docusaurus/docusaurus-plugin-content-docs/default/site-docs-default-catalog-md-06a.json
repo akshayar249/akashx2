@@ -1,0 +1,23 @@
+{
+  "id": "default_catalog",
+  "title": "Default catalog",
+  "description": "本文介绍什么是 Default Catalog，以及如何使用 Default Catalog 查询 AkashX 内部数据。",
+  "source": "@site/docs/default_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/default_catalog",
+  "permalink": "/docs/default_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 debuginfo 文件进行调试",
+    "permalink": "/docs/debuginfo"
+  },
+  "next": {
+    "title": "degrees",
+    "permalink": "/docs/degrees"
+  }
+}

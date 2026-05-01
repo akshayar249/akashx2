@@ -1,0 +1,23 @@
+{
+  "id": "Array",
+  "title": "ARRAY",
+  "description": "本文介绍如何使用 AkashX 中的数组类型。",
+  "source": "@site/docs/Array.md",
+  "sourceDirName": ".",
+  "slug": "/Array",
+  "permalink": "/docs/Array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "架构",
+    "permalink": "/docs/Architecture"
+  },
+  "next": {
+    "title": "BACKUP",
+    "permalink": "/docs/BACKUP"
+  }
+}

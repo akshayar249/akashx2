@@ -1,0 +1,23 @@
+{
+  "id": "loading_tools",
+  "title": "使用工具导入",
+  "description": "除了导入章节上面重点介绍的几种导入方式外，AkashX 和生态伙伴还提供如下工具支持帮助您轻松实现 AkashX 与外部数据库的集成。",
+  "source": "@site/docs/loading_tools.md",
+  "sourceDirName": ".",
+  "slug": "/loading_tools",
+  "permalink": "/docs/loading_tools",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "相关配置",
+    "permalink": "/docs/loading_considerations"
+  },
+  "next": {
+    "title": "loads",
+    "permalink": "/docs/loads"
+  }
+}

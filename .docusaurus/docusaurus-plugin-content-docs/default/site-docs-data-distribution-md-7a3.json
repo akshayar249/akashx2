@@ -1,0 +1,33 @@
+{
+  "id": "Data_distribution",
+  "title": "数据分布",
+  "description": "分区与分桶",
+  "source": "@site/docs/Data_distribution.md",
+  "sourceDirName": ".",
+  "slug": "/Data_distribution",
+  "permalink": "/docs/Data_distribution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "keywords": [
+      "fenqu",
+      "fentong",
+      "lengre"
+    ],
+    "toc_max_heading_level": 4,
+    "description": "分区与分桶",
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bloom filter 索引",
+    "permalink": "/docs/Bloomfilter_index"
+  },
+  "next": {
+    "title": "管理用户权限",
+    "permalink": "/docs/User_privilege"
+  }
+}

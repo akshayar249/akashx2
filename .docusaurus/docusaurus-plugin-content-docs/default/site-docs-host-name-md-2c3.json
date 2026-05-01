@@ -1,0 +1,23 @@
+{
+  "id": "host_name",
+  "title": "host_name",
+  "description": "获取计算所在节点的主机名。该函数从 2.5 版本开始支持。",
+  "source": "@site/docs/host_name.md",
+  "sourceDirName": ".",
+  "slug": "/host_name",
+  "permalink": "/docs/host_name",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hll_union_agg",
+    "permalink": "/docs/hll_union_agg"
+  },
+  "next": {
+    "title": "hour",
+    "permalink": "/docs/hour"
+  }
+}

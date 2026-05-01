@@ -1,0 +1,23 @@
+{
+  "id": "st_point",
+  "title": "ST_Point",
+  "description": "通过给定的 X 坐标值、Y 坐标值返回对应的 Point，当前这个值只在球面集合上有意义，X/Y 对应的是经度/纬度(longitude/latitude)。",
+  "source": "@site/docs/st_point.md",
+  "sourceDirName": ".",
+  "slug": "/st_point",
+  "permalink": "/docs/st_point",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_LineFromText, ST_LineStringFromText",
+    "permalink": "/docs/st_linefromtext"
+  },
+  "next": {
+    "title": "ST_Polygon, ST_PolyFromText, ST_PolygonFromText",
+    "permalink": "/docs/st_polygon"
+  }
+}

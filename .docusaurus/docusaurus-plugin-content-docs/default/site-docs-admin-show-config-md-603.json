@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_SHOW_CONFIG",
+  "title": "ADMIN SHOW CONFIG",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_SHOW_CONFIG.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_SHOW_CONFIG",
+  "permalink": "/docs/ADMIN_SHOW_CONFIG",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SET REPLICA STATUS",
+    "permalink": "/docs/ADMIN_SET_REPLICA_STATUS"
+  },
+  "next": {
+    "title": "ADMIN SHOW REPLICA DISTRIBUTION",
+    "permalink": "/docs/ADMIN_SHOW_REPLICA_DISTRIBUTION"
+  }
+}

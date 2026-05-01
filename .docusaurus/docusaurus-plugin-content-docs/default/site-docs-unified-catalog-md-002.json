@@ -1,0 +1,25 @@
+{
+  "id": "unified_catalog",
+  "title": "Unified catalog",
+  "description": "统一 catalog 是一种外部 catalog，由 AkashX 从  开始提供，用于处理来自 Apache Hive™、Apache Iceberg、Apache Hudi、Delta Lake 和 Apache Kudu 数据源的表，作为统一的数据源而无需导入。通过统一 catalog，您可以：",
+  "source": "@site/docs/unified_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/unified_catalog",
+  "permalink": "/docs/unified_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unhex",
+    "permalink": "/docs/unhex"
+  },
+  "next": {
+    "title": "unix_timestamp",
+    "permalink": "/docs/unix_timestamp"
+  }
+}

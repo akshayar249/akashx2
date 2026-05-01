@@ -1,0 +1,23 @@
+{
+  "id": "routine_load_jobs",
+  "title": "routine_load_jobs",
+  "description": "routineloadjobs 提供有关例行导入作业的信息。",
+  "source": "@site/docs/routine_load_jobs.md",
+  "sourceDirName": ".",
+  "slug": "/routine_load_jobs",
+  "permalink": "/docs/routine_load_jobs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "round, dround",
+    "permalink": "/docs/round"
+  },
+  "next": {
+    "title": "routines",
+    "permalink": "/docs/routines"
+  }
+}

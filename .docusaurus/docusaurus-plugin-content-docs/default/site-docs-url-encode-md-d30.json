@@ -1,0 +1,23 @@
+{
+  "id": "url_encode",
+  "title": "url_encode",
+  "description": "将字符串根据 application/x-www-form-urlencoded 格式进行编码。",
+  "source": "@site/docs/url_encode.md",
+  "sourceDirName": ".",
+  "slug": "/url_encode",
+  "permalink": "/docs/url_encode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "url_decode",
+    "permalink": "/docs/url_decode"
+  },
+  "next": {
+    "title": "url_extract_host",
+    "permalink": "/docs/url_extract_host"
+  }
+}

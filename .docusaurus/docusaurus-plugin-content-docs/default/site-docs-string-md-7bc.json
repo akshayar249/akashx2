@@ -1,0 +1,23 @@
+{
+  "id": "STRING",
+  "title": "STRING",
+  "description": "描述",
+  "source": "@site/docs/STRING.md",
+  "sourceDirName": ".",
+  "slug": "/STRING",
+  "permalink": "/docs/STRING",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "STREAM LOAD",
+    "permalink": "/docs/STREAM_LOAD"
+  },
+  "next": {
+    "title": "STRUCT",
+    "permalink": "/docs/STRUCT"
+  }
+}

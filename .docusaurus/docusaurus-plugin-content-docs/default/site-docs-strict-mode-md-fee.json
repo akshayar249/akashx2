@@ -1,0 +1,23 @@
+{
+  "id": "strict_mode",
+  "title": "严格模式",
+  "description": "严格模式 (Strict Mode) 是导入操作中的一个选配项，其设置会影响 AkashX 对某些数据的导入行为和最终导入到 AkashX 中的结果数据。",
+  "source": "@site/docs/strict_mode.md",
+  "sourceDirName": ".",
+  "slug": "/strict_mode",
+  "permalink": "/docs/strict_mode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stream_loads",
+    "permalink": "/docs/stream_loads"
+  },
+  "next": {
+    "title": "strleft",
+    "permalink": "/docs/strleft"
+  }
+}

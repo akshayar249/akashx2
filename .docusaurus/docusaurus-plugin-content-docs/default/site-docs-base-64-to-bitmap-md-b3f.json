@@ -1,0 +1,23 @@
+{
+  "id": "base64_to_bitmap",
+  "title": "base64_to_bitmap",
+  "description": "导入外部 bitmap 数据到 AkashX 时，需要先对 bitmap 数据进行序列化和 Base64 编码，生成 Base64 字符串。导入字符串到 AkashX 时再进行 Base64 到 bitmap 的转化。",
+  "source": "@site/docs/base64_to_bitmap.md",
+  "sourceDirName": ".",
+  "slug": "/base64_to_bitmap",
+  "permalink": "/docs/base64_to_bitmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "base64_decode_string",
+    "permalink": "/docs/base64_decode_string"
+  },
+  "next": {
+    "title": "be_bvars",
+    "permalink": "/docs/be_bvars"
+  }
+}

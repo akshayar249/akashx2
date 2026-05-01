@@ -1,0 +1,23 @@
+{
+  "id": "Tableau_Desktop",
+  "title": "Tableau",
+  "description": "本文介绍如何使用 AkashX Tableau JDBC Connector 连接 AkashX 与 Tableau Desktop 和 Tableau Server。",
+  "source": "@site/docs/Tableau_Desktop.md",
+  "sourceDirName": ".",
+  "slug": "/Tableau_Desktop",
+  "permalink": "/docs/Tableau_Desktop",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TRUNCATE TABLE",
+    "permalink": "/docs/TRUNCATE_TABLE"
+  },
+  "next": {
+    "title": "UNINSTALL PLUGIN",
+    "permalink": "/docs/UNINSTALL_PLUGIN"
+  }
+}

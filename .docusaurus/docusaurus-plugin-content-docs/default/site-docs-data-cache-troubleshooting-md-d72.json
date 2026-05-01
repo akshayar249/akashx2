@@ -1,0 +1,23 @@
+{
+  "id": "data_cache_troubleshooting",
+  "title": "Data Cache 常见问题解答",
+  "description": "本主题描述了一些关于 Data Cache 的常见问题 (FAQ) ，并提供了这些问题的故障排除步骤和解决方案。",
+  "source": "@site/docs/data_cache_troubleshooting.md",
+  "sourceDirName": ".",
+  "slug": "/data_cache_troubleshooting",
+  "permalink": "/docs/data_cache_troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Cache 可观测性",
+    "permalink": "/docs/data_cache_observe"
+  },
+  "next": {
+    "title": "跨集群数据迁移工具",
+    "permalink": "/docs/data_migration_tool"
+  }
+}

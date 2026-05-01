@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_FILE",
+  "title": "SHOW FILE",
+  "description": "SHOW FILE 语句用于查看保存在数据库中的文件的信息。",
+  "source": "@site/docs/SHOW_FILE.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_FILE",
+  "permalink": "/docs/SHOW_FILE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW EXPORT",
+    "permalink": "/docs/SHOW_EXPORT"
+  },
+  "next": {
+    "title": "SHOW FRONTENDS",
+    "permalink": "/docs/SHOW_FRONTENDS"
+  }
+}

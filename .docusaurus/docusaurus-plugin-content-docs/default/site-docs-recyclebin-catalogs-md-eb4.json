@@ -1,0 +1,23 @@
+{
+  "id": "recyclebin_catalogs",
+  "title": "recyclebin_catalogs",
+  "description": "recyclebin_catalogs 提供有关 FE 回收站里暂存的已删除的数据库、表、分区的元数据信息。",
+  "source": "@site/docs/recyclebin_catalogs.md",
+  "sourceDirName": ".",
+  "slug": "/recyclebin_catalogs",
+  "permalink": "/docs/recyclebin_catalogs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rand, random",
+    "permalink": "/docs/rand"
+  },
+  "next": {
+    "title": "refactoring-request",
+    "permalink": "/docs/refactoring-request"
+  }
+}

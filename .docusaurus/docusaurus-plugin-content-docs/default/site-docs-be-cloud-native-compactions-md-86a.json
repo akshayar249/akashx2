@@ -1,0 +1,23 @@
+{
+  "id": "be_cloud_native_compactions",
+  "title": "be_cloud_native_compactions",
+  "description": "becloudnative_compactions 提供有关存算分离集群的 CN（或  中的 BE）上运行的 Compaction 事务的信息。每个 Compaction 任务会以 Partition 为粒度，拆分为多个子任务，视图中每一行对应的是一个 Tablet 的 Compaction 子任务。",
+  "source": "@site/docs/be_cloud_native_compactions.md",
+  "sourceDirName": ".",
+  "slug": "/be_cloud_native_compactions",
+  "permalink": "/docs/be_cloud_native_compactions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_bvars",
+    "permalink": "/docs/be_bvars"
+  },
+  "next": {
+    "title": "be_compactions",
+    "permalink": "/docs/be_compactions"
+  }
+}

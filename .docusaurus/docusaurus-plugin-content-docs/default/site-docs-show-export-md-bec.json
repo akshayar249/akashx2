@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_EXPORT",
+  "title": "SHOW EXPORT",
+  "description": "功能",
+  "source": "@site/docs/SHOW_EXPORT.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_EXPORT",
+  "permalink": "/docs/SHOW_EXPORT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW DYNAMIC PARTITION TABLES",
+    "permalink": "/docs/SHOW_DYNAMIC_PARTITION_TABLES"
+  },
+  "next": {
+    "title": "SHOW FILE",
+    "permalink": "/docs/SHOW_FILE"
+  }
+}

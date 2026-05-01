@@ -1,0 +1,23 @@
+{
+  "id": "CANCEL_DECOMMISSION",
+  "title": "CANCEL DECOMMISSION",
+  "description": "功能",
+  "source": "@site/docs/CANCEL_DECOMMISSION.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_DECOMMISSION",
+  "permalink": "/docs/CANCEL_DECOMMISSION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL BACKUP",
+    "permalink": "/docs/CANCEL_BACKUP"
+  },
+  "next": {
+    "title": "CANCEL EXPORT",
+    "permalink": "/docs/CANCEL_EXPORT"
+  }
+}

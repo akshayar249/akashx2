@@ -1,0 +1,23 @@
+{
+  "id": "be_metrics",
+  "title": "be_metrics",
+  "description": "be_metrics 提供有关每个 BE 节点指标的信息。",
+  "source": "@site/docs/be_metrics.md",
+  "sourceDirName": ".",
+  "slug": "/be_metrics",
+  "permalink": "/docs/be_metrics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_logs",
+    "permalink": "/docs/be_logs"
+  },
+  "next": {
+    "title": "be_tablets",
+    "permalink": "/docs/be_tablets"
+  }
+}

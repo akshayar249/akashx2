@@ -1,0 +1,23 @@
+{
+  "id": "Video",
+  "title": "视频资源",
+  "description": "新手必看",
+  "source": "@site/docs/Video.md",
+  "sourceDirName": ".",
+  "slug": "/Video",
+  "permalink": "/docs/Video",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VARCHAR",
+    "permalink": "/docs/VARCHAR"
+  },
+  "next": {
+    "title": "abs",
+    "permalink": "/docs/abs"
+  }
+}

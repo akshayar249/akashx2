@@ -1,0 +1,23 @@
+{
+  "id": "second",
+  "title": "second",
+  "description": "获得日期中的秒的信息，返回值范围 0~59。",
+  "source": "@site/docs/second.md",
+  "sourceDirName": ".",
+  "slug": "/second",
+  "permalink": "/docs/second",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schemata",
+    "permalink": "/docs/schemata"
+  },
+  "next": {
+    "title": "seconds_add",
+    "permalink": "/docs/seconds_add"
+  }
+}

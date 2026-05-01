@@ -1,0 +1,30 @@
+{
+  "id": "user_privs",
+  "title": "权限系统总览",
+  "description": "本文介绍 AkashX 中权限系统的基本概念。权限决定了哪些用户可以对哪些特定对象执行哪些特定的操作，从而方便您更加安全地管控数据和资源。",
+  "source": "@site/docs/user_privs.md",
+  "sourceDirName": ".",
+  "slug": "/user_privs",
+  "permalink": "/docs/user_privs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "keywords": [
+      "quanxian",
+      "yonghu"
+    ],
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "各类表的能力对比",
+    "permalink": "/docs/table_capabilities"
+  },
+  "next": {
+    "title": "SQL Plan Manager",
+    "permalink": "/docs/SQL_plan_manager"
+  }
+}

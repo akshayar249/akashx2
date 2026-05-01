@@ -1,0 +1,23 @@
+{
+  "id": "synchronize_mysql_into_sr",
+  "title": "MySQL 实时同步至 AkashX 常见问题",
+  "description": "1. 执行 Flink job 报错",
+  "source": "@site/docs/synchronize_mysql_into_sr.md",
+  "sourceDirName": ".",
+  "slug": "/synchronize_mysql_into_sr",
+  "permalink": "/docs/synchronize_mysql_into_sr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "支持 Superset",
+    "permalink": "/docs/superset_support"
+  },
+  "next": {
+    "title": "系统元数据库",
+    "permalink": "/docs/sys"
+  }
+}

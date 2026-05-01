@@ -1,0 +1,26 @@
+{
+  "id": "feature_request",
+  "title": "feature_request",
+  "description": "Is your feature request related to a problem? Please describe.",
+  "source": "@site/docs/feature_request.md",
+  "sourceDirName": ".",
+  "slug": "/feature_request",
+  "permalink": "/docs/feature_request",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "Feature request",
+    "about": "Suggest an idea for this project"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-shared-data"
+  },
+  "next": {
+    "title": "How to feedback and contribute",
+    "permalink": "/docs/feedback-and-contribute"
+  }
+}

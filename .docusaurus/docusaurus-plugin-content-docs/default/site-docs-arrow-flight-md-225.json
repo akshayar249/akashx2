@@ -1,0 +1,23 @@
+{
+  "id": "arrow_flight",
+  "title": "通过 Arrow Flight SQL 与 AkashX 交互",
+  "description": "从  开始，AkashX 支持通过 Apache Arrow Flight SQL 协议进行连接。",
+  "source": "@site/docs/arrow_flight.md",
+  "sourceDirName": ".",
+  "slug": "/arrow_flight",
+  "permalink": "/docs/arrow_flight",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "箭头函数",
+    "permalink": "/docs/arrow-function"
+  },
+  "next": {
+    "title": "ascii",
+    "permalink": "/docs/ascii"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "minutes_add",
+  "title": "minutes_add",
+  "description": "给指定的日期时间或日期增加指定的分钟数。",
+  "source": "@site/docs/minutes_add.md",
+  "sourceDirName": ".",
+  "slug": "/minutes_add",
+  "permalink": "/docs/minutes_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "minute",
+    "permalink": "/docs/minute"
+  },
+  "next": {
+    "title": "minutes_diff",
+    "permalink": "/docs/minutes_diff"
+  }
+}

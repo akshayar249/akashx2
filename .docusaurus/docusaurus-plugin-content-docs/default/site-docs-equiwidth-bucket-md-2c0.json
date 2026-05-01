@@ -1,0 +1,23 @@
+{
+  "id": "equiwidth_bucket",
+  "title": "equiwidth_bucket",
+  "description": "计算等宽直方图的桶。",
+  "source": "@site/docs/equiwidth_bucket.md",
+  "sourceDirName": ".",
+  "slug": "/equiwidth_bucket",
+  "permalink": "/docs/equiwidth_bucket",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "检查环境配置",
+    "permalink": "/docs/environment_configurations"
+  },
+  "next": {
+    "title": "events",
+    "permalink": "/docs/events"
+  }
+}

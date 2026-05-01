@@ -1,0 +1,23 @@
+{
+  "id": "REFRESH_DICTIONARY",
+  "title": "REFRESH DICTIONARY",
+  "description": "手动刷新字典对象，内部实现时系统会查询原始对象的最新数据并写入字典对象中。",
+  "source": "@site/docs/REFRESH_DICTIONARY.md",
+  "sourceDirName": ".",
+  "slug": "/REFRESH_DICTIONARY",
+  "permalink": "/docs/REFRESH_DICTIONARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RECOVER",
+    "permalink": "/docs/RECOVER"
+  },
+  "next": {
+    "title": "REFRESH EXTERNAL TABLE",
+    "permalink": "/docs/REFRESH_EXTERNAL_TABLE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CloudCanal",
+  "title": "使用 CloudCanal 导入",
+  "description": "介绍",
+  "source": "@site/docs/CloudCanal.md",
+  "sourceDirName": ".",
+  "slug": "/CloudCanal",
+  "permalink": "/docs/CloudCanal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE VIEW",
+    "permalink": "/docs/CREATE_VIEW"
+  },
+  "next": {
+    "title": "CloudCanal 导入常见问题",
+    "permalink": "/docs/CloudCanal_load_faq"
+  }
+}

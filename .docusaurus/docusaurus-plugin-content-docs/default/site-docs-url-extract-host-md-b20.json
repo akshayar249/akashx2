@@ -1,0 +1,23 @@
+{
+  "id": "url_extract_host",
+  "title": "url_extract_host",
+  "description": "从一个 URL 中截取 host 部分。",
+  "source": "@site/docs/url_extract_host.md",
+  "sourceDirName": ".",
+  "slug": "/url_extract_host",
+  "permalink": "/docs/url_extract_host",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "url_encode",
+    "permalink": "/docs/url_encode"
+  },
+  "next": {
+    "title": "url_extract_parameter",
+    "permalink": "/docs/url_extract_parameter"
+  }
+}

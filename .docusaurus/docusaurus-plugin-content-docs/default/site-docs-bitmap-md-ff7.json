@@ -1,0 +1,23 @@
+{
+  "id": "BITMAP",
+  "title": "bitmap",
+  "description": "这里通过一个简单的示例来介绍 Bitmap 中的几个聚合函数的用法，具体的函数定义以及更多 Bitmap 函数请参考 bitmap-functions。",
+  "source": "@site/docs/BITMAP.md",
+  "sourceDirName": ".",
+  "slug": "/BITMAP",
+  "permalink": "/docs/BITMAP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BINARY/VARBINARY",
+    "permalink": "/docs/BINARY"
+  },
+  "next": {
+    "title": "BOOLEAN",
+    "permalink": "/docs/BOOLEAN"
+  }
+}

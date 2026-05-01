@@ -1,0 +1,23 @@
+{
+  "id": "feedback-and-contribute",
+  "title": "How to feedback and contribute",
+  "description": "非常感谢您参与 AkashX 文档建设，您的帮助和意见是文档改进的关键！",
+  "source": "@site/docs/feedback-and-contribute.md",
+  "sourceDirName": ".",
+  "slug": "/feedback-and-contribute",
+  "permalink": "/docs/feedback-and-contribute",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "feature_request",
+    "permalink": "/docs/feature_request"
+  },
+  "next": {
+    "title": "field",
+    "permalink": "/docs/field"
+  }
+}

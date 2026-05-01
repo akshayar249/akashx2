@@ -1,0 +1,23 @@
+{
+  "id": "DROP_PIPE",
+  "title": "DROP PIPE",
+  "description": "功能",
+  "source": "@site/docs/DROP_PIPE.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_PIPE",
+  "permalink": "/docs/DROP_PIPE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP MATERIALIZED VIEW",
+    "permalink": "/docs/DROP_MATERIALIZED_VIEW"
+  },
+  "next": {
+    "title": "DROP REPOSITORY",
+    "permalink": "/docs/DROP_REPOSITORY"
+  }
+}

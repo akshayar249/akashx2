@@ -1,0 +1,23 @@
+{
+  "id": "triggers",
+  "title": "triggers",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/triggers.md",
+  "sourceDirName": ".",
+  "slug": "/triggers",
+  "permalink": "/docs/triggers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "translate",
+    "permalink": "/docs/translate"
+  },
+  "next": {
+    "title": "trim",
+    "permalink": "/docs/trim"
+  }
+}

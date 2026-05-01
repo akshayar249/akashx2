@@ -1,0 +1,23 @@
+{
+  "id": "strright",
+  "title": "strright",
+  "description": "从字符串右边部分返回指定长度的字符，长度的单位为「utf8 字符」。函数别名为 right。",
+  "source": "@site/docs/strright.md",
+  "sourceDirName": ".",
+  "slug": "/strright",
+  "permalink": "/docs/strright",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strpos",
+    "permalink": "/docs/strpos"
+  },
+  "next": {
+    "title": "sub_bitmap",
+    "permalink": "/docs/sub_bitmap"
+  }
+}

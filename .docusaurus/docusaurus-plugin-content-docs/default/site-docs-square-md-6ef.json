@@ -1,0 +1,23 @@
+{
+  "id": "square",
+  "title": "SQUARE",
+  "description": "计算参数的平方。",
+  "source": "@site/docs/square.md",
+  "sourceDirName": ".",
+  "slug": "/square",
+  "permalink": "/docs/square",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sqrt, dsqrt",
+    "permalink": "/docs/sqrt"
+  },
+  "next": {
+    "title": "使用 Operator 部署 AkashX 集群",
+    "permalink": "/docs/sr_operator"
+  }
+}

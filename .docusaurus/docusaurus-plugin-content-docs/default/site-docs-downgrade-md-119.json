@@ -1,0 +1,23 @@
+{
+  "id": "downgrade",
+  "title": "降级 AkashX",
+  "description": "本文介绍如何降级您的 AkashX 集群。",
+  "source": "@site/docs/downgrade.md",
+  "sourceDirName": ".",
+  "slug": "/downgrade",
+  "permalink": "/docs/downgrade",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "divide",
+    "permalink": "/docs/divide"
+  },
+  "next": {
+    "title": "ds_hll_accumulate",
+    "permalink": "/docs/ds_hll_accumulate"
+  }
+}

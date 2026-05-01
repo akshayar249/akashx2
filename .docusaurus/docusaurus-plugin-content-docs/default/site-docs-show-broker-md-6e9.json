@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_BROKER",
+  "title": "SHOW BROKER",
+  "description": "功能",
+  "source": "@site/docs/SHOW_BROKER.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_BROKER",
+  "permalink": "/docs/SHOW_BROKER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW BACKUP",
+    "permalink": "/docs/SHOW_BACKUP"
+  },
+  "next": {
+    "title": "SHOW CATALOGS",
+    "permalink": "/docs/SHOW_CATALOGS"
+  }
+}

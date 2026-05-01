@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_REPAIR",
+  "title": "ADMIN REPAIR",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_REPAIR.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_REPAIR",
+  "permalink": "/docs/ADMIN_REPAIR",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN CHECK TABLET",
+    "permalink": "/docs/ADMIN_CHECK_TABLET"
+  },
+  "next": {
+    "title": "ADMIN SET CONFIG",
+    "permalink": "/docs/ADMIN_SET_CONFIG"
+  }
+}

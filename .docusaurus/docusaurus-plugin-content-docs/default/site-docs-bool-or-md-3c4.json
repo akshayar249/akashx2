@@ -1,0 +1,23 @@
+{
+  "id": "bool_or",
+  "title": "bool_or",
+  "description": "如果 expr 的某一行计算结果为 true，则返回 true。否则，返回 false。boolor_agg 是此函数的别名。",
+  "source": "@site/docs/bool_or.md",
+  "sourceDirName": ".",
+  "slug": "/bool_or",
+  "permalink": "/docs/bool_or",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Block Cache 预热",
+    "permalink": "/docs/block_cache_warmup"
+  },
+  "next": {
+    "title": "bug-report",
+    "permalink": "/docs/bug-report"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Using_bitmap",
+  "title": "Bitmap 精确去重",
+  "description": "通过 Bitmap 实现精确去重（Exact Count Distinct）。",
+  "source": "@site/docs/Using_bitmap.md",
+  "sourceDirName": ".",
+  "slug": "/Using_bitmap",
+  "permalink": "/docs/Using_bitmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表概览",
+    "permalink": "/docs/akashx_table_design"
+  },
+  "next": {
+    "title": "使用物化视图进行数据建模",
+    "permalink": "/docs/data_modeling_with_materialized_views"
+  }
+}

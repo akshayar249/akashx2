@@ -1,0 +1,26 @@
+{
+  "id": "schema_tuning",
+  "title": "Schema Tuning Recipes",
+  "description": "本文档提供了通过有效的模式设计和基础表选择来优化 AkashX 查询性能的实用技巧和最佳实践。通过了解不同表模型、键和分布策略如何影响查询执行，您可以显著提高速度和资源效率。使用这些指南在设计模式、选择表模型以及调整 AkashX 环境以实现高性能分析时做出明智决策。",
+  "source": "@site/docs/schema_tuning.md",
+  "sourceDirName": ".",
+  "slug": "/schema_tuning",
+  "permalink": "/docs/schema_tuning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 50,
+  "frontMatter": {
+    "sidebar_position": 50
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "权限系统 FAQ",
+    "permalink": "/docs/privilege_faq"
+  },
+  "next": {
+    "title": "中间结果落盘",
+    "permalink": "/docs/spill_to_disk"
+  }
+}

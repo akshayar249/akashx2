@@ -1,0 +1,27 @@
+{
+  "id": "DROP_RESOURCE",
+  "title": "DROP RESOURCE",
+  "description": "功能",
+  "source": "@site/docs/DROP_RESOURCE.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_RESOURCE",
+  "permalink": "/docs/DROP_RESOURCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "ziyuan"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP REPOSITORY",
+    "permalink": "/docs/DROP_REPOSITORY"
+  },
+  "next": {
+    "title": "DROP RESOURCE GROUP",
+    "permalink": "/docs/DROP_RESOURCE_GROUP"
+  }
+}

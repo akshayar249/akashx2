@@ -1,0 +1,23 @@
+{
+  "id": "length",
+  "title": "length",
+  "description": "返回字符串的 字节 长度。",
+  "source": "@site/docs/length.md",
+  "sourceDirName": ".",
+  "slug": "/length",
+  "permalink": "/docs/length",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "left",
+    "permalink": "/docs/left"
+  },
+  "next": {
+    "title": "like",
+    "permalink": "/docs/like"
+  }
+}

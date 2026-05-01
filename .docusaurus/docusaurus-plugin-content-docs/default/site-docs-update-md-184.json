@@ -1,0 +1,23 @@
+{
+  "id": "UPDATE",
+  "title": "UPDATE",
+  "description": "该语句用于更新一张主键表中的数据行。",
+  "source": "@site/docs/UPDATE.md",
+  "sourceDirName": ".",
+  "slug": "/UPDATE",
+  "permalink": "/docs/UPDATE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UNINSTALL PLUGIN",
+    "permalink": "/docs/UNINSTALL_PLUGIN"
+  },
+  "next": {
+    "title": "USE",
+    "permalink": "/docs/USE"
+  }
+}

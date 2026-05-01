@@ -1,0 +1,23 @@
+{
+  "id": "json_query",
+  "title": "json_query",
+  "description": "查询可以通过 JSON 对象中的 json_path 表达式定位的元素值，并返回一个 JSON 值。",
+  "source": "@site/docs/json_query.md",
+  "sourceDirName": ".",
+  "slug": "/json_query",
+  "permalink": "/docs/json_query",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_object",
+    "permalink": "/docs/json_object"
+  },
+  "next": {
+    "title": "json_remove",
+    "permalink": "/docs/json_remove"
+  }
+}

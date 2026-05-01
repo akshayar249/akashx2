@@ -1,0 +1,23 @@
+{
+  "id": "to_iso8601",
+  "title": "to_iso8601",
+  "description": "将某一个日期转换为 ISO 8601 标准格式的字符串。",
+  "source": "@site/docs/to_iso8601.md",
+  "sourceDirName": ".",
+  "slug": "/to_iso8601",
+  "permalink": "/docs/to_iso8601",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "to_days",
+    "permalink": "/docs/to_days"
+  },
+  "next": {
+    "title": "to_json",
+    "permalink": "/docs/to_json"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cbrt",
+  "title": "cbrt",
+  "description": "计算参数的立方根。",
+  "source": "@site/docs/cbrt.md",
+  "sourceDirName": ".",
+  "slug": "/cbrt",
+  "permalink": "/docs/cbrt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/catalog_overview"
+  },
+  "next": {
+    "title": "ceil, dceil",
+    "permalink": "/docs/ceil"
+  }
+}

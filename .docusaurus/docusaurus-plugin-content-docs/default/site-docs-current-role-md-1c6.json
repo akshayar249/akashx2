@@ -1,0 +1,23 @@
+{
+  "id": "current_role",
+  "title": "current_role",
+  "description": "获取当前用户激活的角色。该函数从 3.0 版本开始支持。",
+  "source": "@site/docs/current_role.md",
+  "sourceDirName": ".",
+  "slug": "/current_role",
+  "permalink": "/docs/current_role",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "curdate,current_date",
+    "permalink": "/docs/curdate"
+  },
+  "next": {
+    "title": "current_timestamp",
+    "permalink": "/docs/current_timestamp"
+  }
+}

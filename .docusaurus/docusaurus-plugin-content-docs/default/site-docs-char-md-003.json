@@ -1,0 +1,23 @@
+{
+  "id": "CHAR",
+  "title": "char",
+  "description": "根据输入的 ASCII 值返回对应的字符。",
+  "source": "@site/docs/CHAR.md",
+  "sourceDirName": ".",
+  "slug": "/CHAR",
+  "permalink": "/docs/CHAR",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "node-trace-event changelog",
+    "permalink": "/docs/CHANGES"
+  },
+  "next": {
+    "title": "Contributor Covenant Code of Conduct",
+    "permalink": "/docs/CODE_OF_CONDUCT"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "adddate",
+  "title": "adddate,date_add",
+  "description": "dateadd 的同名函数。",
+  "source": "@site/docs/adddate.md",
+  "sourceDirName": ".",
+  "slug": "/adddate",
+  "permalink": "/docs/adddate",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "add_months",
+    "permalink": "/docs/add_months"
+  },
+  "next": {
+    "title": "aes_decrypt",
+    "permalink": "/docs/aes_decrypt"
+  }
+}

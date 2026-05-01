@@ -1,0 +1,42 @@
+{
+  "id": "2019-05-29-long-blog-post",
+  "title": "Long Blog Post",
+  "description": "This is the summary of a very long blog post,",
+  "source": "@site/docs/2019-05-29-long-blog-post.md",
+  "sourceDirName": ".",
+  "slug": "/long-blog-post",
+  "permalink": "/docs/long-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "inline": true,
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "Long Blog Post",
+    "authors": "yangshun",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "First Blog Post",
+    "permalink": "/docs/first-blog-post"
+  },
+  "next": {
+    "title": "ADD BACKEND/COMPUTE NODE BLACKLIST",
+    "permalink": "/docs/ADD_BACKEND_BLACKLIST"
+  }
+}

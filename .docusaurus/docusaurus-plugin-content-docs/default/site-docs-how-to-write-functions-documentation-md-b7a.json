@@ -1,0 +1,17 @@
+{
+  "id": "How_to_Write_Functions_Documentation",
+  "title": "CONVERT_TZ",
+  "description": "- 为了方便用户能直接测试该函数，请提供完整的测试数据示例，包括 CREATE TABLE，INSERT/LOAD 示例。",
+  "source": "@site/docs/How_to_Write_Functions_Documentation.md",
+  "sourceDirName": ".",
+  "slug": "/How_to_Write_Functions_Documentation",
+  "permalink": "/docs/How_to_Write_Functions_Documentation",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

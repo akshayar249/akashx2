@@ -1,0 +1,23 @@
+{
+  "id": "filemanager",
+  "title": "文件管理器",
+  "description": "本文描述了如何使用文件管理器创建、查看和删除文件。AkashX 允许用户将公钥、私钥和证书文件等文件上传并保存至系统内，进而在命令中引用或访问。",
+  "source": "@site/docs/filemanager.md",
+  "sourceDirName": ".",
+  "slug": "/filemanager",
+  "permalink": "/docs/filemanager",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文件外部表",
+    "permalink": "/docs/file_external_table"
+  },
+  "next": {
+    "title": "FILES",
+    "permalink": "/docs/files"
+  }
+}

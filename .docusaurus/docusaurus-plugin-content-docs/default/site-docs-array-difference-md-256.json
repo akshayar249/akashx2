@@ -1,0 +1,23 @@
+{
+  "id": "array_difference",
+  "title": "array_difference",
+  "description": "对于数值型数组，返回相邻两个元素的差(从后者中减去前者)构成的数组。",
+  "source": "@site/docs/array_difference.md",
+  "sourceDirName": ".",
+  "slug": "/array_difference",
+  "permalink": "/docs/array_difference",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_cum_sum",
+    "permalink": "/docs/array_cum_sum"
+  },
+  "next": {
+    "title": "array_distinct",
+    "permalink": "/docs/array_distinct"
+  }
+}

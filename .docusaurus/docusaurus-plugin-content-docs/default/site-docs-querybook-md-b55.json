@@ -1,0 +1,23 @@
+{
+  "id": "Querybook",
+  "title": "Querybook",
+  "description": "Querybook 支持对 AkashX 的内部数据和外部数据进行查询和可视化处理。",
+  "source": "@site/docs/Querybook.md",
+  "sourceDirName": ".",
+  "slug": "/Querybook",
+  "permalink": "/docs/Querybook",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "管理查询",
+    "permalink": "/docs/Query_management"
+  },
+  "next": {
+    "title": "QuickBI",
+    "permalink": "/docs/QuickBI"
+  }
+}

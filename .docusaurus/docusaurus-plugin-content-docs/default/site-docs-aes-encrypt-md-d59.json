@@ -1,0 +1,23 @@
+{
+  "id": "aes_encrypt",
+  "title": "aes_encrypt",
+  "description": "使用 AES128ECB 算法对字符串 str 进行加密并返回一个二进制字符串。",
+  "source": "@site/docs/aes_encrypt.md",
+  "sourceDirName": ".",
+  "slug": "/aes_encrypt",
+  "permalink": "/docs/aes_encrypt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aes_decrypt",
+    "permalink": "/docs/aes_decrypt"
+  },
+  "next": {
+    "title": "聚合表",
+    "permalink": "/docs/aggregate_table"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "be_tablets",
+  "title": "be_tablets",
+  "description": "be_tablets 提供有关每个 BE 节点上 Tablet 的信息。",
+  "source": "@site/docs/be_tablets.md",
+  "sourceDirName": ".",
+  "slug": "/be_tablets",
+  "permalink": "/docs/be_tablets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_metrics",
+    "permalink": "/docs/be_metrics"
+  },
+  "next": {
+    "title": "be_threads",
+    "permalink": "/docs/be_threads"
+  }
+}

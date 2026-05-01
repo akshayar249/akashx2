@@ -1,0 +1,23 @@
+{
+  "id": "Profiling",
+  "title": "优化性能",
+  "description": "本文介绍如何优化 AkashX 性能。",
+  "source": "@site/docs/Profiling.md",
+  "sourceDirName": ".",
+  "slug": "/Profiling",
+  "permalink": "/docs/Profiling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Porting to the Buffer.from/Buffer.alloc API",
+    "permalink": "/docs/Porting-Buffer"
+  },
+  "next": {
+    "title": "管理查询",
+    "permalink": "/docs/Query_management"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "crc32",
+  "title": "crc32",
+  "description": "返回字符串的 32 位循环冗余校验值（Cyclic Redundancy Check）。如果输入参数为 NULL，则返回 NULL。",
+  "source": "@site/docs/crc32.md",
+  "sourceDirName": ".",
+  "slug": "/crc32",
+  "permalink": "/docs/crc32",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "covar_samp",
+    "permalink": "/docs/covar_samp"
+  },
+  "next": {
+    "title": "curdate,current_date",
+    "permalink": "/docs/curdate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "transform_values",
+  "title": "transform_values",
+  "description": "对 Map 中的 value 进行 lambda 转换。有关 Lambda 函数的详细信息，参见 Lambda expression。",
+  "source": "@site/docs/transform_values.md",
+  "sourceDirName": ".",
+  "slug": "/transform_values",
+  "permalink": "/docs/transform_values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transform_keys",
+    "permalink": "/docs/transform_keys"
+  },
+  "next": {
+    "title": "translate",
+    "permalink": "/docs/translate"
+  }
+}

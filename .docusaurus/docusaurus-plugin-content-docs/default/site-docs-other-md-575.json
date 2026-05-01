@@ -1,0 +1,23 @@
+{
+  "id": "other",
+  "title": "基于其他云存储部署",
+  "description": "系统架构",
+  "source": "@site/docs/other.md",
+  "sourceDirName": ".",
+  "slug": "/other",
+  "permalink": "/docs/other",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "object_dependencies",
+    "permalink": "/docs/object_dependencies"
+  },
+  "next": {
+    "title": "JSON 函数和操作符概述",
+    "permalink": "/docs/overview-of-json-functions-and-operators"
+  }
+}

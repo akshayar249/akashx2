@@ -1,0 +1,26 @@
+{
+  "id": "hive_bitmap_udf",
+  "title": "Hive Bitmap UDF",
+  "description": "Hive Bitmap UDF 提供了可以直接在 Hive 里使用的 UDF，可用于生成 Bitmap 和执行 Bitmap 运算。",
+  "source": "@site/docs/hive_bitmap_udf.md",
+  "sourceDirName": ".",
+  "slug": "/hive_bitmap_udf",
+  "permalink": "/docs/hive_bitmap_udf",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.9,
+  "frontMatter": {
+    "sidebar_position": 0.9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "窗口函数",
+    "permalink": "/docs/Window_function"
+  },
+  "next": {
+    "title": "Python UDF",
+    "permalink": "/docs/Python_UDF"
+  }
+}

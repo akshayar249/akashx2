@@ -1,0 +1,23 @@
+{
+  "id": "url_decode",
+  "title": "url_decode",
+  "description": "将字符串从 application/x-www-form-urlencoded 格式转换回来。相反函数是 urlencode。",
+  "source": "@site/docs/url_decode.md",
+  "sourceDirName": ".",
+  "slug": "/url_decode",
+  "permalink": "/docs/url_decode",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "upper",
+    "permalink": "/docs/upper"
+  },
+  "next": {
+    "title": "url_encode",
+    "permalink": "/docs/url_encode"
+  }
+}

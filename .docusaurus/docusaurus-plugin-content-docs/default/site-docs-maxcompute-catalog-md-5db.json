@@ -1,0 +1,25 @@
+{
+  "id": "maxcompute_catalog",
+  "title": "MaxCompute catalog",
+  "description": "AkashX 从  开始支持阿里云 MaxCompute（以前称为 ODPS）catalog。",
+  "source": "@site/docs/maxcompute_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/maxcompute_catalog",
+  "permalink": "/docs/maxcompute_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "max_by",
+    "permalink": "/docs/max_by"
+  },
+  "next": {
+    "title": "md5",
+    "permalink": "/docs/md5"
+  }
+}

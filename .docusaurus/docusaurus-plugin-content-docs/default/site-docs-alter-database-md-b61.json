@@ -1,0 +1,23 @@
+{
+  "id": "ALTER_DATABASE",
+  "title": "ALTER DATABASE",
+  "description": "功能",
+  "source": "@site/docs/ALTER_DATABASE.md",
+  "sourceDirName": ".",
+  "slug": "/ALTER_DATABASE",
+  "permalink": "/docs/ALTER_DATABASE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SHOW REPLICA STATUS",
+    "permalink": "/docs/ADMIN_SHOW_REPLICA_STATUS"
+  },
+  "next": {
+    "title": "ALTER LOAD",
+    "permalink": "/docs/ALTER_LOAD"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "array_agg",
+  "title": "array_agg",
+  "description": "将一列中的值（包括空值 null）串联成一个数组（多行转一行）。在 3.0 版本之前，该函数不保证数组里元素的顺序。从 3.0 版本开始，array_agg() 支持使用 ORDER BY 对数组里的元素进行排序。",
+  "source": "@site/docs/array_agg.md",
+  "sourceDirName": ".",
+  "slug": "/array_agg",
+  "permalink": "/docs/array_agg",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "approx_top_k",
+    "permalink": "/docs/approx_top_k"
+  },
+  "next": {
+    "title": "array_append",
+    "permalink": "/docs/array_append"
+  }
+}

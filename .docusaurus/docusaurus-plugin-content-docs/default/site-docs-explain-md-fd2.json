@@ -1,0 +1,23 @@
+{
+  "id": "EXPLAIN",
+  "title": "EXPLAIN",
+  "description": "功能",
+  "source": "@site/docs/EXPLAIN.md",
+  "sourceDirName": ".",
+  "slug": "/EXPLAIN",
+  "permalink": "/docs/EXPLAIN",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EXECUTE AS",
+    "permalink": "/docs/EXECUTE_AS"
+  },
+  "next": {
+    "title": "EXPLAIN ANALYZE",
+    "permalink": "/docs/EXPLAIN_ANALYZE"
+  }
+}

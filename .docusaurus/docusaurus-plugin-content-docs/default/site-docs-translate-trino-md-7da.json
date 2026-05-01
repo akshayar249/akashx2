@@ -1,0 +1,23 @@
+{
+  "id": "TRANSLATE_TRINO",
+  "title": "Translate Trino SQL",
+  "description": "从  开始，AkashX 支持将 Trino SQL 语句转换为 AkashX SQL 语句。",
+  "source": "@site/docs/TRANSLATE_TRINO.md",
+  "sourceDirName": ".",
+  "slug": "/TRANSLATE_TRINO",
+  "permalink": "/docs/TRANSLATE_TRINO",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TPC-DS 基准测试",
+    "permalink": "/docs/TPC_DS_Benchmark"
+  },
+  "next": {
+    "title": "TRUNCATE TABLE",
+    "permalink": "/docs/TRUNCATE_TABLE"
+  }
+}

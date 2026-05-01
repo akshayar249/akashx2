@@ -1,0 +1,23 @@
+{
+  "id": "percentile_approx_weight",
+  "title": "percentile_approx_weight",
+  "description": "返回带权重的 p 分位数的近似值。percentileapproxweight 是 PERCENTILE_APPROX 的加权版本，允许用户为每个输入值指定一个权重（一个常量值或数值列）。",
+  "source": "@site/docs/percentile_approx_weight.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_approx_weight",
+  "permalink": "/docs/percentile_approx_weight",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_approx_raw",
+    "permalink": "/docs/percentile_approx_raw"
+  },
+  "next": {
+    "title": "percentile_cont",
+    "permalink": "/docs/percentile_cont"
+  }
+}

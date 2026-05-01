@@ -1,0 +1,27 @@
+{
+  "id": "DROP_REPOSITORY",
+  "title": "DROP REPOSITORY",
+  "description": "删除一个仓库。仓库用于 备份和恢复 数据库数据。",
+  "source": "@site/docs/DROP_REPOSITORY.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_REPOSITORY",
+  "permalink": "/docs/DROP_REPOSITORY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP PIPE",
+    "permalink": "/docs/DROP_PIPE"
+  },
+  "next": {
+    "title": "DROP RESOURCE",
+    "permalink": "/docs/DROP_RESOURCE"
+  }
+}

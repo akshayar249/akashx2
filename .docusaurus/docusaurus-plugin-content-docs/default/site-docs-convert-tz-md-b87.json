@@ -1,0 +1,23 @@
+{
+  "id": "convert_tz",
+  "title": "convert_tz",
+  "description": "将给定的时间转化为另一个时区的时间。",
+  "source": "@site/docs/convert_tz.md",
+  "sourceDirName": ".",
+  "slug": "/convert_tz",
+  "permalink": "/docs/convert_tz",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "conv",
+    "permalink": "/docs/conv"
+  },
+  "next": {
+    "title": "corr",
+    "permalink": "/docs/corr"
+  }
+}

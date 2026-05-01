@@ -1,0 +1,23 @@
+{
+  "id": "akashx-kubernetes-operator",
+  "title": "Kubernetes Operator 版本发布",
+  "description": "发布说明",
+  "source": "@site/docs/akashx-kubernetes-operator.md",
+  "sourceDirName": ".",
+  "slug": "/akashx-kubernetes-operator",
+  "permalink": "/docs/akashx-kubernetes-operator",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 StarGo 部署管理 AkashX",
+    "permalink": "/docs/stargo"
+  },
+  "next": {
+    "title": "starts_with",
+    "permalink": "/docs/starts_with"
+  }
+}

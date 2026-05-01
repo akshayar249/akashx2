@@ -1,0 +1,23 @@
+{
+  "id": "isnotnull",
+  "title": "isnotnull",
+  "description": "判断输入值是否为非 NULL。如果不是 NULL，返回 1。如果是 NULL，返回 0。",
+  "source": "@site/docs/isnotnull.md",
+  "sourceDirName": ".",
+  "slug": "/isnotnull",
+  "permalink": "/docs/isnotnull",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "is_role_in_session",
+    "permalink": "/docs/is_role_in_session"
+  },
+  "next": {
+    "title": "isnull",
+    "permalink": "/docs/isnull"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "least",
+  "title": "least",
+  "description": "返回多个输入参数中的最小值。",
+  "source": "@site/docs/least.md",
+  "sourceDirName": ".",
+  "slug": "/least",
+  "permalink": "/docs/least",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lcase",
+    "permalink": "/docs/lcase"
+  },
+  "next": {
+    "title": "left",
+    "permalink": "/docs/left"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "How_to_write_SQL_command_doc",
+  "title": "SQL 命令模板",
+  "description": "- > 请提供完整的从 CREATE TABLE，INSERT/LOAD，到查询结果的示例。",
+  "source": "@site/docs/How_to_write_SQL_command_doc.md",
+  "sourceDirName": ".",
+  "slug": "/How_to_write_SQL_command_doc",
+  "permalink": "/docs/How_to_write_SQL_command_doc",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

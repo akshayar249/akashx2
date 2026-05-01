@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_to_array",
+  "title": "bitmap_to_array",
+  "description": "将 BITMAP 中的所有值组合成 BIGINT 类型的数组。",
+  "source": "@site/docs/bitmap_to_array.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_to_array",
+  "permalink": "/docs/bitmap_to_array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_subset_limit",
+    "permalink": "/docs/bitmap_subset_limit"
+  },
+  "next": {
+    "title": "bitmap_to_base64",
+    "permalink": "/docs/bitmap_to_base64"
+  }
+}

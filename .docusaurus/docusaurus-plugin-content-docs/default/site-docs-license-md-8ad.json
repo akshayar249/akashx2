@@ -1,0 +1,23 @@
+{
+  "id": "LICENSE",
+  "title": "LICENSE",
+  "description": "Copyright 2014-2020 James Coglan",
+  "source": "@site/docs/LICENSE.md",
+  "sourceDirName": ".",
+  "slug": "/LICENSE",
+  "permalink": "/docs/LICENSE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LARGEINT",
+    "permalink": "/docs/LARGEINT"
+  },
+  "next": {
+    "title": "负载均衡",
+    "permalink": "/docs/Load_balance"
+  }
+}

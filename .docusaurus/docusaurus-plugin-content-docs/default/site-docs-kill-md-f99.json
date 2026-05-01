@@ -1,0 +1,23 @@
+{
+  "id": "KILL",
+  "title": "KILL",
+  "description": "功能",
+  "source": "@site/docs/KILL.md",
+  "sourceDirName": ".",
+  "slug": "/KILL",
+  "permalink": "/docs/KILL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "はじめに",
+    "permalink": "/docs/Json_loading"
+  },
+  "next": {
+    "title": "KILL ANALYZE",
+    "permalink": "/docs/KILL_ANALYZE"
+  }
+}

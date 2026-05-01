@@ -1,0 +1,23 @@
+{
+  "id": "inspect_table_partition_info",
+  "title": "inspect_table_partition_info",
+  "description": "inspecttablepartitioninfo(tablename)",
+  "source": "@site/docs/inspect_table_partition_info.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_table_partition_info",
+  "permalink": "/docs/inspect_table_partition_info",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_related_mv",
+    "permalink": "/docs/inspect_related_mv"
+  },
+  "next": {
+    "title": "inspect_task_runs",
+    "permalink": "/docs/inspect_task_runs"
+  }
+}

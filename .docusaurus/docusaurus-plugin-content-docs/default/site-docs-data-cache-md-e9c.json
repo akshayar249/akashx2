@@ -1,0 +1,23 @@
+{
+  "id": "data_cache",
+  "title": "Data Cache",
+  "description": "了解 Data Cache 的核心原理以及如何通过 Data Cache 加速数据查询。",
+  "source": "@site/docs/data_cache.md",
+  "sourceDirName": ".",
+  "slug": "/data_cache",
+  "permalink": "/docs/data_cache",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "curtime,current_time",
+    "permalink": "/docs/curtime"
+  },
+  "next": {
+    "title": "Data Cache 可观测性",
+    "permalink": "/docs/data_cache_observe"
+  }
+}

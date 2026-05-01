@@ -1,0 +1,23 @@
+{
+  "id": "table_types",
+  "title": "表类型概览",
+  "description": "建表时，您需要指定表类型 (Table Type)，这样数据导入至表时，AkashX 会按照排序键对数据进行排序、处理和存储。本文介绍 AkashX 支持的各种表类型，满足您在不同业务场景下的需求。",
+  "source": "@site/docs/table_types.md",
+  "sourceDirName": ".",
+  "slug": "/table_types",
+  "permalink": "/docs/table_types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "table_privileges",
+    "permalink": "/docs/table_privileges"
+  },
+  "next": {
+    "title": "tables",
+    "permalink": "/docs/tables"
+  }
+}

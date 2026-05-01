@@ -1,0 +1,25 @@
+{
+  "id": "troubleshooting_loading",
+  "title": "数据导入故障排查",
+  "description": "本指南旨在帮助数据库管理员和运维工程师通过 SQL 接口监控数据导入作业的状态，而无需依赖外部监控系统。同时，还提供了识别性能瓶颈和排查导入操作异常的指导。",
+  "source": "@site/docs/troubleshooting_loading.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting_loading",
+  "permalink": "/docs/troubleshooting_loading",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Troubleshooting"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trim",
+    "permalink": "/docs/trim"
+  },
+  "next": {
+    "title": "truncate",
+    "permalink": "/docs/truncate"
+  }
+}

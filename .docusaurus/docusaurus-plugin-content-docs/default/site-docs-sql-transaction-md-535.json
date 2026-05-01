@@ -1,0 +1,23 @@
+{
+  "id": "SQL_transaction",
+  "title": "SQL 事务",
+  "description": "通过简易的 SQL 事务批量提交多个 INSERT 语句。",
+  "source": "@site/docs/SQL_transaction.md",
+  "sourceDirName": ".",
+  "slug": "/SQL_transaction",
+  "permalink": "/docs/SQL_transaction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SPARK LOAD",
+    "permalink": "/docs/SPARK_LOAD"
+  },
+  "next": {
+    "title": "SSB 扁平表基准测试",
+    "permalink": "/docs/SSB_Benchmarking"
+  }
+}

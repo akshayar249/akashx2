@@ -1,0 +1,23 @@
+{
+  "id": "TINYINT",
+  "title": "TINYINT",
+  "description": "描述",
+  "source": "@site/docs/TINYINT.md",
+  "sourceDirName": ".",
+  "slug": "/TINYINT",
+  "permalink": "/docs/TINYINT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "THREAT_MODEL",
+    "permalink": "/docs/THREAT_MODEL"
+  },
+  "next": {
+    "title": "TPC-H 基准测试",
+    "permalink": "/docs/TPC-H_Benchmarking"
+  }
+}

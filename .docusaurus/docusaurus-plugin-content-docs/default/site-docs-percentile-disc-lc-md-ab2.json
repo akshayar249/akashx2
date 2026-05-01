@@ -1,0 +1,23 @@
+{
+  "id": "percentile_disc_lc",
+  "title": "percentile_disc_lc",
+  "description": "计算百分位数。和 percentiledisc 行为一致. 但是实现算法不同 percentiledisc 需要获取所有的输入数据，通过归并排序获取百分位的值需要消耗的内存为所有输入数据的内存。而 percentiledisclc 是构建一个 key->count的一个hash表，因此当输入的基数比较低的时候即使输入的数据量很大也没有明显的内存增长。",
+  "source": "@site/docs/percentile_disc_lc.md",
+  "sourceDirName": ".",
+  "slug": "/percentile_disc_lc",
+  "permalink": "/docs/percentile_disc_lc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "percentile_disc",
+    "permalink": "/docs/percentile_disc"
+  },
+  "next": {
+    "title": "percentile_empty",
+    "permalink": "/docs/percentile_empty"
+  }
+}

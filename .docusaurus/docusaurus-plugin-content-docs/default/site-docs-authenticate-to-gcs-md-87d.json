@@ -1,0 +1,26 @@
+{
+  "id": "authenticate_to_gcs",
+  "title": "配置 GCS 认证信息",
+  "description": "本文介绍如何认证 GCS 资源",
+  "source": "@site/docs/authenticate_to_gcs.md",
+  "sourceDirName": ".",
+  "slug": "/authenticate_to_gcs",
+  "permalink": "/docs/authenticate_to_gcs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Google Cloud Storage (GCS)",
+    "description": "本文介绍如何认证 GCS 资源"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microsoft Azure Storage",
+    "permalink": "/docs/authenticate_to_azure_storage"
+  },
+  "next": {
+    "title": "AUTO_INCREMENT",
+    "permalink": "/docs/auto_increment"
+  }
+}

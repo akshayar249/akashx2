@@ -1,0 +1,23 @@
+{
+  "id": "superset_support",
+  "title": "支持 Superset",
+  "description": "Apache Superset 是一个现代数据探索和可视化平台。它使用 SQLAlchemy 来查询数据。",
+  "source": "@site/docs/superset_support.md",
+  "sourceDirName": ".",
+  "slug": "/superset_support",
+  "permalink": "/docs/superset_support",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sum",
+    "permalink": "/docs/sum"
+  },
+  "next": {
+    "title": "MySQL 实时同步至 AkashX 常见问题",
+    "permalink": "/docs/synchronize_mysql_into_sr"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "unload_using_insert_into_files",
+  "title": "使用 INSERT INTO FILES 导出数据",
+  "description": "本文描述了如何使用 INSERT INTO FILES 将 AkashX 数据导出至远程存储。",
+  "source": "@site/docs/unload_using_insert_into_files.md",
+  "sourceDirName": ".",
+  "slug": "/unload_using_insert_into_files",
+  "permalink": "/docs/unload_using_insert_into_files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unix_timestamp",
+    "permalink": "/docs/unix_timestamp"
+  },
+  "next": {
+    "title": "unnest",
+    "permalink": "/docs/unnest"
+  }
+}

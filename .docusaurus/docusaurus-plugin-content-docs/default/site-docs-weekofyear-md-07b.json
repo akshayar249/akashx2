@@ -1,0 +1,23 @@
+{
+  "id": "weekofyear",
+  "title": "weekofyear",
+  "description": "计算指定时间为一年中的第几周。",
+  "source": "@site/docs/weekofyear.md",
+  "sourceDirName": ".",
+  "slug": "/weekofyear",
+  "permalink": "/docs/weekofyear",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "week_iso",
+    "permalink": "/docs/week_iso"
+  },
+  "next": {
+    "title": "weeks_add",
+    "permalink": "/docs/weeks_add"
+  }
+}

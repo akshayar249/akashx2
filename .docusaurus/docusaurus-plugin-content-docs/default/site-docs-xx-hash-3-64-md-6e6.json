@@ -1,0 +1,23 @@
+{
+  "id": "xx_hash3_64",
+  "title": "xx_hash3_64",
+  "description": "返回输入字符串的 64 位 xxhash3 hash 值。xxhash364 使用 AVX2 指令集，提供比 murmurhash332 更快的速度和更优的性能。",
+  "source": "@site/docs/xx_hash3_64.md",
+  "sourceDirName": ".",
+  "slug": "/xx_hash3_64",
+  "permalink": "/docs/xx_hash3_64",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xx_hash3_128",
+    "permalink": "/docs/xx_hash3_128"
+  },
+  "next": {
+    "title": "year",
+    "permalink": "/docs/year"
+  }
+}

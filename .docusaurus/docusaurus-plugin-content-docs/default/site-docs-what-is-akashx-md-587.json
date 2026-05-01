@@ -1,0 +1,23 @@
+{
+  "id": "what_is_akashx",
+  "title": "什么是 AkashX",
+  "description": "AkashX 是新一代极速全场景 MPP (Massively Parallel Processing) 数据库。AkashX 的愿景是能够让用户的数据分析变得更加简单和敏捷。用户无需经过复杂的预处理，就可以用 AkashX 来支持多种数据分析场景的极速分析。",
+  "source": "@site/docs/what_is_akashx.md",
+  "sourceDirName": ".",
+  "slug": "/what_is_akashx",
+  "permalink": "/docs/what_is_akashx",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weeks_sub",
+    "permalink": "/docs/weeks_sub"
+  },
+  "next": {
+    "title": "window_funnel",
+    "permalink": "/docs/window_funnel"
+  }
+}

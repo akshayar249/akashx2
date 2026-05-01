@@ -1,0 +1,23 @@
+{
+  "id": "ds_hll_count_distinct",
+  "title": "ds_hll_count_distinct",
+  "description": "返回聚合函数的近似值，结果类似于 COUNT(DISTINCT col)。相似函数为 APPROXCOUNTDISTINCT(expr)。",
+  "source": "@site/docs/ds_hll_count_distinct.md",
+  "sourceDirName": ".",
+  "slug": "/ds_hll_count_distinct",
+  "permalink": "/docs/ds_hll_count_distinct",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ds_hll_combine",
+    "permalink": "/docs/ds_hll_combine"
+  },
+  "next": {
+    "title": "ds_hll_estimate",
+    "permalink": "/docs/ds_hll_estimate"
+  }
+}

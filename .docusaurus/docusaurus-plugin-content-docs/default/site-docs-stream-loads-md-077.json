@@ -1,0 +1,23 @@
+{
+  "id": "stream_loads",
+  "title": "stream_loads",
+  "description": "stream_loads 提供有关 Stream Load 作业的信息。",
+  "source": "@site/docs/stream_loads.md",
+  "sourceDirName": ".",
+  "slug": "/stream_loads",
+  "permalink": "/docs/stream_loads",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strcmp",
+    "permalink": "/docs/strcmp"
+  },
+  "next": {
+    "title": "严格模式",
+    "permalink": "/docs/strict_mode"
+  }
+}

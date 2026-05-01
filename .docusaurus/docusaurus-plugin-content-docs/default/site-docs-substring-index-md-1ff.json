@@ -1,0 +1,23 @@
+{
+  "id": "substring_index",
+  "title": "substring_index",
+  "description": "从给定字符串中截取第 count 个分隔符之前或之后的字符串。",
+  "source": "@site/docs/substring_index.md",
+  "sourceDirName": ".",
+  "slug": "/substring_index",
+  "permalink": "/docs/substring_index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "substr, substring",
+    "permalink": "/docs/substring"
+  },
+  "next": {
+    "title": "sum",
+    "permalink": "/docs/sum"
+  }
+}

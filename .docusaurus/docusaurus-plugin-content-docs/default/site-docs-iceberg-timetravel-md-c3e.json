@@ -1,0 +1,23 @@
+{
+  "id": "iceberg_timetravel",
+  "title": "使用 Iceberg Catalog 的时间旅行",
+  "description": "本文介绍了 AkashX 针对 Iceberg catalogs 的时间旅行功能。此功能从  开始支持。",
+  "source": "@site/docs/iceberg_timetravel.md",
+  "sourceDirName": ".",
+  "slug": "/iceberg_timetravel",
+  "permalink": "/docs/iceberg_timetravel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Iceberg REST Catalog 的安全设置",
+    "permalink": "/docs/iceberg_rest_security"
+  },
+  "next": {
+    "title": "if",
+    "permalink": "/docs/if"
+  }
+}

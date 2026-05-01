@@ -1,0 +1,23 @@
+{
+  "id": "Flink_connector_faq",
+  "title": "Flink Connector 导入常见问题",
+  "description": "使用事务接口的 exactly-once 时，导入失败",
+  "source": "@site/docs/Flink_connector_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Flink_connector_faq",
+  "permalink": "/docs/Flink_connector_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "从 MySQL 实时同步",
+    "permalink": "/docs/Flink_cdc_load"
+  },
+  "next": {
+    "title": "GOVERNANCE",
+    "permalink": "/docs/GOVERNANCE"
+  }
+}

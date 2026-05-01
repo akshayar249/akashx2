@@ -1,0 +1,23 @@
+{
+  "id": "collations",
+  "title": "collations",
+  "description": "collations 包含可用的排序规则。",
+  "source": "@site/docs/collations.md",
+  "sourceDirName": ".",
+  "slug": "/collations",
+  "permalink": "/docs/collations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "coalesce",
+    "permalink": "/docs/coalesce"
+  },
+  "next": {
+    "title": "column_privileges",
+    "permalink": "/docs/column_privileges"
+  }
+}

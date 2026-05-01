@@ -1,0 +1,23 @@
+{
+  "id": "coalesce",
+  "title": "coalesce",
+  "description": "从左向右返回参数中的第一个非 NULL 表达式。",
+  "source": "@site/docs/coalesce.md",
+  "sourceDirName": ".",
+  "slug": "/coalesce",
+  "permalink": "/docs/coalesce",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "集群快照",
+    "permalink": "/docs/cluster_snapshot"
+  },
+  "next": {
+    "title": "collations",
+    "permalink": "/docs/collations"
+  }
+}

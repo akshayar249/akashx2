@@ -1,0 +1,23 @@
+{
+  "id": "TRUNCATE_TABLE",
+  "title": "TRUNCATE TABLE",
+  "description": "功能",
+  "source": "@site/docs/TRUNCATE_TABLE.md",
+  "sourceDirName": ".",
+  "slug": "/TRUNCATE_TABLE",
+  "permalink": "/docs/TRUNCATE_TABLE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate Trino SQL",
+    "permalink": "/docs/TRANSLATE_TRINO"
+  },
+  "next": {
+    "title": "Tableau",
+    "permalink": "/docs/Tableau_Desktop"
+  }
+}

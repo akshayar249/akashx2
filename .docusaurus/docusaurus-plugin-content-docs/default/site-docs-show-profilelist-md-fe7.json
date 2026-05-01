@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_PROFILELIST",
+  "title": "SHOW PROFILELIST",
+  "description": "功能",
+  "source": "@site/docs/SHOW_PROFILELIST.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_PROFILELIST",
+  "permalink": "/docs/SHOW_PROFILELIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW PROCESSLIST",
+    "permalink": "/docs/SHOW_PROCESSLIST"
+  },
+  "next": {
+    "title": "SHOW PROPERTY",
+    "permalink": "/docs/SHOW_PROPERTY"
+  }
+}

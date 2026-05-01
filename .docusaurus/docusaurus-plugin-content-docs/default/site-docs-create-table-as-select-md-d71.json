@@ -1,0 +1,27 @@
+{
+  "id": "CREATE_TABLE_AS_SELECT",
+  "title": "CREATE TABLE AS SELECT",
+  "description": "功能",
+  "source": "@site/docs/CREATE_TABLE_AS_SELECT.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_TABLE_AS_SELECT",
+  "permalink": "/docs/CREATE_TABLE_AS_SELECT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "CTAS"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE TABLE",
+    "permalink": "/docs/CREATE_TABLE"
+  },
+  "next": {
+    "title": "CREATE TABLE LIKE",
+    "permalink": "/docs/CREATE_TABLE_LIKE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "json_array",
+  "title": "json_array",
+  "description": "将 SQL 数组的每个元素转换为 JSON 值，并返回由这些 JSON 值组成的 JSON 数组。",
+  "source": "@site/docs/json_array.md",
+  "sourceDirName": ".",
+  "slug": "/json_array",
+  "permalink": "/docs/json_array",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON 操作符",
+    "permalink": "/docs/json-operators"
+  },
+  "next": {
+    "title": "json_contains",
+    "permalink": "/docs/json_contains"
+  }
+}

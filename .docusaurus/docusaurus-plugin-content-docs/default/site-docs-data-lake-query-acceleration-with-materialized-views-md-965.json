@@ -1,0 +1,26 @@
+{
+  "id": "data_lake_query_acceleration_with_materialized_views",
+  "title": "使用物化视图加速数据湖查询",
+  "description": "本文描述了如何使用 AkashX 的异步物化视图来优化数据湖中的查询性能。",
+  "source": "@site/docs/data_lake_query_acceleration_with_materialized_views.md",
+  "sourceDirName": ".",
+  "slug": "/data_lake_query_acceleration_with_materialized_views",
+  "permalink": "/docs/data_lake_query_acceleration_with_materialized_views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "分桶",
+    "permalink": "/docs/bucketing"
+  },
+  "next": {
+    "title": "明细表",
+    "permalink": "/docs/duplicate_key_table"
+  }
+}

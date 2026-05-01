@@ -1,0 +1,23 @@
+{
+  "id": "Deploy_faq",
+  "title": "部署常见问题",
+  "description": "本页列举了部署 AkashX 时可能会遇到的常见问题及潜在解决方案。",
+  "source": "@site/docs/Deploy_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Deploy_faq",
+  "permalink": "/docs/Deploy_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dataphin",
+    "permalink": "/docs/Dataphin"
+  },
+  "next": {
+    "title": "query_dump 接口",
+    "permalink": "/docs/Dump_query"
+  }
+}

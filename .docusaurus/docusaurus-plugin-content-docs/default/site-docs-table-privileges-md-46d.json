@@ -1,0 +1,23 @@
+{
+  "id": "table_privileges",
+  "title": "table_privileges",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/table_privileges.md",
+  "sourceDirName": ".",
+  "slug": "/table_privileges",
+  "permalink": "/docs/table_privileges",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "table_constraints",
+    "permalink": "/docs/table_constraints"
+  },
+  "next": {
+    "title": "表类型概览",
+    "permalink": "/docs/table_types"
+  }
+}

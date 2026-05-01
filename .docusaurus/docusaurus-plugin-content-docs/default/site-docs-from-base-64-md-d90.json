@@ -1,0 +1,23 @@
+{
+  "id": "from_base64",
+  "title": "from_base64",
+  "description": "将 Base64 编码过的字符串 str 进行解码。反向函数为 tobase64。",
+  "source": "@site/docs/from_base64.md",
+  "sourceDirName": ".",
+  "slug": "/from_base64",
+  "permalink": "/docs/from_base64",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "format_bytes",
+    "permalink": "/docs/format_bytes"
+  },
+  "next": {
+    "title": "from_binary",
+    "permalink": "/docs/from_binary"
+  }
+}

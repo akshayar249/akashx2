@@ -1,0 +1,17 @@
+{
+  "id": "template_for_config",
+  "title": "FE/BE 参数和变量模板",
+  "description": "如果您新增或修改了代码文件中的 FE/BE 参数以及变量，务必更新文档 FE configuration, BE configuration, System variables。",
+  "source": "@site/docs/template_for_config.md",
+  "sourceDirName": ".",
+  "slug": "/template_for_config",
+  "permalink": "/docs/template_for_config",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

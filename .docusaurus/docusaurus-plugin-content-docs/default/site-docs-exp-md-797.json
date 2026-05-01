@@ -1,0 +1,23 @@
+{
+  "id": "exp",
+  "title": "exp, dexp",
+  "description": "返回 e 的 x 次幂，也被称为自然指数函数。",
+  "source": "@site/docs/exp.md",
+  "sourceDirName": ".",
+  "slug": "/exp",
+  "permalink": "/docs/exp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "events",
+    "permalink": "/docs/events"
+  },
+  "next": {
+    "title": "fe_locks",
+    "permalink": "/docs/fe_locks"
+  }
+}

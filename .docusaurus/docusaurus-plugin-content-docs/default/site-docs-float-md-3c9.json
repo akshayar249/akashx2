@@ -1,0 +1,23 @@
+{
+  "id": "FLOAT",
+  "title": "FLOAT",
+  "description": "描述",
+  "source": "@site/docs/FLOAT.md",
+  "sourceDirName": ".",
+  "slug": "/FLOAT",
+  "permalink": "/docs/FLOAT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FE 配置项",
+    "permalink": "/docs/FE_configuration"
+  },
+  "next": {
+    "title": "产品特性",
+    "permalink": "/docs/Features"
+  }
+}

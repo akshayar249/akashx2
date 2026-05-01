@@ -1,0 +1,23 @@
+{
+  "id": "substring",
+  "title": "substr, substring",
+  "description": "从一个字符串 (str) 的指定位置(pos) 开始截取指定长度 (len) 的字符。",
+  "source": "@site/docs/substring.md",
+  "sourceDirName": ".",
+  "slug": "/substring",
+  "permalink": "/docs/substring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "subdivide_bitmap",
+    "permalink": "/docs/subdivide_bitmap"
+  },
+  "next": {
+    "title": "substring_index",
+    "permalink": "/docs/substring_index"
+  }
+}

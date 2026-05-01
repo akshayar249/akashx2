@@ -1,0 +1,23 @@
+{
+  "id": "hours_add",
+  "title": "hours_add",
+  "description": "给指定的日期时间或日期增加指定的小时数。",
+  "source": "@site/docs/hours_add.md",
+  "sourceDirName": ".",
+  "slug": "/hours_add",
+  "permalink": "/docs/hours_add",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hour",
+    "permalink": "/docs/hour"
+  },
+  "next": {
+    "title": "hours_diff",
+    "permalink": "/docs/hours_diff"
+  }
+}

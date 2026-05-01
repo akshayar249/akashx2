@@ -1,0 +1,17 @@
+{
+  "id": "Loading_data_template",
+  "title": "Loading_data_template",
+  "description": "",
+  "source": "@site/docs/Loading_data_template.md",
+  "sourceDirName": ".",
+  "slug": "/Loading_data_template",
+  "permalink": "/docs/Loading_data_template",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true
+  },
+  "sidebar": "tutorialSidebar"
+}

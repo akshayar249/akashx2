@@ -1,0 +1,23 @@
+{
+  "id": "BIGINT",
+  "title": "BIGINT",
+  "description": "描述",
+  "source": "@site/docs/BIGINT.md",
+  "sourceDirName": ".",
+  "slug": "/BIGINT",
+  "permalink": "/docs/BIGINT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BE 配置项",
+    "permalink": "/docs/BE_configuration"
+  },
+  "next": {
+    "title": "BINARY/VARBINARY",
+    "permalink": "/docs/BINARY"
+  }
+}

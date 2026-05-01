@@ -1,0 +1,27 @@
+{
+  "id": "shared-nothing",
+  "title": "存算一体",
+  "description": "存算一体",
+  "source": "@site/docs/shared-nothing.md",
+  "sourceDirName": ".",
+  "slug": "/shared-nothing",
+  "permalink": "/docs/shared-nothing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "存算一体"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概述",
+    "permalink": "/docs/overview"
+  },
+  "next": {
+    "title": "版本发布指南",
+    "permalink": "/docs/versions"
+  }
+}

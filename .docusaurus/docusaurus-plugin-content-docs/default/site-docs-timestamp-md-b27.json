@@ -1,0 +1,23 @@
+{
+  "id": "timestamp",
+  "title": "timestamp",
+  "description": "将时间表达式 expr 转换为 DATETIME 值。",
+  "source": "@site/docs/timestamp.md",
+  "sourceDirName": ".",
+  "slug": "/timestamp",
+  "permalink": "/docs/timestamp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "timediff",
+    "permalink": "/docs/timediff"
+  },
+  "next": {
+    "title": "timestampadd",
+    "permalink": "/docs/timestampadd"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "right",
+  "title": "right",
+  "description": "从字符串右边部分返回指定长度的字符，长度的单位为「utf8 字符」。函数别名为 strright。",
+  "source": "@site/docs/right.md",
+  "sourceDirName": ".",
+  "slug": "/right",
+  "permalink": "/docs/right",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reverse",
+    "permalink": "/docs/reverse"
+  },
+  "next": {
+    "title": "从 RisingWave 持续导入",
+    "permalink": "/docs/rising_wave"
+  }
+}

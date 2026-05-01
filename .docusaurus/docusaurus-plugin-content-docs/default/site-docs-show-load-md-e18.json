@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_LOAD",
+  "title": "SHOW LOAD",
+  "description": "功能",
+  "source": "@site/docs/SHOW_LOAD.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_LOAD",
+  "permalink": "/docs/SHOW_LOAD",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW INDEX",
+    "permalink": "/docs/SHOW_INDEX"
+  },
+  "next": {
+    "title": "SHOW MATERIALIZED VIEWS",
+    "permalink": "/docs/SHOW_MATERIALIZED_VIEW"
+  }
+}

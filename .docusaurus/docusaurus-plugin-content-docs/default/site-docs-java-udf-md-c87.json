@@ -1,0 +1,26 @@
+{
+  "id": "JAVA_UDF",
+  "title": "Java UDF",
+  "description": "自 2.2.0 版本起，AkashX 支持使用 Java 语言编写用户定义函数（User Defined Function，简称 UDF）。",
+  "source": "@site/docs/JAVA_UDF.md",
+  "sourceDirName": ".",
+  "slug": "/JAVA_UDF",
+  "permalink": "/docs/JAVA_UDF",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.9,
+  "frontMatter": {
+    "sidebar_position": 0.9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "函数",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Lambda 表达式",
+    "permalink": "/docs/Lambda_expression"
+  }
+}

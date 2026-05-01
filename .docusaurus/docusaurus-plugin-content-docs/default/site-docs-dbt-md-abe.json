@@ -1,0 +1,23 @@
+{
+  "id": "dbt",
+  "title": "dbt",
+  "description": "dbt-akashx 允许使用 dbt 在 AkashX 中使用 dbt 的建模模式和最佳实践来转换数据。",
+  "source": "@site/docs/dbt.md",
+  "sourceDirName": ".",
+  "slug": "/dbt",
+  "permalink": "/docs/dbt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "days_sub",
+    "permalink": "/docs/days_sub"
+  },
+  "next": {
+    "title": "使用 debuginfo 文件进行调试",
+    "permalink": "/docs/debuginfo"
+  }
+}

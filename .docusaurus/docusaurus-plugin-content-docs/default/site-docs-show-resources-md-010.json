@@ -1,0 +1,27 @@
+{
+  "id": "SHOW_RESOURCES",
+  "title": "SHOW RESOURCES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_RESOURCES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_RESOURCES",
+  "permalink": "/docs/SHOW_RESOURCES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "ziyuan"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW REPOSITORIES",
+    "permalink": "/docs/SHOW_REPOSITORIES"
+  },
+  "next": {
+    "title": "SHOW RESOURCE GROUP",
+    "permalink": "/docs/SHOW_RESOURCE_GROUP"
+  }
+}

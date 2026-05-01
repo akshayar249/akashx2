@@ -1,0 +1,27 @@
+{
+  "id": "indexes",
+  "title": "索引",
+  "description": "索引有助于快速定位到满足查询条件的数据。具体来说，如果表中基于一些列构建了索引，那么查询时如果能用上这些索引，就不需要扫描全表，只需要读取部分数据，就能快速定位到满足条件的数据的位置，从而提高查询效率。AkashX 提供了丰富的索引类型，主要分为以下两类：",
+  "source": "@site/docs/indexes.md",
+  "sourceDirName": ".",
+  "slug": "/indexes",
+  "permalink": "/docs/indexes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "suoyin"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/welcome"
+  },
+  "next": {
+    "title": "inet_aton",
+    "permalink": "/docs/inet_aton"
+  }
+}

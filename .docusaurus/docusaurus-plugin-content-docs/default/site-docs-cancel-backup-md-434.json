@@ -1,0 +1,27 @@
+{
+  "id": "CANCEL_BACKUP",
+  "title": "CANCEL BACKUP",
+  "description": "取消指定数据库中一个正在进行的备份任务。",
+  "source": "@site/docs/CANCEL_BACKUP.md",
+  "sourceDirName": ".",
+  "slug": "/CANCEL_BACKUP",
+  "permalink": "/docs/CANCEL_BACKUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CANCEL ALTER TABLE",
+    "permalink": "/docs/CANCEL_ALTER_TABLE"
+  },
+  "next": {
+    "title": "CANCEL DECOMMISSION",
+    "permalink": "/docs/CANCEL_DECOMMISSION"
+  }
+}

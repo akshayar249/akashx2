@@ -1,0 +1,23 @@
+{
+  "id": "get_json_string",
+  "title": "get_json_string,get_json_object",
+  "description": "分析并从JSON字符串中指定路径 (jsonpath) 获取字符串。如果 jsonstring 或 json_path 的格式错误，或者没有找到匹配的值，该函数将返回 NULL。",
+  "source": "@site/docs/get_json_string.md",
+  "sourceDirName": ".",
+  "slug": "/get_json_string",
+  "permalink": "/docs/get_json_string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "get_json_int",
+    "permalink": "/docs/get_json_int"
+  },
+  "next": {
+    "title": "get_query_dump",
+    "permalink": "/docs/get_query_dump"
+  }
+}

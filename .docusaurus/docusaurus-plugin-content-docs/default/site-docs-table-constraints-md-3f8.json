@@ -1,0 +1,23 @@
+{
+  "id": "table_constraints",
+  "title": "table_constraints",
+  "description": "该视图不适用于 AkashX 当前支持的功能。",
+  "source": "@site/docs/table_constraints.md",
+  "sourceDirName": ".",
+  "slug": "/table_constraints",
+  "permalink": "/docs/table_constraints",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "系统元数据库",
+    "permalink": "/docs/sys"
+  },
+  "next": {
+    "title": "table_privileges",
+    "permalink": "/docs/table_privileges"
+  }
+}

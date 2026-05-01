@@ -1,0 +1,23 @@
+{
+  "id": "hdfs",
+  "title": "基于 HDFS 部署",
+  "description": "系统架构",
+  "source": "@site/docs/hdfs.md",
+  "sourceDirName": ".",
+  "slug": "/hdfs",
+  "permalink": "/docs/hdfs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grouping_id",
+    "permalink": "/docs/grouping_id"
+  },
+  "next": {
+    "title": "从 HDFS 导入",
+    "permalink": "/docs/hdfs_load"
+  }
+}

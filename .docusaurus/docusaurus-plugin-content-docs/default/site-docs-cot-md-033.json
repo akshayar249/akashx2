@@ -1,0 +1,23 @@
+{
+  "id": "cot",
+  "title": "cot",
+  "description": "求参数 x 的余切值，x 是弧度。如果输入值为 0 或者 NULL，则返回 NULL。",
+  "source": "@site/docs/cot.md",
+  "sourceDirName": ".",
+  "slug": "/cot",
+  "permalink": "/docs/cot",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cosh",
+    "permalink": "/docs/cosh"
+  },
+  "next": {
+    "title": "count",
+    "permalink": "/docs/count"
+  }
+}

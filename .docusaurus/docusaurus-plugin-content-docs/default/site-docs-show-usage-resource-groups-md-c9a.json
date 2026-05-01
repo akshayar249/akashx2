@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_USAGE_RESOURCE_GROUPS",
+  "title": "SHOW USAGE RESOURCE GROUPS",
+  "description": "功能",
+  "source": "@site/docs/SHOW_USAGE_RESOURCE_GROUPS.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_USAGE_RESOURCE_GROUPS",
+  "permalink": "/docs/SHOW_USAGE_RESOURCE_GROUPS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW TRANSACTION",
+    "permalink": "/docs/SHOW_TRANSACTION"
+  },
+  "next": {
+    "title": "SHOW USERS",
+    "permalink": "/docs/SHOW_USERS"
+  }
+}

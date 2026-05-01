@@ -1,0 +1,23 @@
+{
+  "id": "get_json_int",
+  "title": "get_json_int",
+  "description": "此函数用于分析并从 JSON 字符串中指定路径获取整数值。",
+  "source": "@site/docs/get_json_int.md",
+  "sourceDirName": ".",
+  "slug": "/get_json_int",
+  "permalink": "/docs/get_json_int",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "get_json_double",
+    "permalink": "/docs/get_json_double"
+  },
+  "next": {
+    "title": "get_json_string,get_json_object",
+    "permalink": "/docs/get_json_string"
+  }
+}

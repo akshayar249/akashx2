@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_to_base64",
+  "title": "bitmap_to_base64",
+  "description": "将 bitmap 转换为 Base64 字符串。该函数从 2.5 版本开始支持。",
+  "source": "@site/docs/bitmap_to_base64.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_to_base64",
+  "permalink": "/docs/bitmap_to_base64",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_to_array",
+    "permalink": "/docs/bitmap_to_array"
+  },
+  "next": {
+    "title": "bitmap_to_binary",
+    "permalink": "/docs/bitmap_to_binary"
+  }
+}

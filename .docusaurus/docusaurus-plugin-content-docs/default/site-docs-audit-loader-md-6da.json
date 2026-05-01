@@ -1,0 +1,23 @@
+{
+  "id": "audit_loader",
+  "title": "通过 AuditLoader 管理 AkashX 中的审计日志",
+  "description": "本文档介绍如何通过插件 AuditLoader 在 AkashX 内部管理审计日志。",
+  "source": "@site/docs/audit_loader.md",
+  "sourceDirName": ".",
+  "slug": "/audit_loader",
+  "permalink": "/docs/audit_loader",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "atan2",
+    "permalink": "/docs/atan2"
+  },
+  "next": {
+    "title": "AWS",
+    "permalink": "/docs/authenticate_to_aws_resources"
+  }
+}

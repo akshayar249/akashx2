@@ -1,0 +1,23 @@
+{
+  "id": "bin",
+  "title": "bin",
+  "description": "将参数x转成二进制。",
+  "source": "@site/docs/bin.md",
+  "sourceDirName": ".",
+  "slug": "/bin",
+  "permalink": "/docs/bin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_txns",
+    "permalink": "/docs/be_txns"
+  },
+  "next": {
+    "title": "bit_shift_left",
+    "permalink": "/docs/bit_shift_left"
+  }
+}

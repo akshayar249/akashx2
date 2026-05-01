@@ -1,0 +1,23 @@
+{
+  "id": "INT",
+  "title": "INT",
+  "description": "描述",
+  "source": "@site/docs/INT.md",
+  "sourceDirName": ".",
+  "slug": "/INT",
+  "permalink": "/docs/INT",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "INSTALL PLUGIN",
+    "permalink": "/docs/INSTALL_PLUGIN"
+  },
+  "next": {
+    "title": "Issue Title",
+    "permalink": "/docs/ISSUE_TEMPLATE"
+  }
+}

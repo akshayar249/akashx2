@@ -1,0 +1,23 @@
+{
+  "id": "append_trailing_char_if_absent",
+  "title": "append_trailing_char_if_absent",
+  "description": "如果 str 字符串非空并且末尾不包含 trailingchar 字符，则将 trailingchar 字符附加到末尾。",
+  "source": "@site/docs/append_trailing_char_if_absent.md",
+  "sourceDirName": ".",
+  "slug": "/append_trailing_char_if_absent",
+  "permalink": "/docs/append_trailing_char_if_absent",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "any_value",
+    "permalink": "/docs/any_value"
+  },
+  "next": {
+    "title": "applicable_roles",
+    "permalink": "/docs/applicable_roles"
+  }
+}

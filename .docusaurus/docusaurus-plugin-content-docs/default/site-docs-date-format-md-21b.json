@@ -1,0 +1,23 @@
+{
+  "id": "date_format",
+  "title": "date_format",
+  "description": "将日期类型按照 format 的类型转化为字符串。",
+  "source": "@site/docs/date_format.md",
+  "sourceDirName": ".",
+  "slug": "/date_format",
+  "permalink": "/docs/date_format",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "date_diff",
+    "permalink": "/docs/date_diff"
+  },
+  "next": {
+    "title": "date_slice",
+    "permalink": "/docs/date_slice"
+  }
+}

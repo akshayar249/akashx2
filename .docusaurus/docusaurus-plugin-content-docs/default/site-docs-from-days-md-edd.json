@@ -1,0 +1,23 @@
+{
+  "id": "from_days",
+  "title": "from_days",
+  "description": "通过计算当前时间距离 0000-01-01 的天数计算出是哪一天。",
+  "source": "@site/docs/from_days.md",
+  "sourceDirName": ".",
+  "slug": "/from_days",
+  "permalink": "/docs/from_days",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "from_binary",
+    "permalink": "/docs/from_binary"
+  },
+  "next": {
+    "title": "from_unixtime",
+    "permalink": "/docs/from_unixtime"
+  }
+}

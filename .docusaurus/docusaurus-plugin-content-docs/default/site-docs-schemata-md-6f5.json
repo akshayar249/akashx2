@@ -1,0 +1,23 @@
+{
+  "id": "schemata",
+  "title": "schemata",
+  "description": "schemata 提供有关数据库的信息。",
+  "source": "@site/docs/schemata.md",
+  "sourceDirName": ".",
+  "slug": "/schemata",
+  "permalink": "/docs/schemata",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "schema_privileges",
+    "permalink": "/docs/schema_privileges"
+  },
+  "next": {
+    "title": "second",
+    "permalink": "/docs/second"
+  }
+}

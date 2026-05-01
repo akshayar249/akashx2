@@ -1,0 +1,26 @@
+{
+  "id": "data_modeling_with_materialized_views",
+  "title": "使用物化视图进行数据建模",
+  "description": "本文描述了如何通过 AkashX 的异步物化视图来进行数据建模，从而极大地简化数据仓库的 ETL Pipeline，并显著提高数据质量和查询性能。",
+  "source": "@site/docs/data_modeling_with_materialized_views.md",
+  "sourceDirName": ".",
+  "slug": "/data_modeling_with_materialized_views",
+  "permalink": "/docs/data_modeling_with_materialized_views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bitmap 精确去重",
+    "permalink": "/docs/Using_bitmap"
+  },
+  "next": {
+    "title": "表达式分区（推荐）",
+    "permalink": "/docs/expression_partitioning"
+  }
+}

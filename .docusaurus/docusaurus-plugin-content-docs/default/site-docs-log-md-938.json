@@ -1,0 +1,23 @@
+{
+  "id": "log",
+  "title": "log",
+  "description": "返回以 base 为底数的 x 的对数。如果未指定 base，则该函数等同于 ln()。",
+  "source": "@site/docs/log.md",
+  "sourceDirName": ".",
+  "slug": "/log",
+  "permalink": "/docs/log",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "locate",
+    "permalink": "/docs/locate"
+  },
+  "next": {
+    "title": "log10, dlog10",
+    "permalink": "/docs/log10"
+  }
+}

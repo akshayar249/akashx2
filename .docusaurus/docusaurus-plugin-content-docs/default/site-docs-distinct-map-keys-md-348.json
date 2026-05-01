@@ -1,0 +1,23 @@
+{
+  "id": "distinct_map_keys",
+  "title": "distinct_map_keys",
+  "description": "删除 Map 中重复的 Key。从语义上讲，Map 中的 Key 不可以重复，Value 可以重复。对于 Key 相同的键值对，该函数仅保留最后一个出现的键值对 (LAST WIN 原则)。比如，SELECT distinctmapkeys(map{1'4'}); 返回 {1:\"4\"}。",
+  "source": "@site/docs/distinct_map_keys.md",
+  "sourceDirName": ".",
+  "slug": "/distinct_map_keys",
+  "permalink": "/docs/distinct_map_keys",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dictionary_get",
+    "permalink": "/docs/dictionary_get"
+  },
+  "next": {
+    "title": "divide",
+    "permalink": "/docs/divide"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "query_rewrite_with_materialized_views",
+  "title": "物化视图查询改写",
+  "description": "本文描述了如何利用 AkashX 的异步物化视图来改写并加速查询。",
+  "source": "@site/docs/query_rewrite_with_materialized_views.md",
+  "sourceDirName": ".",
+  "slug": "/query_rewrite_with_materialized_views",
+  "permalink": "/docs/query_rewrite_with_materialized_views",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "查询计划",
+    "permalink": "/docs/query_planning"
+  },
+  "next": {
+    "title": "通过安全集成认证用户",
+    "permalink": "/docs/security_integration"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ldap_authentication",
+  "title": "LDAP 认证",
+  "description": "除了原生的基于密码的认证，AkashX 还支持 LDAP 认证。",
+  "source": "@site/docs/ldap_authentication.md",
+  "sourceDirName": ".",
+  "slug": "/ldap_authentication",
+  "permalink": "/docs/ldap_authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "认证用户组",
+    "permalink": "/docs/group_provider"
+  },
+  "next": {
+    "title": "Query Profile 概述",
+    "permalink": "/docs/query_profile_overview"
+  }
+}

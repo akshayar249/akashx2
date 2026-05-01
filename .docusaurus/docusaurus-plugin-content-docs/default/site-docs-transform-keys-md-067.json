@@ -1,0 +1,23 @@
+{
+  "id": "transform_keys",
+  "title": "transform_keys",
+  "description": "对 Map 中的 key 进行 Lambda 转换。有关 Lambda 函数的详细信息，参见 Lambda expression。",
+  "source": "@site/docs/transform_keys.md",
+  "sourceDirName": ".",
+  "slug": "/transform_keys",
+  "permalink": "/docs/transform_keys",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TPC-DS test SQL",
+    "permalink": "/docs/tpc_ds_99_sql"
+  },
+  "next": {
+    "title": "transform_values",
+    "permalink": "/docs/transform_values"
+  }
+}

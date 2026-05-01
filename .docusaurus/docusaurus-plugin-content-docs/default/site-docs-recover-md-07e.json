@@ -1,0 +1,27 @@
+{
+  "id": "RECOVER",
+  "title": "RECOVER",
+  "description": "恢复之前通过 DROP 操作删除的 database、table 或者 partition。DROP 操作后只有在指定的时间内才能通过 RECOVER 恢复数据，超过这个时间无法恢复。该时间由 FE 动态参数 catalogtrashexpire_second 控制，默认 1 天。",
+  "source": "@site/docs/RECOVER.md",
+  "sourceDirName": ".",
+  "slug": "/RECOVER",
+  "permalink": "/docs/RECOVER",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QuickBI",
+    "permalink": "/docs/QuickBI"
+  },
+  "next": {
+    "title": "REFRESH DICTIONARY",
+    "permalink": "/docs/REFRESH_DICTIONARY"
+  }
+}

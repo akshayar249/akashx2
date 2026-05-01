@@ -1,0 +1,23 @@
+{
+  "id": "map_apply",
+  "title": "map_apply",
+  "description": "返回 Map 中所有 Key 或 Value 进行 Lambda 函数运算后的 Map 值。",
+  "source": "@site/docs/map_apply.md",
+  "sourceDirName": ".",
+  "slug": "/map_apply",
+  "permalink": "/docs/map_apply",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mann_whitney_u_test",
+    "permalink": "/docs/mann_whitney_u_test"
+  },
+  "next": {
+    "title": "map_concat",
+    "permalink": "/docs/map_concat"
+  }
+}

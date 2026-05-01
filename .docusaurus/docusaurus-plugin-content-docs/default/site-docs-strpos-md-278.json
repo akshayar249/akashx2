@@ -1,0 +1,23 @@
+{
+  "id": "strpos",
+  "title": "strpos",
+  "description": "返回字符串中第 N 个子串实例的位置。当 N 为负数时，搜索将从字符串的末尾开始。位置从 1 开始计数。如果未找到，则返回 0。",
+  "source": "@site/docs/strpos.md",
+  "sourceDirName": ".",
+  "slug": "/strpos",
+  "permalink": "/docs/strpos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strleft",
+    "permalink": "/docs/strleft"
+  },
+  "next": {
+    "title": "strright",
+    "permalink": "/docs/strright"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_EXTERNAL_CATALOG",
+  "title": "CREATE EXTERNAL CATALOG",
+  "description": "功能",
+  "source": "@site/docs/CREATE_EXTERNAL_CATALOG.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_EXTERNAL_CATALOG",
+  "permalink": "/docs/CREATE_EXTERNAL_CATALOG",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE DICTIONARY",
+    "permalink": "/docs/CREATE_DICTIONARY"
+  },
+  "next": {
+    "title": "CREATE FILE",
+    "permalink": "/docs/CREATE_FILE"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "slack",
+  "title": "技术支持渠道",
+  "description": "与社区互动",
+  "source": "@site/docs/slack.md",
+  "sourceDirName": ".",
+  "slug": "/slack",
+  "permalink": "/docs/slack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "支持渠道",
+    "description": "与社区互动"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Skew Join",
+    "permalink": "/docs/skew_join_v2"
+  },
+  "next": {
+    "title": "sleep",
+    "permalink": "/docs/sleep"
+  }
+}

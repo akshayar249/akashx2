@@ -1,0 +1,23 @@
+{
+  "id": "arrays_overlap",
+  "title": "arrays_overlap",
+  "description": "判断两个相同类型的数组中是否包含相同的元素。返回1代表存在相同元素，返回0代表不存在相同元素。",
+  "source": "@site/docs/arrays_overlap.md",
+  "sourceDirName": ".",
+  "slug": "/arrays_overlap",
+  "permalink": "/docs/arrays_overlap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_unique_agg",
+    "permalink": "/docs/array_unique_agg"
+  },
+  "next": {
+    "title": "箭头函数",
+    "permalink": "/docs/arrow-function"
+  }
+}

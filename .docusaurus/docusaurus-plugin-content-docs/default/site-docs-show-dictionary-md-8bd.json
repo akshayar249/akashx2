@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_DICTIONARY",
+  "title": "SHOW DICTIONARY",
+  "description": "查询字典对象的信息。",
+  "source": "@site/docs/SHOW_DICTIONARY.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_DICTIONARY",
+  "permalink": "/docs/SHOW_DICTIONARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW DELETE",
+    "permalink": "/docs/SHOW_DELETE"
+  },
+  "next": {
+    "title": "SHOW DYNAMIC PARTITION TABLES",
+    "permalink": "/docs/SHOW_DYNAMIC_PARTITION_TABLES"
+  }
+}

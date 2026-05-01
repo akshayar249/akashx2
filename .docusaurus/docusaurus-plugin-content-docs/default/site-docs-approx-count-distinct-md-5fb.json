@@ -1,0 +1,23 @@
+{
+  "id": "approx_count_distinct",
+  "title": "approx_count_distinct",
+  "description": "返回类似于 COUNT(DISTINCT col) 结果的近似值。",
+  "source": "@site/docs/approx_count_distinct.md",
+  "sourceDirName": ".",
+  "slug": "/approx_count_distinct",
+  "permalink": "/docs/approx_count_distinct",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applicable_roles",
+    "permalink": "/docs/applicable_roles"
+  },
+  "next": {
+    "title": "approx_top_k",
+    "permalink": "/docs/approx_top_k"
+  }
+}

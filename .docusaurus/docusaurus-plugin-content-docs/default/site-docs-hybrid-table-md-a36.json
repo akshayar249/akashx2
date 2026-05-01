@@ -1,0 +1,26 @@
+{
+  "id": "hybrid_table",
+  "title": "行列混存",
+  "description": "作为一个OLAP数据库，akashx最初使用列式存储来增强复杂查询的性能，例如聚合查询。从v3.2.3开始，akashx也支持将数据存储在行列混存中，即数据以逐行和逐列的方式存储。这种行列混存非常适合于基于主键的高并发、低延迟点查询和部分列更新等场景，同时提供与列式存储相当的高效分析能力。此外，行列混存支持prepared statements，这提高了查询性能和安全性。",
+  "source": "@site/docs/hybrid_table.md",
+  "sourceDirName": ".",
+  "slug": "/hybrid_table",
+  "permalink": "/docs/hybrid_table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "sidebar_position": 60
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "更新表",
+    "permalink": "/docs/unique_key_table"
+  },
+  "next": {
+    "title": "Explain Analyze",
+    "permalink": "/docs/query_profile_text_based_analysis"
+  }
+}

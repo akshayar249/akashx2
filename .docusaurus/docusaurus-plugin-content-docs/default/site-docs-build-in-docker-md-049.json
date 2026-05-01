@@ -1,0 +1,23 @@
+{
+  "id": "Build_in_docker",
+  "title": "使用 Docker 编译 AkashX",
+  "description": "本文介绍如何使用 Docker 编译 AkashX。",
+  "source": "@site/docs/Build_in_docker.md",
+  "sourceDirName": ".",
+  "slug": "/Build_in_docker",
+  "permalink": "/docs/Build_in_docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Broker Load 导入常见问题",
+    "permalink": "/docs/Broker_load_faq"
+  },
+  "next": {
+    "title": "CANCEL ALTER TABLE",
+    "permalink": "/docs/CANCEL_ALTER_TABLE"
+  }
+}

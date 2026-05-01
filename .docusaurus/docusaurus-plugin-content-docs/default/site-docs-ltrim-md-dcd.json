@@ -1,0 +1,23 @@
+{
+  "id": "ltrim",
+  "title": "ltrim",
+  "description": "从字符串的左侧（开始部分）移除连续出现的空格或指定字符。从 2.5.0 版本开始，支持从字符串中移除指定的字符。",
+  "source": "@site/docs/ltrim.md",
+  "sourceDirName": ".",
+  "slug": "/ltrim",
+  "permalink": "/docs/ltrim",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lpad",
+    "permalink": "/docs/lpad"
+  },
+  "next": {
+    "title": "makedate",
+    "permalink": "/docs/makedate"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bug-report",
+  "title": "bug-report",
+  "description": "Steps to reproduce the behavior (Required)",
+  "source": "@site/docs/bug-report.md",
+  "sourceDirName": ".",
+  "slug": "/bug-report",
+  "permalink": "/docs/bug-report",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "name": "Bug report",
+    "about": "Create a report to help us improve",
+    "labels": "type/bug"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bool_or",
+    "permalink": "/docs/bool_or"
+  },
+  "next": {
+    "title": "bug_report",
+    "permalink": "/docs/bug_report"
+  }
+}

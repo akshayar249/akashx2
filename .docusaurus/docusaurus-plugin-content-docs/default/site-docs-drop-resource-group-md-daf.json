@@ -1,0 +1,27 @@
+{
+  "id": "DROP_RESOURCE_GROUP",
+  "title": "DROP RESOURCE GROUP",
+  "description": "功能",
+  "source": "@site/docs/DROP_RESOURCE_GROUP.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_RESOURCE_GROUP",
+  "permalink": "/docs/DROP_RESOURCE_GROUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "ziyuanzu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP RESOURCE",
+    "permalink": "/docs/DROP_RESOURCE"
+  },
+  "next": {
+    "title": "DROP ROLE",
+    "permalink": "/docs/DROP_ROLE"
+  }
+}

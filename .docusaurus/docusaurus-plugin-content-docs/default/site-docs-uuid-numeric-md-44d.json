@@ -1,0 +1,23 @@
+{
+  "id": "uuid_numeric",
+  "title": "uuid_numeric",
+  "description": "返回一个数值类型的随机 UUID 值。相比uuid函数，该函数执行性能提升近2个数量级。",
+  "source": "@site/docs/uuid_numeric.md",
+  "sourceDirName": ".",
+  "slug": "/uuid_numeric",
+  "permalink": "/docs/uuid_numeric",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uuid",
+    "permalink": "/docs/uuid"
+  },
+  "next": {
+    "title": "var_samp, variance_samp",
+    "permalink": "/docs/var_samp"
+  }
+}

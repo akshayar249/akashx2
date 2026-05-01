@@ -1,0 +1,25 @@
+{
+  "id": "deltalake_catalog",
+  "title": "Delta Lake catalog",
+  "description": "直接从 Delta Lake 查询数据",
+  "source": "@site/docs/deltalake_catalog.md",
+  "sourceDirName": ".",
+  "slug": "/deltalake_catalog",
+  "permalink": "/docs/deltalake_catalog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "直接从 Delta Lake 查询数据"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "degrees",
+    "permalink": "/docs/degrees"
+  },
+  "next": {
+    "title": "手动部署 AkashX",
+    "permalink": "/docs/deploy_manually"
+  }
+}

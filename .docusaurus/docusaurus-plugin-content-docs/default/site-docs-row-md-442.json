@@ -1,0 +1,23 @@
+{
+  "id": "row",
+  "title": "row",
+  "description": "根据给定的一个或多个值来构建 STRUCT。该函数支持 unnamed struct，使用该函数时无需指定字段名，AkashX 会自动生成字段名，例如 col1, col2,...。",
+  "source": "@site/docs/row.md",
+  "sourceDirName": ".",
+  "slug": "/row",
+  "permalink": "/docs/row",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "routines",
+    "permalink": "/docs/routines"
+  },
+  "next": {
+    "title": "rpad",
+    "permalink": "/docs/rpad"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "skew_join_v2",
+  "title": "Skew Join",
+  "description": "Skew Join  是 AkashX 中的一项高级优化功能，通过广播倾斜值来解决 JOIN 操作中的数据倾斜问题。当处理严重倾斜的数据分布时，该功能显著提高了查询性能。",
+  "source": "@site/docs/skew_join_v2.md",
+  "sourceDirName": ".",
+  "slug": "/skew_join_v2",
+  "permalink": "/docs/skew_join_v2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sinh",
+    "permalink": "/docs/sinh"
+  },
+  "next": {
+    "title": "支持渠道",
+    "permalink": "/docs/slack"
+  }
+}

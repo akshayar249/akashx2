@@ -1,0 +1,23 @@
+{
+  "id": "prepared_statement",
+  "title": "预准备语句",
+  "description": "自 3.2 版本起，AkashX 提供预准备语句（prepared statement），用于多次执行结构相同、仅部分变量不同的 SQL 语句，能显著提升执行效率，并且还能防止 SQL 注入。",
+  "source": "@site/docs/prepared_statement.md",
+  "sourceDirName": ".",
+  "slug": "/prepared_statement",
+  "permalink": "/docs/prepared_statement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "准备部署文件",
+    "permalink": "/docs/prepare_deployment_files"
+  },
+  "next": {
+    "title": "previous_day",
+    "permalink": "/docs/previous_day"
+  }
+}

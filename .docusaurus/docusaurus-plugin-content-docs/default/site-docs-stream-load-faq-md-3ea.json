@@ -1,0 +1,23 @@
+{
+  "id": "Stream_load_faq",
+  "title": "Stream Load 导入常见问题",
+  "description": "1. Stream Load 是否支持识别 CSV 格式文件开头前几行的列名？或者是否支持在数据读取过程中跳过开头前几行数据？",
+  "source": "@site/docs/Stream_load_faq.md",
+  "sourceDirName": ".",
+  "slug": "/Stream_load_faq",
+  "permalink": "/docs/Stream_load_faq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Stream Load 事务接口导入",
+    "permalink": "/docs/Stream_Load_transaction_interface"
+  },
+  "next": {
+    "title": "Apache Superset",
+    "permalink": "/docs/Superset"
+  }
+}

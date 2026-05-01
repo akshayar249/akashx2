@@ -1,0 +1,27 @@
+{
+  "id": "BE_configuration",
+  "title": "BE 配置项",
+  "description": "查看 BE 配置项",
+  "source": "@site/docs/BE_configuration.md",
+  "sourceDirName": ".",
+  "slug": "/BE_configuration",
+  "permalink": "/docs/BE_configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "Canshu"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "管理 BE 和 CN 黑名单",
+    "permalink": "/docs/BE_blacklist"
+  },
+  "next": {
+    "title": "BIGINT",
+    "permalink": "/docs/BIGINT"
+  }
+}

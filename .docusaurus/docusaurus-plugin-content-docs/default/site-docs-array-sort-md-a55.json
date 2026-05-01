@@ -1,0 +1,23 @@
+{
+  "id": "array_sort",
+  "title": "array_sort",
+  "description": "对数组中的元素进行升序排列。",
+  "source": "@site/docs/array_sort.md",
+  "sourceDirName": ".",
+  "slug": "/array_sort",
+  "permalink": "/docs/array_sort",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_slice",
+    "permalink": "/docs/array_slice"
+  },
+  "next": {
+    "title": "array_sortby",
+    "permalink": "/docs/array_sortby"
+  }
+}

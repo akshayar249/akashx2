@@ -1,0 +1,29 @@
+{
+  "id": "Window_function",
+  "title": "窗口函数",
+  "description": "本文介绍如何使用 AkashX 窗口函数。",
+  "source": "@site/docs/Window_function.md",
+  "sourceDirName": ".",
+  "slug": "/Window_function",
+  "permalink": "/docs/Window_function",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.9,
+  "frontMatter": {
+    "keywords": [
+      "analytic"
+    ],
+    "sidebar_position": 0.9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lambda 表达式",
+    "permalink": "/docs/Lambda_expression"
+  },
+  "next": {
+    "title": "Hive Bitmap UDF",
+    "permalink": "/docs/hive_bitmap_udf"
+  }
+}

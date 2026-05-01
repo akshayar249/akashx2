@@ -1,0 +1,23 @@
+{
+  "id": "ln",
+  "title": "ln, dlog1, log",
+  "description": "返回参数 x 的自然对数，以 e 为底数。",
+  "source": "@site/docs/ln.md",
+  "sourceDirName": ".",
+  "slug": "/ln",
+  "permalink": "/docs/ln",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "like",
+    "permalink": "/docs/like"
+  },
+  "next": {
+    "title": "从 Apache® Pulsar™ 持续导入数据",
+    "permalink": "/docs/load_from_pulsar"
+  }
+}

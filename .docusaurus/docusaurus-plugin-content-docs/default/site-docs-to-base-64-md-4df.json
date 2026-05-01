@@ -1,0 +1,23 @@
+{
+  "id": "to_base64",
+  "title": "to_base64",
+  "description": "将字符串 str 进行 Base64 编码。反向函数为 frombase64。",
+  "source": "@site/docs/to_base64.md",
+  "sourceDirName": ".",
+  "slug": "/to_base64",
+  "permalink": "/docs/to_base64",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "设置时区",
+    "permalink": "/docs/timezone"
+  },
+  "next": {
+    "title": "to_binary",
+    "permalink": "/docs/to_binary"
+  }
+}

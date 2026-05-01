@@ -1,0 +1,25 @@
+{
+  "id": "feature-support-shared-data",
+  "title": "存算分离集群能力边界",
+  "description": "以下列出的所有功能均已列出其引入版本。如果您想搭建新的存算分离集群，推荐您部署  或以上的最新小版本。",
+  "source": "@site/docs/feature-support-shared-data.md",
+  "sourceDirName": ".",
+  "slug": "/feature-support-shared-data",
+  "permalink": "/docs/feature-support-shared-data",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "能力边界"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "能力边界",
+    "permalink": "/docs/feature-support-loading-and-unloading"
+  },
+  "next": {
+    "title": "feature_request",
+    "permalink": "/docs/feature_request"
+  }
+}

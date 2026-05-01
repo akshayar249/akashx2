@@ -1,0 +1,26 @@
+{
+  "id": "query_profile_text_based_analysis",
+  "title": "Explain Analyze",
+  "description": "本文档解释了如何在akashx中获取和分析基于文本的Query Profiles。它将帮助您理解查询性能，并找到优化SQL查询的方法。",
+  "source": "@site/docs/query_profile_text_based_analysis.md",
+  "sourceDirName": ".",
+  "slug": "/query_profile_text_based_analysis",
+  "permalink": "/docs/query_profile_text_based_analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "sidebar_position": 60
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "行列混存",
+    "permalink": "/docs/hybrid_table"
+  },
+  "next": {
+    "title": "向量索引",
+    "permalink": "/docs/vector_index"
+  }
+}

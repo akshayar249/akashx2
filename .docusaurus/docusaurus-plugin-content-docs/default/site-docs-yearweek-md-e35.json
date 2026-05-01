@@ -1,0 +1,19 @@
+{
+  "id": "yearweek",
+  "title": "yearweek",
+  "description": "返回给定日期对应的年份和周数。该函数和 MySQL yearweek() 函数原理相同。",
+  "source": "@site/docs/yearweek.md",
+  "sourceDirName": ".",
+  "slug": "/yearweek",
+  "permalink": "/docs/yearweek",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "years_sub",
+    "permalink": "/docs/years_sub"
+  }
+}

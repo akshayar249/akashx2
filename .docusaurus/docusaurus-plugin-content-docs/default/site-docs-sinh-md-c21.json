@@ -1,0 +1,23 @@
+{
+  "id": "sinh",
+  "title": "sinh",
+  "description": "计算输入数值的双曲正弦值。",
+  "source": "@site/docs/sinh.md",
+  "sourceDirName": ".",
+  "slug": "/sinh",
+  "permalink": "/docs/sinh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sin",
+    "permalink": "/docs/sin"
+  },
+  "next": {
+    "title": "Skew Join",
+    "permalink": "/docs/skew_join_v2"
+  }
+}

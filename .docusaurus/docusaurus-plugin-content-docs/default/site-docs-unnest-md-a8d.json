@@ -1,0 +1,23 @@
+{
+  "id": "unnest",
+  "title": "unnest",
+  "description": "UNNEST 是一种表函数 (table function)，用于将一个数组展开成多行。",
+  "source": "@site/docs/unnest.md",
+  "sourceDirName": ".",
+  "slug": "/unnest",
+  "permalink": "/docs/unnest",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 INSERT INTO FILES 导出数据",
+    "permalink": "/docs/unload_using_insert_into_files"
+  },
+  "next": {
+    "title": "unnest_bitmap",
+    "permalink": "/docs/unnest_bitmap"
+  }
+}

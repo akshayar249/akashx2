@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_ROUTINE_LOAD_TASK",
+  "title": "SHOW ROUTINE LOAD TASK",
+  "description": "功能",
+  "source": "@site/docs/SHOW_ROUTINE_LOAD_TASK.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_ROUTINE_LOAD_TASK",
+  "permalink": "/docs/SHOW_ROUTINE_LOAD_TASK",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW ROUTINE LOAD",
+    "permalink": "/docs/SHOW_ROUTINE_LOAD"
+  },
+  "next": {
+    "title": "SHOW RUNNING QUERIES",
+    "permalink": "/docs/SHOW_RUNNING_QUERIES"
+  }
+}

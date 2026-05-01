@@ -1,0 +1,26 @@
+{
+  "id": "User_privilege",
+  "title": "管理用户权限",
+  "description": "本文介绍如何在 AkashX 中管理用户、角色和权限。",
+  "source": "@site/docs/User_privilege.md",
+  "sourceDirName": ".",
+  "slug": "/User_privilege",
+  "permalink": "/docs/User_privilege",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据分布",
+    "permalink": "/docs/Data_distribution"
+  },
+  "next": {
+    "title": "分桶",
+    "permalink": "/docs/bucketing"
+  }
+}

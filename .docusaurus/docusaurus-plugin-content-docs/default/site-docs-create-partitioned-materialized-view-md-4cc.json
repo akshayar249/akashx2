@@ -1,0 +1,26 @@
+{
+  "id": "create_partitioned_materialized_view",
+  "title": "创建分区物化视图",
+  "description": "本文介绍了如何使用分区物化视图满足不同业务需求。",
+  "source": "@site/docs/create_partitioned_materialized_view.md",
+  "sourceDirName": ".",
+  "slug": "/create_partitioned_materialized_view",
+  "permalink": "/docs/create_partitioned_materialized_view",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "临时分区",
+    "permalink": "/docs/Temporary_partition"
+  },
+  "next": {
+    "title": "JSON Web Token 认证",
+    "permalink": "/docs/jwt_authentication"
+  }
+}

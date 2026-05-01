@@ -1,0 +1,26 @@
+{
+  "id": "vector_index",
+  "title": "向量索引",
+  "description": "本文介绍了akashx的向量索引功能及如何使用它进行近似最近邻搜索（ANNS）。",
+  "source": "@site/docs/vector_index.md",
+  "sourceDirName": ".",
+  "slug": "/vector_index",
+  "permalink": "/docs/vector_index",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "sidebar_position": 60
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Explain Analyze",
+    "permalink": "/docs/query_profile_text_based_analysis"
+  },
+  "next": {
+    "title": "查询提示",
+    "permalink": "/docs/query_hint"
+  }
+}

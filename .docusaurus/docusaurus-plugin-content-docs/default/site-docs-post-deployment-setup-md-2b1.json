@@ -1,0 +1,23 @@
+{
+  "id": "post_deployment_setup",
+  "title": "部署后设置",
+  "description": "本文描述了您在部署 AkashX 之后需要执行的任务。",
+  "source": "@site/docs/post_deployment_setup.md",
+  "sourceDirName": ".",
+  "slug": "/post_deployment_setup",
+  "permalink": "/docs/post_deployment_setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "positive",
+    "permalink": "/docs/positive"
+  },
+  "next": {
+    "title": "pow, power, dpow, fpow",
+    "permalink": "/docs/pow"
+  }
+}

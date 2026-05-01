@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_and",
+  "title": "bitmap_and",
+  "description": "计算两个 bitmap 的交集，返回新的 bitmap。",
+  "source": "@site/docs/bitmap_and.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_and",
+  "permalink": "/docs/bitmap_and",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_agg",
+    "permalink": "/docs/bitmap_agg"
+  },
+  "next": {
+    "title": "bitmap_andnot",
+    "permalink": "/docs/bitmap_andnot"
+  }
+}

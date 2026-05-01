@@ -1,0 +1,23 @@
+{
+  "id": "base64_decode_string",
+  "title": "base64_decode_string",
+  "description": "同 frombase64() 函数，用于解码某个 Base64 编码的字符串，是 tobase64() 函数的反向函数。",
+  "source": "@site/docs/base64_decode_string.md",
+  "sourceDirName": ".",
+  "slug": "/base64_decode_string",
+  "permalink": "/docs/base64_decode_string",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "base64_decode_binary",
+    "permalink": "/docs/base64_decode_binary"
+  },
+  "next": {
+    "title": "base64_to_bitmap",
+    "permalink": "/docs/base64_to_bitmap"
+  }
+}

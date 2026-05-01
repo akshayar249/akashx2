@@ -1,0 +1,27 @@
+{
+  "id": "BACKUP",
+  "title": "BACKUP",
+  "description": "AkashX 支持备份及恢复以下对象：",
+  "source": "@site/docs/BACKUP.md",
+  "sourceDirName": ".",
+  "slug": "/BACKUP",
+  "permalink": "/docs/BACKUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "beifen"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ARRAY",
+    "permalink": "/docs/Array"
+  },
+  "next": {
+    "title": "管理 BE 和 CN 黑名单",
+    "permalink": "/docs/BE_blacklist"
+  }
+}

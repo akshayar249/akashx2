@@ -1,0 +1,23 @@
+{
+  "id": "timestampdiff",
+  "title": "timestampdiff",
+  "description": "返回 datetimeexpr2 和 datetimeexpr1 的差值，其中 datetimeexpr1 和datetimeexpr2 是日期或日期时间表达式。",
+  "source": "@site/docs/timestampdiff.md",
+  "sourceDirName": ".",
+  "slug": "/timestampdiff",
+  "permalink": "/docs/timestampdiff",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "timestampadd",
+    "permalink": "/docs/timestampadd"
+  },
+  "next": {
+    "title": "设置时区",
+    "permalink": "/docs/timezone"
+  }
+}

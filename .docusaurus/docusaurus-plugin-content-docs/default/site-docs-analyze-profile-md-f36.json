@@ -1,0 +1,23 @@
+{
+  "id": "ANALYZE_PROFILE",
+  "title": "ANALYZE PROFILE",
+  "description": "功能",
+  "source": "@site/docs/ANALYZE_PROFILE.md",
+  "sourceDirName": ".",
+  "slug": "/ANALYZE_PROFILE",
+  "permalink": "/docs/ANALYZE_PROFILE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ALTER VIEW",
+    "permalink": "/docs/ALTER_VIEW"
+  },
+  "next": {
+    "title": "ANALYZE TABLE",
+    "permalink": "/docs/ANALYZE_TABLE"
+  }
+}

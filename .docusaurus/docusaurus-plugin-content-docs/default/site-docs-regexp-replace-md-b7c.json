@@ -1,0 +1,23 @@
+{
+  "id": "regexp_replace",
+  "title": "regexp_replace",
+  "description": "对字符串 str 进行正则匹配，将命中 pattern 的部分使用 repl 来进行替换。",
+  "source": "@site/docs/regexp_replace.md",
+  "sourceDirName": ".",
+  "slug": "/regexp_replace",
+  "permalink": "/docs/regexp_replace",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "regexp_extract_all",
+    "permalink": "/docs/regexp_extract_all"
+  },
+  "next": {
+    "title": "regexp_split",
+    "permalink": "/docs/regexp_split"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "greatest",
+  "title": "greatest",
+  "description": "返回多个输入参数中的最大值。",
+  "source": "@site/docs/greatest.md",
+  "sourceDirName": ".",
+  "slug": "/greatest",
+  "permalink": "/docs/greatest",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grants_to_users",
+    "permalink": "/docs/grants_to_users"
+  },
+  "next": {
+    "title": "group_concat",
+    "permalink": "/docs/group_concat"
+  }
+}

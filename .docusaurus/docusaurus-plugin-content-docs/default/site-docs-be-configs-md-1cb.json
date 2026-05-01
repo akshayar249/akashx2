@@ -1,0 +1,23 @@
+{
+  "id": "be_configs",
+  "title": "be_configs",
+  "description": "be_configs 提供有关每个 BE 节点的配置参数信息。",
+  "source": "@site/docs/be_configs.md",
+  "sourceDirName": ".",
+  "slug": "/be_configs",
+  "permalink": "/docs/be_configs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "be_compactions",
+    "permalink": "/docs/be_compactions"
+  },
+  "next": {
+    "title": "使用标签管理 BE 节点",
+    "permalink": "/docs/be_label"
+  }
+}

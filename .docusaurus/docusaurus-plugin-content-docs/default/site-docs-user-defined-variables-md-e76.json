@@ -1,0 +1,23 @@
+{
+  "id": "user_defined_variables",
+  "title": "用户自定义变量",
+  "description": "本文介绍如何声明和使用用户自定义变量。",
+  "source": "@site/docs/user_defined_variables.md",
+  "sourceDirName": ".",
+  "slug": "/user_defined_variables",
+  "permalink": "/docs/user_defined_variables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "url_extract_parameter",
+    "permalink": "/docs/url_extract_parameter"
+  },
+  "next": {
+    "title": "user_privileges",
+    "permalink": "/docs/user_privileges"
+  }
+}

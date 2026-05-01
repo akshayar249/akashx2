@@ -1,0 +1,23 @@
+{
+  "id": "st_linefromtext",
+  "title": "ST_LineFromText, ST_LineStringFromText",
+  "description": "将一个 WKT（Well Known Text）转化为一个 Line 形式的内存表现形式。",
+  "source": "@site/docs/st_linefromtext.md",
+  "sourceDirName": ".",
+  "slug": "/st_linefromtext",
+  "permalink": "/docs/st_linefromtext",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_GeometryFromText, ST_GeomFromText",
+    "permalink": "/docs/st_geometryfromtext"
+  },
+  "next": {
+    "title": "ST_Point",
+    "permalink": "/docs/st_point"
+  }
+}

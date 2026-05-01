@@ -1,0 +1,23 @@
+{
+  "id": "ADD_BACKEND_BLACKLIST",
+  "title": "ADD BACKEND/COMPUTE NODE BLACKLIST",
+  "description": "将 BE 或 CN 节点添加到 BE 和 CN 黑名单中。您可以手动将 BE/CN 节点添加到黑名单，以禁止在查询执行中使用这些节点，从而避免由于节点连接失败导致的频繁查询失败或其他意外行为。",
+  "source": "@site/docs/ADD_BACKEND_BLACKLIST.md",
+  "sourceDirName": ".",
+  "slug": "/ADD_BACKEND_BLACKLIST",
+  "permalink": "/docs/ADD_BACKEND_BLACKLIST",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Long Blog Post",
+    "permalink": "/docs/long-blog-post"
+  },
+  "next": {
+    "title": "ADD SQLBLACKLIST",
+    "permalink": "/docs/ADD_SQLBLACKLIST"
+  }
+}

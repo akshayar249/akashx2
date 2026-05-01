@@ -1,0 +1,23 @@
+{
+  "id": "tables",
+  "title": "tables",
+  "description": "tables 提供有关表的信息。",
+  "source": "@site/docs/tables.md",
+  "sourceDirName": ".",
+  "slug": "/tables",
+  "permalink": "/docs/tables",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "表类型概览",
+    "permalink": "/docs/table_types"
+  },
+  "next": {
+    "title": "tables_config",
+    "permalink": "/docs/tables_config"
+  }
+}

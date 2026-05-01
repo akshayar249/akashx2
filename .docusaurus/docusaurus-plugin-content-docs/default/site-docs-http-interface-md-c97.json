@@ -1,0 +1,23 @@
+{
+  "id": "http_interface",
+  "title": "HTTP 接口",
+  "description": "为了方便维护 AkashX 集群，AkashX 提供了不同类型的操作和查询接口。本文介绍 HTTP 接口和使用方法。",
+  "source": "@site/docs/http_interface.md",
+  "sourceDirName": ".",
+  "slug": "/http_interface",
+  "permalink": "/docs/http_interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hours_sub",
+    "permalink": "/docs/hours_sub"
+  },
+  "next": {
+    "title": "HTTP SQL API",
+    "permalink": "/docs/http_sql_api"
+  }
+}

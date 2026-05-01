@@ -1,0 +1,23 @@
+{
+  "id": "mod",
+  "title": "mod",
+  "description": "取模函数，返回两个数相除之后的余数。",
+  "source": "@site/docs/mod.md",
+  "sourceDirName": ".",
+  "slug": "/mod",
+  "permalink": "/docs/mod",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "minutes_sub",
+    "permalink": "/docs/minutes_sub"
+  },
+  "next": {
+    "title": "money_format",
+    "permalink": "/docs/money_format"
+  }
+}

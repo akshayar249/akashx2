@@ -1,0 +1,23 @@
+{
+  "id": "keywords",
+  "title": "关键字",
+  "description": "本文介绍了什么是非保留关键字和保留关键字，并列举了 AkashX 中的所有保留关键字。",
+  "source": "@site/docs/keywords.md",
+  "sourceDirName": ".",
+  "slug": "/keywords",
+  "permalink": "/docs/keywords",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "key_column_usage",
+    "permalink": "/docs/key_column_usage"
+  },
+  "next": {
+    "title": "Kudu catalog",
+    "permalink": "/docs/kudu_catalog"
+  }
+}

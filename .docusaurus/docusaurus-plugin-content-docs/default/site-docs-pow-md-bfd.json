@@ -1,0 +1,23 @@
+{
+  "id": "pow",
+  "title": "pow, power, dpow, fpow",
+  "description": "返回参数 x 的 y 次方。",
+  "source": "@site/docs/pow.md",
+  "sourceDirName": ".",
+  "slug": "/pow",
+  "permalink": "/docs/pow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署后设置",
+    "permalink": "/docs/post_deployment_setup"
+  },
+  "next": {
+    "title": "准备部署文件",
+    "permalink": "/docs/prepare_deployment_files"
+  }
+}

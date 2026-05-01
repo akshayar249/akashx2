@@ -1,0 +1,23 @@
+{
+  "id": "character_length",
+  "title": "character_length",
+  "description": "返回字符串的长度。",
+  "source": "@site/docs/character_length.md",
+  "sourceDirName": ".",
+  "slug": "/character_length",
+  "permalink": "/docs/character_length",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "char_length",
+    "permalink": "/docs/char_length"
+  },
+  "next": {
+    "title": "character_sets",
+    "permalink": "/docs/character_sets"
+  }
+}

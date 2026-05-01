@@ -1,0 +1,23 @@
+{
+  "id": "DROP_MATERIALIZED_VIEW",
+  "title": "DROP MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/DROP_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/DROP_MATERIALIZED_VIEW",
+  "permalink": "/docs/DROP_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DROP INDEX",
+    "permalink": "/docs/DROP_INDEX"
+  },
+  "next": {
+    "title": "DROP PIPE",
+    "permalink": "/docs/DROP_PIPE"
+  }
+}

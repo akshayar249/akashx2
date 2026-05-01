@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_DICTIONARY",
+  "title": "CREATE DICTIONARY",
+  "description": "基于原始对象创建字典对象。字典对象以哈希表的形式组织原始对象的键值映射，并缓存于所有 BE 节点的内存中。可以将其视为一个缓存表。",
+  "source": "@site/docs/CREATE_DICTIONARY.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_DICTIONARY",
+  "permalink": "/docs/CREATE_DICTIONARY",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE DATABASE",
+    "permalink": "/docs/CREATE_DATABASE"
+  },
+  "next": {
+    "title": "CREATE EXTERNAL CATALOG",
+    "permalink": "/docs/CREATE_EXTERNAL_CATALOG"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_BACKUP",
+  "title": "SHOW BACKUP",
+  "description": "查看指定数据库中的备份任务。更多信息，请见 备份和恢复。",
+  "source": "@site/docs/SHOW_BACKUP.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_BACKUP",
+  "permalink": "/docs/SHOW_BACKUP",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW BACKEND/COMPUTE NODE BLACKLIST",
+    "permalink": "/docs/SHOW_BACKEND_BLACKLIST"
+  },
+  "next": {
+    "title": "SHOW BROKER",
+    "permalink": "/docs/SHOW_BROKER"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "CONTRIBUTORS",
+  "title": "CONTRIBUTORS",
+  "description": "Ben McCormick",
+  "source": "@site/docs/CONTRIBUTORS.md",
+  "sourceDirName": ".",
+  "slug": "/CONTRIBUTORS",
+  "permalink": "/docs/CONTRIBUTORS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/docs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "CREATE ANALYZE",
+    "permalink": "/docs/CREATE_ANALYZE"
+  }
+}

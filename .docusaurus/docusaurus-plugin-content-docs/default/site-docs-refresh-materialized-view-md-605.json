@@ -1,0 +1,23 @@
+{
+  "id": "REFRESH_MATERIALIZED_VIEW",
+  "title": "REFRESH MATERIALIZED VIEW",
+  "description": "功能",
+  "source": "@site/docs/REFRESH_MATERIALIZED_VIEW.md",
+  "sourceDirName": ".",
+  "slug": "/REFRESH_MATERIALIZED_VIEW",
+  "permalink": "/docs/REFRESH_MATERIALIZED_VIEW",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REFRESH EXTERNAL TABLE",
+    "permalink": "/docs/REFRESH_EXTERNAL_TABLE"
+  },
+  "next": {
+    "title": "RESTORE",
+    "permalink": "/docs/RESTORE"
+  }
+}

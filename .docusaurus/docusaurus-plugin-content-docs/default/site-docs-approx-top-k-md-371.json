@@ -1,0 +1,23 @@
+{
+  "id": "approx_top_k",
+  "title": "approx_top_k",
+  "description": "返回表达式 expr 中最常出现的 k 个项目以及每个项目出现的近似次数。",
+  "source": "@site/docs/approx_top_k.md",
+  "sourceDirName": ".",
+  "slug": "/approx_top_k",
+  "permalink": "/docs/approx_top_k",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "approx_count_distinct",
+    "permalink": "/docs/approx_count_distinct"
+  },
+  "next": {
+    "title": "array_agg",
+    "permalink": "/docs/array_agg"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "KILL_ANALYZE",
+  "title": "KILL ANALYZE",
+  "description": "功能",
+  "source": "@site/docs/KILL_ANALYZE.md",
+  "sourceDirName": ".",
+  "slug": "/KILL_ANALYZE",
+  "permalink": "/docs/KILL_ANALYZE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "KILL",
+    "permalink": "/docs/KILL"
+  },
+  "next": {
+    "title": "使用 Kafka connector 导入数据",
+    "permalink": "/docs/Kafka-connector-akashx"
+  }
+}

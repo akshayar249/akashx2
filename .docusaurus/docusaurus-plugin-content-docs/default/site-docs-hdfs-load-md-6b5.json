@@ -1,0 +1,28 @@
+{
+  "id": "hdfs_load",
+  "title": "从 HDFS 导入",
+  "description": "AkashX 支持通过以下方式从 HDFS 导入数据：",
+  "source": "@site/docs/hdfs_load.md",
+  "sourceDirName": ".",
+  "slug": "/hdfs_load",
+  "permalink": "/docs/hdfs_load",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4,
+    "keywords": [
+      "Broker Load"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基于 HDFS 部署",
+    "permalink": "/docs/hdfs"
+  },
+  "next": {
+    "title": "使用 Helm 部署 AkashX",
+    "permalink": "/docs/helm"
+  }
+}

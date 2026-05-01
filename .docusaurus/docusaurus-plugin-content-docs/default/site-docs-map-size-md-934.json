@@ -1,0 +1,23 @@
+{
+  "id": "map_size",
+  "title": "map_size",
+  "description": "计算 Map 中元素的个数。MAP 里保存的是键值对 (key-value pair)，比如 {\"a\"2}。一个键值对算作一个元素，比如 {\"a\"2} 的元素个数为 2。",
+  "source": "@site/docs/map_size.md",
+  "sourceDirName": ".",
+  "slug": "/map_size",
+  "permalink": "/docs/map_size",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "map_keys",
+    "permalink": "/docs/map_keys"
+  },
+  "next": {
+    "title": "map_values",
+    "permalink": "/docs/map_values"
+  }
+}

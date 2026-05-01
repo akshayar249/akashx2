@@ -1,0 +1,23 @@
+{
+  "id": "get_query_dump",
+  "title": "get_query_dump",
+  "description": "getquerydump(query)",
+  "source": "@site/docs/get_query_dump.md",
+  "sourceDirName": ".",
+  "slug": "/get_query_dump",
+  "permalink": "/docs/get_query_dump",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "get_json_string,get_json_object",
+    "permalink": "/docs/get_json_string"
+  },
+  "next": {
+    "title": "get_query_profile",
+    "permalink": "/docs/get_query_profile"
+  }
+}

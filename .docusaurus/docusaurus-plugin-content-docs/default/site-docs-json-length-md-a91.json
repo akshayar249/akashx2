@@ -1,0 +1,23 @@
+{
+  "id": "json_length",
+  "title": "json_length",
+  "description": "返回 JSON 文档的长度。如果指定了路径，该函数返回路径所标识的值的长度。",
+  "source": "@site/docs/json_length.md",
+  "sourceDirName": ".",
+  "slug": "/json_length",
+  "permalink": "/docs/json_length",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "json_keys",
+    "permalink": "/docs/json_keys"
+  },
+  "next": {
+    "title": "json_object",
+    "permalink": "/docs/json_object"
+  }
+}

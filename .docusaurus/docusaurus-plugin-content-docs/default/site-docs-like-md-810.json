@@ -1,0 +1,23 @@
+{
+  "id": "like",
+  "title": "like",
+  "description": "判断字符串 expr 是否模糊匹配给定的模式 pattern，匹配成功返回 1，否则返回 0。LIKE 通常与 %、` 结合使用，% 表示 0 个、一个或多个字符，` 表示单个字符。",
+  "source": "@site/docs/like.md",
+  "sourceDirName": ".",
+  "slug": "/like",
+  "permalink": "/docs/like",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "length",
+    "permalink": "/docs/length"
+  },
+  "next": {
+    "title": "ln, dlog1, log",
+    "permalink": "/docs/ln"
+  }
+}

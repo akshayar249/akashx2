@@ -1,0 +1,26 @@
+{
+  "id": "partitioning",
+  "title": "分区",
+  "description": "在 AkashX 中，实现快速分析的第一步是设计一个与查询模式相匹配的表布局。本指南将实践经验提炼为清晰的分区规则，帮助您：",
+  "source": "@site/docs/partitioning.md",
+  "sourceDirName": ".",
+  "slug": "/partitioning",
+  "permalink": "/docs/partitioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "本地身份验证",
+    "permalink": "/docs/native_authentication"
+  },
+  "next": {
+    "title": "Query Cache",
+    "permalink": "/docs/query_cache"
+  }
+}

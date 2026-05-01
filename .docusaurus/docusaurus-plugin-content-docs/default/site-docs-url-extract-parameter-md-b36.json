@@ -1,0 +1,23 @@
+{
+  "id": "url_extract_parameter",
+  "title": "url_extract_parameter",
+  "description": "从一个 URL 的 query 部分，获取指定参数（name）的取值。参数截取按照 RFC 1866#section-8.2.1 指定的方式。如果指定的参数不存在，返回 NULL。",
+  "source": "@site/docs/url_extract_parameter.md",
+  "sourceDirName": ".",
+  "slug": "/url_extract_parameter",
+  "permalink": "/docs/url_extract_parameter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "url_extract_host",
+    "permalink": "/docs/url_extract_host"
+  },
+  "next": {
+    "title": "用户自定义变量",
+    "permalink": "/docs/user_defined_variables"
+  }
+}

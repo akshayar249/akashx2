@@ -1,0 +1,23 @@
+{
+  "id": "array_map",
+  "title": "array_map",
+  "description": "arraymap() 是支持 Lambda 表达式的高阶函数。用于将输入的 arr1，arr2 等数组按照 lambdafunction 进行转换，输出一个新的数组。有关 Lambda 表达式的详细信息，参见 Lambda expression。该函数从 2.5 版本开始支持。",
+  "source": "@site/docs/array_map.md",
+  "sourceDirName": ".",
+  "slug": "/array_map",
+  "permalink": "/docs/array_map",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "array_length",
+    "permalink": "/docs/array_length"
+  },
+  "next": {
+    "title": "array_max",
+    "permalink": "/docs/array_max"
+  }
+}

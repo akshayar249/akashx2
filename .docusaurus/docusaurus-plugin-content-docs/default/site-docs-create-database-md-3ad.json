@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_DATABASE",
+  "title": "CREATE DATABASE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_DATABASE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_DATABASE",
+  "permalink": "/docs/CREATE_DATABASE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE ANALYZE",
+    "permalink": "/docs/CREATE_ANALYZE"
+  },
+  "next": {
+    "title": "CREATE DICTIONARY",
+    "permalink": "/docs/CREATE_DICTIONARY"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_ROLES",
+  "title": "SHOW ROLES",
+  "description": "功能",
+  "source": "@site/docs/SHOW_ROLES.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_ROLES",
+  "permalink": "/docs/SHOW_ROLES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW RESTORE",
+    "permalink": "/docs/SHOW_RESTORE"
+  },
+  "next": {
+    "title": "SHOW ROUTINE LOAD",
+    "permalink": "/docs/SHOW_ROUTINE_LOAD"
+  }
+}

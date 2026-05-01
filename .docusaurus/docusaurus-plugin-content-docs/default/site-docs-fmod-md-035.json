@@ -1,0 +1,23 @@
+{
+  "id": "fmod",
+  "title": "fmod",
+  "description": "取模函数，返回两个数相除之后的浮点余数。",
+  "source": "@site/docs/fmod.md",
+  "sourceDirName": ".",
+  "slug": "/fmod",
+  "permalink": "/docs/fmod",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "floor, dfloor",
+    "permalink": "/docs/floor"
+  },
+  "next": {
+    "title": "format_bytes",
+    "permalink": "/docs/format_bytes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ADMIN_SET_PARTITION_VERSION",
+  "title": "ADMIN SET PARTITION VERSION",
+  "description": "功能",
+  "source": "@site/docs/ADMIN_SET_PARTITION_VERSION.md",
+  "sourceDirName": ".",
+  "slug": "/ADMIN_SET_PARTITION_VERSION",
+  "permalink": "/docs/ADMIN_SET_PARTITION_VERSION",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ADMIN SET CONFIG",
+    "permalink": "/docs/ADMIN_SET_CONFIG"
+  },
+  "next": {
+    "title": "ADMIN SET REPLICA STATUS",
+    "permalink": "/docs/ADMIN_SET_REPLICA_STATUS"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bitmap_hash64",
+  "title": "bitmap_hash64",
+  "description": "对任意类型的输入计算 64 位的哈希值，返回包含该哈希值的 Bitmap。",
+  "source": "@site/docs/bitmap_hash64.md",
+  "sourceDirName": ".",
+  "slug": "/bitmap_hash64",
+  "permalink": "/docs/bitmap_hash64",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitmap_hash",
+    "permalink": "/docs/bitmap_hash"
+  },
+  "next": {
+    "title": "bitmap_intersect",
+    "permalink": "/docs/bitmap_intersect"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cos_similarity",
+  "title": "cosine_similarity",
+  "description": "计算两个向量的余弦夹角来评估向量之间的相似度。",
+  "source": "@site/docs/cos_similarity.md",
+  "sourceDirName": ".",
+  "slug": "/cos_similarity",
+  "permalink": "/docs/cos_similarity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cos",
+    "permalink": "/docs/cos"
+  },
+  "next": {
+    "title": "cosine_similarity_norm",
+    "permalink": "/docs/cos_similarity_norm"
+  }
+}

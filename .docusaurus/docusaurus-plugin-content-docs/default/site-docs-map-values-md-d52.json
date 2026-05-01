@@ -1,0 +1,23 @@
+{
+  "id": "map_values",
+  "title": "map_values",
+  "description": "返回 Map 中所有 Value 组成的数组。MAP 里保存的是键值对 (key-value pair)，比如 {\"a\"2}。",
+  "source": "@site/docs/map_values.md",
+  "sourceDirName": ".",
+  "slug": "/map_values",
+  "permalink": "/docs/map_values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "map_size",
+    "permalink": "/docs/map_size"
+  },
+  "next": {
+    "title": "Markdown page example",
+    "permalink": "/docs/markdown-page"
+  }
+}

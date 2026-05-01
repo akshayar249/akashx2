@@ -1,0 +1,23 @@
+{
+  "id": "CREATE_FILE",
+  "title": "CREATE FILE",
+  "description": "CREATE FILE 语句用于创建文件。文件创建后会自动上传并持久化在 AkashX 集群中。",
+  "source": "@site/docs/CREATE_FILE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_FILE",
+  "permalink": "/docs/CREATE_FILE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE EXTERNAL CATALOG",
+    "permalink": "/docs/CREATE_EXTERNAL_CATALOG"
+  },
+  "next": {
+    "title": "CREATE FUNCTION",
+    "permalink": "/docs/CREATE_FUNCTION"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "max",
+  "title": "max",
+  "description": "返回 expr 表达式的最大值。",
+  "source": "@site/docs/max.md",
+  "sourceDirName": ".",
+  "slug": "/max",
+  "permalink": "/docs/max",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Beta 和实验性功能",
+    "permalink": "/docs/maturity"
+  },
+  "next": {
+    "title": "max_by",
+    "permalink": "/docs/max_by"
+  }
+}

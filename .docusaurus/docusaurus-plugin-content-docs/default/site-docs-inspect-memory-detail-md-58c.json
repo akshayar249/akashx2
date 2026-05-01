@@ -1,0 +1,23 @@
+{
+  "id": "inspect_memory_detail",
+  "title": "inspect_memory_detail",
+  "description": "inspectmemorydetail(modulename, classinfo)",
+  "source": "@site/docs/inspect_memory_detail.md",
+  "sourceDirName": ".",
+  "slug": "/inspect_memory_detail",
+  "permalink": "/docs/inspect_memory_detail",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inspect_memory",
+    "permalink": "/docs/inspect_memory"
+  },
+  "next": {
+    "title": "inspect_mv_meta",
+    "permalink": "/docs/inspect_mv_meta"
+  }
+}

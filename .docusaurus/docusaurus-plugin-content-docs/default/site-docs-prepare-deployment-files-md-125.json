@@ -1,0 +1,23 @@
+{
+  "id": "prepare_deployment_files",
+  "title": "准备部署文件",
+  "description": "本文介绍如何准备 AkashX 部署文件。",
+  "source": "@site/docs/prepare_deployment_files.md",
+  "sourceDirName": ".",
+  "slug": "/prepare_deployment_files",
+  "permalink": "/docs/prepare_deployment_files",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pow, power, dpow, fpow",
+    "permalink": "/docs/pow"
+  },
+  "next": {
+    "title": "预准备语句",
+    "permalink": "/docs/prepared_statement"
+  }
+}

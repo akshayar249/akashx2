@@ -1,0 +1,25 @@
+{
+  "id": "loading_considerations",
+  "title": "相关配置",
+  "description": "本文介绍您在执行数据导入之前，需要关注的一些系统限制和参数配置。",
+  "source": "@site/docs/loading_considerations.md",
+  "sourceDirName": ".",
+  "slug": "/loading_considerations",
+  "permalink": "/docs/loading_considerations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "概念介绍",
+    "permalink": "/docs/loading_concepts"
+  },
+  "next": {
+    "title": "使用工具导入",
+    "permalink": "/docs/loading_tools"
+  }
+}

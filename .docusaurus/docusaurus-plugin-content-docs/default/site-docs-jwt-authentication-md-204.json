@@ -1,0 +1,26 @@
+{
+  "id": "jwt_authentication",
+  "title": "JSON Web Token 认证",
+  "description": "本主题描述如何在 AkashX 中启用 JSON Web Token 认证。",
+  "source": "@site/docs/jwt_authentication.md",
+  "sourceDirName": ".",
+  "slug": "/jwt_authentication",
+  "permalink": "/docs/jwt_authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "创建分区物化视图",
+    "permalink": "/docs/create_partitioned_materialized_view"
+  },
+  "next": {
+    "title": "主键表",
+    "permalink": "/docs/primarykey_table"
+  }
+}

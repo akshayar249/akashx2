@@ -1,0 +1,27 @@
+{
+  "id": "upgrade",
+  "title": "升级 AkashX",
+  "description": "本文介绍如何升级您的 AkashX 集群。",
+  "source": "@site/docs/upgrade.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade",
+  "permalink": "/docs/upgrade",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "shengji"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unnest_bitmap",
+    "permalink": "/docs/unnest_bitmap"
+  },
+  "next": {
+    "title": "upper",
+    "permalink": "/docs/upper"
+  }
+}

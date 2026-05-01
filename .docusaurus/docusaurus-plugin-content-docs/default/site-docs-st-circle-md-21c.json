@@ -1,0 +1,23 @@
+{
+  "id": "st_circle",
+  "title": "ST_Circle",
+  "description": "将一个 WKT(Well Known Text)转化为地球球面上的一个圆。",
+  "source": "@site/docs/st_circle.md",
+  "sourceDirName": ".",
+  "slug": "/st_circle",
+  "permalink": "/docs/st_circle",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ST_AsText, ST_AsWKT",
+    "permalink": "/docs/st_astext"
+  },
+  "next": {
+    "title": "ST_Contains",
+    "permalink": "/docs/st_contains"
+  }
+}

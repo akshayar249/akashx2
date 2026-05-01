@@ -1,0 +1,27 @@
+{
+  "id": "CREATE_RESOURCE",
+  "title": "CREATE RESOURCE",
+  "description": "功能",
+  "source": "@site/docs/CREATE_RESOURCE.md",
+  "sourceDirName": ".",
+  "slug": "/CREATE_RESOURCE",
+  "permalink": "/docs/CREATE_RESOURCE",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "keywords": [
+      "ziyuan"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CREATE REPOSITORY",
+    "permalink": "/docs/CREATE_REPOSITORY"
+  },
+  "next": {
+    "title": "CREATE RESOURCE GROUP",
+    "permalink": "/docs/CREATE_RESOURCE_GROUP"
+  }
+}

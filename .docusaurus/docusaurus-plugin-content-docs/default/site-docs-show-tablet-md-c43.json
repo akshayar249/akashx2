@@ -1,0 +1,23 @@
+{
+  "id": "SHOW_TABLET",
+  "title": "SHOW TABLET",
+  "description": "功能",
+  "source": "@site/docs/SHOW_TABLET.md",
+  "sourceDirName": ".",
+  "slug": "/SHOW_TABLET",
+  "permalink": "/docs/SHOW_TABLET",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SHOW TABLES",
+    "permalink": "/docs/SHOW_TABLES"
+  },
+  "next": {
+    "title": "SHOW TABLE STATUS",
+    "permalink": "/docs/SHOW_TABLE_STATUS"
+  }
+}

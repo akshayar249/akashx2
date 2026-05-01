@@ -1,0 +1,23 @@
+{
+  "id": "UNINSTALL_PLUGIN",
+  "title": "UNINSTALL PLUGIN",
+  "description": "功能",
+  "source": "@site/docs/UNINSTALL_PLUGIN.md",
+  "sourceDirName": ".",
+  "slug": "/UNINSTALL_PLUGIN",
+  "permalink": "/docs/UNINSTALL_PLUGIN",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tableau",
+    "permalink": "/docs/Tableau_Desktop"
+  },
+  "next": {
+    "title": "UPDATE",
+    "permalink": "/docs/UPDATE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "trim",
+  "title": "trim",
+  "description": "从字符串的左侧和右侧移除连续出现的空格或指定的字符。从 2.5.0 版本开始，支持从字符串中移除指定字符。",
+  "source": "@site/docs/trim.md",
+  "sourceDirName": ".",
+  "slug": "/trim",
+  "permalink": "/docs/trim",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "triggers",
+    "permalink": "/docs/triggers"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/troubleshooting_loading"
+  }
+}

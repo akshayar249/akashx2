@@ -1,0 +1,23 @@
+{
+  "id": "tasks",
+  "title": "tasks",
+  "description": "tasks 提供有关异步任务的信息。",
+  "source": "@site/docs/tasks.md",
+  "sourceDirName": ".",
+  "slug": "/tasks",
+  "permalink": "/docs/tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "task_runs",
+    "permalink": "/docs/task_runs"
+  },
+  "next": {
+    "title": "从腾讯云 COS 导入",
+    "permalink": "/docs/tencent"
+  }
+}

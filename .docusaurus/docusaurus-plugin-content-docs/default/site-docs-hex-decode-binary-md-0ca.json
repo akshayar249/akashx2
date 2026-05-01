@@ -1,0 +1,23 @@
+{
+  "id": "hex_decode_binary",
+  "title": "hex_decode_binary",
+  "description": "将一个十六进制编码的字符串解码为 VARBINARY 类型的值。",
+  "source": "@site/docs/hex_decode_binary.md",
+  "sourceDirName": ".",
+  "slug": "/hex_decode_binary",
+  "permalink": "/docs/hex_decode_binary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用 Helm 部署 AkashX",
+    "permalink": "/docs/helm"
+  },
+  "next": {
+    "title": "hex_decode_string",
+    "permalink": "/docs/hex_decode_string"
+  }
+}
